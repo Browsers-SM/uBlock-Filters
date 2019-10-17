@@ -2174,13 +2174,14 @@ youtube.com##[id="ticker"]
 @@*account*
 @@*api-maps.yandex.ru^
 @@*apis.$domain=accounts.google.com|content.googleapis.com|google.com|google.ru|sourceforge.net|thinkwithgoogle.com|youtube.com
+@@*captcha*
 @@*comment*$xhr,domain=youtube.com
 @@*editor*$script,domain=3dn.ru|at.ua|clan.su|do.am|moy.su|p0.ru|ucoz.com|ucoz.es|ucoz.net|ucoz.org|ucoz.ru
 @@*game*$document,domain=ok.ru
+@@*github*$domain=github.com
 @@*klikr.org^$image
 @@*maps.yandex.ru^$domain=yandex.ru
 @@*mega.co.nz^
-@@*captcha*
 @@*upload*$~image,domain=vk.com
 @@/app*$document,domain=my.mail.ru|vk.com
 @@thumb*$image
