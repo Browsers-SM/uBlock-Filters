@@ -1,7 +1,7 @@
 ﻿@@$css
 @@$font
 @@$media
-! UPD: 2019.10.17.
+! UPD: 2019.10.17
 ! Title: SM
 !
 &ad*$script,frame,domain=~spcs.me|~spac1.com
@@ -688,6 +688,7 @@ _seo*$script
 ||aquaseller.ru^
 ||arcticlab.ru^
 ||arded.com^
+||arkoselabs.com^
 ||art*$third-party
 ||arwm.ru^
 ||asd*$third-party
@@ -1605,7 +1606,7 @@ _seo*$script
 *$popunder,third-party,domain=pornhub.com|redtube.com
 *$popup,domain=dverser.ru|film-adult.com|imagebam.com|joyreactor.cc|kordonivkakino.net|rustorka.com|tracelive.ru|apkpure.com|ok.ru|apkfind.com
 *$third-party,domain=fastpic.ru|imageban.ru|imagevenue.com|lg.com|tinypic.com|adriver.ru|free1img.ru|free2img.ru|free3img.ru|radikal.ru
-*$websocket,domain=~animevost.org|~mibbit.com|~video.rambler.ru|~whatsapp.com|~smotri.com|~videochatka.net|~yandex.ru|~twitch.tv|~send.firefox.com|~ria.ru
+*$websocket,domain=~animevost.org|~mibbit.com|~video.rambler.ru|~whatsapp.com|~smotri.com|~videochatka.net|~yandex.ru|~twitch.tv|~send.firefox.com|~ria.ru|~github.com
 *adblo*$image,script,domain=~adblockplus.me|~adblockplus.org|~filmix.net|~ghacks.net
 *code*$third-party,script,domain=~yota.ru|~code.jquery.com|~market.pochta.ru|~ren.tv|~icecreamapps.com|~codeplex.com|~microsoft.com|~ntp-servers.net|~opengapps.org|~invi.tv|~bitbucket.org|~nnmclub.to|~nnmclub.ch
 *popunder*$~xhr,domain=~cackle.me|~mail.ru|~miuipro.ru|~onlinezakladki.ru|~support.kaspersky.ru|~livejournal.com|~rian.ru|~vk.com|~dns-shop.ru|~photosight.ru
@@ -2179,7 +2180,7 @@ youtube.com##[id="ticker"]
 @@*klikr.org^$image
 @@*maps.yandex.ru^$domain=yandex.ru
 @@*mega.co.nz^
-@@*recaptcha*
+@@*captcha*
 @@*upload*$~image,domain=vk.com
 @@/app*$document,domain=my.mail.ru|vk.com
 @@thumb*$image
