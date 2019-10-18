@@ -1,7 +1,7 @@
 ﻿@@$css
 @@$font
 @@$media
-! UPD: 2019.10.18
+! UPD: 2019.10.18.
 ! Title: SM
 !
 &ad*$script,frame,domain=~spcs.me|~spac1.com
@@ -2369,7 +2369,7 @@ alibaba.com#@#[id*="Bann"]
 alibaba.com#@#[id="banner"]
 auto.youla.ru#@#[href*="/advert/"]
 botinok.co.il,fermer.ru,wagnardmobile.com,wagnardsoft.com#@#[class*="promoted"]
-carambatv.ru,mirf.ru,stihl.ru#@#[style*="Bann"]
+carambatv.ru,mirf.ru,ok.ru,stihl.ru#@#[style*="bann"]
 cnews.ru,comodo.com#@#[href*="partners"]
 cnews.ru,dbmast.ru,google.*,kids.quicksave.su#@#[target][href*="goto"]
 cnews.ru,game-torrent.info,google.*,kids.quicksave.su,mail.ru,mirror-rutor.org,rambler.ru,toptracker.ru,trinixy.ru,top.ucoz.ru,yandex.ru,orgazm-online.org,4pda.ru#@#[href*="game"][target]
