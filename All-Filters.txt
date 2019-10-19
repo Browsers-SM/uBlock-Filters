@@ -1,7 +1,7 @@
 ﻿@@$css
 @@$font
 @@$media
-! UPD: 2019.10.18.
+! UPD: 2019.10.20
 ! Title: SM
 !
 &ad*$script,frame,domain=~spcs.me|~spac1.com
@@ -1814,6 +1814,7 @@ spcs.me,spac1.com#?##left_nav > div[class]:-abp-has([id*="ScriptRoot"])
 ##[class*="left_ban"]
 ##[class*="opban"]
 ##[class*="popunder"]
+##[class*="promo"][class*="bann"]
 ##[class*="promo"][class*="block"]
 ##[class*="promo"][class*="box"]
 ##[class*="promoted"]
@@ -1935,8 +1936,8 @@ spcs.me,spac1.com#?##left_nav > div[class]:-abp-has([id*="ScriptRoot"])
 ##[id*="right_ad"]
 ##[id*="sex"][id*="shop"]
 ##[id*="social"][id*="wrap"]
-##[id*="tban"]
 ##[id*="tBan"]
+##[id*="tban"]
 ##[id*="teasers"]
 ##[id*="top"][id*="ban"]
 ##[id*="top-bn"]
