@@ -1814,7 +1814,7 @@ spcs.me,spac1.com#?##left_nav > div[class]:-abp-has([id*="ScriptRoot"])
 ##[class*="left_ban"]
 ##[class*="opban"]
 ##[class*="popunder"]
-##[class*="promo"][class*="bann"]
+##[class*="promo-bann"]
 ##[class*="promo"][class*="block"]
 ##[class*="promo"][class*="box"]
 ##[class*="promoted"]
