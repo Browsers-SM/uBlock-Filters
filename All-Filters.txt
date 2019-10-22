@@ -1,7 +1,7 @@
 ﻿@@$css
 @@$font
 @@$media
-! UPD: 2019.10.20
+! UPD: 2019.10.23
 ! Title: SM
 !
 &ad*$script,frame,domain=~spcs.me|~spac1.com
@@ -2161,6 +2161,7 @@ youtube.com##[class^="ytp-ce-element"]
 youtube.com##[id="alert-banner"]
 youtube.com##[id="header"]
 youtube.com##[id="ticker"]
+youtube.com##iron-overlay-backdrop,paper-dialog
 !
 ! ИСКЛЮЧЕНИЯ
 @@$elemhide,domain=life-film.ru|lifehacker.com|mail.rambler.ru|mail.yandex.ru|e.mail.ru|msdn.microsoft.com|pcradio.ru|svyaznoy.ru|mail.google.com|accounts.google.com
