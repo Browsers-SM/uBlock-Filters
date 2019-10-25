@@ -1,7 +1,7 @@
 ﻿@@$css
 @@$font
 @@$media
-! UPD: 2019.10.23
+! UPD: 2019.10.25
 ! Title: SM
 !
 &ad*$script,frame,domain=~spcs.me|~spac1.com
@@ -2245,6 +2245,7 @@ youtube.com##iron-overlay-backdrop,paper-dialog
 @@||ok.ru/adsmanager?$domain=ok.ru
 @@||ok.ru/dk*$xhr,domain=ok.ru
 @@||ok.ru/res/$domain=ok.ru
+@@||paymentnew.ok.ru^$domain=ok.ru
 @@||paypal*$domain=paypal.com
 @@||phncdn.com^$domain=redtube.com|pornhub.com
 @@||pinimg.com^$domain=pinterest.ru
