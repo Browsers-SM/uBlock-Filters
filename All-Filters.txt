@@ -1,7 +1,7 @@
 ﻿@@$css
 @@$font
 @@$media
-! UPD: 2019.10.28
+! UPD: 2019.11.01
 ! Title: SM
 !
 &ad*$script,frame,domain=~spcs.me|~spac1.com
@@ -2352,7 +2352,7 @@ youtube.com##iron-overlay-backdrop,paper-dialog
 @@||vk.go.mail.ru^$xhr,domain=vk.com
 @@||vkuservideo.net^
 @@||wydpt.com^$script
-@@||xvideos-cdn.com^$xhr,domain=xvideos.com
+@@||xvideos-cdn.com^$domain=xvideos.com
 @@||yapfiles.ru*mp4?*hq=1|
 @@||yapfiles.ru/static/play.swf*
 @@||yastatic.net^$domain=afisha.ru|market.yandex.ru|radio.yandex.ru|video.yandex.ru
