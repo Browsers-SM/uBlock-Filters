@@ -1,7 +1,7 @@
 ﻿@@$css
 @@$font
 @@$media
-! UPD: 2019.11.03
+! UPD: 2019.11.04
 ! Title: SM
 !
 &ad*$script,frame,domain=~spcs.me|~spac1.com
@@ -2402,6 +2402,7 @@ passion.ru#@#[class^="ad-"][class*="wrap"]
 pogoda.mail.ru#@#[class*="banner"][class*="top"]
 prestig-konkurs.ru#@#[id*="rekl"]
 ria.ru#@#[id*="AdFox"]
+ridus.ru#@#[class*="adfox"]
 samforum.org#@#[id*="cookie"]
 taskcluster.net,cnews.ru,google.*#@#[target][href*="target"]
 toptracker.ru,4pda.ru#@#[rel="nofollow"][href*="game"][target]
