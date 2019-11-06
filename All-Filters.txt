@@ -1,7 +1,7 @@
 ﻿@@$css
 @@$font
 @@$media
-! UPD: 2019.11.05
+! UPD: 2019.11.06
 ! Title: SM
 !
 &ad*$script,frame,domain=~spcs.me|~spac1.com
@@ -675,6 +675,7 @@ _seo*$script
 ||android.com^$third-party
 ||anniere.com^
 ||anthome.ru^
+||antisovetnic.ru^
 ||antivirus-alarm.ru^$third-party
 ||api.rnet.plus^
 ||api.vk.*/likes*
@@ -1149,6 +1150,7 @@ _seo*$script
 ||metabar.ru^
 ||mezima.com^
 ||mgcom.ru^
+||mgid.com^
 ||mibok.ru^
 ||mikle.com^$third-party
 ||mine*$third-party
@@ -1225,6 +1227,7 @@ _seo*$script
 ||oml.ru^
 ||onclic*$script,frame,popup
 ||one*$third-party
+||onthe.io^
 ||op.yandex.ru^$third-party
 ||opinionbar.com^
 ||opogame.com^$third-party
