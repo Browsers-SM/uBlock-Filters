@@ -1,7 +1,7 @@
 ﻿@@$css
 @@$font
 @@$media
-! UPD: 2019.11.06
+! UPD: 2019.11.07
 ! Title: SM
 !
 &ad*$script,frame,domain=~spcs.me|~spac1.com
@@ -1615,7 +1615,7 @@ _seo*$script
 *code*$3p,script,domain=~yota.ru|~code.jquery.com|~market.pochta.ru|~ren.tv|~icecreamapps.com|~codeplex.com|~microsoft.com|~ntp-servers.net|~opengapps.org|~invi.tv|~bitbucket.org|~nnmclub.to|~nnmclub.ch
 *popunder*$~xhr,domain=~cackle.me|~mail.ru|~miuipro.ru|~onlinezakladki.ru|~support.kaspersky.ru|~livejournal.com|~rian.ru|~vk.com|~dns-shop.ru|~photosight.ru
 *social*$~image,domain=~vivaldi.net|~mail.ru|~microsoft.com|~mail.yandex.ru|~miuipro.ru|~otkritkiok.ru|~trinixy.ru|~3dn.ru|~at.ua|~clan.su|~do.am|~moy.su|~p0.ru|~ucoz.com|~ucoz.es|~ucoz.net|~ucoz.org|~ucoz.ru|~google.com|~google.ru|~ria.ru|~tabor.ru
-*stat*$3p,domain=~360totalsecurity.com|~7days.ru|~acestream.org|~avast.ru|~bbc.com|~beboo.ru|~bonprix.ru|~careerjet.ru|~championat.com|~cnet.com|~cyberforum.ru|~dailymotion.com|~ebay.com|~edarling.ru|~facebook.com|~gitlab.com|~googleusercontent.com|~huawei.com|~itunes.apple.com|~ivbb.ru|~kat.cr|~kinopoisk.ru|~lightningmaps.org|~line.me|~linkedin.com|~microsoft.com|~mirtesen.ru|~nn.ru|~office.com|~photobucket.com|~pogodanakarte.ru|~reddit.com|~redditmedia.com|~redditstatic.com|~rutracker.net|~rutracker.org|~shuruping.ru|~shuruping.ru|~sima-land.ru|~softpedia.com|~stackexchange.com|~steampowered.com|~stihl.ru|~teamviewer.com|~tiu.ru|~tjournal.ru|~tjournal.ru|~twitch.tv|~vc.ru|~wix.com|~womanhit.ru|~worldoftanks.ru|~yadi.sk|~yandex.ru|~youla.ru|~youpornru.com|~livejournal.com|~login.aliexpress.com|~redtube.com|~mail.ru|~wmbcdn.com|~youtube.com|~my-hithd.ru|~tsearch.me|~ok.ru|~mycdn.me|~jd.ru|~olx.ua|~blogspot.ru|~blogspot.com|~yandex.com|~censor.net.ua
+*stat*$3p,domain=~360totalsecurity.com|~7days.ru|~acestream.org|~avast.ru|~bbc.com|~beboo.ru|~bonprix.ru|~careerjet.ru|~championat.com|~cnet.com|~cyberforum.ru|~dailymotion.com|~ebay.com|~edarling.ru|~facebook.com|~gitlab.com|~googleusercontent.com|~huawei.com|~itunes.apple.com|~ivbb.ru|~kat.cr|~kinopoisk.ru|~lightningmaps.org|~line.me|~linkedin.com|~microsoft.com|~mirtesen.ru|~nn.ru|~office.com|~photobucket.com|~pogodanakarte.ru|~reddit.com|~redditmedia.com|~redditstatic.com|~rutracker.net|~rutracker.org|~shuruping.ru|~shuruping.ru|~sima-land.ru|~softpedia.com|~stackexchange.com|~steampowered.com|~stihl.ru|~teamviewer.com|~tiu.ru|~tjournal.ru|~tjournal.ru|~twitch.tv|~vc.ru|~wix.com|~womanhit.ru|~worldoftanks.ru|~yadi.sk|~yandex.ru|~youla.ru|~youpornru.com|~livejournal.com|~login.aliexpress.com|~redtube.com|~mail.ru|~wmbcdn.com|~youtube.com|~my-hithd.ru|~tsearch.me|~ok.ru|~mycdn.me|~jd.ru|~olx.ua|~blogspot.ru|~blogspot.com|~yandex.com|~censor.net.ua|~ria.com
 .html|$domain=rutracker.org|pornolab.net|pornolab.cc|thepiratebay.org|apkfind.com
 |blob:*$domain=~mail.yandex.ru|~google.com|~google.ru|~embed.life.ru|~mega.nz|~ok.ru|~vk.com
 ||com/$3p,script,domain=nnmclub.to
@@ -1789,7 +1789,6 @@ spcs.me,spac1.com#?##left_nav > div[class]:-abp-has([id*="ScriptRoot"])
 !
 ! ОСНОВНЫЕ CSS
 ##[class$=" adv"]
-##[class$="-ad"]
 ##[class$="-ban"]
 ##[class$="ban"]
 ##[class*="-ads-"][class*="ban"]
@@ -2168,14 +2167,14 @@ youtube.com##[id="ticker"]
 youtube.com##iron-overlay-backdrop,paper-dialog
 !
 ! ИСКЛЮЧЕНИЯ
+@@$3p,domain=aliexpress.com
+@@$3p,image,domain=google.ru
+@@$3p,script,domain=chuyu.me
 @@$elemhide,domain=life-film.ru|lifehacker.com|mail.rambler.ru|mail.yandex.ru|e.mail.ru|msdn.microsoft.com|pcradio.ru|svyaznoy.ru|mail.google.com|accounts.google.com
 @@$frame,domain=spcs.me|spac1.com|videochart.net|vk.com|youtube.googleapis.com
 @@$genericblock,domain=kp.ru
 @@$image,frame,script,domain=games.kanobu.ru|embed.kanobu.ru|api.kanobu.ru
 @@$popup,domain=4pda.ru|findface.ru|google.com|google.ru|mail.ru|msn.com|samforum.org|yandex.ru
-@@$3p,domain=aliexpress.com
-@@$3p,image,domain=google.ru
-@@$3p,script,domain=chuyu.me
 @@$xhr,domain=mediametrics.ru|music.yandex.ru
 @@*account*
 @@*api-maps.yandex.ru^
@@ -2193,6 +2192,7 @@ youtube.com##iron-overlay-backdrop,paper-dialog
 @@thumb*$image
 @@||192.168.8.1
 @@||adobe.com^$script,domain=adobe.com
+@@||akamaized.net^$domain=olx.ua
 @@||ali*$domain=alibaba.com|aliexpress.com|alipay.com|aliapp.org|akamaihd.net
 @@||alleyadoma.ru^$domain=alleyadoma.ru
 @@||api.cybergame.tv^
@@ -2251,6 +2251,7 @@ youtube.com##iron-overlay-backdrop,paper-dialog
 @@||ok.ru/dk*$xhr,domain=ok.ru
 @@||ok.ru/gifts?$xhr,domain=ok.ru
 @@||ok.ru/res/$domain=ok.ru
+@@||olx.ua^$domain=olx.ua
 @@||paymentnew.ok.ru^$domain=ok.ru
 @@||paypal*$domain=paypal.com
 @@||phncdn.com^$domain=redtube.com|pornhub.com
@@ -2402,7 +2403,6 @@ google.*,mail.ru,rambler.ru,yandex.ru#@#[href*="tomsk.ru"]
 google.*,yandex.ru,duckduckgo.com#@#[href*="777.com"],[href*="777.ru"],[href*="777.net"],[href*="adwcleaner.ru"],[href*="goo.gl/"],[href*="guardlink"],[href*="azino"],[href*="urlguard"],[href*="vsemayki"],[href*="raskruti.net"],[href*="presnozin.com"],[href*="pixelmarkway.com"],[href*="russian-cabaret.ru"],[href*="wt.link"],[href*="mobtop.ru"],[href*="urlshortbot.com"],[href*="/0t.se"],[href*="leon.ru"],[href*="/ivnz.ru"],[href*="kompot.bz"],[href*="/t.me/"],[href*="wargaming"],[href*="meutrf.com"],[href*="fatcats.market"],[href*="alitools.io"],[href*="handmade.ru"],[href*="bit.ly"],[href*="megabonus.com"],[href*="ubi.li"],[href*="letyshops.com"],[href*="schlock.ru"],[href*="apple.com"],[href*="cryptotab"],[href*="isv-group.io"],[href*="jolly"][href*="me"],[href*="expressfromus.com"],[href*="appmetrica.yandex.com"],[href*="cyprusbutterfly.com.cy"],[href*="tennisi.bet"],[href*="betcity.ru"],[href*="vk.cc"],[href*="slots.com.ua"],[href*="aff1xstavka.top"],[href*="alitems.com"],[href*="fl.team"],[href*="xbet"],[href*="refpatlo.top"],[href*="awaps.yandex.net"],[href*="ddos-guard.net"],[href*="ali.pub"],[href*="ma-static.ru"]
 nnm.me,picsee.net,pikabu.ru,muz-tv.ru#@#[id="wrap"] [target]
 ok.ru#@#[href*="_aid="]
-ok.ru,hangouts.google.com#@#[class$="-ad"]
 passion.ru#@#[class^="ad-"][class*="wrap"]
 pogoda.mail.ru#@#[class*="banner"][class*="top"]
 prestig-konkurs.ru#@#[id*="rekl"]
