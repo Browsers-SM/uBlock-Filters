@@ -738,7 +738,7 @@ _seo*$script
 ||bogi.ru^
 ||bokroet.com^
 ||bon*$3p
-||bootstrapcdn.com^
+||bootstrapcdn.com^$domain=~mycoub.ru
 ||bot*$3p
 ||bp.$script
 ||brandarium.net^
