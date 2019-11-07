@@ -1131,7 +1131,7 @@ _seo*$script
 ||mar*$3p,popunder
 ||mastweb.ru^
 ||mathtag.com^
-||max*$3p,domain=~comss.ru|~iconsearch.ru|~invi.tv|~savido.net|~kenguru.ru
+||max*$3p,domain=~comss.ru|~iconsearch.ru|~invi.tv|~savido.net|~kenguru.ru|~mycoub.ru
 ||mazuma.ru^
 ||mb*$3p
 ||mc.yandex.ru^
