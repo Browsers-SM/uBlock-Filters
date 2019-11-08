@@ -485,7 +485,7 @@
 /br-
 /br.
 /br/*$~image
-/brands*$3p
+/brands*$3p,domain=~wildberries.ru
 /bs.
 /bs/*
 /bx/*$script
