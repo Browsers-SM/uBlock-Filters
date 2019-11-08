@@ -1277,7 +1277,7 @@ _seo*$script
 ||pr.
 ||pr0gramm.com^
 ||pri*$3p
-||pro*$3p
+||pro*$3p,domain=~prom.ua
 ||prre.ru^
 ||psmardr.com^
 ||pubmatic.com^
