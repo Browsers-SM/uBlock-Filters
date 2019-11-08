@@ -213,7 +213,7 @@
 *link.*ru^$3p
 *linkad*
 *livead*
-*log.$3p,domain=~blogspot.ru|~blogspot.com
+*log.$3p,domain=~blogspot.ru|~blogspot.com|~wildberries.ru
 *log.php?id*
 *logger*$domain=~blogspot.ru|~blogspot.com|~blogger.com
 *loginza*
