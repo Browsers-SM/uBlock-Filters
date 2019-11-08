@@ -230,7 +230,7 @@
 *myads*
 *newban*
 *newclk*
-*news*$3p,~image,domain=~ria.com
+*news*$3p,~image,domain=~ria.com|~bigmir.net
 *nwgsm*
 *online.dll*
 *opena*$script
