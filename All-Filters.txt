@@ -148,7 +148,7 @@
 *ddos-guard*$domain=~ddos-guard.net
 *delivery*$3p
 *deneg*$3p
-*digital*$3p
+*digital*$3p,domain=~kyivstar.ua
 *direct*$3p,script,frame,popup
 *disqus*
 *dmca*$3p,domain=~dmca.com|~stackpathdns.com
@@ -623,6 +623,7 @@ _rtb*
 _seo*$script
 ||1$3p,~image
 ||24*$3p,~image
+||289ci1imk.de^
 ||2giga.link^
 ||2ip.ru^$3p
 ||35.178.185.67^
@@ -778,6 +779,7 @@ _seo*$script
 ||campanja.com^
 ||candy.vl.ru^
 ||car-fin.ru^
+||carrotquest.io^
 ||carveac.com^
 ||cash*$3p
 ||cdn.hgdat.com^
@@ -853,6 +855,7 @@ _seo*$script
 ||dar*$3p
 ||davarello.com^
 ||dbbsrv.com^
+||ddmanager.ru^
 ||ddomb.com^
 ||de^$3p,script,frame
 ||delston-capital.com^
@@ -1032,6 +1035,7 @@ _seo*$script
 ||info*$3p
 ||info/$3p,script,popunder,frame
 ||info/image*$3p,popunder
+||insigit.com^
 ||instagram.com/ajax/bz*$3p
 ||int*$3p,domain=~yandex.ru
 ||invi.tv^$3p
@@ -1066,7 +1070,9 @@ _seo*$script
 ||kameleoon.com^
 ||kangu.ru^
 ||kartools.je^
+||kaspersky-labs.com^$3p
 ||kavanga.ru^
+||kddev.ru^
 ||keo.su^$3p
 ||kf-forex.ru^
 ||khvfg.com^
@@ -1375,6 +1381,7 @@ _seo*$script
 ||see*$3p
 ||selcdn.ru^
 ||semi-cod.com^
+||sendapi.net^
 ||sendpulse.com^
 ||sendsay.ru^
 ||senrima.ru^
@@ -1438,6 +1445,7 @@ _seo*$script
 ||technorati.com^
 ||ter$3p
 ||test37.com^
+||testonlineru.ru^
 ||tgwidget.com^$3p
 ||thauftoa.net^
 ||theabyss.ru^$3p
