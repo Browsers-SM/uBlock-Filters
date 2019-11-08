@@ -974,6 +974,7 @@ _seo*$script
 ||goviral*
 ||graffitistudio.ru^
 ||grattis.ru^
+||group-ib.ru^$3p
 ||grt$3p
 ||gumroad.com^
 ||gwallet.com^
@@ -1396,6 +1397,7 @@ _seo*$script
 ||sms-manager.ru^
 ||sna*$3p
 ||soc*$3p
+||softcube.com^
 ||softlayer.$3p,script,domain=~userstyles.org
 ||soknm.com^
 ||soosle.
@@ -1619,7 +1621,7 @@ _seo*$script
 *code*$3p,script,domain=~yota.ru|~code.jquery.com|~market.pochta.ru|~ren.tv|~icecreamapps.com|~codeplex.com|~microsoft.com|~ntp-servers.net|~opengapps.org|~invi.tv|~bitbucket.org|~nnmclub.to|~nnmclub.ch
 *popunder*$~xhr,domain=~cackle.me|~mail.ru|~miuipro.ru|~onlinezakladki.ru|~support.kaspersky.ru|~livejournal.com|~rian.ru|~vk.com|~dns-shop.ru|~photosight.ru
 *social*$~image,domain=~vivaldi.net|~mail.ru|~microsoft.com|~mail.yandex.ru|~miuipro.ru|~otkritkiok.ru|~trinixy.ru|~3dn.ru|~at.ua|~clan.su|~do.am|~moy.su|~p0.ru|~ucoz.com|~ucoz.es|~ucoz.net|~ucoz.org|~ucoz.ru|~google.com|~google.ru|~ria.ru|~tabor.ru
-*stat*$3p,domain=~360totalsecurity.com|~7days.ru|~acestream.org|~avast.ru|~bbc.com|~beboo.ru|~bonprix.ru|~careerjet.ru|~championat.com|~cnet.com|~cyberforum.ru|~dailymotion.com|~ebay.com|~edarling.ru|~facebook.com|~gitlab.com|~googleusercontent.com|~huawei.com|~itunes.apple.com|~ivbb.ru|~kat.cr|~kinopoisk.ru|~lightningmaps.org|~line.me|~linkedin.com|~microsoft.com|~mirtesen.ru|~nn.ru|~office.com|~photobucket.com|~pogodanakarte.ru|~reddit.com|~redditmedia.com|~redditstatic.com|~rutracker.net|~rutracker.org|~shuruping.ru|~shuruping.ru|~sima-land.ru|~softpedia.com|~stackexchange.com|~steampowered.com|~stihl.ru|~teamviewer.com|~tiu.ru|~tjournal.ru|~tjournal.ru|~twitch.tv|~vc.ru|~wix.com|~womanhit.ru|~worldoftanks.ru|~yadi.sk|~yandex.ru|~youla.ru|~youpornru.com|~livejournal.com|~login.aliexpress.com|~redtube.com|~mail.ru|~wmbcdn.com|~youtube.com|~my-hithd.ru|~tsearch.me|~ok.ru|~mycdn.me|~jd.ru|~olx.ua|~blogspot.ru|~blogspot.com|~yandex.com|~censor.net.ua|~ria.com
+*stat*$3p,domain=~360totalsecurity.com|~7days.ru|~acestream.org|~avast.ru|~bbc.com|~beboo.ru|~bonprix.ru|~careerjet.ru|~championat.com|~cnet.com|~cyberforum.ru|~dailymotion.com|~ebay.com|~edarling.ru|~facebook.com|~gitlab.com|~googleusercontent.com|~huawei.com|~itunes.apple.com|~ivbb.ru|~kat.cr|~kinopoisk.ru|~lightningmaps.org|~line.me|~linkedin.com|~microsoft.com|~mirtesen.ru|~nn.ru|~office.com|~photobucket.com|~pogodanakarte.ru|~reddit.com|~redditmedia.com|~redditstatic.com|~rutracker.net|~rutracker.org|~shuruping.ru|~shuruping.ru|~sima-land.ru|~softpedia.com|~stackexchange.com|~steampowered.com|~stihl.ru|~teamviewer.com|~tiu.ru|~tjournal.ru|~tjournal.ru|~twitch.tv|~vc.ru|~wix.com|~womanhit.ru|~worldoftanks.ru|~yadi.sk|~yandex.ru|~youla.ru|~youpornru.com|~livejournal.com|~login.aliexpress.com|~redtube.com|~mail.ru|~wmbcdn.com|~youtube.com|~my-hithd.ru|~tsearch.me|~ok.ru|~mycdn.me|~jd.ru|~olx.ua|~blogspot.ru|~blogspot.com|~yandex.com|~censor.net.ua|~ria.com|~prom.ua
 .html|$domain=rutracker.org|pornolab.net|pornolab.cc|thepiratebay.org|apkfind.com
 |blob:*$domain=~mail.yandex.ru|~google.com|~google.ru|~embed.life.ru|~mega.nz|~ok.ru|~vk.com
 ||com/$3p,script,domain=nnmclub.to
@@ -1786,6 +1788,7 @@ spcs.me,spac1.com#?##left_nav > div[class]:-abp-has([id*="ScriptRoot"])
 ! СУЩЕСТВУЮТ ПО ДОМЕНАМ 3-ГО УРОВНЯ.
 ||aidata.io^
 ||akamaihd.net^$domain=~live.com|~coub.com|~invi.tv|~steampowered.com
+||diginetica.net^
 ||fitfas.ru^
 ||marketo.net^
 ||msecnd.net^$domain=~microsoft.com
@@ -2400,7 +2403,7 @@ ferra.ru#@#[class^="ad-"][class*="wrap"]
 games.mail.ru#@#[target][href*="/adid"]
 go.mail.ru#@#[href*="//go"][href*=".mail.ru"]
 google.*#@#[target]>[src*="/r/"]
-google.*#@#[target]>[src*="/shop"]
+citrus.ua,google.*#@#[target]>[src*="/shop"]
 google.*#@#[target][href*="-shop"]
 google.*#@#[target][href*="/brand"]
 google.*#@#[target][href*="bann"]
