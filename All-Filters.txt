@@ -1,7 +1,7 @@
 ﻿@@$css
 @@$font
 @@$media
-! UPD: 2019.11.08 13.25
+! UPD: 2019.11.09 02.10
 ! Title: SM
 !
 &ad*$script,frame,domain=~spcs.me|~spac1.com
@@ -1802,6 +1802,7 @@ spcs.me,spac1.com#?##left_nav > div[class]:-abp-has([id*="ScriptRoot"])
 ||msecnd.net^$domain=~microsoft.com
 ||odinkod.ru^
 ||putags.com^
+||roxot-panel.com^
 !
 ! ОСНОВНЫЕ CSS
 ##[class$=" adv"]
