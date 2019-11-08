@@ -1108,7 +1108,7 @@ _seo*$script
 ||likeb*$3p
 ||likemore-go.imgsmail.ru^
 ||limo*$3p
-||link*$3p
+||link*$3p,domain=~bigmir.net
 ||live*$3p,~image
 ||ljteas.com^
 ||load*$3p
