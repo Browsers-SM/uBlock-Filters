@@ -1,7 +1,7 @@
 ﻿@@$css
 @@$font
 @@$media
-! UPD: 2019.11.07
+! UPD: 2019.11.08
 ! Title: SM
 !
 &ad*$script,frame,domain=~spcs.me|~spac1.com
@@ -670,7 +670,7 @@ _seo*$script
 ||alkodesign.ru^
 ||all*$3p
 ||alonged.com^
-||am*$3p,domain=~aliexpress.com|~youla.ru|~jd.ru
+||am*$3p,domain=~aliexpress.com|~youla.ru|~jd.ru|~bigmir.net
 ||an.
 ||android.com^$3p
 ||anniere.com^
@@ -2043,6 +2043,7 @@ online.anidub.com,unionpeer.org##[onclick]
 anwap.*##[href$="/credit/"]
 apkpure.com##[id="policy-info"]
 bash.im##[id^="crt-"][style$="height: 250px;"]
+bigmir.net##[class*="banner"]
 cnews.ru##[class="branding"]
 disk.yandex.*##[class="uploader-notifications"]
 dnsleaktest.com##[href="/what-is-the-difference.html"]
@@ -2294,6 +2295,8 @@ youtube.com##iron-overlay-backdrop,paper-dialog
 @@||yastatic.net^$script,domain=plus.kinopoisk.ru
 @@||yimg.com^$domain=flickr.com
 @@||youla.ru^$domain=youla.ru
+@@||img.com.ua^$domain=bigmir.net
+@@||klcheck.com^$domain=bigmir.net
 !
 ! ПРОБЛЕМЫ С АУДИО/ВИДЕО, ВИДЕОРЕКЛАМА, БЕСКОНЕЧНАЯ ЗАГРУЗКА, ОБНАРУЖЕН AdBlock, ЗАПРЕТ ПРОСМОТРА
 @@$csp,domain=rutube.ru|ventusky.com|xvideos.com|invi.tv|bongacams.com|bongacams2.com|smotri.com
