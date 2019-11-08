@@ -1,7 +1,7 @@
 ﻿@@$css
 @@$font
 @@$media
-! UPD: 2019.11.08 12.58
+! UPD: 2019.11.08 13.04
 ! Title: SM
 !
 &ad*$script,frame,domain=~spcs.me|~spac1.com
@@ -665,6 +665,7 @@ _seo*$script
 ||aid.
 ||aintere.com^
 ||aisol.ru^
+||aixcdn.com^
 ||alfainternet.$3p
 ||ali*$3p
 ||alkodesign.ru^
@@ -1605,6 +1606,7 @@ _seo*$script
 ||zvooq.com^$popup
 ||zvuk.com^$3p,popup
 ||курс2.рф^$3p
+
 !
 ! МНОЖЕСТВЕННЫЕ
 *$first-party,domain=block.mts.ru
