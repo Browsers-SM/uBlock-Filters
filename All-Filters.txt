@@ -672,7 +672,7 @@ _seo*$script
 ||alkodesign.ru^
 ||all*$3p
 ||alonged.com^
-||am*$3p,domain=~aliexpress.com|~youla.ru|~jd.ru|~bigmir.net
+||am*$3p,domain=~aliexpress.com|~youla.ru|~jd.ru|~bigmir.net|~kyivstar.ua
 ||an.
 ||android.com^$3p
 ||anniere.com^
