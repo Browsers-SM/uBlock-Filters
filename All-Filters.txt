@@ -1,7 +1,7 @@
 ﻿@@$css
 @@$font
 @@$media
-! UPD: 2019.11.08
+! UPD: 2019.11.08 12.58
 ! Title: SM
 !
 &ad*$script,frame,domain=~spcs.me|~spac1.com
@@ -95,11 +95,11 @@
 *baner*$~image,~xhr
 *baner.
 *banimg*
-*bann*$script
 *bann*$3p,~image,~xhr
+*bann*$script
 *bann*.html|
-*banner*$first-party,xhr
 *banner*$3p,~image
+*banner*$first-party,xhr
 *banner.$3p,~image
 *banner/*php$3p
 *banr.
@@ -140,8 +140,8 @@
 *cnt|
 *context*$3p
 *cookie*consent*
-*count*$first-party,script,image,domain=~livejournal.com
 *count*$3p,domain=~youtube.com
+*count*$first-party,script,image,domain=~livejournal.com
 *criteo*
 *crypt*$script,3p
 *dbclic*
@@ -285,8 +285,8 @@
 *rblock*$xhr,domain=~ok.ru
 *rbn.
 *reclam*$3p
-*redir*$script,frame
 *redir*$3p,domain=~youtube.com
+*redir*$script,frame
 *redtram*$domain=~redtram.com
 *refer*$script,xhr,domain=~otvet.mail.ru|~dns-shop.ru|~android.com|~4pda.ru
 *reforum*$domain=~reforum.ru
@@ -496,7 +496,7 @@
 /clk*$script,popup
 /cn.js*
 /cnt.$3p
-/cnt/*$3p
+/cnt/
 /code.js|
 /cout.
 /cs*?t=$script
@@ -826,8 +826,8 @@ _seo*$script
 ||cookiebot.com^
 ||cooster.ru^
 ||copercato.com^
-||cp*$popup,popunder
 ||cp*$3p
+||cp*$popup,popunder
 ||cqc.ru^
 ||cra*$3p
 ||cre*$3p
@@ -926,6 +926,7 @@ _seo*$script
 ||fdgeen.com^
 ||feed*$3p
 ||fertdesign.ru^
+||fghtem.com^
 ||fialet.com^
 ||fightstore.ru^$3p
 ||filepost.
@@ -1644,6 +1645,7 @@ _seo*$script
 ||banner*$domain=citilink.ru
 ||banners.prikol.ru^
 ||buy.vedomosti.ru^
+||c.bigmir.net^
 ||cmt.ixbt.com^
 ||cnews.ru*addLink.js*
 ||cnews.ru*scripts.js*
