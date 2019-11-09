@@ -1283,7 +1283,7 @@ _seo*$script
 ||pr.
 ||pr0gramm.com^
 ||pri*$3p
-||pro*$3p,domain=~prom.ua
+||pro*$3p,domain=~prom.ua|~tiu.ru
 ||prre.ru^
 ||psmardr.com^
 ||pubmatic.com^
