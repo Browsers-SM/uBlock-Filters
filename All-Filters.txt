@@ -1,7 +1,7 @@
 ﻿@@$css
 @@$font
 @@$media
-! UPD: 2019.11.09 02.10
+! UPD: 2019.11.09 19.39
 ! Title: SM
 !
 &ad*$script,frame,domain=~spcs.me|~spac1.com
@@ -2425,7 +2425,7 @@ ok.ru#@#[href*="_aid="]
 passion.ru#@#[class^="ad-"][class*="wrap"]
 pogoda.mail.ru#@#[class*="banner"][class*="top"]
 prestig-konkurs.ru#@#[id*="rekl"]
-prom.ua#@#[href*="/click_"]
+tiu.ru,prom.ua#@#[href*="/click_"]
 ria.ru#@#[id*="AdFox"]
 ridus.ru#@#[class*="adfox"]
 samforum.org#@#[id*="cookie"]
