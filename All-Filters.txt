@@ -696,6 +696,7 @@ _seo*$script
 ||asd*$3p
 ||aspro.ru^
 ||asrety.com^
+||atdmt.com^
 ||atemda.com^
 ||atl*$3p,domain=~bitbucket.org
 ||attivertura.com^
@@ -1261,7 +1262,7 @@ _seo*$script
 ||picoshot.com^$3p,script
 ||picsomania.net^
 ||piguiqproxy.com^
-||pin*$3p
+||pin*$3p,domain=~pinterest.com
 ||pippio.com^
 ||piroji.com^
 ||pixfuture.net^
