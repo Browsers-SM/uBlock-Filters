@@ -98,7 +98,7 @@
 *bann*$3p,~image,~xhr
 *bann*$script
 *bann*.html|
-*banner*$3p,~image
+*banner*$3p,~image,domain=~pinterest.com
 *banner*$first-party,xhr
 *banner.$3p,~image
 *banner/*php$3p
