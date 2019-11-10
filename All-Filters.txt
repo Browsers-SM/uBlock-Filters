@@ -1,7 +1,7 @@
 ﻿@@$css
 @@$font
 @@$media
-! UPD: 2019.11.11 01.45
+! UPD: 2019.11.11 01.47
 ! Title: SM
 !
 &ad*$script,frame,domain=~spcs.me|~spac1.com
@@ -696,7 +696,6 @@ _seo*$script
 ||asd*$3p
 ||aspro.ru^
 ||asrety.com^
-||atdmt.com^
 ||atemda.com^
 ||atl*$3p,domain=~bitbucket.org
 ||attivertura.com^
@@ -1798,6 +1797,7 @@ spcs.me,spac1.com#?##left_nav > div[class]:-abp-has([id*="ScriptRoot"])
 ! СУЩЕСТВУЮТ ПО ДОМЕНАМ 3-ГО УРОВНЯ.
 ||aidata.io^
 ||akamaihd.net^$domain=~live.com|~coub.com|~invi.tv|~steampowered.com
+||atdmt.com^
 ||diginetica.net^
 ||fitfas.ru^
 ||marketo.net^
