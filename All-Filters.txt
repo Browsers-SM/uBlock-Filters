@@ -1262,7 +1262,7 @@ _seo*$script
 ||picoshot.com^$3p,script
 ||picsomania.net^
 ||piguiqproxy.com^
-||pin*$3p,domain=~pinterest.com
+||pin*$3p,domain=~pinterest.com|~pinterest.at
 ||pippio.com^
 ||piroji.com^
 ||pixfuture.net^
