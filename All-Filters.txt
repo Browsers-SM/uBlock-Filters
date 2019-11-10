@@ -1,7 +1,7 @@
 ﻿@@$css
 @@$font
 @@$media
-! UPD: 2019.11.10 22.14
+! UPD: 2019.11.11 01.45
 ! Title: SM
 !
 &ad*$script,frame,domain=~spcs.me|~spac1.com
@@ -986,6 +986,7 @@ _seo*$script
 ||hdgo.club^
 ||heatmap.it^
 ||heelwork.com^
+||hellobar.com^
 ||helloradio.ru^$3p
 ||hescerensed.ru^
 ||hgbn1.com^
@@ -1195,6 +1196,7 @@ _seo*$script
 ||namuyutno.ru^
 ||narrative.io^
 ||naydex.net^
+||nbc.rt.com^
 ||ndyzz.com^
 ||nectarin.ru^
 ||neosmi.ru^
@@ -1618,7 +1620,6 @@ _seo*$script
 ||zvooq.com^$popup
 ||zvuk.com^$3p,popup
 ||курс2.рф^$3p
-
 !
 ! МНОЖЕСТВЕННЫЕ
 *$first-party,domain=block.mts.ru
