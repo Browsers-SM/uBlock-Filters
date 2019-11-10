@@ -243,7 +243,6 @@
 *pay.*$3p
 *peelads*
 *php*&b=
-*php*&hit*&ran*$image
 *php*&rnd=$~xhr
 *php*&t=$~image,domain=~4pda.ru
 *php*=b&
