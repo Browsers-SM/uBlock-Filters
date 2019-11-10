@@ -1,7 +1,7 @@
 ﻿@@$css
 @@$font
 @@$media
-! UPD: 2019.11.09 19.39
+! UPD: 2019.11.10 22.14
 ! Title: SM
 !
 &ad*$script,frame,domain=~spcs.me|~spac1.com
@@ -2071,6 +2071,7 @@ filmix.*##[class^="container"][style="margin-top: 0px;"]
 forum.mozilla-russia.org##[id="announce"]
 gdepapa.ru##[class="block_info mb10"]
 ghacks.net##[class="border--top--gray pt--40 mt--40"]
+github.com##[class^="signup-prompt"]
 google.*##.top-pla-group-inner
 google.*##[class^="cp-promo"]
 google.*##[class^="gb_"][data-ved][style]
