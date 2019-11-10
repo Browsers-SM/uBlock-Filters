@@ -1167,7 +1167,7 @@ _seo*$script
 ||mirtesen.ru^$3p
 ||mix*$3p
 ||mneniya.pro^$3p
-||mob*$3p,domain=~smotri.com
+||mob*$3p,domain=~smotri.com|~ntv.ru
 ||mochi*.com*
 ||modern.ie^
 ||moe.video^
