@@ -1,10 +1,10 @@
 ﻿@@$css
 @@$font
 @@$media
-! UPD: 2019.11.11 01.47
+! UPD: 2019.11.13 02.52
 ! Title: SM
 !
-&ad*$script,frame,domain=~spcs.me|~spac1.com
+&ad*$script,frame,domain=~spcs.me|~spac1.com|~spac.me
 &aid*$~image
 &aid=
 &b=$3p,script,frame
@@ -30,7 +30,7 @@
 &tds-$popup
 &tiz*$3p
 *2bears*
-*ad*?r*$domain=~spcs.me|~spac1.com
+*ad*?r*$domain=~spcs.me|~spac1.com|~spac.me
 *adbot*
 *adds*$script,frame
 *addthis*
@@ -198,7 +198,7 @@
 *js.php?id*
 *js/ads*
 *js?*&b=
-*js?r=$3p,domain=~apk-dl.com|~spcs.me|~spac1.com
+*js?r=$3p,domain=~apk-dl.com|~spcs.me|~spac1.com|~spac.me
 *jsads*
 *kadam*$script
 *klick*
@@ -451,7 +451,7 @@
 /b-$~image,domain=~vtb24.ru
 /b.$~image
 /b.*gif*
-/b/*$script,frame,domain=~spcs.me|~spac1.com
+/b/*$script,frame,domain=~spcs.me|~spac1.com|~spac.me
 /b/*&t=
 /b/*.gif*
 /b3*$3p,script,domain=~mail.yandex.ru
@@ -576,7 +576,7 @@
 =rtb*
 =tds&$image,script
 =tiz*$3p
-?ad*$script,frame,domain=~spcs.me|~spac1.com
+?ad*$script,frame,domain=~spcs.me|~spac1.com|~spac.me
 ?ads=
 ?aff*$popup
 ?aid*$script,frame
@@ -585,7 +585,7 @@
 ?bbn*
 ?bn*$script,frame
 ?bp=$script
-?ck=$domain=~spcs.me|~spac1.com
+?ck=$domain=~spcs.me|~spac1.com|~spac.me
 ?clck*
 ?i=*&r=
 ?m=$3p,script
@@ -1411,7 +1411,7 @@ _seo*$script
 ||soknm.com^
 ||soosle.
 ||sopital.com^
-||spa*$3p,script,frame,domain=~spcs.me|~spac1.com
+||spa*$3p,script,frame,domain=~spcs.me|~spac1.com|~spac.me
 ||specisez.com^
 ||speedtest.net^$3p
 ||spot.im^
@@ -1635,7 +1635,7 @@ _seo*$script
 |blob:*$domain=~mail.yandex.ru|~google.com|~google.ru|~embed.life.ru|~mega.nz|~ok.ru|~vk.com
 ||com/$3p,script,domain=nnmclub.to
 ||porn*$3p,domain=~redtube.com
-||ru/$3p,script,domain=3dn.ru|at.ua|clan.su|do.am|moy.su|p0.ru|ucoz.com|ucoz.es|ucoz.net|ucoz.org|ucoz.ru|fotobab.ru|spcs.me|vbabe.mobi|browsers-sm.3dn.ru|eromo.org|sefan.ru|erobab.com|spac1.com
+||ru/$3p,script,domain=3dn.ru|at.ua|clan.su|do.am|moy.su|p0.ru|ucoz.com|ucoz.es|ucoz.net|ucoz.org|ucoz.ru|fotobab.ru|spcs.me|vbabe.mobi|browsers-sm.3dn.ru|eromo.org|sefan.ru|erobab.com|spac1.com|spac.me
 ||translate.google*$domain=рф|ru|su|~google.ru
 !
 ! ИНДИВИДУАЛЬНЫЕ
@@ -1758,11 +1758,11 @@ _seo*$script
 *_*_*_*_*_*_*_*_*_*_*$domain=~youtube.com|googlevideo.com
 !
 ! SPACES.RU
-spcs.me,spac1.com##[class$=" seo"]
-spcs.me,spac1.com##[href*="&iF5oox6g=1&"],[href*="?iF5oox6g=1&"]
-spcs.me,spac1.com##[id="about_spaces"]
-spcs.me,spac1.com##[id="common_error"]
-spcs.me,spac1.com#?##left_nav > div[class]:-abp-has([id*="ScriptRoot"])
+spcs.me,spac1.com,spac.me##[class$=" seo"]
+spcs.me,spac1.com,spac.me##[href*="&iF5oox6g=1&"],[href*="?iF5oox6g=1&"]
+spcs.me,spac1.com,spac.me##[id="about_spaces"]
+spcs.me,spac1.com,spac.me##[id="common_error"]
+spcs.me,spac1.com,spac.me#?##left_nav > div[class]:-abp-has([id*="ScriptRoot"])
 ||m*.spcs.me^$script
 ||mtp.*strip2.*
 !
@@ -2191,7 +2191,7 @@ youtube.com##iron-overlay-backdrop,paper-dialog
 @@$3p,image,domain=google.ru
 @@$3p,script,domain=chuyu.me
 @@$elemhide,domain=life-film.ru|lifehacker.com|mail.rambler.ru|mail.yandex.ru|e.mail.ru|msdn.microsoft.com|pcradio.ru|svyaznoy.ru|mail.google.com|accounts.google.com
-@@$frame,domain=spcs.me|spac1.com|videochart.net|vk.com|youtube.googleapis.com
+@@$frame,domain=spcs.me|spac1.com|spac.me|videochart.net|vk.com|youtube.googleapis.com
 @@$genericblock,domain=kp.ru
 @@$image,frame,script,domain=games.kanobu.ru|embed.kanobu.ru|api.kanobu.ru
 @@$popup,domain=4pda.ru|findface.ru|google.com|google.ru|mail.ru|msn.com|samforum.org|yandex.ru
