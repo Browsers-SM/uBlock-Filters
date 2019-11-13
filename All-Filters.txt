@@ -1,7 +1,7 @@
 ﻿@@$css
 @@$font
 @@$media
-! UPD: 2019.11.13 21.24
+! UPD: 2019.11.13 21.52
 ! Title: SM
 !
 &ad*$script,frame,domain=~spcs.me|~spac1.com|~spac.me
@@ -312,7 +312,7 @@
 *show.php?$3p
 *showads*
 *showban*
-*site*$3p
+*site*$3p,domain=~com.ua
 *smallad*
 *smartban*
 *smartsize*
