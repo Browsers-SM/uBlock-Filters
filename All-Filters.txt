@@ -1,7 +1,7 @@
 ﻿@@$css
 @@$font
 @@$media
-! UPD: 2019.11.14 00.27
+! UPD: 2019.11.14 23.49
 ! Title: SM
 !
 &ad*$script,frame,domain=~spcs.me|~spac1.com|~spac.me
@@ -944,6 +944,7 @@ _seo*$script
 ||franecki.net^
 ||fre*$3p,domain=~filebase.ws|~flaticon.com
 ||friendlyduck.com^
+||frolvid.ru^
 ||futurico.ru^
 ||fwmrm.net^
 ||fxcd.ru^
@@ -1212,6 +1213,7 @@ _seo*$script
 ||njmaq.com^
 ||nnn.ru^
 ||nnvkh.com^
+||nohope.ru^
 ||nolix.ru^
 ||nordfx.com^
 ||nov*$3p
