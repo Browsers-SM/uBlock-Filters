@@ -1,7 +1,7 @@
 ﻿@@$css
 @@$font
 @@$media
-! UPD: 2019.11.14 23.49
+! UPD: 2019.11.15 | 03.01
 ! Title: SM
 !
 &ad*$script,frame,domain=~spcs.me|~spac1.com|~spac.me
@@ -2263,6 +2263,7 @@ youtube.com##iron-overlay-backdrop,paper-dialog
 @@||market.yandex.ru^$xhr,domain=market.yandex.ru
 @@||mc.yandex.ru^$domain=maxidom.ru|player.1tv.com
 @@||mc.yandex.ru^$script,domain=ucweb.com
+@@||money.yandex.ru^$domain=yandex.ru
 @@||mozilla.org^$xhr,domain=addons.mozilla.org
 @@||mradx.net^$domain=my.mail.ru
 @@||mts.ru^$domain=mts.ru
@@ -2388,6 +2389,7 @@ youtube.com##iron-overlay-backdrop,paper-dialog
 @@||yapfiles.ru/static/play.swf*
 @@||yastatic.net^$domain=afisha.ru|market.yandex.ru|radio.yandex.ru|video.yandex.ru
 @@||youtube.*embed-player*$script
+@@||youtube.com/api/stats/ads?
 @@||youtube.com/embed/$frame
 @@||ytimg.com/yt/jsbin/www-widgetapi-
 crossdomain.xml|$3p,domain=redcyt.com
