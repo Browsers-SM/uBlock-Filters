@@ -1335,7 +1335,7 @@ _seo*$script
 ||reine.ru^$3p
 ||relap.io^
 ||republer.com^
-||res*$3p
+||res*$3p,domain=~leroymerlin.ru
 ||ret*$3p
 ||revolvermaps.com^
 ||rfity.com^
