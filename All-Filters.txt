@@ -1,7 +1,7 @@
 ﻿@@$css
 @@$font
 @@$media
-! UPD: 2019.11.16 / 03.00
+! UPD: 2019.11.16 / 03.10
 ! Title: SM
 !
 &ad*$script,frame,domain=~spcs.me|~spac1.com|~spac.me
@@ -437,7 +437,7 @@
 /ads?
 /ads_
 /adt*
-/adv*$script,frame,popup,domain=~softobase.com
+/adv*$script,frame,popup,domain=~softobase.com|~softhome.ru
 /adv-
 /adv/*
 /adv2*
@@ -643,6 +643,7 @@ _seo*$script
 ||acint.net^
 ||acpr.su^
 ||activ$3p
+||actpx.com^
 ||ad.
 ||ad1*
 ||ad4*
@@ -659,6 +660,7 @@ _seo*$script
 ||adtidy.net^
 ||adv*$3p
 ||adx*$3p
+||aflt.market.yandex.ru^
 ||agava.ru^$3p
 ||agilecrm.com^
 ||agomwefq.com^
@@ -1435,6 +1437,7 @@ _seo*$script
 ||subscr*$3p
 ||suggest.yandex.ru^
 ||sumome.com^
+||sunburgh.com^
 ||sunrima.ru^
 ||sup*$3p
 ||surfingbird.ru^$3p
