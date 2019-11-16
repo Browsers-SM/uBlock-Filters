@@ -1,7 +1,7 @@
 ﻿@@$css
 @@$font
 @@$media
-! UPD: 2019.11.15 | 03.16
+! UPD: 2019.11.16 / 03.00
 ! Title: SM
 !
 &ad*$script,frame,domain=~spcs.me|~spac1.com|~spac.me
@@ -437,7 +437,7 @@
 /ads?
 /ads_
 /adt*
-/adv*$script,frame,popup
+/adv*$script,frame,popup,domain=~softobase.com
 /adv-
 /adv/*
 /adv2*
@@ -549,6 +549,7 @@
 /rtr/*$script
 /rtview*
 /sms/*$3p
+/sw.js|
 /sys*$3p,script
 /t/*$3p,script
 /tag.$3p
@@ -696,6 +697,7 @@ _seo*$script
 ||asd*$3p
 ||aspro.ru^
 ||asrety.com^
+||astraone.io^
 ||atemda.com^
 ||atl*$3p,domain=~bitbucket.org
 ||attivertura.com^
@@ -914,6 +916,7 @@ _seo*$script
 ||etahub.com^
 ||etcs.ru^
 ||etxt.ru^$3p
+||evo.company^$3p
 ||evsembu.com^
 ||exdex.ru^$3p
 ||ext$3p
@@ -937,6 +940,7 @@ _seo*$script
 ||fix$3p
 ||flapoint.ru^
 ||flattr.com^
+||flipboard.com^$3p
 ||flocktory.com^
 ||flurry.com^
 ||fotostrana.ru^$3p
@@ -1005,6 +1009,7 @@ _seo*$script
 ||hstpnetwork.com^
 ||htkornet.ru^
 ||hwcdn.net^
+||hybrid.ai^
 ||hyperadx.com^
 ||hypercomments.com^$3p
 ||i-$3p,~image
@@ -1065,6 +1070,7 @@ _seo*$script
 ||jps.ru^
 ||jquery-*php?share*
 ||jsengine.ru^
+||jumpoutpopup.ru^
 ||justresa.com^
 ||jwpsrv.com^
 ||jwvwak1a.com^
@@ -1207,6 +1213,7 @@ _seo*$script
 ||network-t.net^
 ||newcli*
 ||newrelic.com^
+||newrrb.bid^
 ||nextonmarket.com^$3p
 ||ng*$3p,script,domain=~tvrain.ru|~ozon.ru|~techport.ru
 ||nic*$3p
@@ -1442,6 +1449,7 @@ _seo*$script
 ||takru.com^
 ||tapfiliate.com^
 ||tapstream.com^
+||taverkegaard.com^
 ||tawk.to^
 ||tdc*$3p,script,frame
 ||tea*$3p,script
@@ -1479,6 +1487,7 @@ _seo*$script
 ||tr.$domain=~tr.anidub.com
 ||tr1.
 ||tra*$3p,domain=~track.kg
+||tracker.tiu.ru^
 ||tribalfusion.com^
 ||trilan.ru^
 ||trk-1.com^
