@@ -1,7 +1,7 @@
 ﻿@@$css
 @@$font
 @@$media
-! UPD: 2019.11.17 / 06.43
+! UPD: 2019.11.17 / 06.50
 ! Title: SM
 !
 &ad*$script,frame,domain=~spcs.me|~spac1.com|~spac.me
@@ -1723,7 +1723,6 @@ _seo*$script
 ||ru-board.*/temp*
 ||ru-board.*tent.js|
 ||rusfolder.com/images/*
-||samforum.org^$frame
 ||savepic.*$domain=samforum.org
 ||screenshot.ru*gif|$3p
 ||securitylab.ru*widgets.js|
