@@ -1547,7 +1547,6 @@ _seo*$script
 ||veroui.com^
 ||viadeo.com^
 ||vid*$3p,domain=~facebook.com
-||vigo.ru^
 ||vihub.ru^
 ||vimgs.ru^
 ||visiblemeasures.com^
@@ -2358,7 +2357,6 @@ youtube.com##iron-overlay-backdrop,paper-dialog
 @@||adselector.ru^$script,domain=rusfolder.com|webpark.ru
 @@||akamaihd.net^$script,image,domain=coub.com|instagram.com
 @@||api.twitch.tv^$domain=twitch.tv
-@@||api.vigo.ru^$xhr,domain=vk.com
 @@||api.yapfiles.ru^$xhr,frame,domain=yapfiles.ru
 @@||cdn.theguardian.tv^$domain=embed.theguardian.com
 @@||cdnvideo.ru^$domain=ntv.ru
