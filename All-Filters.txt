@@ -1,7 +1,7 @@
 ﻿@@$css
 @@$font
 @@$media
-! UPD: 2019.11.17 / 07.39
+! UPD: 2019.11.18 / 00.39
 ! Title: SM
 !
 &ad*$script,frame,domain=~spcs.me|~spac1.com|~spac.me
@@ -1192,6 +1192,7 @@ _seo*$script
 ||moo$3p
 ||mpuls.ru^
 ||mt$3p
+||mtc.tvzavr.ru^
 ||multi*scope
 ||mvstbd.ru^
 ||mwcvu.com^
