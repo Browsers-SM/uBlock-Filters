@@ -1,7 +1,7 @@
 ﻿@@$css
 @@$font
 @@$media
-! UPD: 2019.11.17 / 03.28
+! UPD: 2019.11.17 / 05.49
 ! Title: SM
 !
 &ad*$script,frame,domain=~spcs.me|~spac1.com|~spac.me
@@ -72,6 +72,7 @@
 *affiliat*
 *aid&
 *aid?
+*alfa*sense*
 *ambler*op100*
 *analyt*$~image
 *appban*
@@ -634,6 +635,7 @@ _seo*$script
 ||5oh.ru^
 ||5th.ru^
 ||7search.com^
+||7wwchtqe.ru^
 ||a-real.ru^
 ||aa*$3p
 ||abc*$3p
@@ -664,6 +666,7 @@ _seo*$script
 ||agava.ru^$3p
 ||agilecrm.com^
 ||agomwefq.com^
+||ahoff.ru^
 ||aiadvi.com^
 ||aid.
 ||aintere.com^
@@ -921,6 +924,7 @@ _seo*$script
 ||evo.company^$3p
 ||evsembu.com^
 ||exdex.ru^$3p
+||exdiy.ru^$3p
 ||ext$3p
 ||facebook.$3p
 ||facetz.net^
@@ -1043,6 +1047,7 @@ _seo*$script
 ||info*$3p
 ||info/$3p,script,popunder,frame
 ||info/image*$3p,popunder
+||inpiza.com^
 ||insigit.com^
 ||instagram.com/ajax/bz*$3p
 ||instreamatic.com^
@@ -1250,6 +1255,7 @@ _seo*$script
 ||oml.ru^
 ||onclic*$script,frame,popup
 ||one*$3p
+||onlinetestpad.com^$3p
 ||onthe.io^
 ||op.yandex.ru^$3p
 ||opinionbar.com^
@@ -1264,6 +1270,7 @@ _seo*$script
 ||oznul.com^
 ||pagefair.com^
 ||palevo.com^
+||park*$3p
 ||parsely.com^
 ||pastilon.com^
 ||pay*$3p
@@ -1279,6 +1286,7 @@ _seo*$script
 ||pippio.com^
 ||piroji.com^
 ||pixfuture.net^
+||pjtsu.com^
 ||pketred.com^
 ||pla*$3p,domain=~google.ru|~google.com
 ||plista.com^
