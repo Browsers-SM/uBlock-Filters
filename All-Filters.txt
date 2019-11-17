@@ -1,7 +1,7 @@
 ﻿@@$css
 @@$font
 @@$media
-! UPD: 2019.11.17 / 06.50
+! UPD: 2019.11.17 / 07.04
 ! Title: SM
 !
 &ad*$script,frame,domain=~spcs.me|~spac1.com|~spac.me
@@ -933,7 +933,7 @@ _seo*$script
 ||fantasy-dream.ru^$3p
 ||faqzpiv1fphpway.ru^
 ||fawere.com^
-||fbcdn.net^$domain=~facebook.com|~instagram.com
+||fbcdn.net^$domain=~facebook.com|~instagram.com|~savido.net
 ||fbr.
 ||fdgeen.com^
 ||feed*$3p
