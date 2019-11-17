@@ -1,7 +1,7 @@
 ﻿@@$css
 @@$font
 @@$media
-! UPD: 2019.11.17 / 07.20
+! UPD: 2019.11.17 / 07.39
 ! Title: SM
 !
 &ad*$script,frame,domain=~spcs.me|~spac1.com|~spac.me
@@ -1434,6 +1434,7 @@ _seo*$script
 ||spruto.org^
 ||spy*track*
 ||start*$3p
+||static-mon.yandex.net^
 ||steambuy.com^$3p
 ||sterno.ru^
 ||stumbleupon.*/widget
@@ -1608,6 +1609,8 @@ _seo*$script
 ||yagla.ru^
 ||yandex.ru/ick/*
 ||yandex.st/share/*
+||yastatic.net/daas/atom.js|
+||yastatic.net/pcode/adfox/loader.js|
 ||yastatic.net/share/share.js|
 ||yatr.ru^
 ||ybobra.ru^$3p
