@@ -1,7 +1,7 @@
 ﻿@@$css
 @@$font
 @@$media
-! UPD: 2019.11.17 / 07.04
+! UPD: 2019.11.17 / 07.06
 ! Title: SM
 !
 &ad*$script,frame,domain=~spcs.me|~spac1.com|~spac.me
@@ -1601,7 +1601,7 @@ _seo*$script
 ||xptvk.com^
 ||xray.mail.ru^
 ||xtool.ru^
-||xx*$3p,domain=~fbcdn.net|~facebook.com
+||xx*$3p,domain=~fbcdn.net|~facebook.com|~savido.net
 ||xyz^$3p,script,popunder,frame
 ||yabs.yandex.ru^$domain=~yandex.ru
 ||yadro.
