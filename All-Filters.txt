@@ -1,7 +1,7 @@
 ﻿@@$css
 @@$font
 @@$media
-! UPD: 2019.11.17 / 05.49
+! UPD: 2019.11.17 / 06.43
 ! Title: SM
 !
 &ad*$script,frame,domain=~spcs.me|~spac1.com|~spac.me
@@ -658,7 +658,7 @@ _seo*$script
 ||adnext.net^
 ||adregain.ru^
 ||ads*$3p
-||adservice.google.
+||adservice.
 ||adtidy.net^
 ||adv*$3p
 ||adx*$3p
@@ -1402,10 +1402,7 @@ _seo*$script
 ||see*$3p
 ||selcdn.ru^
 ||semi-cod.com^
-||sendapi.net^
-||sendpulse.com^
-||sendsay.ru^
-||senrima.ru^
+||sen*$3p
 ||seo*$3p
 ||sepyra.com^
 ||shar*$3p
@@ -1511,9 +1508,7 @@ _seo*$script
 ||turn.com^
 ||tvzavr.ru^$3p
 ||tweetmeme.com^
-||twinzo.ru^
-||twitter.*widget*$domain=~news.mail.ru|~3dnews.ru
-||twitter.com^$domain=~twitter.com
+||twi*$3p,domain=~news.mail.ru|~3dnews.ru
 ||tx*$3p
 ||tynt.com^
 ||typekit.$3p
