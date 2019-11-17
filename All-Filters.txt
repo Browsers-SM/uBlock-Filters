@@ -2212,7 +2212,7 @@ youtube.com##iron-overlay-backdrop,paper-dialog
 @@$image,frame,script,domain=games.kanobu.ru|embed.kanobu.ru|api.kanobu.ru
 @@$popup,domain=4pda.ru|findface.ru|google.com|google.ru|mail.ru|msn.com|samforum.org|yandex.ru
 @@$xhr,domain=mediametrics.ru|music.yandex.ru
-@@*account*$script,image
+@@*account*$script,image,frame
 @@*api-maps.yandex.ru^
 @@*apis.$domain=accounts.google.com|content.googleapis.com|google.com|google.ru|sourceforge.net|thinkwithgoogle.com|youtube.com
 @@*captcha*
