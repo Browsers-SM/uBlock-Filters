@@ -739,7 +739,7 @@ _seo*$script
 ||biplane.ru^
 ||birjakreditov.com^
 ||bit*$3p
-||biz^$3p,~image,domain=~megogo.ru
+||biz^$3p,~image,domain=~megogo.ru|~megogo.net
 ||bjpwv.com^
 ||blendac.com^
 ||blo*$3p,domain=~blogspot.com|~blogspot.ru|~blogger.com|~netza.ru
@@ -2465,7 +2465,7 @@ yaca.yandex.ru,warthunder.ru#@#[href*="warthunder"]
 yandex.*#@#[class*="social"][class*="block"]
 !
 ! КОРРЕКТИРОВКА МОБИЛЬНЫХ ВЕРСИЙ
-livejournal.com#@#[class*="adblock"]
+tvigle.ru,livejournal.com#@#[class*="adblock"]
 livejournal.com#@#[id*="adblock"]
 pogoda.mail.ru##[href*="/news/"]
 ria.ru##[class^="b-sharebar"]
