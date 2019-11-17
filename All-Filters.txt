@@ -1,7 +1,7 @@
 ﻿@@$css
 @@$font
 @@$media
-! UPD: 2019.11.17 / 07.06
+! UPD: 2019.11.17 / 07.16
 ! Title: SM
 !
 &ad*$script,frame,domain=~spcs.me|~spac1.com|~spac.me
@@ -2443,7 +2443,7 @@ google.*#@#[target][href*="vulkan"]
 google.*,mail.ru,rambler.ru,yandex.ru#@#[href*="tankion"]
 google.*,mail.ru,rambler.ru,yandex.ru#@#[href*="tomsk.ru"]
 google.*,yandex.ru,duckduckgo.com#@#[href*="777.com"],[href*="777.ru"],[href*="777.net"],[href*="adwcleaner.ru"],[href*="goo.gl/"],[href*="guardlink"],[href*="azino"],[href*="urlguard"],[href*="vsemayki"],[href*="raskruti.net"],[href*="presnozin.com"],[href*="pixelmarkway.com"],[href*="russian-cabaret.ru"],[href*="wt.link"],[href*="mobtop.ru"],[href*="urlshortbot.com"],[href*="/0t.se"],[href*="leon.ru"],[href*="/ivnz.ru"],[href*="kompot.bz"],[href*="/t.me/"],[href*="wargaming"],[href*="meutrf.com"],[href*="fatcats.market"],[href*="alitools.io"],[href*="handmade.ru"],[href*="bit.ly"],[href*="megabonus.com"],[href*="ubi.li"],[href*="letyshops.com"],[href*="schlock.ru"],[href*="apple.com"],[href*="cryptotab"],[href*="isv-group.io"],[href*="jolly"][href*="me"],[href*="expressfromus.com"],[href*="appmetrica.yandex.com"],[href*="cyprusbutterfly.com.cy"],[href*="tennisi.bet"],[href*="betcity.ru"],[href*="vk.cc"],[href*="slots.com.ua"],[href*="aff1xstavka.top"],[href*="alitems.com"],[href*="fl.team"],[href*="xbet"],[href*="refpatlo.top"],[href*="awaps.yandex.net"],[href*="ddos-guard.net"],[href*="ali.pub"],[href*="ma-static.ru"],[href*="holder.com.ua"]
-nnm.me,picsee.net,pikabu.ru,muz-tv.ru#@#[id="wrap"] [target]
+picsee.net,pikabu.ru,muz-tv.ru#@#[id="wrap"] [target]
 ok.ru#@#[href*="_aid="]
 passion.ru#@#[class^="ad-"][class*="wrap"]
 pogoda.mail.ru#@#[class*="banner"][class*="top"]
