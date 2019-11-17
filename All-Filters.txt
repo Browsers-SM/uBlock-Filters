@@ -1,7 +1,7 @@
 ﻿@@$css
 @@$font
 @@$media
-! UPD: 2019.11.17 / 03.20
+! UPD: 2019.11.17 / 03.23
 ! Title: SM
 !
 &ad*$script,frame,domain=~spcs.me|~spac1.com|~spac.me
@@ -1280,7 +1280,7 @@ _seo*$script
 ||piroji.com^
 ||pixfuture.net^
 ||pketred.com^
-||pla*$3p
+||pla*$3p,domain=~google.ru|~google.com
 ||plista.com^
 ||plu*$3p
 ||po.st^
