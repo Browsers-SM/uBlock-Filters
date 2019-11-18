@@ -1,7 +1,7 @@
 ﻿@@$css
 @@$font
 @@$media
-! UPD: 2019.11.19 / 01.17
+! UPD: 2019.11.19
 ! Title: SM
 !
 &ad*$script,frame,domain=~spcs.me|~spac1.com|~spac.me
@@ -747,7 +747,7 @@ _seo*$script
 ||bogi.ru^
 ||bokroet.com^
 ||bon*$3p
-||bootstrapcdn.com^$domain=~mycoub.ru|~kotel-t.ru|~kotel-electr.ru|~teplozhar.ru|~electrocotel.ru
+||bootstrapcdn.com^$domain=~mycoub.ru|~kotel-t.ru|~kotel-electr.ru|~teplozhar.ru|~electrocotel.ru|~savido.net
 ||bot*$3p
 ||bp.$script
 ||brandarium.net^
