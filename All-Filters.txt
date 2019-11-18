@@ -1,7 +1,7 @@
 ﻿@@$css
 @@$font
 @@$media
-! UPD: 2019.11.18 / 00.39
+! UPD: 2019.11.18 / 07.01
 ! Title: SM
 !
 &ad*$script,frame,domain=~spcs.me|~spac1.com|~spac.me
@@ -35,6 +35,7 @@
 *adds*$script,frame
 *addthis*
 *adfl*$script,frame
+*adframe*
 *adgravity*
 *adguard*$popup
 *adhelp*
@@ -1050,6 +1051,7 @@ _seo*$script
 ||inpiza.com^
 ||insigit.com^
 ||instagram.com/ajax/bz*$3p
+||instant.page^
 ||instreamatic.com^
 ||int*$3p,domain=~yandex.ru
 ||invi.tv^$3p
@@ -1540,6 +1542,7 @@ _seo*$script
 ||vaselisk.com^
 ||vashkontrol.ru^$3p
 ||vb*$3p,script
+||vdo.ai^
 ||vdsias.wc.lt^
 ||vegapro.ru^
 ||ventite.com^
