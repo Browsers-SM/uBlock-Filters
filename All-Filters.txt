@@ -1605,7 +1605,7 @@ _seo*$script
 ||xptvk.com^
 ||xray.mail.ru^
 ||xtool.ru^
-||xx*$3p,domain=~fbcdn.net|~facebook.com|~savido.net
+||xx*$3p,domain=~fbcdn.net|~facebook.com|~savido.net|~strip2.xxx
 ||xyz^$3p,script,popunder,frame
 ||yabs.yandex.ru^$domain=~yandex.ru
 ||yadro.
