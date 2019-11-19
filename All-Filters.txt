@@ -30,7 +30,7 @@
 &tds-$popup
 &tiz*$3p
 *2bears*
-*ad*?r*$domain=~spcs.me|~spac1.com|~spac.me
+*ad*?r*$domain=~spcs.me|~spac1.com|~spac.me|~strip2.xxx
 *adbot*
 *adds*$script,frame
 *addthis*
@@ -1430,7 +1430,7 @@ _seo*$script
 ||soknm.com^
 ||soosle.
 ||sopital.com^
-||spa*$3p,script,frame,domain=~spcs.me|~spac1.com|~spac.me
+||spa*$3p,script,frame,domain=~spcs.me|~spac1.com|~spac.me|~strip2.xxx
 ||specisez.com^
 ||speedtest.net^$3p
 ||spot.im^
