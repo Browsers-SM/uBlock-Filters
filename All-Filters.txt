@@ -453,7 +453,7 @@
 /b-$~image,domain=~vtb24.ru
 /b.$~image
 /b.*gif*
-/b/*$script,frame,domain=~spcs.me|~spac1.com|~spac.me
+/b/*$script,frame,domain=~spcs.me|~spac1.com|~spac.me|~strip2.xxx
 /b/*&t=
 /b/*.gif*
 /b3*$3p,script,domain=~mail.yandex.ru
