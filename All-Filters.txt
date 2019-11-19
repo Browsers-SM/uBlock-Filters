@@ -1781,7 +1781,7 @@ _seo*$script
 !
 ! SPACES.RU
 spcs.me,spac1.com,spac.me##[class$=" seo"]
-spcs.me,spac1.com,spac.me##[href*="&iF5oox6g=1&"],[href*="?iF5oox6g=1&"]
+spcs.me,spac1.com,spac.me##[href*="/jf5oox6g/"]
 spcs.me,spac1.com,spac.me##[id="about_spaces"]
 spcs.me,spac1.com,spac.me##[id="common_error"]
 spcs.me,spac1.com,spac.me#?##left_nav > div[class]:-abp-has([id*="ScriptRoot"])
