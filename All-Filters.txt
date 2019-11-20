@@ -2294,6 +2294,7 @@ youtube.com##iron-overlay-backdrop,paper-dialog
 @@||ok.ru/adsmanager?$domain=ok.ru
 @@||ok.ru/dk*$xhr,domain=ok.ru
 @@||ok.ru/gifts?$xhr,domain=ok.ru
+@@||ok.ru/guests?$domain=ok.ru
 @@||ok.ru/res/$domain=ok.ru
 @@||olx.ua^$domain=olx.ua
 @@||paymentnew.ok.ru^$domain=ok.ru
