@@ -1,7 +1,7 @@
 ﻿@@$css
 @@$font
 @@$media
-! UPD: 2019.11.21
+! UPD: 2019.11.22
 ! Title: SM
 !
 &ad*$script,frame,domain=~spcs.me|~spac1.com|~spac.me|~strip2.xxx
@@ -2336,6 +2336,7 @@ youtube.com##iron-overlay-backdrop,paper-dialog
 @@||weathermaps.s3.yandex.net^$xhr,domain=yandex.ru
 @@||whichbrowser.net^$domain=html5test.com
 @@||wmbcdn.com^$domain=mail.ru
+@@||wmbcdn.com^$domain=mamba.ru
 @@||yandex.ru/images/search*$xhr
 @@||yandex.ru/pogoda/$csp
 @@||yandex.ru/weather/$script,xhr
