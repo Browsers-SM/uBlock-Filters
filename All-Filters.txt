@@ -832,6 +832,7 @@ _seo*$script
 ||connectad.io^
 ||consultsystems.ru^$3p
 ||contema.ru^
+||contentinsights.com^
 ||conter*.com^
 ||conv*$3p
 ||cookiebot.com^
@@ -1441,6 +1442,7 @@ _seo*$script
 ||static-mon.yandex.net^
 ||steambuy.com^$3p
 ||sterno.ru^
+||strossle.com^
 ||stumbleupon.*/widget
 ||su^$3p,~image
 ||submitter.ru^
