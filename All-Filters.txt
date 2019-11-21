@@ -1,7 +1,7 @@
 ﻿@@$css
 @@$font
 @@$media
-! UPD: 2019.11.20
+! UPD: 2019.11.21
 ! Title: SM
 !
 &ad*$script,frame,domain=~spcs.me|~spac1.com|~spac.me|~strip2.xxx
@@ -751,6 +751,7 @@ _seo*$script
 ||bot*$3p
 ||bp.$script
 ||brandarium.net^
+||braun634.com^
 ||bravo-lea.com^
 ||breedac.com^
 ||brightcove.com^
