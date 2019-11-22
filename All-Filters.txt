@@ -2097,7 +2097,7 @@ fastpic.ru##[target]
 filmix.*##[class^="container"][style="margin-top: 0px;"]
 forum.mozilla-russia.org##[id="announce"]
 gdepapa.ru##[class="block_info mb10"]
-ghacks.net##[class="border--top--gray pt--40 mt--40"]
+ghacks.net##[class*="sponsor"]
 github.com##[class^="signup-prompt"]
 google.*##.top-pla-group-inner
 google.*##[class^="cp-promo"]
@@ -2220,6 +2220,7 @@ youtube.com##iron-overlay-backdrop,paper-dialog
 @@$frame,domain=spcs.me|spac1.com|spac.me|videochart.net|vk.com|youtube.googleapis.com|strip2.xxx
 @@$genericblock,domain=kp.ru
 @@$image,frame,script,domain=games.kanobu.ru|embed.kanobu.ru|api.kanobu.ru
+@@$image,~3p,domain=ghacks.net
 @@$popup,domain=4pda.ru|findface.ru|google.com|google.ru|mail.ru|msn.com|samforum.org|yandex.ru
 @@$xhr,domain=mediametrics.ru|music.yandex.ru
 @@*account*$script,image,frame
