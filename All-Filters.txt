@@ -2338,7 +2338,7 @@ youtube.com##iron-overlay-backdrop,paper-dialog
 @@||whichbrowser.net^$domain=html5test.com
 @@||wmbcdn.com^$domain=mail.ru
 @@||wmbcdn.com^$domain=mamba.ru
-@@||yandex.ru/*player*$frame,domain=yandex.ru
+@@||yandex.ru/*player*$frame,domain=yandex.ru|yastatic.net
 @@||yandex.ru/images/search*$xhr
 @@||yandex.ru/pogoda/$csp
 @@||yandex.ru/weather/$script,xhr
