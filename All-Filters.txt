@@ -232,7 +232,7 @@
 *myads*
 *newban*
 *newclk*
-*news*$3p,~image,domain=~ria.com|~bigmir.net|~yandex.ru
+*news*$3p,~image,domain=~ria.com|~bigmir.net|~yandex.ru|~yastatic.net
 *nwgsm*
 *online.dll*
 *opena*$script
@@ -1653,7 +1653,7 @@ _seo*$script
 *$3p,domain=fastpic.ru|imageban.ru|imagevenue.com|lg.com|tinypic.com|adriver.ru|free1img.ru|free2img.ru|free3img.ru|radikal.ru
 *$websocket,domain=~animevost.org|~mibbit.com|~video.rambler.ru|~whatsapp.com|~smotri.com|~videochatka.net|~yandex.ru|~twitch.tv|~send.firefox.com|~ria.ru|~github.com
 *adblo*$image,script,domain=~adblockplus.me|~adblockplus.org|~filmix.net|~ghacks.net
-*code*$3p,script,domain=~yota.ru|~code.jquery.com|~market.pochta.ru|~ren.tv|~icecreamapps.com|~codeplex.com|~microsoft.com|~ntp-servers.net|~opengapps.org|~invi.tv|~bitbucket.org|~nnmclub.to|~nnmclub.ch
+*code*$3p,script,domain=~yota.ru|~code.jquery.com|~market.pochta.ru|~ren.tv|~icecreamapps.com|~codeplex.com|~microsoft.com|~ntp-servers.net|~opengapps.org|~invi.tv|~bitbucket.org|~nnmclub.to|~nnmclub.ch|~yandex.ru
 *popunder*$~xhr,domain=~cackle.me|~mail.ru|~miuipro.ru|~onlinezakladki.ru|~support.kaspersky.ru|~livejournal.com|~rian.ru|~vk.com|~dns-shop.ru|~photosight.ru
 *social*$~image,domain=~vivaldi.net|~mail.ru|~microsoft.com|~mail.yandex.ru|~miuipro.ru|~otkritkiok.ru|~trinixy.ru|~3dn.ru|~at.ua|~clan.su|~do.am|~moy.su|~p0.ru|~ucoz.com|~ucoz.es|~ucoz.net|~ucoz.org|~ucoz.ru|~google.com|~google.ru|~ria.ru|~tabor.ru
 *stat*$3p,domain=~360totalsecurity.com|~7days.ru|~acestream.org|~avast.ru|~bbc.com|~beboo.ru|~bonprix.ru|~careerjet.ru|~championat.com|~cnet.com|~cyberforum.ru|~dailymotion.com|~ebay.com|~edarling.ru|~facebook.com|~gitlab.com|~googleusercontent.com|~huawei.com|~itunes.apple.com|~ivbb.ru|~kat.cr|~kinopoisk.ru|~lightningmaps.org|~line.me|~linkedin.com|~microsoft.com|~mirtesen.ru|~nn.ru|~office.com|~photobucket.com|~pogodanakarte.ru|~reddit.com|~redditmedia.com|~redditstatic.com|~rutracker.net|~rutracker.org|~shuruping.ru|~shuruping.ru|~sima-land.ru|~softpedia.com|~stackexchange.com|~steampowered.com|~stihl.ru|~teamviewer.com|~tiu.ru|~tjournal.ru|~tjournal.ru|~twitch.tv|~vc.ru|~wix.com|~womanhit.ru|~worldoftanks.ru|~yadi.sk|~yandex.ru|~youla.ru|~youpornru.com|~livejournal.com|~login.aliexpress.com|~redtube.com|~mail.ru|~wmbcdn.com|~youtube.com|~my-hithd.ru|~tsearch.me|~ok.ru|~mycdn.me|~jd.ru|~olx.ua|~blogspot.ru|~blogspot.com|~yandex.com|~net.ua|~ria.com|~prom.ua|~wildberries.ru|~com.ua|~google.ru|~google.com|~megogo.net|~megogo.ru
@@ -2338,10 +2338,12 @@ youtube.com##iron-overlay-backdrop,paper-dialog
 @@||whichbrowser.net^$domain=html5test.com
 @@||wmbcdn.com^$domain=mail.ru
 @@||wmbcdn.com^$domain=mamba.ru
+@@||yandex.ru/*player*$frame,domain=yandex.ru
 @@||yandex.ru/images/search*$xhr
 @@||yandex.ru/pogoda/$csp
 @@||yandex.ru/weather/$script,xhr
 @@||yastatic.net*/auth2/$domain=disk.yandex.com|disk.yandex.ru
+@@||yastatic.net/*player*$frame,domain=yandex.ru
 @@||yastatic.net/docviewer*$domain=docviewer.yandex.ru
 @@||yastatic.net^$script,domain=plus.kinopoisk.ru
 @@||yimg.com^$domain=flickr.com
