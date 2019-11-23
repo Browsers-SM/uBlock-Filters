@@ -101,7 +101,7 @@
 *bann*$script
 *bann*.html|
 *banner*$3p,~image
-*banner*$first-party,xhr
+*banner*$1p,xhr
 *banner.$3p,~image
 *banner/*php$3p
 *banr.
@@ -143,7 +143,7 @@
 *context*$3p
 *cookie*consent*
 *count*$3p,domain=~youtube.com
-*count*$first-party,script,image,domain=~livejournal.com
+*count*$1p,script,image,domain=~livejournal.com
 *criteo*
 *crypt*$script,3p
 *dbclic*
@@ -542,7 +542,7 @@
 /rekl*
 /rk/*$~xhr
 /rkl*
-/rn*$first-party,xhr,domain=~news.rambler.ru
+/rn*$1p,xhr,domain=~news.rambler.ru
 /rnb*$script
 /rr/*
 /rt.$~image
@@ -566,8 +566,8 @@
 /tpb*
 /track.$script,frame
 /track/*$script
-/trec*$first-party,xhr
-/tz*$first-party,script,frame
+/trec*$1p,xhr
+/tz*$1p,script,frame
 /wap*$popup
 /xad*
 =ad*$script,frame,xhr,domain=~dns-shop.ru|~tsearch.me
@@ -1648,7 +1648,7 @@ _seo*$script
 ||курс2.рф^$3p
 !
 ! МНОЖЕСТВЕННЫЕ
-*$first-party,domain=block.mts.ru
+*$1p,domain=block.mts.ru
 *$popunder,3p,domain=pornhub.com|redtube.com
 *$popup,domain=dverser.ru|film-adult.com|imagebam.com|joyreactor.cc|kordonivkakino.net|rustorka.com|tracelive.ru|apkpure.com|ok.ru|apkfind.com|z1.fm
 *$3p,domain=fastpic.ru|imageban.ru|imagevenue.com|lg.com|tinypic.com|adriver.ru|free1img.ru|free2img.ru|free3img.ru|radikal.ru
@@ -2361,9 +2361,9 @@ youtube.com##iron-overlay-backdrop,paper-dialog
 @@*video*fbcdn.net^$xhr
 @@/ad*$3p,frame,domain=dropbox.com|dropboxusercontent.com
 @@/ad*$3p,image,domain=alexstuff.ru|wow-land.ucoz.ru|dropbox.com|dropboxusercontent.com
-@@/ad*$first-party,script,domain=filmix.net|remoteshaman.com|vtomske.ru|softcatalog.info
+@@/ad*$1p,script,domain=filmix.net|remoteshaman.com|vtomske.ru|softcatalog.info
 @@adfox*$xhr,domain=coub.com
-@@advert*$first-party,script,domain=anistar.me|kinomassa.net|tjournal.ru|qrz.ru
+@@advert*$1p,script,domain=anistar.me|kinomassa.net|tjournal.ru|qrz.ru
 @@openx*$domain=igromania.ru
 @@||1internet.tv^$image,domain=1tv.ru
 @@||1internet.tv^$xhr,domain=1tv.ru
