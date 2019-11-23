@@ -1,7 +1,7 @@
 ﻿@@$css
 @@$font
 @@$media
-! UPD: 2019.11.22
+!
 ! Title: SM
 !
 &ad*$script,frame,domain=~spcs.me|~spac1.com|~spac.me|~strip2.xxx
@@ -2142,7 +2142,6 @@ ok.ru##[class="invis-el"]
 ok.ru##[id*="TopContent"]
 ok.ru##[id="hook_Block_PMailRu"]
 opengapps.org##[class^="mdl-snackbar"]
-opennet.ru##[align="RIGHT"]
 overclockers.ru##script:inject(bab-defuser.js)
 pogoda.mail.ru##[class="block block_footer block_index"]
 pogoda.mail.ru##[class="grid"]
@@ -2392,6 +2391,7 @@ youtube.com##iron-overlay-backdrop,paper-dialog
 @@||mastarti.com^$domain=mastarti.com|my-hithd.ru
 @@||matchid.adfox.yandex.ru^
 @@||media.eagleplatform.com^$frame,domain=video.rambler.ru
+@@||music.yandex.ru^$script,domain=yandex.ru
 @@||myvideopl.com^$frame,domain=dream-film.tv
 @@||ndcdn.com/media/$xhr
 @@||piguiqproxy.com^$xhr,3p
