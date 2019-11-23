@@ -100,8 +100,8 @@
 *bann*$3p,~image,~xhr
 *bann*$script
 *bann*.html|
-*banner*$3p,~image
 *banner*$1p,xhr
+*banner*$3p,~image
 *banner.$3p,~image
 *banner/*php$3p
 *banr.
@@ -142,8 +142,8 @@
 *cnt|
 *context*$3p
 *cookie*consent*
-*count*$3p,domain=~youtube.com
 *count*$1p,script,image,domain=~livejournal.com
+*count*$3p,domain=~youtube.com
 *criteo*
 *crypt*$script,3p
 *dbclic*
@@ -978,7 +978,6 @@ _seo*$script
 ||go2$3p
 ||go3$3p
 ||gogettop.ru^
-||goldline.pro^$3p
 ||goo.gl^
 ||good*$3p
 ||google.com*/button.js?ver=
@@ -1023,7 +1022,6 @@ _seo*$script
 ||hypercomments.com^$3p
 ||i-$3p,~image
 ||i.ua^$3p
-||iclbodnew.pro^
 ||iconosquare.com^
 ||icq*$3p,~image
 ||id.rambler.ru^$3p
@@ -1186,7 +1184,6 @@ _seo*$script
 ||mine*$3p
 ||mirtesen.ru^$3p
 ||mix*$3p
-||mneniya.pro^$3p
 ||mob*$3p,domain=~smotri.com
 ||mochi*.com*
 ||modern.ie^
@@ -1311,6 +1308,7 @@ _seo*$script
 ||pr0gramm.com^
 ||pri*$3p
 ||pro*$3p,domain=~prom.ua|~tiu.ru|~com.ua
+||pro/$3p,script,popunder,frame
 ||prre.ru^
 ||psmardr.com^
 ||pubmatic.com^
