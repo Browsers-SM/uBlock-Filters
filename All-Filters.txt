@@ -1649,7 +1649,7 @@ _seo*$script
 ! МНОЖЕСТВЕННЫЕ
 *$first-party,domain=block.mts.ru
 *$popunder,3p,domain=pornhub.com|redtube.com
-*$popup,domain=dverser.ru|film-adult.com|imagebam.com|joyreactor.cc|kordonivkakino.net|rustorka.com|tracelive.ru|apkpure.com|ok.ru|apkfind.com
+*$popup,domain=dverser.ru|film-adult.com|imagebam.com|joyreactor.cc|kordonivkakino.net|rustorka.com|tracelive.ru|apkpure.com|ok.ru|apkfind.com|z1.fm
 *$3p,domain=fastpic.ru|imageban.ru|imagevenue.com|lg.com|tinypic.com|adriver.ru|free1img.ru|free2img.ru|free3img.ru|radikal.ru
 *$websocket,domain=~animevost.org|~mibbit.com|~video.rambler.ru|~whatsapp.com|~smotri.com|~videochatka.net|~yandex.ru|~twitch.tv|~send.firefox.com|~ria.ru|~github.com
 *adblo*$image,script,domain=~adblockplus.me|~adblockplus.org|~filmix.net|~ghacks.net
