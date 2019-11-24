@@ -656,7 +656,7 @@ _seo*$script
 ||adforce.ru^
 ||adhands.ru^
 ||adm*$3p
-||adnext.net^
+||adn*$3p
 ||adregain.ru^
 ||ads*$3p
 ||adservice.
@@ -929,6 +929,7 @@ _seo*$script
 ||exdex.ru^$3p
 ||exdiy.ru^$3p
 ||ext$3p
+||ezoic.net^
 ||facebook.$3p
 ||facetz.net^
 ||faggrim.com^
