@@ -1655,7 +1655,7 @@ _seo*$script
 *code*$3p,script,domain=~yota.ru|~code.jquery.com|~market.pochta.ru|~ren.tv|~icecreamapps.com|~codeplex.com|~microsoft.com|~ntp-servers.net|~opengapps.org|~invi.tv|~bitbucket.org|~nnmclub.to|~nnmclub.ch|~yandex.ru
 *popunder*$~xhr,domain=~cackle.me|~mail.ru|~miuipro.ru|~onlinezakladki.ru|~support.kaspersky.ru|~livejournal.com|~rian.ru|~vk.com|~dns-shop.ru|~photosight.ru
 *social*$~image,domain=~vivaldi.net|~mail.ru|~microsoft.com|~mail.yandex.ru|~miuipro.ru|~otkritkiok.ru|~trinixy.ru|~3dn.ru|~at.ua|~clan.su|~do.am|~moy.su|~p0.ru|~ucoz.com|~ucoz.es|~ucoz.net|~ucoz.org|~ucoz.ru|~google.com|~google.ru|~ria.ru|~tabor.ru
-*stat*$3p,domain=~360totalsecurity.com|~7days.ru|~acestream.org|~avast.ru|~bbc.com|~beboo.ru|~bonprix.ru|~careerjet.ru|~championat.com|~cnet.com|~cyberforum.ru|~dailymotion.com|~ebay.com|~edarling.ru|~facebook.com|~gitlab.com|~googleusercontent.com|~huawei.com|~itunes.apple.com|~ivbb.ru|~kat.cr|~kinopoisk.ru|~lightningmaps.org|~line.me|~linkedin.com|~microsoft.com|~mirtesen.ru|~nn.ru|~office.com|~photobucket.com|~pogodanakarte.ru|~reddit.com|~redditmedia.com|~redditstatic.com|~rutracker.net|~rutracker.org|~shuruping.ru|~shuruping.ru|~sima-land.ru|~softpedia.com|~stackexchange.com|~steampowered.com|~stihl.ru|~teamviewer.com|~tiu.ru|~tjournal.ru|~tjournal.ru|~twitch.tv|~vc.ru|~wix.com|~womanhit.ru|~worldoftanks.ru|~yadi.sk|~yandex.ru|~youla.ru|~youpornru.com|~livejournal.com|~login.aliexpress.com|~redtube.com|~mail.ru|~wmbcdn.com|~youtube.com|~my-hithd.ru|~tsearch.me|~ok.ru|~mycdn.me|~jd.ru|~olx.ua|~blogspot.ru|~blogspot.com|~yandex.com|~net.ua|~ria.com|~prom.ua|~wildberries.ru|~com.ua|~google.ru|~google.com|~megogo.net|~megogo.ru
+*stat*$3p,domain=~360totalsecurity.com|~7days.ru|~acestream.org|~avast.ru|~bbc.com|~beboo.ru|~bonprix.ru|~careerjet.ru|~championat.com|~cnet.com|~cyberforum.ru|~dailymotion.com|~ebay.com|~edarling.ru|~facebook.com|~gitlab.com|~googleusercontent.com|~huawei.com|~itunes.apple.com|~ivbb.ru|~kat.cr|~kinopoisk.ru|~lightningmaps.org|~line.me|~linkedin.com|~microsoft.com|~mirtesen.ru|~nn.ru|~office.com|~photobucket.com|~pogodanakarte.ru|~reddit.com|~redditmedia.com|~redditstatic.com|~rutracker.net|~rutracker.org|~shuruping.ru|~shuruping.ru|~sima-land.ru|~softpedia.com|~stackexchange.com|~steampowered.com|~stihl.ru|~teamviewer.com|~tiu.ru|~tjournal.ru|~tjournal.ru|~twitch.tv|~vc.ru|~wix.com|~womanhit.ru|~worldoftanks.ru|~yadi.sk|~yandex.ru|~youla.ru|~youpornru.com|~livejournal.com|~login.aliexpress.com|~redtube.com|~mail.ru|~wmbcdn.com|~youtube.com|~my-hithd.ru|~tsearch.me|~ok.ru|~mycdn.me|~jd.ru|~olx.ua|~blogspot.ru|~blogspot.com|~yandex.com|~net.ua|~ria.com|~prom.ua|~wildberries.ru|~com.ua|~google.ru|~google.com|~megogo.net|~megogo.ru|~tutu.ru
 .html|$domain=rutracker.org|pornolab.net|pornolab.cc|thepiratebay.org|apkfind.com
 |blob:*$domain=~mail.yandex.ru|~google.com|~google.ru|~embed.life.ru|~mega.nz|~ok.ru|~vk.com
 ||com/$3p,script,domain=nnmclub.to
@@ -2283,6 +2283,7 @@ youtube.com##iron-overlay-backdrop,paper-dialog
 @@||mail.yandex.net^$domain=mail.yandex.ru
 @@||main.imgclick.net^$image,domain=mskd-ru.net
 @@||maps.googleapis.com^
+@@||maps.gstatic.com^
 @@||market.yandex.ru^$xhr,domain=market.yandex.ru
 @@||mc.yandex.ru^$domain=maxidom.ru|player.1tv.com
 @@||mc.yandex.ru^$script,domain=ucweb.com
