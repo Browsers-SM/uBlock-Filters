@@ -928,7 +928,7 @@ _seo*$script
 ||exdex.ru^$3p
 ||exdiy.ru^$3p
 ||ext$3p
-||ezoic.net^
+||ezoic.
 ||facebook.$3p
 ||facetz.net^
 ||faggrim.com^
@@ -1326,6 +1326,7 @@ _seo*$script
 ||qr*$3p
 ||qua*$3p
 ||quintura.
+||quora.com^$3p
 ||qxyam.com^
 ||r.$popup,script,frame,domain=~microsoft.com
 ||r.mail.*gif|$domain=~mail.ru
