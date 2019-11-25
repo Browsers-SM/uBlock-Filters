@@ -1649,19 +1649,19 @@ _seo*$script
 ! МНОЖЕСТВЕННЫЕ
 *$1p,domain=block.mts.ru
 *$popunder,3p,domain=pornhub.com|redtube.com
-*$popup,domain=dverser.ru|film-adult.com|imagebam.com|joyreactor.cc|kordonivkakino.net|rustorka.com|tracelive.ru|apkpure.com|ok.ru|apkfind.com|z1.fm
-*$3p,domain=fastpic.ru|imageban.ru|imagevenue.com|lg.com|tinypic.com|adriver.ru|free1img.ru|free2img.ru|free3img.ru|radikal.ru
-*$websocket,domain=~animevost.org|~mibbit.com|~video.rambler.ru|~whatsapp.com|~smotri.com|~videochatka.net|~yandex.ru|~twitch.tv|~send.firefox.com|~ria.ru|~github.com
+*$popup,domain=apkfind.com|apkpure.com|dverser.ru|film-adult.com|imagebam.com|joyreactor.cc|kordonivkakino.net|ok.ru|rustorka.com|tracelive.ru|z1.fm
+*$3p,domain=adriver.ru|fastpic.ru|free1img.ru|free2img.ru|free3img.ru|imageban.ru|imagevenue.com|lg.com|radikal.ru|tinypic.com
+*$websocket,domain=~animevost.org|~github.com|~mibbit.com|~ria.ru|~send.firefox.com|~smotri.com|~twitch.tv|~video.rambler.ru|~videochatka.net|~whatsapp.com|~yandex.ru
 *adblo*$image,script,domain=~adblockplus.me|~adblockplus.org|~filmix.net|~ghacks.net
-*code*$3p,script,domain=~yota.ru|~code.jquery.com|~market.pochta.ru|~ren.tv|~icecreamapps.com|~codeplex.com|~microsoft.com|~ntp-servers.net|~opengapps.org|~invi.tv|~bitbucket.org|~nnmclub.to|~nnmclub.ch|~yandex.ru
-*popunder*$~xhr,domain=~cackle.me|~mail.ru|~miuipro.ru|~onlinezakladki.ru|~support.kaspersky.ru|~livejournal.com|~rian.ru|~vk.com|~dns-shop.ru|~photosight.ru
-*social*$~image,domain=~vivaldi.net|~mail.ru|~microsoft.com|~mail.yandex.ru|~miuipro.ru|~otkritkiok.ru|~trinixy.ru|~3dn.ru|~at.ua|~clan.su|~do.am|~moy.su|~p0.ru|~ucoz.com|~ucoz.es|~ucoz.net|~ucoz.org|~ucoz.ru|~google.com|~google.ru|~ria.ru|~tabor.ru
+*code*$3p,script,domain=~bitbucket.org|~code.jquery.com|~codeplex.com|~icecreamapps.com|~invi.tv|~market.pochta.ru|~microsoft.com|~nnmclub.ch|~nnmclub.to|~ntp-servers.net|~opengapps.org|~ren.tv|~yandex.ru|~yota.ru
+*popunder*$~xhr,domain=~cackle.me|~dns-shop.ru|~livejournal.com|~mail.ru|~miuipro.ru|~onlinezakladki.ru|~photosight.ru|~rian.ru|~support.kaspersky.ru|~vk.com
+*social*$~image,domain=~3dn.ru|~at.ua|~clan.su|~do.am|~google.com|~google.ru|~mail.ru|~mail.yandex.ru|~microsoft.com|~miuipro.ru|~moy.su|~otkritkiok.ru|~p0.ru|~ria.ru|~tabor.ru|~trinixy.ru|~ucoz.com|~ucoz.es|~ucoz.net|~ucoz.org|~ucoz.ru|~vivaldi.net
 *stat*$3p,domain=~360totalsecurity.com|~7days.ru|~acestream.org|~avast.ru|~bbc.com|~beboo.ru|~blogspot.com|~blogspot.ru|~bonprix.ru|~careerjet.ru|~championat.com|~cnet.com|~com.ua|~cyberforum.ru|~dailymotion.com|~ebay.com|~edarling.ru|~facebook.com|~gitlab.com|~google.com|~google.ru|~googleusercontent.com|~huawei.com|~itunes.apple.com|~ivbb.ru|~jd.ru|~kat.cr|~kinopoisk.ru|~lightningmaps.org|~line.me|~linkedin.com|~livejournal.com|~login.aliexpress.com|~mail.ru|~megogo.net|~megogo.ru|~microsoft.com|~mirtesen.ru|~my-hithd.ru|~mycdn.me|~net.ua|~nn.ru|~office.com|~ok.ru|~olx.ua|~photobucket.com|~pogodanakarte.ru|~prom.ua|~reddit.com|~redditmedia.com|~redditstatic.com|~redtube.com|~ria.com|~rutracker.net|~rutracker.org|~shuruping.ru|~shuruping.ru|~sima-land.ru|~softpedia.com|~stackexchange.com|~steampowered.com|~stihl.ru|~teamviewer.com|~tiu.ru|~tjournal.ru|~tjournal.ru|~tsearch.me|~tutu.ru|~twitch.tv|~vc.ru|~wildberries.ru|~wix.com|~wmbcdn.com|~womanhit.ru|~worldoftanks.ru|~yadi.sk|~yandex.com|~yandex.ru|~youla.ru|~youpornru.com|~youtube.com
-.html|$domain=rutracker.org|pornolab.net|pornolab.cc|thepiratebay.org|apkfind.com
-|blob:*$domain=~mail.yandex.ru|~google.com|~google.ru|~embed.life.ru|~mega.nz|~ok.ru|~vk.com
+.html|$domain=apkfind.com|pornolab.cc|pornolab.net|rutracker.org|thepiratebay.org
+|blob:*$domain=~embed.life.ru|~google.com|~google.ru|~mail.yandex.ru|~mega.nz|~ok.ru|~vk.com
 ||com/$3p,script,domain=nnmclub.to
 ||porn*$3p,domain=~redtube.com
-||ru/$3p,script,domain=3dn.ru|at.ua|clan.su|do.am|moy.su|p0.ru|ucoz.com|ucoz.es|ucoz.net|ucoz.org|ucoz.ru|fotobab.ru|spcs.me|vbabe.mobi|browsers-sm.3dn.ru|eromo.org|sefan.ru|erobab.com|spac1.com|spac.me|strip2.xxx
+||ru/$3p,script,domain=3dn.ru|at.ua|browsers-sm.3dn.ru|clan.su|do.am|erobab.com|eromo.org|fotobab.ru|moy.su|p0.ru|sefan.ru|spac.me|spac1.com|spcs.me|strip2.xxx|ucoz.com|ucoz.es|ucoz.net|ucoz.org|ucoz.ru|vbabe.mobi
 ||translate.google*$domain=рф|ru|su|~google.ru
 !
 ! ИНДИВИДУАЛЬНЫЕ
