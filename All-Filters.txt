@@ -2215,10 +2215,10 @@ youtube.com##iron-overlay-backdrop,paper-dialog
 @@$3p,domain=aliexpress.com
 @@$3p,image,domain=google.ru
 @@$3p,script,domain=chuyu.me
-@@$elemhide,domain=life-film.ru|lifehacker.com|mail.rambler.ru|mail.yandex.ru|e.mail.ru|msdn.microsoft.com|pcradio.ru|svyaznoy.ru|mail.google.com|accounts.google.com
-@@$frame,domain=spcs.me|spac1.com|spac.me|videochart.net|vk.com|youtube.googleapis.com|strip2.xxx
+@@$elemhide,domain=accounts.google.com|e.mail.ru|life-film.ru|lifehacker.com|mail.google.com|mail.rambler.ru|mail.yandex.ru|msdn.microsoft.com|pcradio.ru|svyaznoy.ru
+@@$frame,domain=spac.me|spac1.com|spcs.me|strip2.xxx|videochart.net|vk.com|youtube.googleapis.com
 @@$genericblock,domain=kp.ru
-@@$image,frame,script,domain=games.kanobu.ru|embed.kanobu.ru|api.kanobu.ru
+@@$image,frame,script,domain=api.kanobu.ru|embed.kanobu.ru|games.kanobu.ru
 @@$image,~3p,domain=ghacks.net
 @@$popup,domain=4pda.ru|findface.ru|google.com|google.ru|mail.ru|msn.com|samforum.org|yandex.ru
 @@$xhr,domain=mediametrics.ru|music.yandex.ru
@@ -2354,14 +2354,14 @@ youtube.com##iron-overlay-backdrop,paper-dialog
 !
 ! ПРОБЛЕМЫ С АУДИО/ВИДЕО, ВИДЕОРЕКЛАМА, БЕСКОНЕЧНАЯ ЗАГРУЗКА, ОБНАРУЖЕН AdBlock, ЗАПРЕТ ПРОСМОТРА
 @@$3p,domain=adcdn.tv
-@@$csp,domain=rutube.ru|ventusky.com|xvideos.com|invi.tv|bongacams.com|bongacams2.com|smotri.com
+@@$csp,domain=bongacams.com|bongacams2.com|invi.tv|rutube.ru|smotri.com|ventusky.com|xvideos.com
 @@$generichide,domain=2ip.ru|kino-dom.org|megogo.net|mozilla-russia.org|mts.ru|overclockers.ru
 @@$xhr,domain=my-hithd.ru|clastarti.cc
 @@*moonwalk*
 @@*video*fbcdn.net^$xhr
 @@/ad*$3p,frame,domain=dropbox.com|dropboxusercontent.com
-@@/ad*$3p,image,domain=alexstuff.ru|wow-land.ucoz.ru|dropbox.com|dropboxusercontent.com
-@@/ad*$1p,script,domain=filmix.net|remoteshaman.com|vtomske.ru|softcatalog.info
+@@/ad*$3p,image,domain=alexstuff.ru|dropbox.com|dropboxusercontent.com|wow-land.ucoz.ru
+@@/ad*$1p,script,domain=filmix.net|remoteshaman.com|softcatalog.info|vtomske.ru
 @@adfox*$xhr,domain=coub.com
 @@advert*$1p,script,domain=anistar.me|kinomassa.net|tjournal.ru|qrz.ru
 @@openx*$domain=igromania.ru
