@@ -958,6 +958,7 @@ _seo*$script
 ||fre*$3p,domain=~filebase.ws|~flaticon.com
 ||friendlyduck.com^
 ||frolvid.ru^
+||fundingchoicesmessages.google.com^
 ||futurico.ru^
 ||fwmrm.net^
 ||fxcd.ru^
@@ -1820,6 +1821,7 @@ spcs.me,spac1.com,spac.me,strip2.xxx#?##left_nav > div[class]:-abp-has([id*="Scr
 ||ulogin.ru^$3p
 !
 ! СУЩЕСТВУЮТ ПО ДОМЕНАМ 3-ГО УРОВНЯ.
+||3lift.com^
 ||aidata.io^
 ||akamaihd.net^$domain=~live.com|~coub.com|~invi.tv|~steampowered.com
 ||atdmt.com^
