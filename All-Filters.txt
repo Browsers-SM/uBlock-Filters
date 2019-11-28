@@ -2117,6 +2117,7 @@ habr.com##[class^="dfp-slot"]
 happymod.com##[class="fot-fixd"]
 igry-online.net##[target][href*="redir"]
 instagram.com#?#html > body,[role="main"]:style(background-color: #FAFAFA !important)
+kaifolog.ru##[class="share_img_overlay"]
 kinopoisk.ru##[data-popup-info]
 lamptest.ru##[class="sidebar"]
 livejournal.com##[class="getstartedwithlj"]
