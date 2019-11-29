@@ -98,7 +98,7 @@
 *baner.
 *banimg*
 *bann*$3p,~image,~xhr
-*bann*$script
+*bann*$script,domain=~superjob.ru
 *bann*.html|
 *banner*$1p,xhr
 *banner*$3p,~image
