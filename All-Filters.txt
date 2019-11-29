@@ -1407,6 +1407,7 @@ _seo*$script
 ||sdx.ru^
 ||sedoparking.com^
 ||see*$3p
+||segmentstream.com^
 ||selcdn.ru^
 ||semi-cod.com^
 ||sen*$3p
@@ -2192,7 +2193,6 @@ xyya.net##[style="width:220px;"][valign="top"][align="left"]
 yandex.ru##[class^="d-overhead"]
 yandex.ru##[class^="head-banner"]
 yandex.ru##[data-bem*="-ads."]
-yandex.ru##[data-bem*="browser"]
 yap.ru,yaplakal.com##[aria-label="Modal Window"]
 yap.ru,yaplakal.com##[data-axid],[id="news_1"] [id="swiffycontainer"]
 yap.ru,yaplakal.com##[href*="/go/?http"]
