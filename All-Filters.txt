@@ -313,7 +313,7 @@
 *show.php?$3p
 *showads*
 *showban*
-*site*$3p,domain=~com.ua
+*site*$3p,domain=~com.ua|~irr.ru
 *smallad*
 *smartban*
 *smartsize*
