@@ -232,7 +232,7 @@
 *myads*
 *newban*
 *newclk*
-*news*$3p,~image,domain=~ria.com|~bigmir.net|~yandex.ru|~yastatic.net
+*news*$3p,~image,domain=~ria.com|~bigmir.net|~yandex.ru|~yastatic.net|~pulscen.ru
 *nwgsm*
 *online.dll*
 *opena*$script
