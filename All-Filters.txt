@@ -1721,7 +1721,6 @@ _seo*$script
 ||nnmclub.ch/*/xvideo*
 ||ok.ru/res/css/$xhr,domain=ok.ru
 ||ok.ru/web-api/pixel?
-||opennet.ru/getname*
 ||overclockers.ru/*/app.js|
 ||pcportal.org/_.gif|
 ||piccash.net/tpl/*
