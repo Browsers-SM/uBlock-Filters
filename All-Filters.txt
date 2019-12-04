@@ -2185,7 +2185,6 @@ trinixy.ru##[class^="header-0"]
 trinixy.ru##[id="slideout"]
 virusinfo.info##[id="headbr"]
 vk.com##[class="profile_rate_warning"]
-vk.com##[id^="box_layer"]
 whoer.net##[class="section section_white section_plans"]
 xvideos.com##[id$="-messages"]
 xvideos.com#?#html > body:style(background-color: #967554 !important)
