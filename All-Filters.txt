@@ -507,7 +507,7 @@
 /ga_
 /geo*php|$3p
 /geo/*$xhr
-/get.$script
+/get.$3p,script
 /getinf*
 /go.$frame
 /go.js*$domain=~unicode-table.com
