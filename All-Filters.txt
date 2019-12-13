@@ -507,7 +507,7 @@
 /ga_
 /geo*php|$3p
 /geo/*$xhr
-/get.$3p,script
+/get.$script
 /getinf*
 /go.$frame
 /go.js*$domain=~unicode-table.com
@@ -2280,6 +2280,7 @@ youtube.com##iron-overlay-backdrop,paper-dialog
 @@||kh.google.com^$xhr,domain=google.ru|google.com
 @@||kinoafisha.info/js/*$domain=kinoafisha.msk.ru|kinoafisha.spb.ru
 @@||klcheck.com^$domain=bigmir.net
+@@||kpcdn.net^$domain=kp.ru
 @@||lightningmaps.org^$domain=lightningmaps.org
 @@||liveinternet.ru^$domain=liveinternet.ru|li.ru
 @@||liveleak.com^$frame
