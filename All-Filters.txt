@@ -678,7 +678,7 @@ _seo*$script
 ||alkodesign.ru^
 ||all*$3p,domain=~kp.ru
 ||alonged.com^
-||am*$3p,domain=~aliexpress.com|~youla.ru|~jd.ru|~bigmir.net|~kyivstar.ua
+||am*$3p,domain=~aliexpress.com|~aliexpress.ru|~youla.ru|~jd.ru|~bigmir.net|~kyivstar.ua
 ||an.
 ||android.com^$3p
 ||anniere.com^
@@ -1143,7 +1143,7 @@ _seo*$script
 ||ljteas.com^
 ||load*$3p
 ||localytics.com^
-||log*$3p,domain=~bing.com|~msn.com
+||log*$3p,domain=~bing.com|~msn.com|~aliexpress.ru|~aliexpress.com
 ||log.
 ||longtailvideo.com^
 ||lostun.com^
@@ -2217,7 +2217,7 @@ youtube.com##[id="ticker"]
 youtube.com##iron-overlay-backdrop,paper-dialog
 !
 ! ИСКЛЮЧЕНИЯ
-@@$3p,domain=aliexpress.com
+@@$3p,domain=aliexpress.com|aliexpress.ru
 @@$3p,image,domain=google.ru
 @@$3p,script,domain=chuyu.me
 @@$elemhide,domain=accounts.google.com|e.mail.ru|life-film.ru|lifehacker.com|mail.google.com|mail.rambler.ru|mail.yandex.ru|msdn.microsoft.com|pcradio.ru|svyaznoy.ru
@@ -2244,7 +2244,8 @@ youtube.com##iron-overlay-backdrop,paper-dialog
 @@||192.168.8.1
 @@||adobe.com^$script,domain=adobe.com
 @@||akamaized.net^$domain=olx.ua
-@@||ali*$domain=alibaba.com|aliexpress.com|alipay.com|aliapp.org|akamaihd.net
+@@||ali*$domain=alibaba.com|aliexpress.com|aliexpress.ru|alipay.com|aliapp.org|akamaihd.net
+@@||alicdn.com^$domain=aliexpress.ru|aliexpress.com
 @@||alleyadoma.ru^$domain=alleyadoma.ru
 @@||api.cybergame.tv^
 @@||api.github.com^$domain=opengapps.org
