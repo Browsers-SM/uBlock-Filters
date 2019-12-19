@@ -674,7 +674,7 @@ _seo*$script
 ||aisol.ru^
 ||aixcdn.com^
 ||alfainternet.$3p
-||ali*$3p
+||ali*$3p,domain=~aliexpress.com|~aliexpress.ru
 ||alkodesign.ru^
 ||all*$3p,domain=~kp.ru
 ||alonged.com^
