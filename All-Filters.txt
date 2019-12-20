@@ -1545,6 +1545,7 @@ _seo*$script
 ||uuaoy.com^
 ||uvcwj.com^
 ||v.$3p,domain=~reddit.com
+||vadideo.com^
 ||variti.net^
 ||vaselisk.com^
 ||vashkontrol.ru^$3p
