@@ -173,7 +173,7 @@
 *gif?id*
 *girl*$frame
 *goog*anal*
-*google*tag*$domain=~youtube.com
+*goog*tag*$domain=~youtube.com
 *googlead*
 *goto*url=$popup,script
 *gravityrd*
@@ -260,8 +260,8 @@
 *ping*$script,frame
 *piwik*$script
 *pixel*$script,domain=~pixelbrush.ru
-*pixel.gif?$3p
-*pixel.php*$3p
+*pixel*.gif?$3p
+*pixel*.php*$3p
 *poker*$3p
 *pop.$script,frame
 *popads*
@@ -459,7 +459,7 @@
 /b3*$3p,script,domain=~mail.yandex.ru
 /b?$~image
 /b_$~image
-/b_*sex
+/b_*sex*
 /ban&
 /ban*.html|
 /ban*?rnd=
@@ -480,7 +480,7 @@
 /bc.$script
 /bn-
 /bn/*
-/Bnr*$script,frame
+/bnr*$script,frame
 /bns*
 /bpl*$script
 /br-
