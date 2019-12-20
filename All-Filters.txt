@@ -3,6 +3,8 @@
 @@$media
 !
 ! Title: SM
+! Time
+*new*year*$script
 !
 &ad*$script,frame,domain=~spcs.me|~spac1.com|~spac.me|~strip2.xxx
 &aid*$~image
