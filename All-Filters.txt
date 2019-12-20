@@ -30,7 +30,7 @@
 &tds-$popup
 &tiz*$3p
 *2bears*
-*ad*?r*$domain=~spcs.me|~spac1.com|~spac.me|~strip2.xxx
+*ad*?r*$domain=~spcs.me|~spac1.com|~spac.me|~strip2.xxx|~turboserial.net
 *adbot*
 *adds*$script,frame
 *addthis*
