@@ -2204,6 +2204,7 @@ yap.ru,yaplakal.com##[id="scrollTop"]
 yap.ru,yaplakal.com##[id="top-line"]>[href*="yaplakal.com/go/"]
 yap.ru,yaplakal.com##[id="top-line"][class="no-compress"]:not(#header-flash)
 yap.ru,yaplakal.com##[id^="news"] [href*="facebook"][target]
+yap.ru,yaplakal.com##[id^="news"] [href*="instagram"][target]
 yap.ru,yaplakal.com##[id^="news"] [href*="twitter"][target]
 yap.ru,yaplakal.com##[id^="news"] [href*="vk.com"][target]
 yap.ru,yaplakal.com##[id^="news_"] [href*="javascript"]
