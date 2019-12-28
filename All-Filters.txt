@@ -282,6 +282,7 @@
 *promo*popunder*$script
 *promo*popup*$script
 *promo.$popup,3p
+*push*$3p
 *radio*$3p,~image
 *random*$popup
 *rblock*$xhr,domain=~ok.ru
@@ -664,6 +665,7 @@ _seo*$script
 ||adservice.
 ||adtidy.net^
 ||adv*$3p
+||adw*$3p
 ||adx*$3p
 ||aflt.market.yandex.ru^
 ||agava.ru^$3p
