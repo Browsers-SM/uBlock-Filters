@@ -32,6 +32,7 @@
 &tds-$popup
 &tiz*$3p
 *2bears*
+*4u.$3p,script
 *ad*?r*$domain=~spcs.me|~spac1.com|~spac.me|~strip2.xxx|~turboserial.net
 *adbot*
 *adds*$script,frame
@@ -282,7 +283,7 @@
 *promo*popunder*$script
 *promo*popup*$script
 *promo.$popup,3p
-*push*$3p
+*push*$3p,~image
 *radio*$3p,~image
 *random*$popup
 *rblock*$xhr,domain=~ok.ru
@@ -1369,7 +1370,6 @@ _seo*$script
 ||revolvermaps.com^
 ||rfity.com^
 ||rich*$3p
-||rk.keep4u.ru^
 ||rlbn.ru^
 ||rle.ru^
 ||rmb*
