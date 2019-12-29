@@ -1293,7 +1293,7 @@ _seo*$script
 ||picoshot.com^$3p,script
 ||picsomania.net^
 ||piguiqproxy.com^
-||pin*$3p
+||pin*$3p,domain=~pinterest.com.au
 ||pippio.com^
 ||piroji.com^
 ||pixfuture.net^
@@ -1315,7 +1315,7 @@ _seo*$script
 ||pr.
 ||pr0gramm.com^
 ||pri*$3p
-||pro*$3p,domain=~prom.ua|~tiu.ru|~com.ua|~ogosex.me
+||pro*$3p,domain=~prom.ua|~tiu.ru|~com.ua
 ||pro/$3p,script,popunder,frame
 ||prre.ru^
 ||psmardr.com^
@@ -2319,7 +2319,7 @@ youtube.com##iron-overlay-backdrop,paper-dialog
 @@||paymentnew.ok.ru^$domain=ok.ru
 @@||paypal*$domain=paypal.com
 @@||phncdn.com^$domain=redtube.com|pornhub.com
-@@||pinimg.com^$domain=pinterest.ru|pinterest.com|pinterest.at
+@@||pinimg.com^$domain=pinterest.ru|pinterest.com|pinterest.at|pinterest.com.au|pinterest.ph|pinterest.it|pinterest.fr
 @@||pipec.info^$domain=ucrazy.ru
 @@||plus.google.com^$domain=plus.google.com|youtube.com
 @@||portal.mail.ru^$xhr,domain=mail.ru
