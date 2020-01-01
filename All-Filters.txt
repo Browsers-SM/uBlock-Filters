@@ -2185,6 +2185,7 @@ tabor.ru##[class="search-list__item-widget"]
 tabor.ru##[class="section__head__name"],[class="online"]
 tabor.ru##[class="user-day user-day_w"]
 tabor.ru##[id="top_anketa_content_action"]
+tabor.ru##[onclick*="day_click_profile"]
 tabor.ru,send.firefox.com#?#html > body:style(background-color: #FFDEB9 !important)
 tapochek.net###sidebar1
 tapochek.net##[id^="fuck"]
