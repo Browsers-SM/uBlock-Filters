@@ -2313,6 +2313,7 @@ youtube.com##iron-overlay-backdrop,paper-dialog
 @@||mycdn.me/uploadImage?$domain=ok.ru
 @@||nnm*club.*forum/filelst*$script
 @@||nnm*club.*forum/speller*$script
+@@||ok.ru/adsmanager/$xhr,domain=ok.ru
 @@||ok.ru/adsmanager?$domain=ok.ru
 @@||ok.ru/dk*$xhr,domain=ok.ru
 @@||ok.ru/gifts?$xhr,domain=ok.ru
