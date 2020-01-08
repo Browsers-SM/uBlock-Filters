@@ -2377,9 +2377,9 @@ youtube.com##iron-overlay-backdrop,paper-dialog
 @@$xhr,domain=my-hithd.ru|clastarti.cc
 @@*moonwalk*
 @@*video*fbcdn.net^$xhr
+@@/ad*$1p,script,domain=filmix.net|remoteshaman.com|softcatalog.info|vtomske.ru
 @@/ad*$3p,frame,domain=dropbox.com|dropboxusercontent.com
 @@/ad*$3p,image,domain=alexstuff.ru|dropbox.com|dropboxusercontent.com|wow-land.ucoz.ru
-@@/ad*$1p,script,domain=filmix.net|remoteshaman.com|softcatalog.info|vtomske.ru
 @@adfox*$xhr,domain=coub.com
 @@advert*$1p,script,domain=anistar.me|kinomassa.net|tjournal.ru|qrz.ru
 @@openx*$domain=igromania.ru
@@ -2399,6 +2399,7 @@ youtube.com##iron-overlay-backdrop,paper-dialog
 @@||embed.theguardian.com^$frame,domain=ria.ru
 @@||facebook.com/plugins/video.php*
 @@||google-analytics.com^$script,domain=rt.ru
+@@||hdvb.info^$domain=octodb.info
 @@||ivi.ru/embeds/video*$frame,domain=ivi.ru
 @@||jamba.net^$domain=megogo.net
 @@||jwp*$script,domain=anistar.me
