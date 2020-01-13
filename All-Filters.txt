@@ -277,7 +277,7 @@
 *popun*$popup,script,image
 *ppndr*
 *printads*
-*profit*$script,frame
+*profit*$script,frame,domain=~vezemdetal.ru
 *promo*.com^$3p,popunder,domain=~youtube.com
 *promo*.mp4|
 *promo*.ru^$3p,popunder
