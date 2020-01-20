@@ -841,6 +841,7 @@ _seo*$script
 ||cookiebot.com^
 ||cooster.ru^
 ||copercato.com^
+||copyright-law.ru^
 ||cp*$3p
 ||cp*$popup,popunder
 ||cqc.ru^
