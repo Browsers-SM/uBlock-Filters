@@ -1795,6 +1795,7 @@ spcs.me,spac1.com,spac.me,strip2.xxx,spaces.im##[href*="/jf5oox6g/"]
 spcs.me,spac1.com,spac.me,strip2.xxx,spaces.im##[id="about_spaces"]
 spcs.me,spac1.com,spac.me,strip2.xxx,spaces.im##[id="common_error"]
 spcs.me,spac1.com,spac.me,strip2.xxx,spaces.im#?##left_nav > div[class]:-abp-has([id*="ScriptRoot"])
+||m*.spaces.im^$script
 ||m*.spcs.me^$script
 ||mtp.*strip2.*
 !
