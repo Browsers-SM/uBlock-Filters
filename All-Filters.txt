@@ -278,7 +278,6 @@
 *promo*popup*$script
 *promo.$popup,3p
 *push*$3p,~image
-*radio*$3p,~image
 *random*$popup
 *rblock*$xhr,domain=~ok.ru
 *rbn.
