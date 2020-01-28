@@ -1058,7 +1058,7 @@ _seo*$script
 ||int*$3p,domain=~yandex.ru
 ||invi.tv^$3p
 ||io.lv^
-||io^$3p,xhr,domain=~comss.ru|~youla.ru
+||io^$3p,xhr,domain=~comss.ru|~youla.ru|~radio.pp.ru
 ||ioredi.com^
 ||ipify.org^$3p
 ||iqbuzz.ru^
