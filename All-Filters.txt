@@ -2354,6 +2354,7 @@ youtube.com##iron-overlay-backdrop,paper-dialog
 @@||yandex.ru/*player*$frame,domain=yandex.ru|yastatic.net
 @@||yandex.ru/*video*$domain=yandex.ru
 @@||yandex.ru/images/search*$xhr
+@@||yandex.ru/maps/$domain=yandex.ru
 @@||yandex.ru/pogoda/$csp
 @@||yandex.ru/weather/$script,xhr
 @@||yastatic.net*/auth2/$domain=disk.yandex.com|disk.yandex.ru
