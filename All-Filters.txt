@@ -148,7 +148,7 @@
 *delivery*$3p
 *deneg*$3p
 *digital*$3p,domain=~kyivstar.ua
-*direct*$3p,script,frame,popup
+*direct*$3p,script,frame,popup,domain=~accounts.google.com
 *disqus*
 *dmca*$3p,domain=~dmca.com|~stackpathdns.com
 *domainid*
