@@ -148,7 +148,7 @@
 *delivery*$3p
 *deneg*$3p
 *digital*$3p,domain=~kyivstar.ua
-*direct*$3p,script,frame,popup,domain=~accounts.google.com
+*direct*$3p,script,frame,popup
 *disqus*
 *dmca*$3p,domain=~dmca.com|~stackpathdns.com
 *domainid*
@@ -2246,6 +2246,7 @@ youtube.com##iron-overlay-backdrop,paper-dialog
 @@/app*$document,domain=my.mail.ru|vk.com
 @@thumb*$image
 @@||192.168.8.1
+@@||accounts.google.com^$popup
 @@||adobe.com^$script,domain=adobe.com
 @@||akamaized.net^$domain=olx.ua
 @@||ali*$domain=alibaba.com|aliexpress.com|aliexpress.ru|alipay.com|aliapp.org|akamaihd.net
