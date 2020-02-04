@@ -184,7 +184,7 @@
 *iframead*
 *image*/ads*
 *image*/promo*
-*image.php?$3p,domain=~nnmclub.to|~nnmassets.cf|~nnmclub.ch
+*image.php?$3p,domain=~nnmclub.to|~nnmclub.ch
 *imageads*
 *img*/promo*$domain=~linkyou.ru
 *imgads*
@@ -1669,9 +1669,9 @@ _seo*$script
 !
 ! ИНДИВИДУАЛЬНЫЕ
 *$script,xhr,domain=imgbun.ru
-*$xhr,3p,domain=nnmclub.to|nnmassets.cf|nnmclub.ch
+*$xhr,3p,domain=nnmclub.to|nnmclub.ch
 *gobro.mail.ru/
-*image.php?link*gif|$domain=nnmclub.to|nnmassets.cf|nnmclub.ch
+*image.php?link*gif|$domain=nnmclub.to|nnmclub.ch
 *toplink*$xhr,domain=habr.com|~tmfeed.ru
 .free*img.ru*$script
 .yashik.tv^
@@ -1717,7 +1717,6 @@ _seo*$script
 ||n-ssl.ria.ru/polling*
 ||n.ria.ru^
 ||nnm*club.*/city*$script
-||nnmassets.cf/*/xvideo*
 ||nnmclub.ch/*/xvideo*
 ||ok.ru/res/css/$xhr,domain=ok.ru
 ||ok.ru/web-api/pixel?
@@ -1745,7 +1744,7 @@ _seo*$script
 ||wek.ru^$domain=dezinfo.net
 ||xda-developers.com/*.php*$xhr
 ||xyya.net/sha*$script
-||yahooapis.com^$domain=nnmclub.to|nnmassets.cf|nnmclub.ch
+||yahooapis.com^$domain=nnmclub.to|nnmclub.ch
 ||yapfiles.ru*html5.js|
 ||yapfiles.ru/components/videojs/*
 ||yapfiles.ru/uploads/branddata/*
