@@ -1662,7 +1662,7 @@ _seo*$script
 *stat*$3p,domain=~360totalsecurity.com|~7days.ru|~acestream.org|~avast.ru|~bbc.com|~beboo.ru|~blogspot.com|~blogspot.ru|~bonprix.ru|~careerjet.ru|~championat.com|~cnet.com|~com.ua|~cyberforum.ru|~dailymotion.com|~ebay.com|~edarling.ru|~facebook.com|~gitlab.com|~google.com|~google.ru|~googleusercontent.com|~huawei.com|~itunes.apple.com|~ivbb.ru|~jd.ru|~kat.cr|~kinopoisk.ru|~lightningmaps.org|~line.me|~linkedin.com|~livejournal.com|~login.aliexpress.com|~mail.ru|~megogo.net|~megogo.ru|~microsoft.com|~mirtesen.ru|~my-hithd.ru|~mycdn.me|~net.ua|~nn.ru|~office.com|~ok.ru|~olx.ua|~photobucket.com|~pogodanakarte.ru|~prom.ua|~reddit.com|~redditmedia.com|~redditstatic.com|~redtube.com|~ria.com|~rutracker.net|~rutracker.org|~shuruping.ru|~shuruping.ru|~sima-land.ru|~softpedia.com|~stackexchange.com|~steampowered.com|~stihl.ru|~teamviewer.com|~tiu.ru|~tjournal.ru|~tjournal.ru|~tsearch.me|~tutu.ru|~twitch.tv|~vc.ru|~wildberries.ru|~wix.com|~wmbcdn.com|~womanhit.ru|~worldoftanks.ru|~yadi.sk|~yandex.com|~yandex.ru|~youla.ru|~youpornru.com|~youtube.com|~irr.ru|~avito.ru
 .html|$domain=apkfind.com|pornolab.cc|pornolab.net|rutracker.org|thepiratebay.org
 |blob:*$domain=~embed.life.ru|~google.com|~google.ru|~mail.yandex.ru|~mega.nz|~ok.ru|~vk.com
-||com/$3p,script,domain=nnmclub.to
+||com/$3p,script,frame,domain=nnmclub.to
 ||porn*$3p,domain=~redtube.com
 ||ru/$3p,script,domain=3dn.ru|at.ua|browsers-sm.3dn.ru|clan.su|do.am|erobab.com|eromo.org|fotobab.ru|moy.su|p0.ru|sefan.ru|spac.me|spac1.com|spcs.me|strip2.xxx|spaces.im|ucoz.com|ucoz.es|ucoz.net|ucoz.org|ucoz.ru|vbabe.mobi
 ||translate.google*$domain=рф|ru|su|~google.ru
