@@ -2154,6 +2154,7 @@ overclockers.ru##script:inject(bab-defuser.js)
 pogoda.mail.ru##[class="block block_footer block_index"]
 pogoda.mail.ru##[class="grid"]
 pornolab.*,rustorka.com##[class="tCenter"]
+prosmart.by##[class="head_text"]
 prosmart.by##[id="txtselect_marker"]
 radikal.ru##[class="base-page_left-side"]
 redtube.com##[class^="announc"]
