@@ -193,6 +193,7 @@
 *js&key=$3p
 *js*/seo*$script
 *js*ads*$3p
+*js*targ*$script
 *js*utm*$script
 *js.php?id*
 *js/ads*
@@ -2189,6 +2190,7 @@ trinixy.ru##[class^="header-0"]
 trinixy.ru##[id="slideout"]
 virusinfo.info##[id="headbr"]
 vk.com##[class="profile_rate_warning"]
+vk.com##[id="system_msg"]
 whoer.net##[class="section section_white section_plans"]
 xvideos.com##[id$="-messages"]
 xvideos.com#?#html > body:style(background-color: #967554 !important)
