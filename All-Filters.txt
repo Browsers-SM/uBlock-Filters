@@ -2512,3 +2512,25 @@ yandex.ru##[href*="yandex.ru/clck/redir/"]
 @@$css,badfilter
 @@$font,badfilter
 @@$media,badfilter
+!
+! TEST
+||ba^$3p,css
+||bann^$3p,css
+||biz^$3p,css
+||by^$3p,css
+||bz/$3p,css
+||com/$3p,css,domain=nnmclub.to
+||consensu.org^$3p,css
+||de^$3p,css
+||i.ua^$3p,css
+||in^$3p,css
+||in^$3p,css
+||info/$3p,css
+||io^$3p,css
+||net//*$3p,css
+||ok.ru/res/css/prod/main/nb.$css
+||pro/$3p,css
+||pw^$3p,css
+||su^$3p,css
+||tk^$3p,css
+||vk.com/css/al/mrtarg.$css
