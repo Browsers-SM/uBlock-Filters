@@ -2509,9 +2509,7 @@ yandex.ru##[href*="yandex.ru/clck/redir/"]
 @@moz-extension://*$popup
 !
 ! NOT BLOCKED
-@@$css,badfilter
-@@$font,badfilter
-@@$media,badfilter
+@@$media
 !
 ! TEST CSS
 ||ba^$3p,css
