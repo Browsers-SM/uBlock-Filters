@@ -1139,7 +1139,7 @@ _seo*$script
 ||limo*$3p
 ||link*$3p,domain=~bigmir.net
 ||list-manage.com^
-||live*$3p,~image
+||live*$3p,~css,~image
 ||ljteas.com^
 ||load*$3p
 ||localytics.com^
