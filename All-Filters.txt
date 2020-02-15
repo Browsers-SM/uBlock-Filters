@@ -681,9 +681,7 @@ _seo*$script
 ||an.
 ||android.com^$3p
 ||anniere.com^
-||anthome.ru^
-||antisovetnic.ru^
-||antivirus-alarm.ru^$3p
+||ant*$3p
 ||api.rnet.plus^
 ||api.vk.*/likes*
 ||apis.google.com^
