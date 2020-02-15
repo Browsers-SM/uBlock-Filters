@@ -783,9 +783,7 @@ _seo*$script
 ||calltouch.ru^
 ||campanja.com^
 ||candy.vl.ru^
-||car-fin.ru^
-||carrotquest.io^
-||carveac.com^
+||car*$3p
 ||cash*$3p
 ||cdn.hgdat.com^
 ||cdn.mxpnl.com^
