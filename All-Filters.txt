@@ -27,7 +27,7 @@
 &tiz*$3p
 *2bears*
 *4u.$3p,script
-*ad*?r*$domain=~spcs.me|~spac1.com|~spac.me|~strip2.xxx|~turboserial.net|~spaces.im
+*ad*?r*$domain=~spcs.me|~spac1.com|~spac.me|~strip2.xxx|~turboserial.info|~spaces.im
 *adbot*
 *adds*$script,frame
 *addthis*
