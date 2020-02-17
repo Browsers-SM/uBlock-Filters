@@ -392,7 +392,7 @@
 -ban-
 -ban.
 -ban?
--bbn
+-bbn*
 -bc.$3p
 -bn.
 -rek-
