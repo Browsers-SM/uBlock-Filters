@@ -1721,6 +1721,7 @@ _seo*$script
 ||shot.qip.ru^$frame,domain=shot.qip.ru
 ||shrcnt.livejournal.net^
 ||sourceforge.net*/ad.gif*
+||static.pulse.mail.ru^
 ||vk.com*/fbsign.js*
 ||vk.com*/px.js*
 ||wek.ru^$domain=dezinfo.net
