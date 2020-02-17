@@ -192,14 +192,12 @@
 *intim*shop*
 *js&key=$3p
 *js*/seo*$script
-*js*ads*$3p
+*js*ads*$script
 *js*targ*$script
 *js*utm*$script
 *js.php?id*
-*js/ads*
 *js?*&b=
 *js?r=$3p,domain=~apk-dl.com|~spcs.me|~spac1.com|~spac.me|~strip2.xxx|~spaces.im
-*jsads*
 *kadam*$script
 *klick*
 *klik*$3p
