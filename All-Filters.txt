@@ -97,7 +97,7 @@
 *bann*$3p,~image,~xhr
 *bann*$script,domain=~superjob.ru
 *bann*.html|
-*banner*$1p,xhr
+*banner*$1p,xhr,domain=~beru.ru
 *banner*$3p,~image
 *banner.$3p,~image
 *banner/*php$3p
