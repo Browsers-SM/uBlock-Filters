@@ -515,7 +515,7 @@
 /js*==*.js*$3p
 /js.js?$3p
 /lnk.
-/log/*
+/log/*$domain=~tiktok.com
 /mads*
 /mb*$script
 /mob/*$script,xhr
@@ -547,7 +547,6 @@
 /rtr/*$script
 /rtview*
 /sms/*$3p
-/sw.js*
 /sys*$3p,script
 /t/*$3p,script
 /tag.$3p
