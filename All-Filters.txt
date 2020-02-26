@@ -565,7 +565,7 @@
 /tz*$1p,script,frame
 /wap*$popup
 /xad*
-=ad*$script,frame,xhr,domain=~dns-shop.ru|~tsearch.me|~beru.ru
+=ad*$script,frame,xhr,domain=~dns-shop.ru|~tsearch.me|~beru.ru|~youtube.com
 =aid*$script,frame
 =ban*$script,frame
 =bn*$script,frame
