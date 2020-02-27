@@ -1390,7 +1390,7 @@ _seo*$script
 ||segmentstream.com^
 ||selcdn.ru^
 ||semi-cod.com^
-||sen*$3p
+||sen*$3p,domain=~send.firefox.com
 ||seo*$3p
 ||sepyra.com^
 ||shar*$3p
