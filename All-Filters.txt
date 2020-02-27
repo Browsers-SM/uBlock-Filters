@@ -1290,7 +1290,7 @@ _seo*$script
 ||pr.
 ||pr0gramm.com^
 ||pri*$3p
-||pro*$3p,domain=~prom.ua|~tiu.ru|~com.ua
+||pro*$3p,domain=~prom.ua|~tiu.ru|~com.ua|~send.firefox.com
 ||pro/$3p,script,popunder,frame
 ||prre.ru^
 ||psmardr.com^
