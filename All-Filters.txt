@@ -1002,7 +1002,7 @@ _seo*$script
 ||hybrid.ai^
 ||hyperadx.com^
 ||hypercomments.com^$3p
-||i-$3p,~image
+||i-$3p,~image,domain=~ria.ru
 ||i.ua^$3p
 ||iconosquare.com^
 ||icq*$3p,~image
