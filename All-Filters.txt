@@ -999,7 +999,6 @@ _seo*$script
 ||hsdn.org^$3p,domain=~ntp-servers.net
 ||hstpnetwork.com^
 ||htkornet.ru^
-||hwcdn.net^
 ||hybrid.ai^
 ||hyperadx.com^
 ||hypercomments.com^$3p
