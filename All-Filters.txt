@@ -1319,7 +1319,7 @@ _seo*$script
 ||rad*$3p,~image
 ||rad.microsoft.com^
 ||ramctrlgate.com^
-||rare*$3p
+||rare*$3p,domain=~portableapps.com
 ||raskruty.ru^$3p
 ||rati*$3p,~image
 ||rawgit.com^
