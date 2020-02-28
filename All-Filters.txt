@@ -1484,7 +1484,7 @@ _seo*$script
 ||toy69.ru^
 ||tr.$domain=~tr.anidub.com
 ||tr1.
-||tra*$3p,domain=~track.kg|~savido.net
+||tra*$3p,domain=~track.kg
 ||tracker.tiu.ru^
 ||tribalfusion.com^
 ||trilan.ru^
@@ -2315,6 +2315,7 @@ youtube.com##iron-overlay-backdrop,paper-dialog
 @@||rtr-vesti.ru^$image,domain=russia.tv
 @@||s-ports.ru^$domain=sportbox.ru
 @@||s.gamer-info.com^$image,domain=gamer-info.com
+@@||savido-web.trafficmanager.net^
 @@||slidesharecdn.com^$image,domain=slideshare.net
 @@||steamstatic.com^$script,image,domain=store.steampowered.com
 @@||storage*$domain=yadi.sk|music.yandex.ru|radio.yandex.ru
