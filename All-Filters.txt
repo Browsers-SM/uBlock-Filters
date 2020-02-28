@@ -1172,7 +1172,7 @@ _seo*$script
 ||moe.video^
 ||moipodpiski.ssl.mts.ru^$3p,popup
 ||molinos.ru^
-||mon*$3p,domain=~yandex.ru|~irr.ru
+||mon*$3p,domain=~yandex.ru|~irr.ru|~tiktok.com
 ||moo$3p
 ||mpuls.ru^
 ||mt$3p
@@ -1311,7 +1311,7 @@ _seo*$script
 ||quintura.
 ||quora.com^$3p
 ||qxyam.com^
-||r.$popup,script,frame,domain=~microsoft.com
+||r.$popup,script,frame,domain=~microsoft.com|~tiktok.com
 ||r.mail.*gif|$domain=~mail.ru
 ||r.twimg.com^
 ||r3.mail.ru^
