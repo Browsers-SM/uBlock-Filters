@@ -917,6 +917,7 @@ _seo*$script
 ||fairypays.com^
 ||fantasy-dream.ru^$3p
 ||faqzpiv1fphpway.ru^
+||fastly.net^
 ||fawere.com^
 ||fbcdn.net^$domain=~facebook.com|~instagram.com|~savido.net
 ||fbr.
@@ -2220,7 +2221,7 @@ youtube.com##iron-overlay-backdrop,paper-dialog
 @@*comment*$xhr,domain=youtube.com
 @@*editor*$script,domain=3dn.ru|at.ua|clan.su|do.am|moy.su|p0.ru|ucoz.com|ucoz.es|ucoz.net|ucoz.org|ucoz.ru
 @@*game*$document,domain=ok.ru
-@@*github*$domain=github.com
+@@*github*$~image,domain=github.com
 @@*klikr.org^$image
 @@*maps.yandex.ru^$domain=yandex.ru
 @@*mega.co.nz^
