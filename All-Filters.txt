@@ -1484,7 +1484,7 @@ _seo*$script
 ||toy69.ru^
 ||tr.$domain=~tr.anidub.com
 ||tr1.
-||tra*$3p,domain=~track.kg
+||tra*$3p,domain=~track.kg|~savido.net
 ||tracker.tiu.ru^
 ||tribalfusion.com^
 ||trilan.ru^
