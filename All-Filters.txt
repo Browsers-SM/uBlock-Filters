@@ -2239,7 +2239,7 @@ youtube.com##iron-overlay-backdrop,paper-dialog
 @@||api.vk.*audio
 @@||as.dns-shop.ru^$domain=dns-shop.ru
 @@||cdn*savepice.ru^$3p,image
-@@||cloudflare.com^$script
+@@||cloudflare.*$script
 @@||code.jquery.com^
 @@||codepen.io^$3p,frame
 @@||coub.com^$script,domain=coub.com
