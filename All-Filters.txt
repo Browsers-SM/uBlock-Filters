@@ -253,7 +253,7 @@
 *php?s=$popup,script,frame
 *php?t=$~image
 *phpad*
-*ping*$script,frame
+*ping*$script,frame,domain=~zen.yandex.ru
 *piwik*$script
 *pixel*$script,domain=~pixelbrush.ru
 *pixel*.gif?$3p
