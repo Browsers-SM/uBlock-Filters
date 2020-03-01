@@ -2251,6 +2251,7 @@ youtube.com##iron-overlay-backdrop,paper-dialog
 @@||githubusercontent.com^$domain=google.com|google.ru
 @@||gitlab-static.net^$domain=gitlab.com
 @@||google.*$domain=mail.google.com
+@@||google.*/js/gweb/*$domain=google.com|google.ru
 @@||google.*/xjs/$script
 @@||google.com/cse?$frame
 @@||googleapis.com/custom$script
