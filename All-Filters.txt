@@ -108,7 +108,7 @@
 *begun*
 *bnnr*
 *bnr*$domain=~youtube.com|~pornhub.com
-*bns.
+*bns.$~font
 *brand*$popup
 *brandimg*
 *brch*
