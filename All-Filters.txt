@@ -179,7 +179,7 @@
 *hitex*
 *hits*$3p
 *hive*$3p
-*host*$3p
+*host*$3p,~image
 *html?*target*$domain=~yandex.ru|~yandex.com|~yandex.net
 *iframead*
 *image*/ads*
