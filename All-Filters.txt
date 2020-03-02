@@ -2496,4 +2496,5 @@ yandex.ru##[href*="yandex.ru/clck/redir/"]
 !
 ! NOT BLOCKED
 @@$css
+@@$font
 @@$media
