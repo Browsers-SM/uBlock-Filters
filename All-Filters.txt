@@ -843,6 +843,7 @@ _seo*$script
 ||daitovar.ru^
 ||dallavel.com^
 ||dar*$3p
+||datadepot.io^
 ||davarello.com^
 ||dbbsrv.com^
 ||ddmanager.ru^
@@ -972,6 +973,7 @@ _seo*$script
 ||goviral*
 ||graffitistudio.ru^
 ||grattis.ru^
+||gravitec.net^
 ||group-ib.ru^$3p
 ||grt$3p
 ||gumroad.com^
