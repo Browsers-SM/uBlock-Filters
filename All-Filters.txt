@@ -324,7 +324,7 @@
 *superad*
 *surf*.ru^$3p
 *sync?user*$3p
-*syndicat*$script,image,domain=~softclub.ru
+*syndicat*$script,frame,image,domain=~softclub.ru
 *tagcloud*
 *tagid*$3p
 *tanki*onlin*$domain=~tankionline.com
@@ -404,6 +404,7 @@
 .aff-
 .bbn*
 .br*$3p,script
+.php?*&idzone*
 .php?iframe_id
 .rekl*
 .ru/?$script,frame
