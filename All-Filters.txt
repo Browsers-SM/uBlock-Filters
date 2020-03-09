@@ -1,6 +1,6 @@
 ﻿! Title: SM
 !
-&ad*$script,frame,domain=~spcs.me|~spac1.com|~spac.me|~strip2.xxx|~spaces.im|~spac1.net
+&ad*$script,frame,domain=~spcs.me|~spac1.com|~spac.me|~spaces.im|~spac1.net
 &aid*$~image
 &aid=
 &b=$3p,script,frame
@@ -27,7 +27,7 @@
 &tiz*$3p
 *2bears*
 *4u.$3p,script
-*ad*?r*$domain=~spcs.me|~spac1.com|~spac.me|~strip2.xxx|~turboserial.info|~spaces.im|~spac1.net
+*ad*?r*$domain=~spcs.me|~spac1.com|~spac.me|~turboserial.info|~spaces.im|~spac1.net
 *adbot*
 *adds*$script,frame
 *addthis*
@@ -197,7 +197,7 @@
 *js*utm*$script
 *js.php?id*
 *js?*&b=
-*js?r=$3p,domain=~apk-dl.com|~spcs.me|~spac1.com|~spac.me|~strip2.xxx|~spaces.im|~spac1.net
+*js?r=$3p,domain=~apk-dl.com|~spcs.me|~spac1.com|~spac.me|~spaces.im|~spac1.net
 *kadam*$script
 *klick*
 *klik*$3p
@@ -450,7 +450,7 @@
 /b-$~image,domain=~vtb24.ru
 /b.$~image
 /b.*gif*
-/b/*$script,frame,domain=~spcs.me|~spac1.com|~spac.me|~strip2.xxx|~z1.fm|~spaces.im|~spac1.net
+/b/*$script,frame,domain=~spcs.me|~spac1.com|~spac.me|~z1.fm|~spaces.im|~spac1.net
 /b/*&t=
 /b/*.gif*
 /b3*$3p,script,domain=~mail.yandex.ru
@@ -575,7 +575,7 @@
 =rtb*
 =tds&$image,script
 =tiz*$3p
-?ad*$script,frame,domain=~spcs.me|~spac1.com|~spac.me|~strip2.xxx|~spaces.im|~spac1.net
+?ad*$script,frame,domain=~spcs.me|~spac1.com|~spac.me|~spaces.im|~spac1.net
 ?ads=
 ?aff*$popup
 ?aid*$script,frame
@@ -584,7 +584,7 @@
 ?bbn*
 ?bn*$script,frame
 ?bp=$script
-?ck=$domain=~spcs.me|~spac1.com|~spac.me|~strip2.xxx|~spaces.im|~spac1.net
+?ck=$domain=~spcs.me|~spac1.com|~spac.me|~spaces.im|~spac1.net
 ?clck*
 ?i=*&r=
 ?m=$3p,script
@@ -1418,7 +1418,7 @@ _seo*$script
 ||soknm.com^
 ||soosle.
 ||sopital.com^
-||spa*$3p,script,frame,domain=~spcs.me|~spac1.com|~spac.me|~strip2.xxx|~spaces.im|~spac1.net
+||spa*$3p,script,frame,domain=~spcs.me|~spac1.com|~spac.me|~spaces.im|~spac1.net
 ||specisez.com^
 ||speedtest.net^$3p
 ||spot.im^
@@ -1595,7 +1595,7 @@ _seo*$script
 ||xptvk.com^
 ||xray.mail.ru^
 ||xtool.ru^
-||xx*$3p,domain=~fbcdn.net|~facebook.com|~savido.net|~strip2.xxx
+||xx*$3p,domain=~fbcdn.net|~facebook.com|~savido.net
 ||xyz^$3p,script,popunder,frame
 ||yabs.yandex.ru^$domain=~yandex.ru
 ||yadro.
