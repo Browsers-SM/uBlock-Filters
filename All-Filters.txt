@@ -1648,7 +1648,7 @@ _seo*$script
 |blob:*$domain=~embed.life.ru|~google.com|~google.ru|~mail.yandex.ru|~mega.nz|~ok.ru|~vk.com
 ||com/*$3p,script,frame,domain=nnmclub.to
 ||porn*$3p,domain=~redtube.com
-||ru/*$3p,script,domain=3dn.ru|at.ua|browsers-sm.3dn.ru|clan.su|do.am|erobab.com|eromo.org|fotobab.ru|moy.su|p0.ru|sefan.ru|spac.me|spac1.com|spcs.me|strip2.xxx|spaces.im|spac1.net|ucoz.com|ucoz.es|ucoz.net|ucoz.org|ucoz.ru|vbabe.mobi
+||ru/*$3p,script,domain=3dn.ru|at.ua|clan.su|do.am|erobab.com|eromo.org|fotobab.ru|moy.su|p0.ru|sefan.ru|spac.me|spac1.com|spcs.me|strip2.xxx|spaces.im|spac1.net|ucoz.com|ucoz.es|ucoz.net|ucoz.org|ucoz.ru|vbabe.mobi
 ||translate.google*$domain=рф|ru|su|~google.ru
 !
 ! ИНДИВИДУАЛЬНЫЕ
@@ -1788,7 +1788,6 @@ spcs.me,spac1.com,spac.me,strip2.xxx,spaces.im,spac1.net#?##left_nav > div[class
 /crit_image.$domain=3dn.ru|at.ua|clan.su|do.am|moy.su|p0.ru|ucoz.com|ucoz.es|ucoz.net|ucoz.org|ucoz.ru
 ||3dn.ru/stat/*
 ||at.ua/stat/*
-||browsers-sm.3dn.ru/.s/src/u_44db6ebf9c.
 ||clan.su/stat/*
 ||do.am/stat/*
 ||moy.su/stat/*
@@ -2433,7 +2432,6 @@ youtube.com##iron-overlay-backdrop,paper-dialog
 @@||youtube.com/embed/*$frame
 @@||ytimg.com/yt/jsbin/www-widgetapi-
 crossdomain.xml|$3p,domain=redcyt.com
-||f236*$image,domain=browsers-sm.3dn.ru
 ||flockplay.videomore.ru^
 ||redcyt.com*/player.js*
 ||ria.ru/*/app.js?
