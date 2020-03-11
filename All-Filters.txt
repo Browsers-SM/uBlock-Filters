@@ -804,6 +804,7 @@ _seo*$script
 ||colpory.com^
 ||com*/vk.$script
 ||com/player/|$script
+||com/s.js?
 ||com/s/*$3p,script
 ||com/tag*$3p,script,xhr
 ||comagic.ru^
