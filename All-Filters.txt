@@ -1509,7 +1509,7 @@ _seo*$script
 ||typiol.com^
 ||tzweb.
 ||ucozabc.ru^$3p
-||ulogix.
+||ulog*$3p
 ||umekana.ru^
 ||uniq-ip.com^
 ||universalsrc.com^
@@ -1806,7 +1806,6 @@ spcs.me,spac1.com,spac.me,strip2.xxx,spaces.im,spac1.net#?##left_nav > div[class
 ||ucoz.org/stat/*
 ||ucoz.ru/stat/*
 ||uid.me^$3p,~image
-||ulogin.ru^$3p
 !
 ! СУЩЕСТВУЮТ ПО ДОМЕНАМ 3-ГО УРОВНЯ.
 ||3lift.com^
