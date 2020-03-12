@@ -1,6 +1,6 @@
 ﻿! Title: SM
 !
-&ad*$script,frame,domain=~spcs.me|~spac1.com|~spac.me|~spaces.im|~spac1.net
+&ad*$script,frame,domain=~spac1.com|~spac.me|~spaces.im|~spac1.net
 &aid*$~image
 &aid=
 &b=$3p,script,frame
@@ -27,7 +27,7 @@
 &tiz*$3p
 *2bears*
 *4u.$3p,script
-*ad*?r*$domain=~spcs.me|~spac1.com|~spac.me|~turboserial.info|~spaces.im|~spac1.net
+*ad*?r*$domain=~spac1.com|~spac.me|~turboserial.info|~spaces.im|~spac1.net
 *adbot*
 *adds*$script,frame
 *addthis*
@@ -197,7 +197,7 @@
 *js*utm*$script
 *js.php?id*
 *js?*&b=
-*js?r=$3p,domain=~apk-dl.com|~spcs.me|~spac1.com|~spac.me|~spaces.im|~spac1.net
+*js?r=$3p,domain=~apk-dl.com|~spac1.com|~spac.me|~spaces.im|~spac1.net
 *kadam*$script
 *klick*
 *klik*$3p
@@ -450,7 +450,7 @@
 /b-$~image,domain=~vtb24.ru
 /b.$~image
 /b.*gif*
-/b/*$script,frame,domain=~spcs.me|~spac1.com|~spac.me|~z1.fm|~spaces.im|~spac1.net
+/b/*$script,frame,domain=~spac1.com|~spac.me|~z1.fm|~spaces.im|~spac1.net
 /b/*&t=
 /b/*.gif*
 /b3*$3p,script,domain=~mail.yandex.ru
@@ -575,7 +575,7 @@
 =rtb*
 =tds&$image,script
 =tiz*$3p
-?ad*$script,frame,domain=~spcs.me|~spac1.com|~spac.me|~spaces.im|~spac1.net
+?ad*$script,frame,domain=~spac1.com|~spac.me|~spaces.im|~spac1.net
 ?ads=
 ?aff*$popup
 ?aid*$script,frame
@@ -584,7 +584,7 @@
 ?bbn*
 ?bn*$script,frame
 ?bp=$script
-?ck=$domain=~spcs.me|~spac1.com|~spac.me|~spaces.im|~spac1.net
+?ck=$domain=~spac1.com|~spac.me|~spaces.im|~spac1.net
 ?clck*
 ?i=*&r=
 ?m=$3p,script
@@ -1419,7 +1419,7 @@ _seo*$script
 ||soknm.com^
 ||soosle.
 ||sopital.com^
-||spa*$3p,script,frame,domain=~spcs.me|~spac1.com|~spac.me|~spaces.im|~spac1.net
+||spa*$3p,script,frame,domain=~spac1.com|~spac.me|~spaces.im|~spac1.net
 ||specisez.com^
 ||speedtest.net^$3p
 ||spot.im^
@@ -1649,7 +1649,7 @@ _seo*$script
 |blob:*$domain=~embed.life.ru|~google.com|~google.ru|~mail.yandex.ru|~mega.nz|~ok.ru|~vk.com
 ||com/*$3p,script,frame,domain=nnmclub.to
 ||porn*$3p,domain=~redtube.com
-||ru/*$3p,script,domain=3dn.ru|at.ua|clan.su|do.am|erobab.com|eromo.org|fotobab.ru|moy.su|p0.ru|sefan.ru|spac.me|spac1.com|spcs.me|strip2.xxx|spaces.im|spac1.net|ucoz.com|ucoz.es|ucoz.net|ucoz.org|ucoz.ru|vbabe.mobi
+||ru/*$3p,script,domain=3dn.ru|at.ua|clan.su|do.am|erobab.com|eromo.org|fotobab.ru|moy.su|p0.ru|sefan.ru|spac.me|spac1.com|spaces.im|spac1.net|ucoz.com|ucoz.es|ucoz.net|ucoz.org|ucoz.ru|vbabe.mobi
 ||translate.google*$domain=рф|ru|su|~google.ru
 !
 ! ИНДИВИДУАЛЬНЫЕ
@@ -1771,15 +1771,13 @@ _seo*$script
 *_*_*_*_*_*_*_*_*_*_*$domain=~youtube.com|googlevideo.com
 !
 ! SPACES.RU
-spcs.me,spac1.com,spac.me,strip2.xxx,spaces.im,spac1.net##[class$=" seo"]
-spcs.me,spac1.com,spac.me,strip2.xxx,spaces.im,spac1.net##[href*="/jf5oox6g/"]
-spcs.me,spac1.com,spac.me,strip2.xxx,spaces.im,spac1.net##[id="about_spaces"]
-spcs.me,spac1.com,spac.me,strip2.xxx,spaces.im,spac1.net##[id="common_error"]
-spcs.me,spac1.com,spac.me,strip2.xxx,spaces.im,spac1.net#?##left_nav > div[class]:-abp-has([id*="ScriptRoot"])
+spac1.com,spac.me,spaces.im,spac1.net##[class$=" seo"]
+spac1.com,spac.me,spaces.im,spac1.net##[href*="/jf5oox6g/"]
+spac1.com,spac.me,spaces.im,spac1.net##[id="about_spaces"]
+spac1.com,spac.me,spaces.im,spac1.net##[id="common_error"]
+spac1.com,spac.me,spaces.im,spac1.net#?##left_nav > div[class]:-abp-has([id*="ScriptRoot"])
 ||m*.spaces.im^$script
 ||m*.spac1.net^$script
-||m*.spcs.me^$script
-||mtp.*strip2.*
 !
 ! uCoz
 */crit_image.js|$domain=3dn.ru|at.ua|clan.su|do.am|moy.su|p0.ru|ucoz.com|ucoz.es|ucoz.net|ucoz.org|ucoz.ru
@@ -2212,7 +2210,7 @@ youtube.com##iron-overlay-backdrop,paper-dialog
 @@$3p,image,domain=google.ru
 @@$3p,script,domain=chuyu.me
 @@$elemhide,domain=accounts.google.com|e.mail.ru|life-film.ru|lifehacker.com|mail.google.com|mail.rambler.ru|mail.yandex.ru|msdn.microsoft.com|pcradio.ru|svyaznoy.ru
-@@$frame,domain=spac.me|spac1.com|spcs.me|strip2.xxx|spaces.im|spac1.net|videochart.net|vk.com|youtube.googleapis.com
+@@$frame,domain=spac.me|spac1.com|spaces.im|spac1.net|videochart.net|vk.com|youtube.googleapis.com
 @@$genericblock,domain=kp.ru
 @@$image,frame,script,domain=api.kanobu.ru|embed.kanobu.ru|games.kanobu.ru
 @@$image,~3p,domain=ghacks.net
