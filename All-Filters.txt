@@ -273,8 +273,7 @@
 *promo*.com^$3p,popunder,domain=~youtube.com
 *promo*.mp4|
 *promo*.ru^$3p,popunder
-*promo*popunder*$script
-*promo*popup*$script
+*promo*popu*$script
 *promo.$popup,3p
 *push*$3p,~image
 *random*$popup
