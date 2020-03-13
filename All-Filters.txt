@@ -2322,6 +2322,7 @@ youtube.com##iron-overlay-backdrop,paper-dialog
 @@||s.gamer-info.com^$image,domain=gamer-info.com
 @@||savido-web.trafficmanager.net^$domain=savido.net
 @@||slidesharecdn.com^$image,domain=slideshare.net
+@@||spac*js?r=
 @@||steamstatic.com^$script,image,domain=store.steampowered.com
 @@||storage*$domain=yadi.sk|music.yandex.ru|radio.yandex.ru
 @@||svyaznoy.ru^$script,image,xhr,domain=svyaznoy.ru
