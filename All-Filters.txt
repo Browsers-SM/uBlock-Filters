@@ -1541,7 +1541,7 @@ _seo*$script
 ||verisign.com^$3p
 ||veroui.com^
 ||viadeo.com^
-||vid*$3p,domain=~facebook.com
+||vid*$3p,domain=~facebook.com|~kinozoro.tv
 ||vihub.ru^
 ||vimgs.ru^
 ||visiblemeasures.com^
