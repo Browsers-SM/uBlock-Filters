@@ -179,7 +179,7 @@
 *hitex*
 *hits*$3p
 *hive*$3p
-*host*$3p,~image
+*host*$3p,~image,domain=~virustotal.com
 *html?*target*$domain=~yandex.ru|~yandex.com|~yandex.net
 *iframead*
 *image*/ads*
