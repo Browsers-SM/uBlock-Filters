@@ -652,6 +652,7 @@ _seo*$script
 ||adhands.ru^
 ||adm*$3p
 ||adn*$3p
+||adonut.ru^
 ||adregain.ru^
 ||ads*$3p
 ||adservice.
@@ -919,6 +920,7 @@ _seo*$script
 ||fairypays.com^
 ||fantasy-dream.ru^$3p
 ||faqzpiv1fphpway.ru^
+||fast-hunter.com^
 ||fawere.com^
 ||fbcdn.net^$domain=~facebook.com|~instagram.com|~savido.net
 ||fbr.
