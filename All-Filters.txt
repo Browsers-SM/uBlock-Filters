@@ -29,7 +29,7 @@
 *4u.$3p,script
 *ad*?r*$domain=~turboserial.info
 *adbot*
-*adds*$script,frame
+*adds*$script,frame,domain=~tele2.ru
 *addthis*
 *adfl*$script,frame
 *adframe*
