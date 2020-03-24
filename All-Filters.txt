@@ -722,6 +722,7 @@ _seo*$script
 ||bbzcg.com^
 ||bc*$3p,domain=~smotri.com
 ||bdros.com^
+||be^$3p,script,popunder,frame
 ||beanstock.com^
 ||beeline.ru^$3p
 ||belole.ru^
