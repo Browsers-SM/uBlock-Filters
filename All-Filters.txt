@@ -1400,6 +1400,7 @@ _seo*$script
 ||sen*$3p,domain=~send.firefox.com
 ||seo*$3p
 ||sepyra.com^
+||sexad.net^
 ||shar*$3p
 ||sho*$3p
 ||shuffele.com^
