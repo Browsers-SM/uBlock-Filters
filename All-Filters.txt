@@ -705,7 +705,7 @@ _seo*$script
 ||authentication.me^
 ||av.st^
 ||avtodispetcher.ru^$3p
-||aw*$3p,~image
+||aw*$3p,~image,domain=~500px.com
 ||awaps.yandex.$image,domain=~market.yandex.ru
 ||azpoint.ws^
 ||b.$frame
