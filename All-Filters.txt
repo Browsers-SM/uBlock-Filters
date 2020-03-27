@@ -1600,7 +1600,7 @@ _seo*$script
 ||xptvk.com^
 ||xray.mail.ru^
 ||xtool.ru^
-||xx*$3p,domain=~fbcdn.net|~facebook.com|~savido.net
+||xx*$3p,domain=~fbcdn.net|~facebook.com|~savido.net|~strip2.xxx
 ||xyz^$3p,script,popunder,frame
 ||yabs.yandex.ru^$domain=~yandex.ru
 ||yadro.
@@ -1780,8 +1780,9 @@ spac1.com,spac.me,spaces.im,spac1.net##[href*="/jf5oox6g/"]
 spac1.com,spac.me,spaces.im,spac1.net##[id="about_spaces"]
 spac1.com,spac.me,spaces.im,spac1.net##[id="common_error"]
 spac1.com,spac.me,spaces.im,spac1.net#?##left_nav > div[class]:-abp-has([id*="ScriptRoot"])
-||m*.spaces.im^$script
 ||m*.spac1.net^$script
+||m*.spaces.im^$script
+||m*.strip2.xxx^$script
 !
 ! uCoz
 */crit_image.js|$domain=3dn.ru|at.ua|clan.su|do.am|moy.su|p0.ru|ucoz.com|ucoz.es|ucoz.net|ucoz.org|ucoz.ru
