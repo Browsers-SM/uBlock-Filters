@@ -368,7 +368,7 @@
 *wap*$3p,~image,domain=~sndcdn.com|~soundcloud.com
 *warship*$domain=~worldofwarships.ru
 *xtcore*
-*xxx*$frame
+*xxx*$frame,domain=~strip2.xxx
 *yad*tr*$script,domain=~alleyadoma.ru
 *yashare*
 *youtubei*
