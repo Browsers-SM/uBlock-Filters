@@ -1642,7 +1642,7 @@ _seo*$script
 *$1p,domain=block.mts.ru
 *$popunder,3p,domain=pornhub.com|redtube.com|xvideos.com|xhamster.com
 *$popup,domain=apkfind.com|apkpure.com|dverser.ru|film-adult.com|imagebam.com|joyreactor.cc|kordonivkakino.net|ok.ru|rustorka.com|tracelive.ru|z1.fm|xvideos.com|xhamster.com
-*$3p,domain=adriver.ru|fastpic.ru|free1img.ru|free2img.ru|free3img.ru|imageban.ru|imagevenue.com|lg.com|radikal.ru|tinypic.com|forum.release-apk.com
+*$3p,domain=adriver.ru|fastpic.ru|free1img.ru|free2img.ru|free3img.ru|imageban.ru|imagevenue.com|radikal.ru|tinypic.com|forum.release-apk.com
 *$websocket,domain=~animevost.org|~github.com|~mibbit.com|~ria.ru|~send.firefox.com|~smotri.com|~twitch.tv|~video.rambler.ru|~videochatka.net|~whatsapp.com|~yandex.ru|~youtube.com
 *adblo*$image,script,domain=~adblockplus.me|~adblockplus.org|~filmix.net|~ghacks.net
 *code*$3p,script,domain=~bitbucket.org|~code.jquery.com|~codeplex.com|~icecreamapps.com|~invi.tv|~market.pochta.ru|~microsoft.com|~nnmclub.ch|~nnmclub.to|~ntp-servers.net|~opengapps.org|~ren.tv|~yandex.ru|~yota.ru
