@@ -2216,7 +2216,7 @@ youtube.com##iron-overlay-backdrop,paper-dialog
 @@$3p,domain=aliexpress.com|aliexpress.ru
 @@$3p,image,domain=google.ru
 @@$3p,script,domain=chuyu.me
-@@$elemhide,domain=accounts.google.com|e.mail.ru|life-film.ru|lifehacker.com|mail.google.com|mail.rambler.ru|mail.yandex.ru|msdn.microsoft.com|pcradio.ru|svyaznoy.ru
+@@$elemhide,domain=accounts.google.com|e.mail.ru|life-film.ru|lifehacker.com|mail.google.com|mail.rambler.ru|mail.yandex.ru|msdn.microsoft.com|pcradio.ru|svyaznoy.ru|tele2.ru
 @@$frame,domain=spac.me|spac1.com|spaces.im|spac1.net|videochart.net|vk.com|youtube.googleapis.com
 @@$genericblock,domain=kp.ru
 @@$image,frame,script,domain=api.kanobu.ru|embed.kanobu.ru|games.kanobu.ru
