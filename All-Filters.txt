@@ -29,7 +29,7 @@
 *4u.$3p,script
 *ad*?r*$domain=~turboserial.info
 *adbot*
-*adds*$script,frame,domain=~tele2.ru
+*adds*$script,frame
 *addthis*
 *adfl*$script,frame
 *adframe*
@@ -2332,6 +2332,7 @@ youtube.com##iron-overlay-backdrop,paper-dialog
 @@||steamstatic.com^$script,image,domain=store.steampowered.com
 @@||storage*$domain=yadi.sk|music.yandex.ru|radio.yandex.ru
 @@||svyaznoy.ru^$script,image,xhr,domain=svyaznoy.ru
+@@||tele2.ru^$domain=tele2.ru
 @@||thumbs.tivision.ru^$image,domain=ivi.ru
 @@||top-fwz1.mail.ru/counter?$image,domain=ok.ru
 @@||torg.mail.ru^$xhr,domain=torg.mail.ru
