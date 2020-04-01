@@ -2138,6 +2138,7 @@ ok.ru##[data-id="newbie"]
 ok.ru##[data-l="t,avaUserMenuUser"]
 ok.ru##[data-module="banners/BannerClickLog"]
 ok.ru##[id*="TopContent"]
+ok.ru##[id="hook_Block_CompactFooter"]
 ok.ru##[id="hook_Block_PMailRu"]
 opengapps.org##[class^="mdl-snackbar"]
 overclockers.ru##script:inject(bab-defuser.js)
