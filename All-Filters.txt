@@ -675,7 +675,7 @@ _seo*$script
 ||alkodesign.ru^
 ||all*$3p,domain=~kp.ru
 ||alonged.com^
-||am*$3p,domain=~aliexpress.com|~aliexpress.ru|~youla.ru|~jd.ru|~bigmir.net|~kyivstar.ua
+||am*$3p,domain=~aliexpress.com|~aliexpress.ru|~youla.ru|~jd.ru|~bigmir.net|~kyivstar.ua|~opendns.com
 ||an.
 ||android.com^$3p
 ||anniere.com^
@@ -797,7 +797,7 @@ _seo*$script
 ||ciattedrof.ru^
 ||cientrer.com^
 ||ck*$3p
-||cl*$3p,popup,~image,domain=~firefox.com|~mozilla.com|~mail.ru|~opendns.com
+||cl*$3p,popup,~image,domain=~firefox.com|~mozilla.com|~mail.ru
 ||cnetcontent.com^
 ||cnt.$3p
 ||coin*$3p
