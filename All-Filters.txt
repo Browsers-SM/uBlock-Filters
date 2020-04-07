@@ -1005,6 +1005,7 @@ _seo*$script
 ||hsdn.org^$3p,domain=~ntp-servers.net
 ||hstpnetwork.com^
 ||htkornet.ru^
+||http-check-headers.yandex.ru^
 ||hybrid.ai^
 ||hyperadx.com^
 ||hypercomments.com^$3p
