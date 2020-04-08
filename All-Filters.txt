@@ -1611,7 +1611,7 @@ _seo*$script
 ||yastatic.net/daas/atom.js|
 ||yastatic.net/nearest.js|$domain=yandex.ru
 ||yastatic.net/pcode/adfox/loader.js|
-||yastatic.net/share/share.js|
+||yastatic.net/share*/share.js|
 ||yatr.ru^
 ||ybobra.ru^$3p
 ||yell.ru^$3p
