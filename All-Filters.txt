@@ -659,7 +659,7 @@ _seo*$script
 ||adv*$3p
 ||adw*$3p
 ||adx*$3p
-||aflt.market.yandex.ru^
+||aflt.market.yandex.
 ||agava.ru^$3p
 ||agilecrm.com^
 ||agomwefq.com^
@@ -1004,7 +1004,7 @@ _seo*$script
 ||hsdn.org^$3p,domain=~ntp-servers.net
 ||hstpnetwork.com^
 ||htkornet.ru^
-||http-check-headers.yandex.ru^
+||http-check-headers.yandex.
 ||hybrid.ai^
 ||hyperadx.com^
 ||hypercomments.com^$3p
@@ -1082,7 +1082,7 @@ _seo*$script
 ||kf-forex.ru^
 ||khvfg.com^
 ||kia.ru^$3p
-||kiks.yandex.ru^
+||kiks.yandex.
 ||kilopog.com^
 ||kistured.com^
 ||kitopr.com^
@@ -1150,7 +1150,7 @@ _seo*$script
 ||max*$3p,domain=~comss.ru|~iconsearch.ru|~invi.tv|~savido.net|~kenguru.ru|~mycoub.ru
 ||mazuma.ru^
 ||mb*$3p
-||mc.yandex.ru^
+||mc.yandex.
 ||mcafee.com^$3p
 ||me-talk.ru^
 ||media*$3p,~image,domain=~fasttorrent.ru
@@ -1438,7 +1438,6 @@ _seo*$script
 ||su^$3p,~image
 ||submitter.ru^
 ||subscr*$3p
-||suggest.yandex.ru^
 ||sumome.com^
 ||sunburgh.com^
 ||sunrima.ru^
@@ -1605,7 +1604,8 @@ _seo*$script
 ||yabs.yandex.ru^$domain=~yandex.ru
 ||yadro.
 ||yagla.ru^
-||yandex.ru/ick/*
+||yandex.*/ick/*
+||yandex.*/search/yandcache.js|
 ||yandex.st/share/*
 ||yastatic.net/daas/atom.js|
 ||yastatic.net/nearest.js|$domain=yandex.ru
@@ -2353,6 +2353,7 @@ youtube.com##iron-overlay-backdrop,paper-dialog
 @@||whichbrowser.net^$domain=html5test.com
 @@||wmbcdn.com^$domain=mail.ru
 @@||wmbcdn.com^$domain=mamba.ru
+@@||yandex.*/suggest/*
 @@||yandex.ru/*player*$frame,domain=yandex.ru|yastatic.net
 @@||yandex.ru/*video*$domain=yandex.ru
 @@||yandex.ru/images/search*$xhr
