@@ -796,7 +796,7 @@ _seo*$script
 ||ciattedrof.ru^
 ||cientrer.com^
 ||ck*$3p
-||cl*$3p,popup,~image,domain=~firefox.com|~mozilla.com|~mail.ru
+||cl*$3p,popup,~image,domain=~firefox.com|~mozilla.com|~mozilla.org|~mail.ru
 ||cnetcontent.com^
 ||cnt.$3p
 ||coin*$3p
