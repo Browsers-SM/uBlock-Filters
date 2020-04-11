@@ -467,8 +467,8 @@
 /banner/*$script
 /banner/*.gif|
 /banner5*
+/banners*$script
 /banners/*$image,domain=~220-volt.ru|~rlsnet.ru
-/banners/*$script
 /bban*
 /bbn*$~image
 /bbt*
@@ -1607,6 +1607,7 @@ _seo*$script
 ||yandex.*/ick/*
 ||yandex.*/search/yandcache.js|
 ||yandex.st/share/*
+||yandexadexchange.net^
 ||yastatic.net/daas/atom.js|
 ||yastatic.net/nearest.js|$domain=yandex.ru
 ||yastatic.net/pcode/adfox/loader.js|
@@ -1838,6 +1839,7 @@ spac1.com,spac.me,spaces.im,spac1.net#?##left_nav > div[class]:-abp-has([id*="Sc
 ##[class*="_ad_"]
 ##[class*="_ads"][class*="ban"]
 ##[class*="_adv_"]
+##[class*="_adv-"]
 ##[class*="adblock"]
 ##[class*="adfox"]
 ##[class*="adriver"]
