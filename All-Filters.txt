@@ -749,8 +749,7 @@ _seo*$script
 ||breedac.com^
 ||brightcove.com^
 ||brndrm.com^
-||browser-update.org^
-||browser.ru^
+||browser*$3p
 ||bs-
 ||bs.
 ||btr*$3p
