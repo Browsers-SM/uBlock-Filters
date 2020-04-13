@@ -343,7 +343,7 @@
 *trackad*
 *tracker.js*
 *tracker.php*
-*tracking*
+*tracking*,domain=~pochta.ru
 *trackjs*
 *trade*$3p
 *traf*$3p
