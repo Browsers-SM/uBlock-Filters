@@ -2346,7 +2346,7 @@ youtube.com##iron-overlay-backdrop,paper-dialog
 @@||universarium.org^$script,domain=universarium.org
 @@||variti.ch^$script,domain=dns-shop.ru
 @@||video-tub-ru.yandex.net^$image
-@@||vk.com/js/cmodules/web/ui_
+@@||vk.com/js/cmodules/web/*
 @@||vsemayki.ru^$domain=vsemayki.ru
 @@||wambacdn.net^$domain=love.mail.ru
 @@||weather.yandex.net^$xhr,domain=yandex.ru
