@@ -371,7 +371,7 @@
 *xxx*$frame,domain=~strip2.xxx
 *yad*tr*$script,domain=~alleyadoma.ru
 *yashare*
-*youtubei*
+*youtubei*$domain=~youtube.com
 *zoneid*$3p,script,frame,xhr,popup
 *zoneid*ref*
 -ad&
