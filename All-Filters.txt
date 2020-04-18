@@ -1048,12 +1048,7 @@ _seo*$script
 ||ipify.org^$3p
 ||iqbuzz.ru^
 ||issuu.com^
-||itao.com^$3p
-||itech-group.ru^
-||itex.com^
-||itmm.ru^
-||itrack.
-||itvasoft.com^
+||it*$3p
 ||ivbox.me^$3p
 ||iwanttodeliver.com^
 ||izizi.ru^
