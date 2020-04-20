@@ -137,7 +137,7 @@
 *cnt.php*
 *cnt=*&rnd=
 *cnt|
-*context*$3p
+*context*$3p,domain=~leroymerlin.ru
 *cookie*consent*
 *count*$1p,script,image,domain=~livejournal.com
 *count*$3p,domain=~youtube.com
