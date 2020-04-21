@@ -2271,7 +2271,7 @@ youtube.com##iron-overlay-backdrop,paper-dialog
 @@||images.wambacdn.net^$domain=mamba.ru
 @@||img-ssl.xvideos.com.fpbns.net^$domain=xvideos.com
 @@||img.com.ua^$domain=bigmir.net
-@@||imgsmail.ru^$domain=mail.ru
+@@||imgsmail.ru^$domain=mail.ru|~stat.radar.imgsmail.ru
 @@||instagram.*embed*
 @@||io^$domain=mybook.ru
 @@||ipic.su^$image
