@@ -2138,6 +2138,7 @@ ok.ru##[id="hook_Block_CompactFooter"]
 ok.ru##[id="hook_Block_PMailRu"]
 opengapps.org##[class^="mdl-snackbar"]
 overclockers.ru##script:inject(bab-defuser.js)
+pikabu.ru##[class="story__main "]
 pogoda.mail.ru##[class="block block_footer block_index"]
 pogoda.mail.ru##[class="grid"]
 pornhub.com##[id^="age-verification"]
