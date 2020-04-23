@@ -649,6 +649,7 @@ _seo*$script
 ||addfiles.ru^$3p
 ||adforce.ru^
 ||adhands.ru^
+||adhigh.*
 ||adm*$3p
 ||adn*$3p
 ||adonut.ru^
@@ -1119,7 +1120,7 @@ _seo*$script
 ||limo*$3p
 ||link*$3p,domain=~bigmir.net
 ||list-manage.com^
-||live*$3p,~image
+||live*$3p,~image,domain=~livejournal.com
 ||ljteas.com^
 ||load*$3p
 ||localytics.com^
