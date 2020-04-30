@@ -1572,8 +1572,13 @@ _seo*$script
 ||webanketa.com^$3p
 ||weclever.ru^
 ||whisla.com^
-||wi*$3p,domain=~soundcloud.com|~apkpure.com|~tabor.ru
+||wi.yandex.net^
+||widg*$third-party,domain=~soundcloud.com
+||wiflyad.net^
+||wiki2.org^$third-party
+||winyagd.ru^
 ||wis.sndcdn.com^
+||witget.com^$third-party
 ||wm$3p
 ||wmtransfer.com^$3p
 ||wolist.ru^$3p
