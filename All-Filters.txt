@@ -107,7 +107,7 @@
 *beacon*$~image
 *begun*
 *bnnr*
-*bnr*$domain=~youtube.com|~pornhub.com
+*bnr*$domain=~youtube.com|~pornhub.com|~livejournal.com
 *bns.
 *brand*$popup
 *brandimg*
@@ -790,6 +790,7 @@ _seo*$script
 ||cetrk.com^
 ||cex.io^
 ||cha*$3p,domain=~smotri.com
+||chaturbate.com^
 ||checkm8.com^
 ||china-air.ru^
 ||ciattedrof.ru^
