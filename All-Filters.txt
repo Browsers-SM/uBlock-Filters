@@ -2073,8 +2073,6 @@ neskromnie.ru,rustorka.com,hltv.org,userscloud.com,yadi.sk,ucrazy.ru##[target]
 online.anidub.com,unionpeer.org##[onclick]
 !
 ! ИНДИВИДУАЛЬНЫЕ CSS
-! tabor.ru,send.firefox.com#?#html > body:style(background-color: #FFDEB9 !important)
-! xvideos.com#?#html > body:style(background-color: #967554 !important)
 4pda.ru##[class="fix-post"][style="display:block!important"]
 4pda.ru##[id="appbanner"]
 4pda.ru##[id="fo_-1"][class="borderwrap"]
@@ -2111,7 +2109,6 @@ habr.com##[class="default-block"]
 habr.com##[class^="dfp-slot"]
 happymod.com##[class="fot-fixd"]
 igry-online.net##[target][href*="redir"]
-instagram.com#?#html > body,[role="main"]:style(background-color: #FAFAFA !important)
 ivanovonews.ru##[class="top-container"]
 kaifolog.ru##[class="share_img_overlay"]
 kinopoisk.ru##[data-popup-info]
@@ -2180,6 +2177,7 @@ tabor.ru##[class="section__head__name"],[class="online"]
 tabor.ru##[class="user-day user-day_w"]
 tabor.ru##[id="top_anketa_content_action"]
 tabor.ru##[onclick*="day_click_profile"]
+tabor.ru,send.firefox.com#?#html > body:style(background-color: #FFDEB9 !important)
 tapochek.net###sidebar1
 tapochek.net##[id^="fuck"]
 translate.google.com##[id^="gb"]
