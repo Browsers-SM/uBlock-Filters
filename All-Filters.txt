@@ -1390,7 +1390,7 @@ _seo*$script
 ||sedoparking.com^
 ||see*$3p
 ||segmentstream.com^
-||selcdn.ru^
+||selcdn.ru^$3p,domain=~forumhouse.ru
 ||semi-cod.com^
 ||sen*$3p,domain=~send.firefox.com
 ||seo*$3p
