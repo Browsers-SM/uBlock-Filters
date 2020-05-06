@@ -979,6 +979,7 @@ _seo*$script
 ||gravitec.net^
 ||group-ib.ru^$3p
 ||grt$3p
+||gstatic.com/cv/js/sender/*
 ||gumroad.com^
 ||gwallet.com^
 ||h-bid.com^
