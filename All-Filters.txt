@@ -2208,7 +2208,7 @@ yap.ru,yaplakal.com##[id^="news"] [href*="twitter"][target]
 yap.ru,yaplakal.com##[id^="news"] [href*="vk.com"][target]
 yap.ru,yaplakal.com##[id^="news_"] [href*="javascript"]
 yap.ru,yaplakal.com##nobr [href]
-yap.ru,yaplakal.com#?##top-line:style(background: none !important; padding: 0 !important; height: auto !important)
+yap.ru,yaplakal.com#?##top-line:style(background: #333637 !important; padding: 0 !important; height: auto !important)
 yap.ru,yaplakal.com#?#html > body:not(#id):style(background-color: #333637 !important)
 youtube.com##[class*="annotation"]
 youtube.com##[class="ytp-ad-overlay-slot"]
