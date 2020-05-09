@@ -728,8 +728,7 @@ _seo*$script
 ||bemobile.ua^
 ||beregu.ru^
 ||betrad.com^
-||bidswitch.net^
-||bidvertiser.com^
+||bid*$3p
 ||big*$3p,~image
 ||bin*$3p,domain=~bing.com
 ||biplane.ru^
@@ -810,13 +809,7 @@ _seo*$script
 ||comagic.ru^
 ||comon.ru^$3p
 ||compete.com^
-||connect.mail.ru^
-||connectad.io^
-||consultsystems.ru^$3p
-||contema.ru^
-||contentinsights.com^
-||conter*.com^
-||conv*$3p
+||con*$3p
 ||cookiebot.com^
 ||cooster.ru^
 ||copercato.com^
@@ -895,8 +888,7 @@ _seo*$script
 ||elama.ru^
 ||eloqua.com^
 ||emerci.ru^$3p
-||emierete.com^
-||emisses.com^
+||emi*$3p
 ||engageya.com^
 ||ensighten.com^
 ||envato.com^
@@ -974,9 +966,7 @@ _seo*$script
 ||got*$3p
 ||govereign.com^
 ||goviral*
-||graffitistudio.ru^
-||grattis.ru^
-||gravitec.net^
+||gra*$3p
 ||group-ib.ru^$3p
 ||grt$3p
 ||gstatic.com/cv/js/sender/*
@@ -1030,8 +1020,7 @@ _seo*$script
 ||img.en25.com^
 ||imgfiles.ru^$frame
 ||imho.ru^
-||imprace.com^
-||impromot.com^
+||imp*$3p
 ||in^$3p,~image
 ||ind*$3p
 ||info*$3p
@@ -1101,9 +1090,7 @@ _seo*$script
 ||kursvalut.com^
 ||kuveres.com^
 ||kz^$~image,domain=ru|com|net
-||ladbrokes.com^
-||ladoshki.com^$3p
-||ladsdown.com^
+||lad*$3p
 ||lantocha.ru^
 ||lead$3p
 ||leg*$3p
@@ -1310,9 +1297,7 @@ _seo*$script
 ||qle.ru^
 ||qocsb.com^
 ||qr*$3p
-||qua*$3p
-||quintura.
-||quora.com^$3p
+||qu*$3p
 ||qxyam.com^
 ||r.$popup,script,frame,domain=~microsoft.com|~tiktok.com
 ||r.mail.*gif|$domain=~mail.ru
