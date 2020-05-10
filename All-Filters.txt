@@ -904,7 +904,7 @@ _seo*$script
 ||evsembu.com^
 ||exdex.ru^$3p
 ||exdiy.ru^$3p
-||ext$3p
+||ext*$3p
 ||ezoic.
 ||facebook.$3p,domain=~instagram.com|~facebook.com
 ||facetz.net^
