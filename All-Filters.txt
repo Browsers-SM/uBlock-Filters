@@ -72,7 +72,7 @@
 *aid?
 *alfa*sense*
 *ambler*op100*
-*analyt*$~image
+*analyt*$~image,domain=~ozon.ru
 *appban*
 *audioads*
 *avenue*$3p
@@ -299,7 +299,7 @@
 *seed.$3p
 *seo.$3p
 *serf.$3p
-*serv*$3p,domain=~ntp-servers.net
+*serv*$3p,domain=~ntp-servers.net|~ozon.ru
 *share42*$script
 *shareaholic*
 *shop.ru^$3p,domain=~dexp.club
@@ -1799,6 +1799,7 @@ spac1.com,spac.me,spaces.im,spac1.net,spaces-blogs.com#?##left_nav > div[class]:
 ||3lift.com^
 ||aidata.io^
 ||akamaihd.net^$domain=~live.com|~coub.com|~invi.tv|~steampowered.com
+||akstat.io^
 ||atdmt.com^
 ||diginetica.net^
 ||fitfas.ru^
