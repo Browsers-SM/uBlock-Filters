@@ -732,7 +732,7 @@ cnt.
 ||bin*$3p,domain=~bing.com
 ||biplane.ru^
 ||birjakreditov.com^
-||bit*$3p
+||bit*$3p,domain=~san.team
 ||biz^$3p,~image,domain=~megogo.ru|~megogo.net
 ||bjpwv.com^
 ||blendac.com^
