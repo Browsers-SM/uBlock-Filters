@@ -1297,7 +1297,7 @@ cnt.
 ||qr*$3p
 ||qu*$3p
 ||qxyam.com^
-||r.$popup,script,frame,domain=~microsoft.com|~tiktok.com
+||r.$popup,script,frame,domain=~microsoft.com|~tiktok.com|~ozon.ru
 ||r.mail.*gif|$domain=~mail.ru
 ||r.twimg.com^
 ||r3.mail.ru^
