@@ -794,7 +794,7 @@ cnt.
 ||ciattedrof.ru^
 ||cientrer.com^
 ||ck*$3p
-||cl*$3p,popup,~image,domain=~firefox.com|~mozilla.com|~mozilla.org|~mail.ru|~leroymerlin.ru|~zoom.us
+||cl*$3p,popup,~image,domain=~firefox.com|~mozilla.com|~mozilla.org|~mail.ru|~leroymerlin.ru|~zoom.us|~santehnika-tut.ru
 ||cnetcontent.com^
 ||coin*$3p
 ||collanetti.com^
