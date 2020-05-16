@@ -193,7 +193,6 @@
 *js*/seo*$script
 *js*ads*$script
 *js*targ*$script
-*js*utm*$script
 *js.php?id*
 *js?*&b=
 *js?r=$3p,domain=~apk-dl.com
