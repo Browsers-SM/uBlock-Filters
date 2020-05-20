@@ -2262,6 +2262,7 @@ youtube.com##iron-overlay-backdrop,paper-dialog
 @@||googleapis.com/custom$script
 @@||googleusercontent.com^$frame,domain=google.com|google.ru
 @@||gstatic.com^$domain=android.com|google.com|google.ru
+@@||gu-st.ru^$domain=gosuslugi.ru
 @@||hqq.tv^
 @@||i.mycdn.me^$image,domain=ok.ru
 @@||id.rambler.ru/location/geo/*$xhr,domain=id.rambler.ru
