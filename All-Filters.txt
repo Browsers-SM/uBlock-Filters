@@ -1754,10 +1754,6 @@ cnt.
 ||womantop.ru^$3p
 ||топтрекер.рф^$3p
 !
-! Яндекс.Директ
-*-*-*-*-*-*-*-*-*-*-*$domain=~youtube.com|googlevideo.com
-*_*_*_*_*_*_*_*_*_*_*$domain=~youtube.com|googlevideo.com
-!
 ! SPACES.RU
 spac1.com,spac.me,spaces.im,spac1.net,spaces-blogs.com##[class$=" seo"]
 spac1.com,spac.me,spaces.im,spac1.net,spaces-blogs.com##[class="oh t_center nl system-message"]
@@ -2140,6 +2136,7 @@ overclockers.ru##script:inject(bab-defuser.js)
 pikabu.ru##[class="story__main "]
 pogoda.mail.ru##[class="block block_footer block_index"]
 pogoda.mail.ru##[class="grid"]
+pogoda.mail.ru##[href*="/news/"]
 pornhub.com##[id^="age-verification"]
 pornolab.*,rustorka.com##[class="tCenter"]
 prosmart.by##[class="custom-wrap"]
@@ -2155,6 +2152,7 @@ redtube.com##[style^="float:"]
 redtube.com##[target]
 ria.ru##[class="list-item__info"]
 ria.ru##[class="widgets__b-slide"]
+ria.ru##[class^="b-sharebar"]
 ru-board.com##[href*="devline.ru"]
 rutracker.*###logo
 samforum.org##[class="navbar_notice"]
@@ -2186,6 +2184,7 @@ xyya.net##[style="width:220px;"][valign="top"][align="left"]
 yandex.ru##[class^="d-overhead"]
 yandex.ru##[class^="head-banner"]
 yandex.ru##[data-bem*="-ads."]
+yandex.ru##[href*="yandex.ru/clck/redir/"]
 yap.ru,yaplakal.com##[aria-label="Modal Window"]
 yap.ru,yaplakal.com##[data-axid],[id="news_1"] [id="swiffycontainer"]
 yap.ru,yaplakal.com##[href*="/go/?http"]
@@ -2199,14 +2198,10 @@ yap.ru,yaplakal.com##[id^="news"] [href*="vk.com"][target]
 yap.ru,yaplakal.com##[id^="news_"] [href*="javascript"]
 yap.ru,yaplakal.com##nobr [href]
 yap.ru,yaplakal.com#?#html > body:not(#id):style(background-color: #333637 !important)
-youtube.com##[class*="annotation"]
-youtube.com##[class="ytp-ad-overlay-slot"]
 youtube.com##[class^="ytp-cards-teaser"]
 youtube.com##[class^="ytp-ce-element"]
 youtube.com##[id="alert-banner"]
-youtube.com##[id="header"]
 youtube.com##[id="ticker"]
-youtube.com##iron-overlay-backdrop,paper-dialog
 !
 ! ИСКЛЮЧЕНИЯ
 @@$3p,domain=aliexpress.com|aliexpress.ru
@@ -2471,6 +2466,7 @@ google.*#@#[target][href*="vulkan"]
 google.*,mail.ru,rambler.ru,yandex.ru#@#[href*="tankion"]
 google.*,mail.ru,rambler.ru,yandex.ru#@#[href*="tomsk.ru"]
 google.*,yandex.ru,duckduckgo.com#@#[href*="777.com"],[href*="777.ru"],[href*="777.net"],[href*="adwcleaner.ru"],[href*="goo.gl/"],[href*="guardlink"],[href*="azino"],[href*="urlguard"],[href*="vsemayki"],[href*="raskruti.net"],[href*="presnozin.com"],[href*="pixelmarkway.com"],[href*="russian-cabaret.ru"],[href*="wt.link"],[href*="mobtop.ru"],[href*="urlshortbot.com"],[href*="/0t.se"],[href*="leon.ru"],[href*="/ivnz.ru"],[href*="kompot.bz"],[href*="wargaming"],[href*="meutrf.com"],[href*="fatcats.market"],[href*="alitools.io"],[href*="handmade.ru"],[href*="bit.ly"],[href*="megabonus.com"],[href*="ubi.li"],[href*="letyshops.com"],[href*="schlock.ru"],[href*="apple.com"],[href*="cryptotab"],[href*="isv-group.io"],[href*="jolly"][href*="me"],[href*="expressfromus.com"],[href*="appmetrica.yandex.com"],[href*="cyprusbutterfly.com.cy"],[href*="tennisi.bet"],[href*="betcity.ru"],[href*="vk.cc"],[href*="slots.com.ua"],[href*="aff1xstavka.top"],[href*="alitems.com"],[href*="fl.team"],[href*="xbet"],[href*="refpatlo.top"],[href*="awaps.yandex.net"],[href*="ddos-guard.net"],[href*="ali.pub"],[href*="ma-static.ru"],[href*="holder.com.ua"]
+livejournal.com#@#[id*="adblock"]
 news.mail.ru#@#[target][href*="&rnd="]
 ok.ru#@#[href*="_aid="]
 passion.ru#@#[class^="ad-"][class*="wrap"]
@@ -2484,19 +2480,13 @@ taskcluster.net,cnews.ru,google.*#@#[target][href*="target"]
 tiu.ru,prom.ua#@#[href*="/click_"]
 toptracker.ru,4pda.ru#@#[rel="nofollow"][href*="game"][target]
 torg.mail.ru,badoo.com#@#[class*="-promo_"]
+tvigle.ru,livejournal.com,yandex.ru#@#[class*="adblock"]
 utro.ru,aportex.ru#@#[id*="adver"]
 vk.com#@#[href*="/vk.cc/"]
 xhamster.com#@#[class*="popunder"]
 yaca.yandex.ru#@#[href*="tankion"]
 yaca.yandex.ru,warthunder.ru#@#[href*="warthunder"]
 yandex.*#@#[class*="social"][class*="block"]
-!
-! КОРРЕКТИРОВКА МОБИЛЬНЫХ ВЕРСИЙ
-tvigle.ru,livejournal.com#@#[class*="adblock"]
-livejournal.com#@#[id*="adblock"]
-pogoda.mail.ru##[href*="/news/"]
-ria.ru##[class^="b-sharebar"]
-yandex.ru##[href*="yandex.ru/clck/redir/"]
 !
 ! Specially for Extensions.
 @@blob:null/*
