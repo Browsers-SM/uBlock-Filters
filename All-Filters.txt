@@ -2327,8 +2327,7 @@ youtube.com##[id="ticker"]
 @@||thumbs.tivision.ru^$image,domain=ivi.ru
 @@||top-fwz1.mail.ru/counter?$image,domain=ok.ru
 @@||torg.mail.ru^$xhr,domain=torg.mail.ru
-@@||translate.google.com^$domain=translate.google.com|translate.google.ru
-@@||translate.google.com^$xhr
+@@||translate.
 @@||tvigle.ru^$domain=tvrain.ru|tvigle.ru
 @@||twi*$domain=mail.ru|twitter.com
 @@||universarium.org^$script,domain=universarium.org
