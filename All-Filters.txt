@@ -2436,6 +2436,7 @@ crossdomain.xml|$3p,domain=redcyt.com
 ||thumbnails.videomore.ru^$3p
 !
 ! ИНДИВИДУАЛЬНЫЕ ИСКЛЮЧЕНИЯ CSS
+220-volt.ru#@#[href*="/promo/"]
 addons.mozilla.org,cnews.ru,google.*,rambler.ru#@#[target][href*="promo"]
 alibaba.com#@#[id*="Bann"]
 alibaba.com#@#[id="banner"]
