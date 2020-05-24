@@ -1195,7 +1195,7 @@ cnt.
 ||newrelic.com^
 ||newrrb.bid^
 ||nextonmarket.com^$3p
-||ng*$3p,script,domain=~tvrain.ru|~ozon.ru|~techport.ru
+||ng*$3p,script,domain=~tvrain.ru|~ozon.ru|~techport.ru|~sima-land.ru
 ||nic*$3p
 ||njmaq.com^
 ||nnn.ru^
