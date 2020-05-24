@@ -466,7 +466,7 @@
 */banner/*.gif|
 */banner5*
 */banners*$script
-*/banners/*$image,domain=~220-volt.ru|~rlsnet.ru|~sant37.ru
+*/banners/*$image,domain=~220-volt.ru|~rlsnet.ru|~sant37.ru|~stayer-instrument.ru
 */bban*
 */bbn*$~image
 */bbt*
