@@ -306,7 +306,7 @@
 *show.php?$3p
 *showads*
 *showban*
-*site*$3p,domain=~com.ua|~irr.ru|~box.com|~netflix.com
+*site*$3p,domain=~com.ua|~irr.ru|~box.com|~netflix.com|~aquacity31.ru
 *smallad*
 *smartban*
 *smartsize*
@@ -1277,7 +1277,7 @@ cnt.
 ||pr.
 ||pr0gramm.com^
 ||pri*$3p
-||pro*$3p,domain=~prom.ua|~tiu.ru|~com.ua|~firefox.com|~mozilla.com|~mozilla.org|~500px.com
+||pro*$3p,domain=~prom.ua|~tiu.ru|~com.ua|~firefox.com|~mozilla.com|~mozilla.org|~500px.com|~термоснаб74.рф
 ||pro/*$3p,script,popunder,frame
 ||prre.ru^
 ||psmardr.com^
@@ -2443,7 +2443,7 @@ alibaba.com#@#[id="banner"]
 auto.youla.ru#@#[href*="/advert/"]
 botinok.co.il,fermer.ru,wagnardmobile.com,wagnardsoft.com,opechkah.ru,rospotrebnadzor.ru#@#[class*="promoted"]
 carambatv.ru,mirf.ru,ok.ru,stihl.ru,beru.ru#@#[style*="bann"]
-citrus.ua,google.*#@#[target]>[src*="/shop"]
+citrus.ua,google.*,sanvol.ru#@#[target]>[src*="/shop"]
 cnews.ru,comodo.com#@#[href*="partners"]
 cnews.ru,dbmast.ru,google.*,kids.quicksave.su#@#[target][href*="goto"]
 cnews.ru,game-torrent.info,google.*,kids.quicksave.su,mail.ru,mirror-rutor.org,rambler.ru,toptracker.ru,trinixy.ru,top.ucoz.ru,yandex.ru,orgazm-online.org,4pda.ru#@#[href*="game"][target]
@@ -2472,6 +2472,7 @@ passion.ru#@#[class^="ad-"][class*="wrap"]
 picsee.net,pikabu.ru,muz-tv.ru#@#[id="wrap"] [target]
 pogoda.mail.ru#@#[class*="banner"][class*="top"]
 prestig-konkurs.ru#@#[id*="rekl"]
+prootoplenie.ru#@#[class*="view"][class*="banner"]
 ria.ru#@#[id*="AdFox"]
 ridus.ru#@#[class*="adfox"]
 samforum.org#@#[id*="cookie"]
