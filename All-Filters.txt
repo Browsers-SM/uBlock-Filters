@@ -306,7 +306,7 @@
 *show.php?$3p
 *showads*
 *showban*
-*site*$3p,domain=~com.ua|~irr.ru|~box.com|~netflix.com|~aquacity31.ru
+*site*$3p,domain=~com.ua|~irr.ru|~box.com|~netflix.com|~aquacity31.ru|~spinningline.ru
 *smallad*
 *smartban*
 *smartsize*
