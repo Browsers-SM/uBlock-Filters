@@ -1401,7 +1401,7 @@ cnt.
 ||soknm.com^
 ||soosle.
 ||sopital.com^
-||spa*$3p,script,frame
+||spa*$3p,script,frame,domain=spac.me|spac1.com|spaces.im|spac1.net|strip2.xxx|spaces-blogs.com
 ||specisez.com^
 ||speedtest.net^$3p
 ||spot.im^
