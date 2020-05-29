@@ -273,7 +273,7 @@
 *promo*.ru^$3p,popunder
 *promo*popu*$script
 *promo.$popup,3p
-*push*$3p,~image
+*push*$3p,~image,domain=~spac.me|~spac1.com|~spaces.im|~spac1.net|~strip2.xxx|~spaces-blogs.com
 *random*$popup
 *rblock*$xhr,domain=~ok.ru
 *rbn.
