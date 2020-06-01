@@ -2197,6 +2197,7 @@ yap.ru,yaplakal.com##[id^="news"] [href*="vk.com"][target]
 yap.ru,yaplakal.com##[id^="news_"] [href*="javascript"]
 yap.ru,yaplakal.com##nobr [href]
 yap.ru,yaplakal.com#?#html > body:not(#id):style(background-color: #333637 !important)
+youtube.com##[class*="-promo-"]
 youtube.com##[class^="ytp-cards-teaser"]
 youtube.com##[class^="ytp-ce-element"]
 youtube.com##[id="alert-banner"]
