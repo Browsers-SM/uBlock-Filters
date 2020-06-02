@@ -2015,6 +2015,11 @@ spac1.com,spac.me,spaces.im,spac1.net,spaces-blogs.com##[id="common_error"]
 ##[rel="nofollow"][href*="?user="]
 ##[rel="nofollow"][href*="game"][target]
 !
+! Random id
+##[data-ad-id]
+##[data-ad-slot]
+##[data-src*="/banners/"]
+!
 ! Target and Onclick
 ##[class^="rnd-"][target]
 ##[class^="rt"] [target]
