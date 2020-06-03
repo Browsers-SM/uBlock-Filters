@@ -98,7 +98,7 @@
 */br-
 */br.
 */br/*$~image
-*/brands*$3p,domain=~wildberries.ru
+*/brands*$3p,domain=~wildberries.ru|banggood.com
 */bs.
 */bs/*
 */bx/*$script
@@ -2211,7 +2211,7 @@ youtube.com##[id="ticker"]
 @@$3p,domain=aliexpress.com|aliexpress.ru
 @@$3p,image,domain=google.ru
 @@$3p,script,domain=chuyu.me
-@@$elemhide,domain=accounts.google.com|e.mail.ru|life-film.ru|lifehacker.com|mail.google.com|mail.rambler.ru|mail.yandex.ru|msdn.microsoft.com|pcradio.ru|svyaznoy.ru|tele2.ru
+@@$elemhide,domain=2ip.ru|accounts.google.com|dhgate.com|e.mail.ru|kino-dom.org|life-film.ru|lifehacker.com|mail.google.com|mail.rambler.ru|mail.yandex.ru|megogo.net|mozilla-russia.org|msdn.microsoft.com|mts.ru|overclockers.ru|pcradio.ru|svyaznoy.ru|tele2.ru
 @@$frame,domain=spac.me|spac1.com|spaces.im|spac1.net|spaces-blogs.com|videochart.net|vk.com|youtube.googleapis.com
 @@$genericblock,domain=kp.ru
 @@$image,frame,script,domain=api.kanobu.ru|embed.kanobu.ru|games.kanobu.ru
@@ -2243,12 +2243,15 @@ youtube.com##[id="ticker"]
 @@||api.github.com^$domain=opengapps.org
 @@||api.vk.*audio
 @@||as.dns-shop.ru^$domain=dns-shop.ru
+@@||banggood.com^$domain=banggood.com
 @@||cdn*savepice.ru^$3p,image
 @@||cloudflare.*$script
 @@||code.jquery.com^
 @@||codepen.io^$3p,frame
 @@||coub.com^$script,domain=coub.com
 @@||cyberstatic.net^$domain=cyberforum.ru
+@@||dhgate.com^$domain=dhgate.com
+@@||dhresource.com^$domain=dhgate.com
 @@||disk.yandex*$domain=yadi.sk|yandex.ru
 @@||dropboxstatic.com^$domain=dropbox.com
 @@||duckduckgo.com/*.js?q=
@@ -2325,6 +2328,7 @@ youtube.com##[id="ticker"]
 @@||savido-web.trafficmanager.net^$domain=savido.net
 @@||slidesharecdn.com^$image,domain=slideshare.net
 @@||spac*js?r=
+@@||staticbg.com^$domain=banggood.com
 @@||steamstatic.com^$script,image,domain=store.steampowered.com
 @@||storage*$domain=yadi.sk|music.yandex.ru|radio.yandex.ru
 @@||svyaznoy.ru^$script,image,xhr,domain=svyaznoy.ru
@@ -2365,7 +2369,6 @@ youtube.com##[id="ticker"]
 ! ПРОБЛЕМЫ С АУДИО/ВИДЕО, ВИДЕОРЕКЛАМА, БЕСКОНЕЧНАЯ ЗАГРУЗКА, ОБНАРУЖЕН AdBlock, ЗАПРЕТ ПРОСМОТРА
 @@$3p,domain=adcdn.tv
 @@$csp,domain=bongacams.com|bongacams2.com|invi.tv|rutube.ru|smotri.com|ventusky.com|xvideos.com
-@@$generichide,domain=2ip.ru|kino-dom.org|megogo.net|mozilla-russia.org|mts.ru|overclockers.ru
 @@$xhr,domain=my-hithd.ru|clastarti.cc
 @@*moonwalk*
 @@*video*fbcdn.net^$xhr
@@ -2443,6 +2446,7 @@ crossdomain.xml|$3p,domain=redcyt.com
 ! ИНДИВИДУАЛЬНЫЕ ИСКЛЮЧЕНИЯ CSS
 220-volt.ru#@#[href*="/promo/"]
 addons.mozilla.org,cnews.ru,google.*,rambler.ru#@#[target][href*="promo"]
+alibaba.com#@#[id$="-ads"]
 alibaba.com#@#[id*="Bann"]
 alibaba.com#@#[id="banner"]
 auto.youla.ru#@#[href*="/advert/"]
