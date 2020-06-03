@@ -2255,6 +2255,7 @@ youtube.com##[id="ticker"]
 @@||disk.yandex*$domain=yadi.sk|yandex.ru
 @@||dropboxstatic.com^$domain=dropbox.com
 @@||duckduckgo.com/*.js?q=
+@@||etacdn.net^$domain=dhgate.com
 @@||githubusercontent.com^$domain=google.com|google.ru
 @@||gitlab-static.net^$domain=gitlab.com
 @@||google.*$domain=mail.google.com
@@ -2271,7 +2272,7 @@ youtube.com##[id="ticker"]
 @@||images.wambacdn.net^$domain=mamba.ru
 @@||img-ssl.xvideos.com.fpbns.net^$domain=xvideos.com
 @@||img.com.ua^$domain=bigmir.net
-@@||imgsmail.ru^$domain=mail.ru
+@@||imgsmail.ru^$domain=mail.ru|pandao.ru
 @@||instagram.*embed*
 @@||io^$domain=mybook.ru
 @@||ipic.su^$image
