@@ -2211,7 +2211,7 @@ youtube.com##[id="ticker"]
 @@$3p,domain=aliexpress.com|aliexpress.ru
 @@$3p,image,domain=google.ru
 @@$3p,script,domain=chuyu.me
-@@$elemhide,domain=2ip.ru|accounts.google.com|dhgate.com|e.mail.ru|kino-dom.org|life-film.ru|lifehacker.com|mail.google.com|mail.rambler.ru|mail.yandex.ru|megogo.net|mozilla-russia.org|msdn.microsoft.com|mts.ru|overclockers.ru|pcradio.ru|svyaznoy.ru|tele2.ru
+@@$elemhide,domain=accounts.google.com|e.mail.ru|life-film.ru|lifehacker.com|mail.google.com|mail.rambler.ru|mail.yandex.ru|msdn.microsoft.com|pcradio.ru|svyaznoy.ru|tele2.ru
 @@$frame,domain=spac.me|spac1.com|spaces.im|spac1.net|spaces-blogs.com|videochart.net|vk.com|youtube.googleapis.com
 @@$genericblock,domain=kp.ru
 @@$image,frame,script,domain=api.kanobu.ru|embed.kanobu.ru|games.kanobu.ru
@@ -2370,6 +2370,7 @@ youtube.com##[id="ticker"]
 ! ПРОБЛЕМЫ С АУДИО/ВИДЕО, ВИДЕОРЕКЛАМА, БЕСКОНЕЧНАЯ ЗАГРУЗКА, ОБНАРУЖЕН AdBlock, ЗАПРЕТ ПРОСМОТРА
 @@$3p,domain=adcdn.tv
 @@$csp,domain=bongacams.com|bongacams2.com|invi.tv|rutube.ru|smotri.com|ventusky.com|xvideos.com
+@@$generichide,domain=2ip.ru|kino-dom.org|megogo.net|mozilla-russia.org|mts.ru|overclockers.ru|dhgate.com
 @@$xhr,domain=my-hithd.ru|clastarti.cc
 @@*moonwalk*
 @@*video*fbcdn.net^$xhr
