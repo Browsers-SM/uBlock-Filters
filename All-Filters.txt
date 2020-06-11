@@ -316,6 +316,7 @@
 *etarg*
 *etrack*
 *extadv*
+*firebase*
 *flashad*
 *flux.com^
 *gemius*
@@ -964,6 +965,7 @@ _seo*$script
 ||gra*$3p
 ||group-ib.ru^$3p
 ||grt$3p
+||gstatic.com/charts/*loader.
 ||gstatic.com/cv/js/sender/*
 ||gumroad.com^
 ||gwallet.com^
@@ -1122,6 +1124,7 @@ _seo*$script
 ||mail.ru/cache*
 ||mailmunch.co^
 ||manfys.com^
+||map*.hwcdn.net^
 ||mar*$3p,popunder
 ||mastweb.ru^
 ||mathtag.com^
@@ -1600,6 +1603,8 @@ _seo*$script
 ||yotpo.com^
 ||yottos.com^
 ||youraise.ru^
+||youtube.com/api/stats/qoe?
+||youtube.com/api/stats/watchtime?
 ||yqkpt.com^
 ||ysowy.com^
 ||yudjes.com^
@@ -2365,7 +2370,6 @@ youtube.com##[id="ticker"]
 @@||yastatic.net^$script,domain=plus.kinopoisk.ru
 @@||yimg.com^$domain=flickr.com
 @@||youla.ru^$domain=youla.ru
-@@||youtube.com/results?
 !
 ! ПРОБЛЕМЫ С АУДИО/ВИДЕО, ВИДЕОРЕКЛАМА, БЕСКОНЕЧНАЯ ЗАГРУЗКА, ОБНАРУЖЕН AdBlock, ЗАПРЕТ ПРОСМОТРА
 @@$3p,domain=adcdn.tv
@@ -2438,6 +2442,7 @@ youtube.com##[id="ticker"]
 @@||youtube.*embed-player*$script
 @@||youtube.com/api/stats/ads?
 @@||youtube.com/embed/*$frame
+@@||youtube.com/results?
 @@||ytimg.com/yt/jsbin/www-widgetapi-
 crossdomain.xml|$3p,domain=redcyt.com
 ||flockplay.videomore.ru^
