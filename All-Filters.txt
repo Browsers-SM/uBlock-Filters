@@ -1558,7 +1558,7 @@ _seo*$script
 ||weclever.ru^
 ||whisla.com^
 ||wi.yandex.net^
-||widg*$third-party,domain=~soundcloud.com
+||widg*$third-party,domain=~soundcloud.com|~tabor.ru
 ||wiflyad.net^
 ||wiki2.org^$third-party
 ||winyagd.ru^
