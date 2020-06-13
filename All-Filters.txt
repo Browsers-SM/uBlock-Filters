@@ -2231,6 +2231,7 @@ youtube.com##[id="ticker"]
 @@*editor*$script,domain=3dn.ru|at.ua|clan.su|do.am|moy.su|p0.ru|ucoz.com|ucoz.es|ucoz.net|ucoz.org|ucoz.ru
 @@*game*$document,domain=ok.ru
 @@*github*$domain=github.com
+@@*instagram.c10r.facebook.com^$domain=livejournal.com
 @@*klikr.org^$image
 @@*maps.yandex.ru^$domain=yandex.ru
 @@*mega.co.nz^
