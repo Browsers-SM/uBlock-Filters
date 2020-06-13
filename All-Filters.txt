@@ -2266,6 +2266,7 @@ youtube.com##[id="ticker"]
 @@||google.*$domain=mail.google.com
 @@||google.*/js/gweb/*$domain=google.com|google.ru
 @@||google.*/xjs/*$script
+@@||google.com*maps*
 @@||google.com/cse?$frame
 @@||googleapis.com/custom$script
 @@||googleusercontent.com^$frame,domain=google.com|google.ru
