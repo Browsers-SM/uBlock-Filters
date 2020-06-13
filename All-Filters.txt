@@ -939,7 +939,7 @@ _seo*$script
 ||ga*$3p
 ||gddrio.com^
 ||gdeslon.ru^
-||ge*$3p
+||ge*$3p,domain=~google.com|google.ru
 ||gg.google.com^
 ||gigya.com^
 ||gingardo.com^
