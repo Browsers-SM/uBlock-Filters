@@ -902,7 +902,6 @@ _seo*$script
 ||exdiy.ru^$3p
 ||ext*$3p
 ||ezoic.
-||facebook.$3p,domain=~instagram.com|~facebook.com
 ||facetz.net^
 ||faggrim.com^
 ||fairypays.com^
