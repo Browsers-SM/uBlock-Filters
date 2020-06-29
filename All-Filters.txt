@@ -1382,6 +1382,7 @@ _seo*$script
 ||sexad.net^
 ||shar*$3p
 ||sho*$3p
+||shqbsdjatunl.com^
 ||shuffele.com^
 ||siftscience.com^
 ||simonscat.com^
@@ -1491,6 +1492,7 @@ _seo*$script
 ||typiol.com^
 ||tzweb.
 ||ucozabc.ru^$3p
+||ueuodgnrhb.com^
 ||ulog*$3p
 ||umekana.ru^
 ||uniq-ip.com^
