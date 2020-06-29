@@ -793,6 +793,7 @@ _seo*$script
 ||cientrer.com^
 ||ck*$3p
 ||cl*$3p,popup,~image,domain=~firefox.com|~mozilla.com|~mozilla.org|~mail.ru|~leroymerlin.ru|~zoom.us|~santehnika-tut.ru|~spinningline.ru|~tabor.ru|~smotri.com
+||clck.yandex.ru^$image
 ||cnetcontent.com^
 ||coin*$3p
 ||collanetti.com^
