@@ -1228,7 +1228,7 @@ _seo*$script
 ||ollolo.
 ||oml.ru^
 ||onclic*$script,frame,popup
-||one*$3p
+||one*$3p,domain=~live.com
 ||onlinetestpad.com^$3p
 ||onthe.io^
 ||op.yandex.ru^$3p
@@ -1803,7 +1803,7 @@ spac1.com,spac.me,spaces.im,spac1.net,spaces-blogs.com##[id="common_error"]
 ||diginetica.net^
 ||fitfas.ru^
 ||marketo.net^
-||msecnd.net^$domain=~microsoft.com
+||msecnd.net^$domain=~microsoft.com|~live.com
 ||odinkod.ru^
 ||putags.com^
 ||roxot-panel.com^
