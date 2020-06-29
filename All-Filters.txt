@@ -1803,7 +1803,7 @@ spac1.com,spac.me,spaces.im,spac1.net,spaces-blogs.com##[id="common_error"]
 ||diginetica.net^
 ||fitfas.ru^
 ||marketo.net^
-||msecnd.net^$domain=~microsoft.com|~live.com
+||msecnd.net^$domain=~microsoft.com|~live.com|~msecnd.net
 ||odinkod.ru^
 ||putags.com^
 ||roxot-panel.com^
