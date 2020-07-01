@@ -1347,6 +1347,7 @@ _seo*$script
 ||rt$3p,~image
 ||rtr*$domain=~tvkultura.ru
 ||ru.ru^
+||ru/b/*
 ||ru/banner*$3p
 ||ru/player/|$script
 ||ru/shows*$script
@@ -1845,6 +1846,7 @@ spac1.com,spac.me,spaces.im,spac1.net,spaces-blogs.com##[id="common_error"]
 ##[class*="promoted"]
 ##[class*="reclam"]
 ##[class*="rekl"]
+##[class*="right"][class*="banner"]
 ##[class*="right-ad"]
 ##[class*="right-ban"]
 ##[class*="social"][class*="block"]
@@ -1879,7 +1881,6 @@ spac1.com,spac.me,spaces.im,spac1.net,spaces-blogs.com##[id="common_error"]
 ##[class^="bn-"]
 ##[class^="bnr_"]
 ##[class^="fb-load"]
-##[class^="right"][class$="banner"]
 ##[class^="soc-bl"]
 ##[class^="soc_tab"]
 ##[class^="social_pl"]
