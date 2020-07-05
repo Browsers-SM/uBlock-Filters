@@ -2199,7 +2199,7 @@ yandex.ru##[data-bem*="-ads."]
 yandex.ru##[href*="yandex.ru/clck/redir/"]
 yap.ru,yaplakal.com##[aria-label="Modal Window"]
 yap.ru,yaplakal.com##[data-axid],[id="news_1"] [id="swiffycontainer"]
-yap.ru,yaplakal.com##[href*="/go/?http"]
+yap.ru,yaplakal.com,yapfiles.ru##[href*="/go/?http"]
 yap.ru,yaplakal.com##[id="scrollTop"]
 yap.ru,yaplakal.com##[id="top-line"]>[href*="yaplakal.com/go/"]
 yap.ru,yaplakal.com##[id="top-line"][class="no-compress"]:not(#header-flash)
