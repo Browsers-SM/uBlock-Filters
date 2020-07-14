@@ -293,7 +293,7 @@
 *cnt|
 *context*$3p
 *cookie*consent*
-*count*$1p,script,image,domain=~livejournal.com
+*count*$1p,script,image,domain=~livejournal.com|~discount.220-volt.ru
 *count*$3p,domain=~youtube.com
 *criteo*
 *crypt*$script,3p
