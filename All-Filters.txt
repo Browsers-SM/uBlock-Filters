@@ -1196,7 +1196,7 @@ _seo*$script
 ||newrelic.com^
 ||newrrb.bid^
 ||nextonmarket.com^$3p
-||ng*$3p,script,domain=~tvrain.ru|~ozon.ru|~techport.ru|~sima-land.ru
+||ng*$3p,script,domain=~tvrain.ru|~ozon.ru|~techport.ru|~sima-land.ru|~pulscen.ru
 ||nic*$3p
 ||njmaq.com^
 ||nnn.ru^
