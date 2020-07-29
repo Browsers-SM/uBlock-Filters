@@ -561,7 +561,7 @@
 .rekl*
 .ru/?$script,frame
 .ru/ad/*
-=ad*$script,frame,xhr,domain=~dns-shop.ru|~tsearch.me|~beru.ru|~youtube.com
+=ad*$script,frame,xhr,domain=~dns-shop.ru|~tsearch.me|~beru.ru|~youtube.com|~sberbank.ru
 =aid*$script,frame
 =ban*$script,frame
 =bn*$script,frame
