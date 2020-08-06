@@ -333,7 +333,7 @@
 *hitbox*
 *hitex*
 *hits*$3p
-*hive*$3p
+*hive*$3p,domain=~google.com
 *host*$3p,~image,domain=~virustotal.com|~rufus.ie
 *html?*target*$domain=~yandex.ru|~yandex.com|~yandex.net
 *iframead*
