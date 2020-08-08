@@ -2239,6 +2239,7 @@ youtube.com##[id="ticker"]
 @@*mega.co.nz^
 @@*upload*$~image,domain=vk.com
 @@/app*$document,domain=my.mail.ru|vk.com
+@@4pda.ru/forum/dl/post/*
 @@thumb*$image
 @@||192.168.8.1
 @@||accounts.google.com^$popup
