@@ -806,7 +806,7 @@ _seo*$script
 ||comagic.ru^
 ||comon.ru^$3p
 ||compete.com^
-||con*$3p
+||con*$3p,domain=~google.ru|google.com
 ||cookiebot.com^
 ||cooster.ru^
 ||copercato.com^
