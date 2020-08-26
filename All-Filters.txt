@@ -182,7 +182,7 @@
 */xad*
 *2bears*
 *4u.$3p,script
-*ad*?r*$domain=~turboserial.info|adoptopenjdk.net
+*ad*?r*$domain=~turboserial.info|~adoptopenjdk.net
 *adbot*
 *adds*$script,frame
 *addthis*
