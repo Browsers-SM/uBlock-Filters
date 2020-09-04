@@ -301,7 +301,7 @@
 *ddos-guard*$domain=~ddos-guard.net
 *delivery*$3p
 *deneg*$3p
-*digital*$3p,domain=~kyivstar.ua
+*digital*$3p,domain=~kyivstar.ua|~apppage.net
 *direct*$3p,script,frame,popup
 *disqus*
 *dmca*$3p,domain=~dmca.com|~stackpathdns.com
