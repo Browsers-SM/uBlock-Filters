@@ -104,7 +104,7 @@
 */bx/*$script
 */c.*php*$3p
 */c.js*
-*/ck*$script,popup,domain=~google.ru|youtube.com
+*/ck*$script,popup,domain=~google.ru|~youtube.com
 */clck/*
 */clk*$script,popup
 */cn.js*
