@@ -354,7 +354,7 @@
 *js?r=$3p,domain=~apk-dl.com
 *kadam*$script
 *klick*
-*klik*$3p
+*klik*$3p,domain=~ok.ru|~mycdn.me
 *konverta.$script
 *landing*$popup
 *largead*
