@@ -2353,6 +2353,7 @@ youtube.com##[id="ticker"]
 @@||universarium.org^$script,domain=universarium.org
 @@||variti.ch^$script,domain=dns-shop.ru
 @@||video-tub-ru.yandex.net^$image
+@@||vk*.mycdn.me^$xhr
 @@||vk.com/js/cmodules/web/*
 @@||vsemayki.ru^$domain=vsemayki.ru
 @@||wambacdn.net^$domain=love.mail.ru
