@@ -875,6 +875,7 @@ _seo*$script
 ||dyndns.com^
 ||dyvideo.net^
 ||dyzha.com^
+||dzubavstal.com^
 ||e-$3p
 ||e1.ru^$3p
 ||easylead.ru^
@@ -1114,7 +1115,7 @@ _seo*$script
 ||log.
 ||longtailvideo.com^
 ||lostun.com^
-||lov*$3p
+||lov*$3p,domain=~stulchik.net
 ||lu-art.ucoz.com^$3p
 ||luuming.com^
 ||luxup*.ru^$3p
