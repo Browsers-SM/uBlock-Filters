@@ -735,6 +735,7 @@ _seo*$script
 ||bjpwv.com^
 ||blendac.com^
 ||blo*$3p,domain=~blogspot.com|~blogspot.ru|~blogger.com|~netza.ru
+||bngpt.com^
 ||bogi.ru^
 ||bokroet.com^
 ||bon*$3p
@@ -1441,6 +1442,7 @@ _seo*$script
 ||teasernet.com^
 ||technorati.com^
 ||ter$3p
+||teser.net^
 ||test37.com^
 ||testonlineru.ru^
 ||tgwidget.com^$3p
@@ -1608,6 +1610,7 @@ _seo*$script
 ||youtube.com/api/stats/qoe?
 ||youtube.com/api/stats/watchtime?
 ||yqkpt.com^
+||ysexy.org^
 ||ysowy.com^
 ||yudjes.com^
 ||yumenetworks.com^
@@ -1623,6 +1626,7 @@ _seo*$script
 ||zorkabiz.ru^
 ||zozoter.ru^
 ||zqizn.com^
+||zrlcr.com^
 ||zvooq.com^$3p,popup
 ||zvuk.com^$3p,popup
 ||курс2.рф^$3p
