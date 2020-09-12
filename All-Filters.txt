@@ -2262,6 +2262,7 @@ youtube.com##[id="ticker"]
 @@||cloudflare.*$script
 @@||code.jquery.com^
 @@||codepen.io^$3p,frame
+@@||consent.google.ru^
 @@||coub.com^$script,domain=coub.com
 @@||cyberstatic.net^$domain=cyberforum.ru
 @@||dhgate.com^$domain=dhgate.com
