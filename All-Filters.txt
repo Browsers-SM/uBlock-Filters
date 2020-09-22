@@ -682,7 +682,7 @@ _seo*$script
 ||apishops.org^
 ||apitech.ru^
 ||aport.ru^$3p
-||app*$3p,domain=~virustotal.com|~my.mail.ru|~appspot.com|~apppage.net
+||app*$3p,domain=~virustotal.com|~my.mail.ru|~appspot.com|~apppage.net|~mi.com
 ||aprtx.com^
 ||apture.com^
 ||aquaseller.ru^
