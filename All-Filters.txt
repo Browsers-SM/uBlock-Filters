@@ -52,7 +52,7 @@
 */ads?
 */ads_
 */adt*
-*/adv*$script,frame,popup,domain=~softobase.com|~softhome.ru
+*/adv*$script,frame,popup,domain=~softobase.com|~softhome.ru|~windowscentral.com
 */adv-
 */adv/*
 */adv2*
