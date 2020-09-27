@@ -1802,7 +1802,7 @@ spac1.com,spac.me,spaces.im,spac1.net,spaces-blogs.com##[id="common_error"]
 ! СУЩЕСТВУЮТ ПО ДОМЕНАМ 3-ГО УРОВНЯ.
 ||3lift.com^
 ||aidata.io^
-||akamaihd.net^$domain=~live.com|~coub.com|~invi.tv|~steampowered.com
+||akamaihd.net^$domain=~live.com|~coub.com|~invi.tv|~steampowered.com|~steamcommunity.com
 ||akstat.io^
 ||atdmt.com^
 ||diginetica.net^
