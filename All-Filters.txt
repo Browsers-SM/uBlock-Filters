@@ -730,7 +730,7 @@ _seo*$script
 ||bin*$3p,domain=~bing.com
 ||biplane.ru^
 ||birjakreditov.com^
-||bit*$3p,domain=~san.team|~bigam.ru
+||bit*$3p,domain=~san.team|~bigam.ru|~fiztech.ru
 ||biz^$3p,~image,domain=~megogo.ru|~megogo.net
 ||bjpwv.com^
 ||blendac.com^
@@ -2498,7 +2498,7 @@ passion.ru#@#[class^="ad-"][class*="wrap"]
 picsee.net,pikabu.ru,muz-tv.ru#@#[id="wrap"] [target]
 pogoda.mail.ru#@#[class*="banner"][class*="top"]
 prestig-konkurs.ru#@#[id*="rekl"]
-prootoplenie.ru#@#[class*="view"][class*="banner"]
+prootoplenie.ru,udt.ru#@#[class*="view"][class*="banner"]
 ria.ru#@#[id*="AdFox"]
 ridus.ru#@#[class*="adfox"]
 samforum.org#@#[id*="cookie"]
