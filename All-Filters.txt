@@ -666,6 +666,7 @@ _seo*$script
 ||aintere.com^
 ||aisol.ru^
 ||aixcdn.com^
+||aj2208.online^
 ||alfainternet.$3p
 ||ali*$3p,domain=~aliexpress.com|~aliexpress.ru
 ||alkodesign.ru^
