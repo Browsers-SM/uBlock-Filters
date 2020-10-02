@@ -2031,6 +2031,7 @@ spac1.com,spac.me,spaces.im,spac1.net,spaces-blogs.com##[id="common_error"]
 ! Random id
 ##[data-ad-id]
 ##[data-ad-slot]
+##[data-changed-id*="adfox"]
 ##[data-src*="/banners/"]
 !
 ! Target and Onclick
