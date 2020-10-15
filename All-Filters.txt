@@ -1639,7 +1639,7 @@ _seo*$script
 *$popup,domain=apkfind.com|apkpure.com|dverser.ru|film-adult.com|imagebam.com|joyreactor.cc|kordonivkakino.net|ok.ru|rustorka.com|tracelive.ru|z1.fm|xvideos.com|xhamster.com
 *$3p,domain=adriver.ru|fastpic.ru|free1img.ru|free2img.ru|free3img.ru|imageban.ru|imagevenue.com|radikal.ru|tinypic.com|forum.release-apk.com
 *$websocket,domain=~animevost.org|~github.com|~mibbit.com|~ria.ru|~send.firefox.com|~smotri.com|~twitch.tv|~video.rambler.ru|~videochatka.net|~whatsapp.com|~yandex.ru|~youtube.com|~spinningline.ru
-*adblo*$image,script,domain=~adblockplus.me|~adblockplus.org|~filmix.net|~ghacks.net
+*adblo*$image,script,domain=~adblockplus.me|~adblockplus.org|~ghacks.net
 *code*$3p,script,domain=~bitbucket.org|~code.jquery.com|~codeplex.com|~icecreamapps.com|~invi.tv|~market.pochta.ru|~microsoft.com|~nnmclub.ch|~nnmclub.to|~ntp-servers.net|~opengapps.org|~ren.tv|~yandex.ru|~yota.ru|~netflix.com|~spinningline.ru
 *popunder*$~xhr,domain=~cackle.me|~dns-shop.ru|~livejournal.com|~mail.ru|~miuipro.ru|~onlinezakladki.ru|~photosight.ru|~rian.ru|~support.kaspersky.ru|~vk.com
 *social*$~image,domain=~3dn.ru|~at.ua|~clan.su|~do.am|~google.com|~google.ru|~mail.ru|~mail.yandex.ru|~microsoft.com|~miuipro.ru|~moy.su|~otkritkiok.ru|~p0.ru|~ria.ru|~tabor.ru|~trinixy.ru|~ucoz.com|~ucoz.es|~ucoz.net|~ucoz.org|~ucoz.ru|~vivaldi.net|~ok.ru
@@ -2089,7 +2089,8 @@ dnsleaktest.com##[href="/what-is-the-difference.html"]
 fastpic.ru##[id="bleft"]
 fastpic.ru##[id="bright"]
 fastpic.ru##[target]
-filmix.*##[class^="container"][style="margin-top: 0px;"]
+filmix.*##[class="fall"]
+filmix.*##[class="information warning"]
 filmix.*##[style^="position: absolute; top:"][style*="px; left: -2"]
 forum.mozilla-russia.org##[id="announce"]
 forumhouse.ru##[class="fh-b-feed-welcome"]
