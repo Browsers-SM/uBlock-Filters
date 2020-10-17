@@ -932,6 +932,7 @@ _seo*$script
 ||fotostrana.ru^$3p
 ||foundtr.com^
 ||franecki.net^
+||franeski.net^
 ||fre*$3p,domain=~filebase.ws|~flaticon.com
 ||friendlyduck.com^
 ||frolvid.ru^
