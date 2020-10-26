@@ -320,7 +320,7 @@
 *flashad*
 *flux.com^
 *gemius*
-*geoi*$domain=~crystal.tv
+*geoi*$domain=~wikimedia.org
 *get*info.php*
 *gif?id*
 *girl*$frame
