@@ -385,7 +385,7 @@
 *news*$3p,~image,domain=~ria.com|~bigmir.net|~yandex.ru|~yastatic.net|~pulscen.ru|~bbc.com
 *nwgsm*
 *online.dll*
-*opena*$script
+*opena*$script,domain=~inmood.ru
 *openx*
 *orphus*$domain=~orphus.ru
 *page*rank*$3p
