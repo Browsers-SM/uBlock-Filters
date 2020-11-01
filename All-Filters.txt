@@ -348,7 +348,7 @@
 *js&key=$3p
 *js*/seo*$script
 *js*ads*$script
-*js*targ*$script
+*js*targ*$script,domain=~vk.com
 *js.php?id*
 *js?*&b=
 *js?r=$3p,domain=~apk-dl.com
