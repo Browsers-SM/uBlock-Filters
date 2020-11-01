@@ -38,7 +38,7 @@
 */ad?
 */ad_
 */adbn*
-*/adc*$script,frame,domain=~4pda.ru
+*/adc*$script,frame,domain=~4pda.ru|vk.com
 */addv*
 */adget*
 */adli*
