@@ -2284,6 +2284,7 @@ youtube.com##[id="ticker"]
 @@||google.com/cse?$frame
 @@||googleapis.com/custom$script
 @@||googleusercontent.com^$frame,domain=google.com|google.ru
+@@||gosuslugi.ru^$domain=gosuslugi.ru
 @@||gstatic.com^$domain=android.com|google.com|google.ru
 @@||gu-st.ru^$domain=gosuslugi.ru
 @@||hqq.tv^
