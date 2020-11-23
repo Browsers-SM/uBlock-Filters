@@ -2194,6 +2194,7 @@ tabor.ru##[onclick*="day_click_profile"]
 tabor.ru,send.firefox.com#?#html > body:style(background-color: #FFDEB9 !important)
 tapochek.net###sidebar1
 tapochek.net##[id^="fuck"]
+teplodar.ru##[class="select-city-wrap"]
 translate.google.com##[id^="gb"]
 trinixy.ru##[class="social"]
 trinixy.ru##[class^="header-0"]
