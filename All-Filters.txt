@@ -227,6 +227,7 @@
 *alfa*sense*
 *ambler*op100*
 *analyt*$~image,domain=~ozon.ru
+*analyt*.amazonaws.com^
 *appban*
 *audioads*
 *avenue*$3p
@@ -2102,7 +2103,9 @@ forumhouse.ru##[class="fh-b-feed-welcome"]
 forumhouse.ru##[class="PanelScroller Notices"]
 gdepapa.ru##[class="block_info mb10"]
 ghacks.net##[class*="sponsor"]
+github.com##[class*="cookie-banner"]
 github.com##[class^="signup-prompt"]
+github.com##[id="unsupported-browser"]
 google.*##.top-pla-group-inner
 google.*##[class^="cp-promo"]
 google.*##[class^="gb_"][data-ved][style]
