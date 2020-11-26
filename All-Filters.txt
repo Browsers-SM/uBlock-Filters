@@ -650,6 +650,7 @@ _seo*$script
 ||adm*$3p
 ||adn*$3p
 ||adonut.ru^
+||adp*$3p
 ||adregain.ru^
 ||ads*$3p
 ||adservice.
