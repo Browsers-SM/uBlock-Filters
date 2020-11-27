@@ -1303,7 +1303,7 @@ _seo*$script
 ||qr*$3p
 ||qu*$3p
 ||qxyam.com^
-||r.$popup,script,frame,domain=~microsoft.com|~tiktok.com|~ozon.ru
+||r.$popup,script,frame,domain=~microsoft.com|~tiktok.com|~ozon.ru|~honor.ru
 ||r.mail.*gif|$domain=~mail.ru
 ||r.twimg.com^
 ||rabotayes.ru^
