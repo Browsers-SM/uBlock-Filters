@@ -2328,6 +2328,7 @@ youtube.com##[id="ticker"]
 @@||mc.yandex.ru^$script,domain=ucweb.com
 @@||money.yandex.ru^$domain=yandex.ru
 @@||mozilla.org^$xhr,domain=addons.mozilla.org
+@@||mozit.cloud^
 @@||mradx.net^$domain=my.mail.ru
 @@||mts.ru^$domain=mts.ru
 @@||music.yandex.ru^$domain=radio.yandex.ru
