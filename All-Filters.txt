@@ -1,5 +1,8 @@
 ﻿! Title: SM
 !
+*new*year*$script
+*snow*$script
+!
 &ad*$script,frame
 &aid*$~image
 &aid=
