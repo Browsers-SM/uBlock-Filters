@@ -2278,6 +2278,7 @@ youtube.com##[id="ticker"]
 @@||api.vk.*audio
 @@||as.dns-shop.ru^$domain=dns-shop.ru
 @@||banggood.com^$domain=banggood.com
+@@||blogspot.$image
 @@||cdn*savepice.ru^$3p,image
 @@||cloudflare.*$script
 @@||code.jquery.com^
