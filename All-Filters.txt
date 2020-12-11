@@ -2374,6 +2374,7 @@ youtube.com##[id="ticker"]
 @@||svyaznoy.ru^$script,image,xhr,domain=svyaznoy.ru
 @@||tele2.ru^$domain=tele2.ru
 @@||thumbs.tivision.ru^$image,domain=ivi.ru
+@@||tilda.ws^$domain=shop.forumhouse.ru
 @@||top-fwz1.mail.ru/counter?$image,domain=ok.ru
 @@||torg.mail.ru^$xhr,domain=torg.mail.ru
 @@||translate.
