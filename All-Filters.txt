@@ -351,7 +351,7 @@
 *intim*shop*
 *js&key=$3p
 *js*/seo*$script
-*js*ads*$script
+*js*ads*$script,domain=~drive.google.com
 *js*targ*$script,domain=~vk.com
 *js.php?id*
 *js?*&b=
