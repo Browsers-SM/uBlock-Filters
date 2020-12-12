@@ -2509,6 +2509,7 @@ f-picture.net,games.mail.ru,e.mail.ru,oilcapital.ru,radikal.ru,youla.ru,aportex.
 ferra.ru#@#[class^="ad-"][class*="wrap"]
 games.mail.ru#@#[target][href*="/adid"]
 go.mail.ru#@#[href*="//go"][href*=".mail.ru"]
+google.*#@#[href*="count"][href*="utm_"]
 google.*#@#[target]>[src*="/r/"]
 google.*#@#[target][href*="-shop"]
 google.*#@#[target][href*="/brand"]
