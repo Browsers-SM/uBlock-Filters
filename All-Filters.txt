@@ -141,7 +141,7 @@
 */out.php*
 */promo*$3p,popunder,frame
 */px.gif*&rn
-*/r.$script,domain=~microsoft.com|~huawei.ru
+*/r.$script,domain=~microsoft.com
 */r.php?id=*
 */r/*$frame
 */rb.
@@ -1307,7 +1307,7 @@ _seo*$script
 ||qr*$3p
 ||qu*$3p
 ||qxyam.com^
-||r.$popup,script,frame,domain=~microsoft.com|~tiktok.com|~ozon.ru|~honor.ru
+||r.$popup,script,frame,domain=~microsoft.com|~tiktok.com|~ozon.ru|~honor.ru|~huawei.ru
 ||r.mail.*gif|$domain=~mail.ru
 ||r.twimg.com^
 ||rabotayes.ru^
