@@ -141,7 +141,7 @@
 */out.php*
 */promo*$3p,popunder,frame
 */px.gif*&rn
-*/r.$script,domain=~microsoft.com
+*/r.$script,domain=~microsoft.com|~huawei.ru
 */r.php?id=*
 */r/*$frame
 */rb.
