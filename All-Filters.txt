@@ -731,6 +731,7 @@ _seo*$script
 ||bemobile.ua^
 ||beregu.ru^
 ||betrad.com^
+||bgkecb.com^
 ||bid*$3p
 ||big*$3p,~image
 ||bin*$3p,domain=~bing.com
@@ -1124,6 +1125,7 @@ _seo*$script
 ||lostun.com^
 ||lov*$3p,domain=~stulchik.net
 ||lu-art.ucoz.com^$3p
+||luckyads.tech^
 ||luuming.com^
 ||luxup*.ru^$3p
 ||lycodz.com^
@@ -1613,6 +1615,7 @@ _seo*$script
 ||ybobra.ru^$3p
 ||yell.ru^$3p
 ||yluvo.com^
+||yoajqj.com^
 ||yotpo.com^
 ||yottos.com^
 ||youraise.ru^
