@@ -1369,6 +1369,7 @@ _seo*$script
 ||rublacklist.net^$3p
 ||rus*$3p
 ||rut*$3p
+||rutarget.ru^
 ||ryminos.com^
 ||s-shot.ru*http*
 ||sabit.ru^
@@ -1470,6 +1471,7 @@ _seo*$script
 ||tiz*$3p
 ||tk^$3p,script,frame
 ||tm*$3p,domain=~gov.ua
+||tns-counter.ru^
 ||tnt-play.ru^
 ||tochno-tochno.ru^
 ||tojinr.com^
