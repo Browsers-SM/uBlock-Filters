@@ -859,6 +859,7 @@ _seo*$script
 ||diamondelectric.ru^
 ||diera.ru^
 ||digiseller.ru^
+||digitaltarget.ru^
 ||districtm.ca^
 ||divertura.com^
 ||dmpcloud.net^
@@ -2090,6 +2091,7 @@ online.anidub.com,unionpeer.org##[onclick]
 !
 ! ИНДИВИДУАЛЬНЫЕ CSS
 4pda.ru##[class="fix-post"][style="display:block!important"]
+4pda.ru##[href="#"]
 4pda.ru##[id="appbanner"]
 4pda.ru##[id="fo_-1"][class="borderwrap"]
 4pda.ru##[target] [src*="s.4pda.to"][alt=""][title=""][border="0"]
