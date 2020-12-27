@@ -55,7 +55,7 @@
 */ads?
 */ads_
 */adt*
-*/adv*$script,frame,popup,domain=~softobase.com|~softhome.ru|~windowscentral.com
+*/adv*$script,frame,popup,domain=~softobase.com|~softhome.ru|~windowscentral.com|~softdroid.net
 */adv-
 */adv/*
 */adv2*
@@ -2541,6 +2541,7 @@ prootoplenie.ru,udt.ru#@#[class*="view"][class*="banner"]
 ria.ru#@#[id*="AdFox"]
 ridus.ru#@#[class*="adfox"]
 samforum.org#@#[id*="cookie"]
+sourceforge.net#@#[class*="-ads "]
 stroyklim.com#@#[class$="ban"]
 taskcluster.net,cnews.ru,google.*#@#[target][href*="target"]
 tiu.ru,prom.ua#@#[href*="/click_"]
