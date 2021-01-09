@@ -1301,7 +1301,7 @@ _seo*$script
 ||pus*$3p
 ||pvclouds.com^
 ||pw^$3p,script
-||px.gfycat.com^
+||px.$3p
 ||q32.ru^
 ||qbaka.
 ||qip.ru^$3p,~image
