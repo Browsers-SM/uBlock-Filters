@@ -1,8 +1,5 @@
 ﻿! Title: SM
 !
-*new*year*$script
-*snow*$script
-!
 &ad*$script,frame
 &aid*$~image
 &aid=
@@ -1327,6 +1324,7 @@ _seo*$script
 ||rdiul.com^
 ||re^$3p,script,frame
 ||rea*$3p
+||realsrv.com^
 ||recreativ.ru^
 ||redatastore.ru^
 ||redhelper.ru^
