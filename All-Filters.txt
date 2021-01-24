@@ -2,7 +2,7 @@
 !
 &ad*$script,frame
 &aid*$~image
-&aid=
+&aid=$domain=~accounts.google.com
 &b=$3p,script,frame
 &b=*&r=
 &ban*$script,frame
