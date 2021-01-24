@@ -2498,7 +2498,6 @@ crossdomain.xml|$3p,domain=redcyt.com
 ||thumbnails.videomore.ru^$3p
 !
 ! ИНДИВИДУАЛЬНЫЕ ИСКЛЮЧЕНИЯ CSS
-spac1.*#@#[class*="_adv_"]
 220-volt.ru#@#[href*="/promo/"]
 addons.mozilla.org,cnews.ru,google.*,rambler.ru#@#[target][href*="promo"]
 alibaba.com#@#[id$="-ads"]
@@ -2540,7 +2539,9 @@ prootoplenie.ru,udt.ru#@#[class*="view"][class*="banner"]
 ria.ru#@#[id*="AdFox"]
 ridus.ru#@#[class*="adfox"]
 samforum.org#@#[id*="cookie"]
+softwareok.com#@#[id^="banner_"]
 sourceforge.net#@#[class*="-ads "]
+spac1.*#@#[class*="_adv_"]
 stroyklim.com#@#[class$="ban"]
 taskcluster.net,cnews.ru,google.*#@#[target][href*="target"]
 tiu.ru,prom.ua#@#[href*="/click_"]
