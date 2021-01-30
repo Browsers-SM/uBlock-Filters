@@ -646,6 +646,7 @@ _seo*$script
 ||adforce.ru^
 ||adhands.ru^
 ||adhigh.*
+||adl-hunter.com^
 ||adm*$3p
 ||adn*$3p
 ||adonut.ru^
