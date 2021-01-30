@@ -2,7 +2,7 @@
 !
 &ad*$script,frame
 &aid*$~image
-&aid=$domain=~google.com|google.ru
+&aid=
 &b=$3p,script,frame
 &b=*&r=
 &ban*$script,frame
@@ -525,7 +525,6 @@
 *xxx*$frame,domain=~strip2.xxx
 *yad*tr*$script,domain=~alleyadoma.ru
 *yashare*
-*youtubei*$domain=~youtube.com
 *zoneid*$3p,script,frame,xhr,popup
 *zoneid*ref*
 -ad&
@@ -2312,6 +2311,7 @@ youtube.com##[id="ticker"]
 @@||google.com/cse?$frame
 @@||googleapis.com/custom$script
 @@||googleusercontent.com^$frame,domain=google.com|google.ru
+@@||googlevideo.com/videoplayback?
 @@||gosuslugi.ru^$domain=gosuslugi.ru
 @@||gstatic.com^$domain=android.com|google.com|google.ru
 @@||gu-st.ru^$domain=gosuslugi.ru
