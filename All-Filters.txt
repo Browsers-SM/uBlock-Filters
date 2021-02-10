@@ -2449,6 +2449,7 @@ youtube.com##[id="ticker"]
 @@||embed.theguardian.com^$frame,domain=ria.ru
 @@||facebook.com/plugins/video.php*
 @@||google-analytics.com^$script,domain=rt.ru
+@@||hdbro.biz^$domain=zetflix.online
 @@||hdvb.info^$domain=octodb.info
 @@||ivi.ru/embeds/video*$frame,domain=ivi.ru
 @@||jamba.net^$domain=megogo.net
