@@ -1074,6 +1074,7 @@ _seo*$script
 ||kia.ru^$3p
 ||kiks.yandex.
 ||kilopog.com^
+||kinopoisk.ru/rating/*$3p
 ||kistured.com^
 ||kitopr.com^
 ||kiwifarms.net^
@@ -1084,6 +1085,7 @@ _seo*$script
 ||komoona.com^
 ||kontur.ru^
 ||koviovius.com^
+||kp.yandex.net^
 ||kpytum*
 ||krible.$3p
 ||krolikplatit.ru^
@@ -1191,7 +1193,7 @@ _seo*$script
 ||namuyutno.ru^
 ||nanosemantics.
 ||narrative.io^
-||naydex.net^$domain=kinopoisk.ru
+||naydex.net^$domain=~kinopoisk.ru
 ||nbc.rt.com^
 ||ndyzz.com^
 ||nectarin.ru^
@@ -1317,6 +1319,7 @@ _seo*$script
 ||rare*$3p,domain=~portableapps.com
 ||raskruty.ru^$3p
 ||rati*$3p,~image
+||rating.kinopoisk.ru^$3p
 ||rawgit.com^
 ||rb*$3p
 ||rbn
