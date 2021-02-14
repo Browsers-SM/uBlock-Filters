@@ -1191,7 +1191,7 @@ _seo*$script
 ||namuyutno.ru^
 ||nanosemantics.
 ||narrative.io^
-||naydex.net^
+||naydex.net^$domain=kinopoisk.ru
 ||nbc.rt.com^
 ||ndyzz.com^
 ||nectarin.ru^
