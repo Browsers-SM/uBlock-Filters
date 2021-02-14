@@ -2353,6 +2353,7 @@ youtube.com##[id="ticker"]
 @@||music.yandex.ru^$domain=radio.yandex.ru
 @@||my.mail.ru^$domain=my.mail.ru
 @@||mycdn.me/uploadImage?$domain=ok.ru
+@@||naydex.net^$domain=kinopoisk.ru
 @@||nnm*club.*forum/filelst*$script
 @@||nnm*club.*forum/speller*$script
 @@||ok.ru/adsmanager/*$xhr,domain=ok.ru
