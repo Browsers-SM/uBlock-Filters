@@ -1085,7 +1085,7 @@ _seo*$script
 ||komoona.com^
 ||kontur.ru^
 ||koviovius.com^
-||kp.yandex.net^
+||kp.yandex.net^$domain=kinopoisk.ru
 ||kpytum*
 ||krible.$3p
 ||krolikplatit.ru^
