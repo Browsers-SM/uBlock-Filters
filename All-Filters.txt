@@ -476,6 +476,7 @@
 *spy.js*$domain=~sport-express.ru
 *superad*
 *surf*.ru^$3p
+*sync.com^$3p
 *sync?user*$3p
 *syndicat*$script,frame,image,domain=~softclub.ru
 *tagcloud*
