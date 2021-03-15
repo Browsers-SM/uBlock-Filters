@@ -1395,7 +1395,7 @@ _seo*$script
 ||seo*$3p
 ||sepyra.com^
 ||sexad.net^
-||shar*$3p,domain=~wikihow.com
+||shar*$3p,domain=~wikihow.com|~wixsite.com
 ||sho*$3p
 ||shqbsdjatunl.com^
 ||shuffele.com^
