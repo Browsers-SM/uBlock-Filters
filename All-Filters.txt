@@ -1241,6 +1241,7 @@ _seo*$script
 ||oml.ru^
 ||onclic*$script,frame,popup
 ||one*$3p,domain=~live.com
+||online^$3p
 ||onlinetestpad.com^$3p
 ||onthe.io^
 ||op.yandex.ru^$3p
@@ -1542,7 +1543,7 @@ _seo*$script
 ||verisign.com^$3p
 ||veroui.com^
 ||viadeo.com^
-||vid*$3p,domain=~facebook.com|~kinozoro.tv
+||vid*$3p,domain=~facebook.com|~kinozoro.tv|~filmix.co
 ||vihub.ru^
 ||vimgs.ru^
 ||visiblemeasures.com^
