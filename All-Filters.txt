@@ -2479,6 +2479,7 @@ youtube.com##[id="ticker"]
 @@||ttvnw.net^$xhr,domain=twitch.tv
 @@||twitch.tv^$xhr,domain=player.twitch.tv
 @@||twitter.com^$script,frame,domain=dezinfo.net
+@@||vb17121coramclean.pw^$xhr,domain=filmix.co|vb17121coramclean.pw
 @@||video.yandex.$domain=kinopoisk.ru
 @@||videoapi.my.mail.ru^$frame
 @@||vk.go.mail.ru^$xhr,domain=vk.com
