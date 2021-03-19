@@ -1343,6 +1343,7 @@ _seo*$script
 ||republer.com^
 ||res*$3p,domain=~leroymerlin.ru
 ||ret*$3p
+||revampcdn.com^
 ||revolvermaps.com^
 ||rfity.com^
 ||rich*$3p
