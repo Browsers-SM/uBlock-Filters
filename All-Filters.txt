@@ -841,6 +841,7 @@ _seo*$script
 ||dallavel.com^
 ||dar*$3p
 ||datadepot.io^
+||datadoghq-browser-agent.com^
 ||davarello.com^
 ||dbbsrv.com^
 ||ddmanager.ru^
@@ -1136,6 +1137,7 @@ _seo*$script
 ||mailmunch.co^
 ||manfys.com^
 ||map*.hwcdn.net^
+||map.fastly.net^
 ||mar*$3p,popunder
 ||mastweb.ru^
 ||mathtag.com^
@@ -1609,6 +1611,7 @@ _seo*$script
 ||yabs.yandex.ru^$domain=~yandex.ru
 ||yadro.
 ||yagla.ru^
+||yahoo.com^$3p
 ||yandex.*/ick/*
 ||yandex.*/search/yandcache.js|
 ||yandex.st/share/*
