@@ -1009,7 +1009,6 @@ _seo*$script
 ||i.ua^$3p
 ||iconosquare.com^
 ||icq*$3p,~image
-||id.rambler.ru^$3p
 ||idwrx.com^
 ||ie8eamus.com^
 ||ieuhd.com^
@@ -1318,6 +1317,7 @@ _seo*$script
 ||rabotayes.ru^
 ||rad*$3p,~image
 ||rad.microsoft.com^
+||rambler.ru^$3p,script,xhr
 ||ramctrlgate.com^
 ||rare*$3p,domain=~portableapps.com
 ||raskruty.ru^$3p
