@@ -66,7 +66,7 @@
 */b-$~image,domain=~vtb24.ru
 */b.$~image
 */b.*gif*
-*/b/*$script,frame,domain=~z1.fm|~yandex.ru
+*/b/*$script,frame,domain=~z1.fm|~yandex.ru|~spac.me|~spac1.com|~spaces.im|~spac1.net|~strip2.xxx|~spaces-blogs.com
 */b/*&t=
 */b/*.gif*
 */b?$~image
