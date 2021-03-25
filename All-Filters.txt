@@ -278,6 +278,7 @@
 *cgi-*rnd=
 *cgi?$3p
 *cgi?id*
+*check*$3p
 *cityads*
 *cityid*$frame
 *clc.$3p
@@ -792,7 +793,6 @@ _seo*$script
 ||cex.io^
 ||cha*$3p,domain=~smotri.com
 ||chaturbate.com^
-||checkm8.com^
 ||china-air.ru^
 ||ciattedrof.ru^
 ||cientrer.com^
@@ -1001,7 +1001,6 @@ _seo*$script
 ||hsdn.org^$3p,domain=~ntp-servers.net
 ||hstpnetwork.com^
 ||htkornet.ru^
-||http-check-headers.yandex.
 ||hybrid.ai^
 ||hyperadx.com^
 ||hypercomments.com^$3p
