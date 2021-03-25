@@ -1025,7 +1025,7 @@ _seo*$script
 ||imgfiles.ru^$frame
 ||imho.ru^
 ||imp*$3p
-||in^$3p,~image,domain=~kino-play.me
+||in^$3p,~image,domain=~kino-play.me|u-cdn.top|cdnland.in
 ||ind*$3p
 ||info*$3p
 ||info/*$3p,script,popunder,frame
@@ -1427,7 +1427,7 @@ _seo*$script
 ||spot.im^
 ||spruto.org^
 ||spy*track*
-||start*$3p,domain=~kino-play.me
+||start*$3p
 ||static-mon.yandex.net^
 ||steambuy.com^$3p
 ||sterno.ru^
@@ -1483,7 +1483,7 @@ _seo*$script
 ||tomsk.ru^$3p
 ||toolbar.google.com^
 ||tools*$3p
-||top*$3p,~xhr,domain=~kino-play.me
+||top*$3p,~xhr
 ||tor10.ru^
 ||torg.mail.ru$3p
 ||totsinuts.ru^
@@ -2478,6 +2478,7 @@ youtube.com##[id="ticker"]
 @@||rutube.ru^$xhr,domain=rutube.ru
 @@||sndcdn.com/playlist/*$xhr
 @@||soundcloud.com/player/*$frame
+@@||start.u-cdn.top^$domain=kino-play.me|u-cdn.top
 @@||static.1tv.ru^$script,domain=yastatic.net|1tv.ru
 @@||ttvnw.net^$xhr,domain=twitch.tv
 @@||twitch.tv^$xhr,domain=player.twitch.tv
