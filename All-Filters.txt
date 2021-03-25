@@ -1483,7 +1483,7 @@ _seo*$script
 ||tomsk.ru^$3p
 ||toolbar.google.com^
 ||tools*$3p
-||top*$3p,~xhr
+||top*$3p,~xhr,domain=~kino-play.me
 ||tor10.ru^
 ||torg.mail.ru$3p
 ||totsinuts.ru^
