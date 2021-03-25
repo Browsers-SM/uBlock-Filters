@@ -1025,7 +1025,7 @@ _seo*$script
 ||imgfiles.ru^$frame
 ||imho.ru^
 ||imp*$3p
-||in^$3p,~image
+||in^$3p,~image,domain=~kino-play.me
 ||ind*$3p
 ||info*$3p
 ||info/*$3p,script,popunder,frame
@@ -1427,7 +1427,7 @@ _seo*$script
 ||spot.im^
 ||spruto.org^
 ||spy*track*
-||start*$3p
+||start*$3p,domain=~kino-play.me
 ||static-mon.yandex.net^
 ||steambuy.com^$3p
 ||sterno.ru^
