@@ -1025,7 +1025,7 @@ _seo*$script
 ||imgfiles.ru^$frame
 ||imho.ru^
 ||imp*$3p
-||in^$3p,~image,domain=~kino-play.me|cloud.cdnland.in
+||in^$3p,~image,domain=~kino-play.me
 ||ind*$3p
 ||info*$3p
 ||info/*$3p,script,popunder,frame
@@ -2445,6 +2445,7 @@ youtube.com##[id="ticker"]
 @@||cdn.theguardian.tv^$domain=embed.theguardian.com
 @@||cdnvideo.ru^$domain=ntv.ru
 @@||clastarti.cc^
+@@||cloud.cdnland.in^$domain=kino-play.me|u-cdn.top|cdnland.in
 @@||coub.com/embed/
 @@||eagleplatform.com*/player*$script,xhr,domain=rambler.ru
 @@||embed.life.ru^$domain=lifenews.ru
