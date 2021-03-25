@@ -1025,7 +1025,7 @@ _seo*$script
 ||imgfiles.ru^$frame
 ||imho.ru^
 ||imp*$3p
-||in^$3p,~image,domain=~kino-play.me|u-cdn.top|cdnland.in
+||in^$3p,~image,domain=~kino-play.me|cloud.cdnland.in
 ||ind*$3p
 ||info*$3p
 ||info/*$3p,script,popunder,frame
