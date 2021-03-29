@@ -1241,7 +1241,7 @@ _seo*$script
 ||oml.ru^
 ||onclic*$script,frame,popup
 ||one*$3p,domain=~live.com
-||online^$3p
+||online^$3p,domain=~ixbt.com
 ||onlinetestpad.com^$3p
 ||onthe.io^
 ||op.yandex.ru^$3p
