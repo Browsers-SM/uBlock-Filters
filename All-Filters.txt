@@ -70,7 +70,7 @@
 */b/*&t=
 */b/*.gif*
 */b?$~image
-*/b_$~image
+*/b_$~image,domain=~sefon.pro
 */b_*sex*
 */ban&
 */ban*.html|
