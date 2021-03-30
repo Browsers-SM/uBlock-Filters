@@ -1055,6 +1055,7 @@ _seo*$script
 ||jopd.ru^
 ||jps.ru^
 ||jquery-*php?share*
+||jsdelivr.net^
 ||jsengine.ru^
 ||jumpoutpopup.ru^
 ||justresa.com^
@@ -2159,7 +2160,7 @@ mail.ru##[class^="rb_"]
 mail.ru##[class^="tb-"][href^="https://r.mail.ru/"]
 mail.ru##[id^="rb"]
 mk.ru##[id="push-alert-block"]
-muzofond.fm##[class="playOther"],[class="dl"]
+muzofond.fm,zvuch.com##[class="playOther"],[class="dl"]
 news.rambler.ru##[class="popup__inner hbtb"]
 nnmclub.to##[class="genmed"][colspan]
 nnmclub.to##[class="request"]
