@@ -797,7 +797,7 @@ _seo*$script
 ||ciattedrof.ru^
 ||cientrer.com^
 ||ck*$3p
-||cl*$3p,popup,~image,domain=~firefox.com|~mozilla.com|~mozilla.org|~mail.ru|~leroymerlin.ru|~zoom.us|~santehnika-tut.ru|~spinningline.ru|~tabor.ru|~smotri.com|~petrovich.ru|~bluestacks.com|~samsung.com|~airdroid.com|~dropbox.com|~dropboxcaptcha.com|~arkoselabs.com|~sportmaster.ru
+||cl*$3p,popup,~image,domain=~firefox.com|~mozilla.com|~mozilla.org|~mail.ru|~leroymerlin.ru|~zoom.us|~santehnika-tut.ru|~spinningline.ru|~tabor.ru|~smotri.com|~petrovich.ru|~bluestacks.com|~samsung.com|~airdroid.com|~dropbox.com|~dropboxcaptcha.com|~arkoselabs.com|~sportmaster.ru|~yandex.ru
 ||clck.yandex.ru^$image
 ||cnetcontent.com^
 ||coin*$3p
