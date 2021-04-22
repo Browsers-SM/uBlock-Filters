@@ -563,7 +563,7 @@
 .rekl*
 .ru/?$script,frame
 .ru/ad/*
-=ad*$script,frame,xhr,domain=~dns-shop.ru|~tsearch.me|~beru.ru|~youtube.com|~sberbank.ru|~adoptopenjdk.net|~filmix.co
+=ad*$script,frame,xhr,domain=~dns-shop.ru|~tsearch.me|~beru.ru|~youtube.com|~sberbank.ru|~adoptopenjdk.net|~filmix.ac
 =aid*$script,frame
 =ban*$script,frame
 =bn*$script,frame
@@ -1546,7 +1546,7 @@ _seo*$script
 ||verisign.com^$3p
 ||veroui.com^
 ||viadeo.com^
-||vid*$3p,domain=~facebook.com|~kinozoro.tv|~filmix.co
+||vid*$3p,domain=~facebook.com|~kinozoro.tv
 ||vihub.ru^
 ||vimgs.ru^
 ||visiblemeasures.com^
@@ -2432,7 +2432,7 @@ youtube.com##[id="ticker"]
 @@$xhr,domain=my-hithd.ru|clastarti.cc
 @@*moonwalk*
 @@*video*fbcdn.net^$xhr
-@@/ad*$1p,script,domain=filmix.net|remoteshaman.com|softcatalog.info|vtomske.ru
+@@/ad*$1p,script,domain=remoteshaman.com|softcatalog.info|vtomske.ru
 @@/ad*$3p,frame,domain=dropbox.com|dropboxusercontent.com
 @@/ad*$3p,image,domain=alexstuff.ru|dropbox.com|dropboxusercontent.com|wow-land.ucoz.ru
 @@adfox*$xhr,domain=coub.com
@@ -2476,7 +2476,6 @@ youtube.com##[id="ticker"]
 @@||playbuzz.com^$script,frame,domain=ucrazy.ru
 @@||player.adcdn.tv^$frame,domain=online.anidub.com
 @@||player.vimeo.com^
-@@||protovid.com^domain=filmix.cc
 @@||redtubefiles.com^$domain=redtube.com
 @@||rtr-vesti.ru^$image,domain=player.vgtrk.com|vesti.ru
 @@||rutube.ru^$xhr,domain=rutube.ru
@@ -2487,7 +2486,6 @@ youtube.com##[id="ticker"]
 @@||ttvnw.net^$xhr,domain=twitch.tv
 @@||twitch.tv^$xhr,domain=player.twitch.tv
 @@||twitter.com^$script,frame,domain=dezinfo.net
-@@||vb17121coramclean.pw^$xhr,domain=filmix.co|vb17121coramclean.pw
 @@||video.yandex.$domain=kinopoisk.ru
 @@||videoapi.my.mail.ru^$frame
 @@||vk.go.mail.ru^$xhr,domain=vk.com
