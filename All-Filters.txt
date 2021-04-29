@@ -455,7 +455,7 @@
 *seed.$3p
 *seo.$3p
 *serf.$3p
-*serv*$3p,domain=~ntp-servers.net|~ozon.ru|~wixsite.com
+*serv*$3p,domain=~ntp-servers.net|~ozon.ru|~wixsite.com|~yandex.ru
 *share42*$script
 *shareaholic*
 *shop.ru^$3p,domain=~dexp.club
