@@ -1576,7 +1576,7 @@ _seo*$script
 ||watersoul.com^
 ||watrz.com^
 ||weather*$3p
-||web*$3p,domain=~web.tlgrm.ru|~championat.com|~twitch.tv|~zedge.net|~radio.pp.ru|~500px.com|~youla.ru
+||web*$3p,domain=~web.tlgrm.ru|~championat.com|~twitch.tv|~zedge.net|~radio.pp.ru|~500px.com|~youla.ru|~apteka.ru
 ||webanketa.com^$3p
 ||weclever.ru^
 ||whisla.com^
