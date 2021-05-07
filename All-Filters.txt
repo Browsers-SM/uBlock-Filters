@@ -463,7 +463,7 @@
 *show.php?$3p
 *showads*
 *showban*
-*site*$3p,domain=~com.ua|~irr.ru|~box.com|~netflix.com|~aquacity31.ru|~spinningline.ru|~live.com|~santen68.ru|~wixsite.com
+*site*$3p,domain=~com.ua|~irr.ru|~box.com|~netflix.com|~aquacity31.ru|~spinningline.ru|~live.com|~santen68.ru|~wixsite.com|~apteka.ru
 *smallad*
 *smartban*
 *smartsize*
