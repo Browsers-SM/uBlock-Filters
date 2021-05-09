@@ -2410,6 +2410,7 @@ youtube.com##[id="ticker"]
 @@||whichbrowser.net^$domain=html5test.com
 @@||wmbcdn.com^$domain=mail.ru
 @@||wmbcdn.com^$domain=mamba.ru
+@@||yandex-pogoda.clstorage.net^
 @@||yandex.*/suggest/*
 @@||yandex.ru/*player*$frame,domain=yandex.ru|yastatic.net
 @@||yandex.ru/*video*$domain=yandex.ru
