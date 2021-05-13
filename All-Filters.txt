@@ -1575,7 +1575,7 @@ _seo*$script
 ||w7.ru^
 ||watersoul.com^
 ||watrz.com^
-||weather*$3p
+||weather*$3p,domain=~yandex.ru
 ||web*$3p,domain=~web.tlgrm.ru|~championat.com|~twitch.tv|~zedge.net|~radio.pp.ru|~500px.com|~youla.ru|~apteka.ru
 ||webanketa.com^$3p
 ||weclever.ru^
@@ -2405,7 +2405,7 @@ youtube.com##[id="ticker"]
 @@||vk.com/js/cmodules/web/*
 @@||vsemayki.ru^$domain=vsemayki.ru
 @@||wambacdn.net^$domain=love.mail.ru
-@@||weather.yandex.net^$xhr,domain=yandex.ru|yandex.net
+@@||weather.yandex.net^$xhr,domain=yandex.ru
 @@||weathermaps.s3.yandex.net^$xhr,domain=yandex.ru
 @@||whichbrowser.net^$domain=html5test.com
 @@||wmbcdn.com^$domain=mail.ru
