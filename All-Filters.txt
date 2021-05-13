@@ -1292,7 +1292,7 @@ _seo*$script
 ||pr.
 ||pr0gramm.com^
 ||pri*$3p
-||pro*$3p,domain=~prom.ua|~tiu.ru|~com.ua|~firefox.com|~mozilla.com|~mozilla.org|~500px.com|~термоснаб74.рф|~motoimport.net
+||pro*$3p,domain=~prom.ua|~tiu.ru|~com.ua|~firefox.com|~mozilla.com|~mozilla.org|~500px.com|~термоснаб74.рф|~motoimport.net|~велозапчасти24.рф
 ||pro/*$3p,script,popunder,frame
 ||prre.ru^
 ||psmardr.com^
@@ -2405,7 +2405,7 @@ youtube.com##[id="ticker"]
 @@||vk.com/js/cmodules/web/*
 @@||vsemayki.ru^$domain=vsemayki.ru
 @@||wambacdn.net^$domain=love.mail.ru
-@@||weather.yandex.net^$xhr,domain=yandex.ru
+@@||weather.yandex.net^$xhr,domain=yandex.ru|yandex.net
 @@||weathermaps.s3.yandex.net^$xhr,domain=yandex.ru
 @@||whichbrowser.net^$domain=html5test.com
 @@||wmbcdn.com^$domain=mail.ru
