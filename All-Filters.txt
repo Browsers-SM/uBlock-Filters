@@ -38,7 +38,7 @@
 */ad?
 */ad_
 */adbn*
-*/adc*$script,frame,domain=~4pda.ru|vk.com
+*/adc*$script,frame,domain=~4pda.ru|4pda.to|vk.com
 */addv*
 */adget*
 */adli*
@@ -397,7 +397,7 @@
 *peelads*
 *php*&b=
 *php*&rnd=$~xhr
-*php*&t=$~image,domain=~4pda.ru
+*php*&t=$~image,domain=~4pda.ru|4pda.to
 *php*=b&
 *php*?b=
 *php*?bn=
@@ -438,7 +438,7 @@
 *redir*$3p,domain=~youtube.com
 *redir*$script,frame
 *redtram*$domain=~redtram.com
-*refer*$script,xhr,domain=~otvet.mail.ru|~dns-shop.ru|~android.com|~4pda.ru
+*refer*$script,xhr,domain=~otvet.mail.ru|~dns-shop.ru|~android.com|~4pda.ru|~4pda.to
 *reforum*$domain=~reforum.ru
 *richarbuz*
 *roll*$3p
@@ -538,7 +538,7 @@
 -ad_
 -adc*$script,frame
 -adi*$script,frame
--ads*$script,frame,domain=~4pda.ru
+-ads*$script,frame,domain=~4pda.ru|~4pda.to
 -adx*
 -aid*$~image
 -b.$3p
@@ -1680,10 +1680,10 @@ _seo*$script
 .free*img.ru*$script
 .yashik.tv^
 |http://fastpic*jpg|
-||4pda.ru/st/heat_map|
-||4pda.ru/st/ztm?
-||4pda.ru/stat*$xhr
-||4pda.to/79tJPvZFILa8.
+||4pda.*/st/heat_map|
+||4pda.*/st/ztm?
+||4pda.*/stat*$xhr
+||4pda.*/79tJPvZFILa8.
 ||alpha.yaplakal.com^$popup
 ||antichat.ru/data*.gif|
 ||anwap.*/js/my.js
@@ -2099,12 +2099,12 @@ neskromnie.ru,rustorka.com,hltv.org,userscloud.com,yadi.sk,ucrazy.ru##[target]
 online.anidub.com,unionpeer.org##[onclick]
 !
 ! ИНДИВИДУАЛЬНЫЕ CSS
-4pda.ru##[class="fix-post"][style="display:block!important"]
-4pda.ru##[href="#"]
-4pda.ru##[id="appbanner"]
-4pda.ru##[id="fo_-1"][class="borderwrap"]
-4pda.ru##[target] [src*="s.4pda.to"][alt=""][title=""][border="0"]
-4pda.ru##[valign="top"] > > :not(#logostrip)
+4pda.*##[class="fix-post"][style="display:block!important"]
+4pda.*##[href="#"]
+4pda.*##[id="appbanner"]
+4pda.*##[id="fo_-1"][class="borderwrap"]
+4pda.*##[target] [src*="s.4pda.to"][alt=""][title=""][border="0"]
+4pda.*##[valign="top"] > > :not(#logostrip)
 aliexpress.*##[id="p4p"]
 anwap.*##[href$="/credit/"]
 apkpure.com##[id="policy-info"]
@@ -2263,7 +2263,7 @@ youtube.com##[id="ticker"]
 @@$genericblock,domain=kp.ru
 @@$image,frame,script,domain=api.kanobu.ru|embed.kanobu.ru|games.kanobu.ru
 @@$image,~3p,domain=ghacks.net
-@@$popup,domain=4pda.ru|findface.ru|google.com|google.ru|mail.ru|msn.com|samforum.org|yandex.ru
+@@$popup,domain=4pda.ru|4pda.to|findface.ru|google.com|google.ru|mail.ru|msn.com|samforum.org|yandex.ru
 @@$xhr,domain=mediametrics.ru|music.yandex.ru
 @@*account*$script,image,frame
 @@*api-maps.yandex.ru^
@@ -2279,7 +2279,7 @@ youtube.com##[id="ticker"]
 @@*mega.co.nz^
 @@*upload*$~image,domain=vk.com
 @@/app*$document,domain=my.mail.ru|vk.com
-@@4pda.ru/forum/dl/post/*
+@@4pda.*/forum/dl/post/*
 @@thumb*$image
 @@||192.168.8.1
 @@||accounts.google.com^$popup
@@ -2518,8 +2518,8 @@ carambatv.ru,mirf.ru,ok.ru,stihl.ru,beru.ru#@#[style*="bann"]
 citrus.ua,google.*,sanvol.ru,tok-shop.ru#@#[target]>[src*="/shop"]
 cnews.ru,comodo.com#@#[href*="partners"]
 cnews.ru,dbmast.ru,google.*,kids.quicksave.su#@#[target][href*="goto"]
-cnews.ru,game-torrent.info,google.*,kids.quicksave.su,mail.ru,mirror-rutor.org,rambler.ru,toptracker.ru,trinixy.ru,top.ucoz.ru,yandex.ru,orgazm-online.org,4pda.ru#@#[href*="game"][target]
-cnews.ru,game-torrent.info,google.*,kids.quicksave.su,mail.ru,mirror-rutor.org,rambler.ru,toptracker.ru,trinixy.ru,top.ucoz.ru,yandex.ru,orgazm-online.org,4pda.ru#@#[target][href*="game"]
+cnews.ru,game-torrent.info,google.*,kids.quicksave.su,mail.ru,mirror-rutor.org,rambler.ru,toptracker.ru,trinixy.ru,top.ucoz.ru,yandex.ru,orgazm-online.org,4pda.*#@#[href*="game"][target]
+cnews.ru,game-torrent.info,google.*,kids.quicksave.su,mail.ru,mirror-rutor.org,rambler.ru,toptracker.ru,trinixy.ru,top.ucoz.ru,yandex.ru,orgazm-online.org,4pda.*#@#[target][href*="game"]
 cnews.ru,google.*,top100.rambler.ru#@#[target][href*="partn"]
 devid.info#@#[id*="top"][id*="ban"]
 devid.info#@#[id*="top-bn"]
@@ -2556,7 +2556,7 @@ stroyklim.com#@#[class$="ban"]
 stroylandiya.ru#@#[class*="banner"][class*="head"]
 taskcluster.net,cnews.ru,google.*#@#[target][href*="target"]
 tiu.ru,prom.ua#@#[href*="/click_"]
-toptracker.ru,4pda.ru#@#[rel="nofollow"][href*="game"][target]
+toptracker.ru,4pda.*#@#[rel="nofollow"][href*="game"][target]
 torg.mail.ru,badoo.com#@#[class*="-promo_"]
 tvigle.ru,livejournal.com,yandex.ru#@#[class*="adblock"]
 utro.ru,aportex.ru#@#[id*="adver"]
