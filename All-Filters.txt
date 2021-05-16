@@ -2105,7 +2105,6 @@ online.anidub.com,unionpeer.org##[onclick]
 4pda.*##[id="fo_-1"][class="borderwrap"]
 4pda.*##[target] [src*="s.4pda.to"][alt=""][title=""][border="0"]
 4pda.*##[valign="top"] > :not(#logostrip)
-aliexpress.*##[id="p4p"]
 anwap.*##[href$="/credit/"]
 apkpure.com##[id="policy-info"]
 bigmir.net##[class*="banner"]
@@ -2576,3 +2575,6 @@ yandex.*#@#[class*="social"][class*="block"]
 @@$css
 @@$font
 @@$media
+
+! DNS For 4pda.ru
+||ds-assets.cdn.devapps.ru*/79tJPvZFILa8.
