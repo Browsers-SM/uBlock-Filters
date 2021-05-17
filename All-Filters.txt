@@ -2103,6 +2103,7 @@ online.anidub.com,unionpeer.org##[onclick]
 4pda.*##[href="#"]
 4pda.*##[id="appbanner"]
 4pda.*##[id="fo_-1"][class="borderwrap"]
+4pda.*##[target] [src*="ds-assets.cdn.devapps.ru"][alt=""][title=""][border="0"]
 4pda.*##[target] [src*="s.4pda.to"][alt=""][title=""][border="0"]
 4pda.*##[valign="top"] > > :not(#logostrip)
 anwap.*##[href$="/credit/"]
