@@ -503,7 +503,7 @@
 *trackjs*
 *trade*$3p
 *traf*$3p
-*trend*$script,3p
+*trend*$script,3p,domain=~tiktok.com
 *trshop*
 *twitter.js|
 *txtlink*
