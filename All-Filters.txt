@@ -397,7 +397,7 @@
 *peelads*
 *php*&b=
 *php*&rnd=$~xhr
-*php*&t=$~image,domain=~4pda.ru|4pda.to
+*php*&t=$~image,domain=~4pda.ru|~4pda.to
 *php*=b&
 *php*?b=
 *php*?bn=
