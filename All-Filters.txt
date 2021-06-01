@@ -2572,10 +2572,10 @@ yandex.*#@#[class*="social"][class*="block"]
 @@moz-extension://*
 @@moz-extension://*$popup
 !
+! DNS For 4pda.ru
+||ds-assets.cdn.devapps.ru*/79tJPvZFILa8.
+!
 ! NOT BLOCKED
 @@$css
 @@$font
 @@$media
-
-! DNS For 4pda.ru
-||ds-assets.cdn.devapps.ru*/79tJPvZFILa8.
