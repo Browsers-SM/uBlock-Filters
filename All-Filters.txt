@@ -2100,7 +2100,6 @@ online.anidub.com,unionpeer.org##[onclick]
 !
 ! ИНДИВИДУАЛЬНЫЕ CSS
 4pda.*##[class="fix-post"][style="display:block!important"]
-4pda.*##[href="#"]
 4pda.*##[id="appbanner"]
 4pda.*##[id="fo_-1"][class="borderwrap"]
 4pda.*##[target] [src*="ds-assets.cdn.devapps.ru"][alt=""][title=""][border="0"]
