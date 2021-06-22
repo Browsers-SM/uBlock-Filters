@@ -441,7 +441,7 @@
 *refer*$script,xhr,domain=~otvet.mail.ru|~dns-shop.ru|~android.com|~4pda.ru|~4pda.to
 *reforum*$domain=~reforum.ru
 *richarbuz*
-*roll*$3p,domain=~wildberries.ru
+*roll*$3p,domain=~wildberries.ru|~spotify.com
 *rotat*$script,frame
 *rotoban*
 *rtb.
@@ -495,7 +495,7 @@
 *tizz*$script
 *tns.$frame
 *topban*
-*track*$3p,domain=~bountysource.com|~fishki.net
+*track*$3p,domain=~bountysource.com|~fishki.net|~spotify.com
 *trackad*
 *tracker.js*
 *tracker.php*
