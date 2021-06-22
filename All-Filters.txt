@@ -463,7 +463,7 @@
 *show.php?$3p
 *showads*
 *showban*
-*site*$3p,domain=~com.ua|~irr.ru|~box.com|~netflix.com|~aquacity31.ru|~spinningline.ru|~live.com|~santen68.ru|~wixsite.com|~apteka.ru
+*site*$3p,domain=~com.ua|~irr.ru|~box.com|~netflix.com|~aquacity31.ru|~spinningline.ru|~live.com|~santen68.ru|~wixsite.com|~apteka.ru|~spotify.com
 *smallad*
 *smartban*
 *smartsize*
@@ -1136,7 +1136,7 @@ _seo*$script
 ||mailmunch.co^
 ||manfys.com^
 ||map*.hwcdn.net^
-||map.fastly.net^
+||map.fastly.net^$domain=~spotify.com
 ||mar*$3p,popunder
 ||mastweb.ru^
 ||mathtag.com^
