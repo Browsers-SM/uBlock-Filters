@@ -794,6 +794,7 @@ _seo*$script
 ||cha*$3p,domain=~smotri.com
 ||chaturbate.com^
 ||china-air.ru^
+||chultoux.com^
 ||ciattedrof.ru^
 ||cientrer.com^
 ||ck*$3p
@@ -816,6 +817,7 @@ _seo*$script
 ||cooster.ru^
 ||copercato.com^
 ||copyright-law.ru^
+||couptoug.net^
 ||cp*$3p
 ||cp*$popup,popunder
 ||cqc.ru^
