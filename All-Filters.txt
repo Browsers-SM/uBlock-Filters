@@ -1138,7 +1138,6 @@ _seo*$script
 ||mailmunch.co^
 ||manfys.com^
 ||map*.hwcdn.net^
-||map.fastly.net^$domain=~spotify.com
 ||mar*$3p,popunder
 ||mastweb.ru^
 ||mathtag.com^
