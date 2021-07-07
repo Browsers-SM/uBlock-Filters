@@ -388,7 +388,6 @@
 *nwgsm*
 *online.dll*
 *opena*$script,domain=~inmood.ru
-*openx*
 *orphus*$domain=~orphus.ru
 *page*rank*$3p
 *pagead*
