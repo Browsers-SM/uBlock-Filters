@@ -118,7 +118,7 @@
 */ga.
 */ga_
 */geo*php|$3p
-*/geo/*$xhr
+*/geo/*$xhr,domain=~wildberries.ru
 */get.$script,domain=~airdroid.com
 */getinf*
 */go.$frame
@@ -2322,7 +2322,6 @@ youtube.com##[id="ticker"]
 @@||gu-st.ru^$domain=gosuslugi.ru
 @@||hqq.tv^
 @@||i.mycdn.me^$image,domain=ok.ru
-@@||id.rambler.ru/location/geo/*$xhr,domain=id.rambler.ru
 @@||images.wambacdn.net^$domain=mamba.ru
 @@||img-ssl.xvideos.com.fpbns.net^$domain=xvideos.com
 @@||img.com.ua^$domain=bigmir.net
