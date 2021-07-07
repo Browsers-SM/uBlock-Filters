@@ -437,7 +437,7 @@
 *redir*$3p,domain=~youtube.com
 *redir*$script,frame
 *redtram*$domain=~redtram.com
-*refer*$script,xhr,domain=~otvet.mail.ru|~dns-shop.ru|~android.com|~4pda.ru|~4pda.to
+*refer*$script,xhr,domain=~otvet.mail.ru|~dns-shop.ru|~android.com|~4pda.ru|~4pda.to|~wildberries.ru
 *reforum*$domain=~reforum.ru
 *richarbuz*
 *roll*$3p,domain=~wildberries.ru|~spotify.com
