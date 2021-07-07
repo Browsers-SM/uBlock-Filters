@@ -1787,7 +1787,6 @@ _seo*$script
 ! SPACES.RU
 spac1.com,spac.me,spaces.im,spac1.net,spaces-blogs.com##[class$=" seo"]
 spac1.com,spac.me,spaces.im,spac1.net,spaces-blogs.com##[class="oh t_center nl system-message"]
-spac1.com,spac.me,spaces.im,spac1.net,spaces-blogs.com##[class="safac8"]
 spac1.com,spac.me,spaces.im,spac1.net,spaces-blogs.com##[href*="/jf5oox6g/"]
 spac1.com,spac.me,spaces.im,spac1.net,spaces-blogs.com##[id="about_spaces"]
 spac1.com,spac.me,spaces.im,spac1.net,spaces-blogs.com##[id="common_error"]
