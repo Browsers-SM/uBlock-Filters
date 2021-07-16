@@ -2510,6 +2510,7 @@ crossdomain.xml|$3p,domain=redcyt.com
 ||thumbnails.videomore.ru^$3p
 !
 ! ИНДИВИДУАЛЬНЫЕ ИСКЛЮЧЕНИЯ CSS
+12talerov.ru#@#[class*="bann"][class*="bottom"]
 220-volt.ru#@#[href*="/promo/"]
 addons.mozilla.org,cnews.ru,google.*,rambler.ru#@#[target][href*="promo"]
 alibaba.com#@#[id$="-ads"]
@@ -2547,7 +2548,7 @@ passion.ru#@#[class^="ad-"][class*="wrap"]
 picsee.net,pikabu.ru,muz-tv.ru,tok-shop.ru#@#[id="wrap"] [target]
 pogoda.mail.ru,libk.ru#@#[class*="banner"][class*="top"]
 prestig-konkurs.ru#@#[id*="rekl"]
-prootoplenie.ru,udt.ru,stroylandiya.ru,libk.ru#@#[class*="view"][class*="banner"]
+prootoplenie.ru,udt.ru,stroylandiya.ru,libk.ru,12talerov.ru#@#[class*="view"][class*="banner"]
 ria.ru#@#[id*="AdFox"]
 ridus.ru#@#[class*="adfox"]
 samforum.org#@#[id*="cookie"]
