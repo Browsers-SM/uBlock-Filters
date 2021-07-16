@@ -2288,6 +2288,7 @@ youtube.com##[id="ticker"]
 @@||ali*$domain=alibaba.com|aliexpress.com|aliexpress.ru|alipay.com|aliapp.org|akamaihd.net
 @@||alicdn.com^$domain=aliexpress.ru|aliexpress.com
 @@||alleyadoma.ru^$domain=alleyadoma.ru
+@@||antikwar32.ru^$domain=antikwar32.ru
 @@||api.cybergame.tv^
 @@||api.github.com^$domain=opengapps.org
 @@||api.vk.*audio
