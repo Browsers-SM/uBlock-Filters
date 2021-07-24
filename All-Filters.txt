@@ -1680,10 +1680,10 @@ _seo*$script
 .free*img.ru*$script
 .yashik.tv^
 |http://fastpic*jpg|
+||4pda.*/79tJPvZFILa8.
 ||4pda.*/st/heat_map|
 ||4pda.*/st/ztm?
 ||4pda.*/stat*$xhr
-||4pda.*/79tJPvZFILa8.
 ||alpha.yaplakal.com^$popup
 ||antichat.ru/data*.gif|
 ||anwap.*/js/my.js
@@ -1719,6 +1719,7 @@ _seo*$script
 ||kinogo.co/kinogo*
 ||livejournal.com/ljcounter/*
 ||lp.vg^$~script,domain=lotterypost.com
+||md-arena.com/image/bestnew/*
 ||n-ssl.ria.ru/polling*
 ||n.ria.ru^
 ||nnm*club.*/city*$script
@@ -1744,6 +1745,7 @@ _seo*$script
 ||shot.qip.ru^$frame,domain=shot.qip.ru
 ||sourceforge.net*/ad.gif*
 ||static.pulse.mail.ru^
+||violity.com^$domain=md-arena.com
 ||vk.com*/fbsign.js*
 ||vk.com*/px.js*
 ||wek.ru^$domain=dezinfo.net
@@ -2157,6 +2159,7 @@ mail.ru##[class^="box box_double"]
 mail.ru##[class^="rb_"]
 mail.ru##[class^="tb-"][href^="https://r.mail.ru/"]
 mail.ru##[id^="rb"]
+md-arena.com##[class="mda-post mda-article  widget widget_execphp"]
 mk.ru##[id="push-alert-block"]
 muzofond.fm,zvuch.com##[class="playOther"],[class="dl"]
 news.rambler.ru##[class="popup__inner hbtb"]
