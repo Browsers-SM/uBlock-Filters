@@ -2410,6 +2410,7 @@ youtube.com##[id="ticker"]
 @@||vk.com/js/cmodules/web/*
 @@||vsemayki.ru^$domain=vsemayki.ru
 @@||wambacdn.net^$domain=love.mail.ru
+@@||wb.ru^$domain=wildberries.ru
 @@||wbstatic.net^$domain=wildberries.ru
 @@||weather.yandex.net^$xhr,domain=yandex.ru
 @@||weathermaps.s3.yandex.net^$xhr,domain=yandex.ru
