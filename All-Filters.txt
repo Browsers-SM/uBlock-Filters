@@ -1186,7 +1186,7 @@ _seo*$script
 ||my-img.ru^
 ||my.mail.ru/grstat*
 ||my.mail.ru^$3p,script
-||mycdn.me^$domain=~ok.ru|~mycdn.me
+||mycdn.me^$domain=~ok.ru|~mycdn.me|~vk.com
 ||mycdn4.ru^
 ||mycomet.mail.ru^
 ||mycpm.ru^
