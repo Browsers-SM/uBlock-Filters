@@ -1525,9 +1525,7 @@ _seo*$script
 ||upto*.com^$3p
 ||uralweb.ru^$3p
 ||us6odtasve.ru^
-||useinsider.com^
-||uselnk.com^
-||userator.ru^
+||use*$3p
 ||usstero.com^
 ||usuarios-online.com^
 ||utilieur.com^
