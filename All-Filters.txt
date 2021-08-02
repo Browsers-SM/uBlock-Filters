@@ -728,6 +728,7 @@ _seo*$script
 ||bemobile.ua^
 ||beregu.ru^
 ||betrad.com^
+||betshucklean.com^
 ||bgkecb.com^
 ||bid*$3p
 ||big*$3p,~image
@@ -1048,6 +1049,7 @@ _seo*$script
 ||ivbox.me^$3p
 ||iwanttodeliver.com^
 ||izizi.ru^
+||jashautchord.com^
 ||jetswap.
 ||jfveak.com^
 ||jhf.ru^$3p
@@ -1524,6 +1526,7 @@ _seo*$script
 ||uralweb.ru^$3p
 ||us6odtasve.ru^
 ||useinsider.com^
+||uselnk.com^
 ||userator.ru^
 ||usstero.com^
 ||usuarios-online.com^
