@@ -262,7 +262,7 @@
 *beacon*$~image
 *begun*
 *bnnr*
-*bnr*$domain=~youtube.com|~pornhub.com|~livejournal.com
+*bnr*$domain=~youtube.com|~pornhub.com|~livejournal.com|~yandex.ru
 *bns.
 *brand*$popup
 *brandimg*
@@ -462,7 +462,7 @@
 *show.php?$3p
 *showads*
 *showban*
-*site*$3p,domain=~com.ua|~irr.ru|~box.com|~netflix.com|~aquacity31.ru|~spinningline.ru|~live.com|~santen68.ru|~wixsite.com|~apteka.ru|~spotify.com
+*site*$3p,domain=~com.ua|~irr.ru|~box.com|~netflix.com|~aquacity31.ru|~spinningline.ru|~live.com|~santen68.ru|~wixsite.com|~apteka.ru|~spotify.com|~yandex.ru
 *smallad*
 *smartban*
 *smartsize*
