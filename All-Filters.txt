@@ -304,7 +304,7 @@
 *delivery*$3p
 *deneg*$3p
 *digital*$3p,domain=~kyivstar.ua|~apppage.net
-*direct*$3p,script,frame,popup
+*direct*$3p,script,frame,popup,domain=~vk.com
 *disqus*
 *dmca*$3p,domain=~dmca.com|~stackpathdns.com
 *domainid*
