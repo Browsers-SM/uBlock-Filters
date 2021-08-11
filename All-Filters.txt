@@ -2392,6 +2392,7 @@ youtube.com##[id="ticker"]
 @@||savido-web.trafficmanager.net^$domain=savido.net
 @@||slidesharecdn.com^$image,domain=slideshare.net
 @@||spac*js?r=
+@@||static-storage.net^$domain=yandex.ru
 @@||staticbg.com^$domain=banggood.com
 @@||steamstatic.com^$script,image,domain=store.steampowered.com
 @@||storage*$domain=yadi.sk|music.yandex.ru|radio.yandex.ru
