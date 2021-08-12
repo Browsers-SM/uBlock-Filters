@@ -1556,6 +1556,7 @@ _seo*$script
 ||vk.*community.
 ||vk.cc^
 ||vk.com*widget*
+||vk.com/amt_lnkh?
 ||vk.com/errors.php|
 ||vk.com/images/blank.mp4*
 ||vk.com/js/api/xdmHelper.js*
