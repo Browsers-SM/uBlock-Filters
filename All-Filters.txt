@@ -250,7 +250,7 @@
 *baner.
 *banimg*
 *bann*$3p,~image,~xhr
-*bann*$script,domain=~superjob.ru
+*bann*$script,domain=~superjob.ru|~ria.ru
 *bann*.html|
 *banner*$1p,xhr,domain=~beru.ru|~sima-land.ru
 *banner*$3p,~image
