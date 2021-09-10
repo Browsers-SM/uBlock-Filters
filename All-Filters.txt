@@ -1660,7 +1660,7 @@ _seo*$script
 *$popunder,3p,domain=pornhub.com|redtube.com|xvideos.com|xhamster.com
 *$popup,domain=apkfind.com|apkpure.com|dverser.ru|film-adult.com|imagebam.com|joyreactor.cc|kordonivkakino.net|ok.ru|rustorka.com|tracelive.ru|z1.fm|xvideos.com|xhamster.com
 *$websocket,domain=~animevost.org|~github.com|~mibbit.com|~ria.ru|~send.firefox.com|~smotri.com|~twitch.tv|~video.rambler.ru|~videochatka.net|~whatsapp.com|~yandex.ru|~youtube.com|~spinningline.ru|~4pda.to|~4pda.ru|~spotify.com
-*adblo*$image,script,domain=~adblockplus.me|~adblockplus.org|~ghacks.net
+*adblo*$image,script,domain=~adblockplus.me|~adblockplus.org|~ghacks.net|~freeadblockerbrowser.com
 *code*$3p,script,domain=~bitbucket.org|~code.jquery.com|~codeplex.com|~icecreamapps.com|~invi.tv|~market.pochta.ru|~microsoft.com|~nnmclub.ch|~nnmclub.to|~ntp-servers.net|~opengapps.org|~ren.tv|~yandex.ru|~yota.ru|~netflix.com|~spinningline.ru
 *popunder*$~xhr,domain=~cackle.me|~dns-shop.ru|~livejournal.com|~mail.ru|~miuipro.ru|~onlinezakladki.ru|~photosight.ru|~rian.ru|~support.kaspersky.ru|~vk.com
 *social*$~image,domain=~3dn.ru|~at.ua|~clan.su|~do.am|~google.com|~google.ru|~mail.ru|~mail.yandex.ru|~microsoft.com|~miuipro.ru|~moy.su|~otkritkiok.ru|~p0.ru|~ria.ru|~tabor.ru|~trinixy.ru|~ucoz.com|~ucoz.es|~ucoz.net|~ucoz.org|~ucoz.ru|~vivaldi.net|~ok.ru
