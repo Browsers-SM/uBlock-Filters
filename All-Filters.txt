@@ -35,7 +35,7 @@
 */ad2.
 */ad3.
 */ad=
-*/ad?
+*/ad?*
 */ad_
 */adbn*
 */adc*$script,frame,domain=~4pda.ru|4pda.to|vk.com
@@ -49,7 +49,7 @@
 */ads.
 */ads/*
 */ads2.
-*/ads?
+*/ads?*
 */ads_
 */adt*
 */adv*$script,frame,popup,domain=~softobase.com|~softhome.ru|~windowscentral.com|~softdroid.net
@@ -223,7 +223,7 @@
 *adwrap*
 *affiliat*
 *aid&
-*aid?
+*aid?*
 *alfa*sense*
 *ambler*op100*
 *analyt*$~image,domain=~ozon.ru
@@ -267,7 +267,7 @@
 *brand*$popup
 *brandimg*
 *brch*
-*button.php?
+*button.php?*
 *bxslider*
 *cash.$3p
 *casino*
@@ -533,7 +533,7 @@
 -ad.
 -ad/*
 -ad=
--ad?
+-ad?*
 -ad_
 -adc*$script,frame
 -adi*$script,frame
@@ -544,7 +544,7 @@
 -ban&
 -ban-
 -ban.
--ban?
+-ban?*
 -bbn*
 -bc.$3p
 -bn.
@@ -806,7 +806,7 @@ _seo*$script
 ||colpory.com^
 ||com*/vk.$script
 ||com/player/|$script
-||com/s.js?
+||com/s.js?*
 ||com/s/*$3p,script
 ||com/tag*$3p,script,xhr
 ||comagic.ru^
@@ -1556,11 +1556,11 @@ _seo*$script
 ||vk.*community.
 ||vk.cc^
 ||vk.com*widget*
-||vk.com/amt_lnkh?
+||vk.com/amt_lnkh?*
 ||vk.com/errors.php|
 ||vk.com/images/blank.mp4*
 ||vk.com/js/api/xdmHelper.js*
-||vk.com/rtrg?
+||vk.com/rtrg?*
 ||vk.com/widget_recomm*$frame
 ||vk.me*/xdm.js*
 ||vk.me*widget*
@@ -1630,8 +1630,8 @@ _seo*$script
 ||yotpo.com^
 ||yottos.com^
 ||youraise.ru^
-||youtube.com/api/stats/qoe?
-||youtube.com/api/stats/watchtime?
+||youtube.com/api/stats/qoe?*
+||youtube.com/api/stats/watchtime?*
 ||yqkpt.com^
 ||ysexy.org^
 ||ysowy.com^
@@ -1684,7 +1684,7 @@ _seo*$script
 |http://fastpic*jpg|
 ||4pda.*/79tJPvZFILa8.
 ||4pda.*/st/heat_map|
-||4pda.*/st/ztm?
+||4pda.*/st/ztm?*
 ||4pda.*/stat*$xhr
 ||alpha.yaplakal.com^$popup
 ||antichat.ru/data*.gif|
@@ -1700,7 +1700,7 @@ _seo*$script
 ||cnews.ru*scripts.js*
 ||cnews.ru/*/ifvisible.js|
 ||cnews.ru/*/messages_ru.js|
-||cnews.ru/inc/api.js?
+||cnews.ru/inc/api.js?*
 ||cnews.ru/show.php*
 ||cnews.ru^$inline-script
 ||dev.xyya.net^
@@ -1727,7 +1727,7 @@ _seo*$script
 ||nnm*club.*/city*$script
 ||nnmclub.ch/*/xvideo*
 ||ok.ru/res/css/*$xhr,domain=ok.ru
-||ok.ru/web-api/pixel?
+||ok.ru/web-api/pixel?*
 ||overclockers.ru/*/app.js|
 ||pcportal.org/_.gif|
 ||piccash.net/tpl/*
@@ -2322,7 +2322,7 @@ youtube.com##[id="ticker"]
 @@||google.com/cse?$frame
 @@||googleapis.com/custom$script
 @@||googleusercontent.com^$frame,domain=google.com|google.ru
-@@||googlevideo.com/videoplayback?
+@@||googlevideo.com/videoplayback?*
 @@||gosuslugi.ru^$domain=gosuslugi.ru
 @@||gstatic.com^$domain=android.com|google.com|google.ru
 @@||gu-st.ru^$domain=gosuslugi.ru
@@ -2473,7 +2473,7 @@ youtube.com##[id="ticker"]
 @@||jwp*$script,domain=anistar.me
 @@||kinogo.co*nocopy.js|
 @@||kodik.$frame
-@@||l-stat.livejournal.net/js/*lib.js?
+@@||l-stat.livejournal.net/js/*lib.js?*
 @@||livejournal.naydex.net^$domain=livejournal.com
 @@||login.vk.com^$frame,domain=yaplakal.com
 @@||mastarti.com^$domain=mastarti.com|my-hithd.ru
@@ -2507,14 +2507,14 @@ youtube.com##[id="ticker"]
 @@||yapfiles.ru/static/play.swf*
 @@||yastatic.net^$domain=afisha.ru|market.yandex.ru|radio.yandex.ru|video.yandex.ru
 @@||youtube.*embed-player*$script
-@@||youtube.com/api/stats/ads?
+@@||youtube.com/api/stats/ads?*
 @@||youtube.com/embed/*$frame
-@@||youtube.com/results?
+@@||youtube.com/results?*
 @@||ytimg.com/yt/jsbin/www-widgetapi-
 crossdomain.xml|$3p,domain=redcyt.com
 ||flockplay.videomore.ru^
 ||redcyt.com*/player.js*
-||ria.ru/*/app.js?
+||ria.ru/*/app.js?*
 ||thumbnails.videomore.ru^$3p
 !
 ! ИНДИВИДУАЛЬНЫЕ ИСКЛЮЧЕНИЯ CSS
