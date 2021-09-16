@@ -2230,7 +2230,7 @@ vk.com##[class="profile_rate_warning"]
 vk.com##[id="system_msg"]
 whoer.net##[class="section section_white section_plans"]
 xvideos.com##[id$="-messages"]
-xvideos.com#?#html > body,#content:style(background-color: #A87037 !important)
+!xvideos.com#?#html > body,#content:style(background-color: #A87037 !important)
 yandex.*##[class^="d-overhead"]
 yandex.*##[class^="head-banner"]
 yandex.*##[data-bem*="-ads."]
