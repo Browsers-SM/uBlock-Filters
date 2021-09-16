@@ -278,7 +278,7 @@
 *cgi-*rnd=*
 *cgi?$3p
 *cgi?id*
-*check*$3p,domain=~tabor.ru
+*check*$3p,domain=~tabor.ru|~joom.com
 *cityads*
 *cityid*$frame
 *clc.$3p
