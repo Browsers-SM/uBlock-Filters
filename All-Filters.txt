@@ -2217,7 +2217,7 @@ tabor.ru##[class="user-day user-day_w"]
 tabor.ru##[href="/services/sympathies_rating"] [class="count"]
 tabor.ru##[id="top_anketa_content_action"]
 tabor.ru##[onclick*="day_click_profile"]
-tabor.ru,send.firefox.com#?#html > body:style(background-color: #FFDEB9 !important)
+!tabor.ru,send.firefox.com#?#html > body:style(background-color: #FFDEB9 !important)
 tapochek.net###sidebar1
 tapochek.net##[id^="fuck"]
 teplodar.ru##[class="select-city-wrap"]
