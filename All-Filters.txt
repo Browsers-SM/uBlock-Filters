@@ -668,6 +668,7 @@
 ||ali*$3p,domain=~aliexpress.com|~aliexpress.ru|~rutracker.org|~aliradar.com
 ||alkodesign.ru^
 ||all*$3p,domain=~kp.ru
+||allbest.ru^$3p
 ||alonged.com^
 ||am*$~image,3p,domain=~aliexpress.com|~aliexpress.ru|~youla.ru|~jd.ru|~bigmir.net|~kyivstar.ua|~opendns.com|~rufus.ie|~alcatelmobile.com|~fast.com
 ||an.*
@@ -721,6 +722,7 @@
 ||betrad.com^
 ||betshucklean.com^
 ||bgkecb.com^
+||bi0.ru^$3p
 ||bid*$3p
 ||big*$3p,~image
 ||bin*$3p,domain=~bing.com
@@ -746,6 +748,7 @@
 ||bs.*
 ||btr*$3p
 ||bubblesmedia.ru^
+||business-key.com^$3p
 ||button.blogs.yandex.net^
 ||buzz*$3p
 ||bx.*
@@ -760,6 +763,7 @@
 ||c.$frame
 ||c.microsoft.com^
 ||c.msn.com^
+||c.uarating.com^
 ||c1.microsoft.com^$domain=~skype.com
 ||c8.net.ua^
 ||cackle.me^$3p
@@ -917,6 +921,7 @@
 ||gdeslon.ru^
 ||ge*$3p,domain=~google.com|google.ru
 ||gg.google.com^
+||gigtop.ru^$3p
 ||gigya.com^
 ||gingardo.com^
 ||giosany.com^
@@ -933,6 +938,7 @@
 ||good*$3p
 ||google.com*/button.js?ver=*
 ||google.ru/s?sclient=$xhr
+||goon.ru^$3p
 ||goon.ru^$frame
 ||goossb.com^
 ||got*$3p
@@ -978,7 +984,9 @@
 ||ij*$3p
 ||ikiif.com^
 ||ikolop.com^
+||ilinks.ru^$3p
 ||illiages.com^
+||ilnk.ru^$3p
 ||im-web.ru^
 ||imasdk.googleapis.com^
 ||imatrix.*
@@ -1083,6 +1091,7 @@
 ||mail.ru/cache*
 ||mailmunch.co^
 ||manfys.com^
+||manyweb.ru^$3p
 ||map*.hwcdn.net^
 ||mar*$3p,popunder
 ||mastweb.ru^
@@ -1113,6 +1122,7 @@
 ||mirtesen.ru^$3p
 ||mix*$3p
 ||mob*$3p,domain=~smotri.com
+||mobtop.$3p
 ||mochi*.com*
 ||modern.ie^
 ||moe.video^
@@ -1135,6 +1145,7 @@
 ||mycpm.ru^
 ||myfeed.ru^$3p
 ||myopening.ru^
+||mytopboard.ru^$3p
 ||n74s9.com^
 ||nanosemantics.*
 ||narrative.io^
@@ -1186,6 +1197,7 @@
 ||onlinetestpad.com^$3p
 ||onthe.io^
 ||op.yandex.ru^$3p
+||openlinks.ru^$3p
 ||opinionbar.com^
 ||opogame.com^$3p
 ||optim*$3p
@@ -1199,6 +1211,7 @@
 ||parsely.com^
 ||pay*$3p
 ||perezvoni.com^
+||perm24.net^$3p
 ||personali.com^
 ||phoenix-widget.com^
 ||piar-m.ru^
@@ -1268,6 +1281,7 @@
 ||redhelper.ru^
 ||rees46.com^
 ||reevoo.com^
+||refer.ru^$3p
 ||refocus.ru^
 ||reformal.ru^$3p
 ||reg*$3p
@@ -1302,6 +1316,7 @@
 ||ruad.*
 ||rubiconproject.com^
 ||rublacklist.net^$3p
+||rubo.ru^$3p
 ||rus*$3p
 ||rut*$3p
 ||ryminos.com^
@@ -1313,6 +1328,7 @@
 ||savedhistory.net^$3p
 ||savefrom.net^$3p
 ||sayyac.net^
+||sbup.com^$3p
 ||scorecardresearch.com^
 ||scrubtheweb.com^
 ||sdx.ru^
@@ -1385,6 +1401,7 @@
 ||ter$3p
 ||teser.net^
 ||test37.com^
+||text.ru^$3p
 ||tgwidget.com^$3p
 ||thauftoa.net^
 ||theabyss.ru^$3p
@@ -1479,11 +1496,13 @@
 ||vogo*$3p
 ||vortex.data.microsoft.com^
 ||vpvsy.com^
+||vsego.ru^$3p
 ||vtomske.ru^$3p
 ||vvks.ru^
 ||vwcsl.com^
 ||vzara.ru^
 ||w2p*
+||w3.org^$3p
 ||w7.ru^
 ||watersoul.com^
 ||watrz.com^
@@ -1500,6 +1519,7 @@
 ||wm$3p
 ||wmtransfer.com^$3p
 ||wolist.ru^$3p
+||womantop.ru^$3p
 ||woopra.com^
 ||worksection.com^
 ||worldcrisis.ru^$3p
@@ -1657,34 +1677,6 @@
 ||yapfiles.ru/uploads/branddata/*
 ||yapfiles.ru/ypxl/*
 ||z1.fm/cls.*
-!
-! СЧЕТЧИКИ
-||allbest.ru^$3p
-||bi0.ru^$3p
-||business-key.com^$3p
-||c.uarating.com^
-||c.zero.kz^
-||catalog.tut.by^
-||gigtop.ru^$3p
-||goon.ru^$3p
-||hi-man.ru^$3p
-||ilinks.ru^$3p
-||ilnk.ru^$3p
-||katalog-chatov.ru^$3p
-||manyweb.ru^$3p
-||mobtop.$3p
-||mytopboard.ru^$3p
-||openlinks.ru^$3p
-||perm24.net^$3p
-||refer.ru^$3p
-||rubo.ru^$3p
-||sbup.com^$3p
-||text.ru^$3p
-||vsego.ru^$3p
-||w3.org^$3p
-||waptut.ru^$3p
-||womantop.ru^$3p
-||топтрекер.рф^$3p
 !
 ! SPACES.RU
 spac1.com,spac.me,spaces.im,spac1.net,spaces-blogs.com##[class$=" seo"]
