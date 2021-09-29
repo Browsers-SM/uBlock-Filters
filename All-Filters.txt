@@ -1578,7 +1578,7 @@
 *$3p,domain=adriver.ru|fastpic.ru|free1img.ru|free2img.ru|free3img.ru|imageban.ru|imagevenue.com|radikal.ru|tinypic.com|forum.release-apk.com|upload.ee
 *$popunder,3p,domain=pornhub.com|redtube.com|xvideos.com|xhamster.com
 *$popup,domain=apkfind.com|apkpure.com|dverser.ru|film-adult.com|imagebam.com|joyreactor.cc|kordonivkakino.net|ok.ru|rustorka.com|tracelive.ru|z1.fm|xvideos.com|xhamster.com
-*$websocket,domain=~animevost.org|~github.com|~mibbit.com|~ria.ru|~send.firefox.com|~smotri.com|~twitch.tv|~video.rambler.ru|~videochatka.net|~whatsapp.com|~yandex.ru|~youtube.com|~spinningline.ru|~4pda.to|~4pda.ru|~spotify.com
+*$websocket,domain=~animevost.org|~github.com|~mibbit.com|~ria.ru|~send.firefox.com|~smotri.com|~twitch.tv|~video.rambler.ru|~videochatka.net|~whatsapp.com|~yandex.ru|~youtube.com|~spinningline.ru|~4pda.to|~4pda.ru|~spotify.com|~speedtest.net
 *adblo*$image,script,domain=~adblockplus.me|~adblockplus.org|~ghacks.net|~freeadblockerbrowser.com
 *code*$3p,script,domain=~bitbucket.org|~code.jquery.com|~codeplex.com|~icecreamapps.com|~invi.tv|~market.pochta.ru|~microsoft.com|~nnmclub.ch|~nnmclub.to|~ntp-servers.net|~opengapps.org|~ren.tv|~yandex.ru|~yota.ru|~netflix.com|~spinningline.ru
 *popunder*$~xhr,domain=~cackle.me|~dns-shop.ru|~livejournal.com|~mail.ru|~miuipro.ru|~onlinezakladki.ru|~photosight.ru|~rian.ru|~support.kaspersky.ru|~vk.com
@@ -2160,6 +2160,7 @@ youtube.com##[id="ticker"]
 @@||blogspot.$image
 @@||cdn*.ozone.ru^$domain=ozon.ru
 @@||cdn*savepice.ru^$3p,image
+@@||cdnst.net^$domain=speedtest.net
 @@||cloudflare.*$script
 @@||code.jquery.com^
 @@||codepen.io^$3p,frame
