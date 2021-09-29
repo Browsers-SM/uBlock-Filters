@@ -1090,6 +1090,7 @@
 ||magictab.ru^
 ||mail.ru/cache*
 ||mailmunch.co^
+||main-ti-cod.com^
 ||manfys.com^
 ||manyweb.ru^$3p
 ||map*.hwcdn.net^
@@ -2067,16 +2068,10 @@ radikal.ru##[class="base-page_left-side"]
 redtube.com##[id="pb_block"]
 redtube.com##[style^="float:"]
 redtube.com##[target]
-ria.ru##[class="list-item__info"]
-ria.ru##[class="list-item__tags"]
 ria.ru##[class="widgets__b-slide"]
-ria.ru##[class^="b-sharebar"]
 ru-board.com##[href*="devline.ru"]
 rutracker.*###logo
-samforum.org##[class="navbar_notice"]
-securitylab.ru##[class="sidebar-right"]
 softodrom.ru##[style^="width: 100%"]
-softportal.com##[alt*="Adguard"]
 softportal.com##[href^="prog"][href$="htm"]
 sourceforge.net##[class*="listing"][class$="standard"]
 sourceforge.net##[id="newsletter-floating"]
@@ -2093,14 +2088,8 @@ tapochek.net###sidebar1
 tapochek.net##[id^="fuck"]
 teplodar.ru##[class="select-city-wrap"]
 translate.google.com##[id^="gb"]
-trinixy.ru##[class="social"]
-trinixy.ru##[class^="header-0"]
-trinixy.ru##[id="slideout"]
-virusinfo.info##[id="headbr"]
 vk.com##[class="profile_rate_warning"]
 vk.com##[id="system_msg"]
-whoer.net##[class="section section_white section_plans"]
-xvideos.com##[id$="-messages"]
 yandex.*##[class^="d-overhead"]
 yandex.*##[class^="head-banner"]
 yandex.*##[data-bem*="-ads."]
