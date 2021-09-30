@@ -2300,17 +2300,11 @@ youtube.com##[id="ticker"]
 @@$3p,domain=adcdn.tv
 @@$csp,domain=bongacams.com|bongacams2.com|invi.tv|rutube.ru|smotri.com|ventusky.com|xvideos.com
 @@$generichide,domain=2ip.ru|kino-dom.org|megogo.net|mozilla-russia.org|mts.ru|overclockers.ru|dhgate.com
-@@$xhr,domain=my-hithd.ru|clastarti.cc
-@@*moonwalk*
 @@*video*fbcdn.net^$xhr
-@@/ad*$1p,script,domain=remoteshaman.com|softcatalog.info|vtomske.ru
+@@/ad*$1p,script,domain=remoteshaman.com
 @@/ad*$3p,frame,domain=dropbox.com|dropboxusercontent.com
-@@/ad*$3p,image,domain=alexstuff.ru|dropbox.com|dropboxusercontent.com|wow-land.ucoz.ru
+@@/ad*$3p,image,domain=dropbox.com|dropboxusercontent.com
 @@adfox*$xhr,domain=coub.com
-@@advert*$1p,script,domain=anistar.me|kinomassa.net|tjournal.ru|qrz.ru
-@@openx*$domain=igromania.ru
-@@||1internet.tv^$image,domain=1tv.ru
-@@||1internet.tv^$xhr,domain=1tv.ru
 @@||ads.adfox.ru^$script,domain=aif.ru|mts.ru
 @@||adselector.ru^$script,domain=rusfolder.com|webpark.ru
 @@||akamaihd.net^$script,image,domain=coub.com|instagram.com
@@ -2418,7 +2412,7 @@ pogoda.mail.ru,libk.ru,220-volt.ru#@#[class*="banner"][class*="top"]
 prestig-konkurs.ru#@#[id*="rekl"]
 prootoplenie.ru,udt.ru,stroylandiya.ru,libk.ru,12talerov.ru#@#[class*="view"][class*="banner"]
 ria.ru#@#[id*="AdFox"]
-ridus.ru#@#[class*="adfox"]
+coub.com,ridus.ru#@#[class*="adfox"]
 samforum.org#@#[id*="cookie"]
 softwareok.com#@#[id^="banner_"]
 sourceforge.net#@#[class*="-ads "]
