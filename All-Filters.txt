@@ -2122,7 +2122,7 @@ youtube.com##[id="ticker"]
 @@$3p,domain=aliexpress.com|aliexpress.ru
 @@$3p,image,domain=google.ru
 @@$3p,script,domain=chuyu.me
-@@$elemhide,domain=accounts.google.com|e.mail.ru|life-film.ru|lifehacker.com|mail.google.com|mail.yandex.ru|msdn.microsoft.com|pcradio.ru|svyaznoy.ru|tele2.ru|wildberries.ru
+@@$elemhide,domain=accounts.google.com|e.mail.ru|life-film.ru|lifehacker.com|mail.google.com|mail.yandex.ru|msdn.microsoft.com|pcradio.ru|svyaznoy.ru|tele2.ru|wildberries.ru|alibaba.com
 @@$frame,domain=spac.me|spac1.com|spaces.im|spac1.net|spaces-blogs.com|videochart.net|vk.com|youtube.googleapis.com
 @@$genericblock,domain=kp.ru
 @@$image,frame,script,domain=api.kanobu.ru|embed.kanobu.ru|games.kanobu.ru
@@ -2338,10 +2338,7 @@ youtube.com##[id="ticker"]
 ! ИНДИВИДУАЛЬНЫЕ ИСКЛЮЧЕНИЯ CSS
 12talerov.ru#@#[class*="bann"][class*="bottom"]
 220-volt.ru#@#[href*="/promo/"]
-addons.mozilla.org,cnews.ru,google.*#@#[target][href*="promo"]
-alibaba.com#@#[id$="-ads"]
-alibaba.com#@#[id*="Bann"]
-alibaba.com#@#[id="banner"]
+addons.mozilla.org,google.*#@#[target][href*="promo"]
 auto.youla.ru#@#[href*="/advert/"]
 carambatv.ru,mirf.ru,ok.ru,stihl.ru,beru.ru#@#[style*="bann"]
 citrus.ua,google.*,sanvol.ru,tok-shop.ru#@#[target]>[src*="/shop"]
