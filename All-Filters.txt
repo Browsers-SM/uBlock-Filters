@@ -1446,8 +1446,10 @@
 ||typekit.$3p
 ||typiol.com^
 ||tzweb.*
+||u.to^$3p
 ||ucozabc.ru^$3p
 ||ueuodgnrhb.com^
+||uid.me^$3p,~image
 ||ulog*$3p
 ||umekana.ru^
 ||uniq-ip.com^
@@ -1595,11 +1597,11 @@
 ! ИНДИВИДУАЛЬНЫЕ
 *$script,xhr,domain=imgbun.ru
 *$xhr,3p,domain=nnmclub.to|nnmclub.ch
+*.free*img.ru*$script
+*.yashik.tv^
 *gobro.mail.ru/
 *image.php?link*gif|$domain=nnmclub.to|nnmclub.ch
 *toplink*$xhr,domain=habr.com|~tmfeed.ru
-*.free*img.ru*$script
-*.yashik.tv^
 |http://fastpic*jpg|
 ||4pda.*/79tJPvZFILa8.*
 ||4pda.*/st/heat_map|
@@ -1624,6 +1626,7 @@
 ||cnews.ru^$inline-script
 ||dev.xyya.net^
 ||dot-stat.radikal.ru^
+||ds-assets.cdn.devapps.ru*/79tJPvZFILa8.*$domain=4pda.to
 ||engine.fishki.net^
 ||fastpic.ru/c/*$script
 ||forumrpg.ru^$domain=mybb.ru
@@ -1688,32 +1691,6 @@ spac1.com,spac.me,spaces.im,spac1.net,spaces-blogs.com##[id="common_error"]
 ||m*.spac1.net^$script
 ||m*.spaces.im^$script
 ||m*.strip2.xxx^$script
-!
-! uCoz
-*/crit_image.js|$domain=3dn.ru|at.ua|clan.su|do.am|moy.su|p0.ru|ucoz.com|ucoz.es|ucoz.net|ucoz.org|ucoz.ru
-*/stat/*top.ucoz*
-*/welcome.js|$domain=3dn.ru|at.ua|clan.su|do.am|moy.su|p0.ru|ucoz.com|ucoz.es|ucoz.net|ucoz.org|ucoz.ru
-*/img/cp/*.gif|$domain=3dn.ru|at.ua|clan.su|do.am|moy.su|p0.ru|ucoz.com|ucoz.es|ucoz.net|ucoz.org|ucoz.ru
-/crit_image.$domain=3dn.ru|at.ua|clan.su|do.am|moy.su|p0.ru|ucoz.com|ucoz.es|ucoz.net|ucoz.org|ucoz.ru
-||3dn.ru/stat/*
-||at.ua/stat/*
-||clan.su/stat/*
-||do.am/stat/*
-||moy.su/stat/*
-||p0.ru/stat/*
-||u-login.$3p
-||u.to^$3p
-||ucounter.ucoz.net^
-||ucoz.*/1px.gif|
-||ucoz.*/gstoolbar*
-||ucoz.*/pay_*.js|
-||ucoz.com/stat/*
-||ucoz.es/stat/*
-||ucoz.net*soc_comm*
-||ucoz.net/stat/*
-||ucoz.org/stat/*
-||ucoz.ru/stat/*
-||uid.me^$3p,~image
 !
 ! СУЩЕСТВУЮТ ПО ДОМЕНАМ 3-ГО УРОВНЯ.*
 ||3lift.com^
@@ -2388,9 +2365,6 @@ yandex.*#@#[class*="social"][class*="block"]
 @@blob:null/*
 @@moz-extension://*
 @@moz-extension://*$popup
-!
-! DNS For 4pda.ru
-||ds-assets.cdn.devapps.ru*/79tJPvZFILa8.*
 !
 ! NOT BLOCKED
 @@$css
