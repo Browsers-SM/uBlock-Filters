@@ -100,7 +100,7 @@
 */b-$~image,domain=~vtb24.ru
 */b.$~image
 */b.*gif*
-*/b/*$script,frame,domain=~z1.fm|~yandex.ru|~spac.me|~spac1.com|~spaces.im|~spac1.net|~strip2.xxx|~spaces-blogs.com
+*/b/*$script,frame,domain=~z1.fm|~yandex.ru|~spaces.im|~spac1.net|~strip2.xxx|~spaces-blogs.com
 */b/*&t=*
 */b/*.gif*
 */b?$~image
@@ -516,7 +516,7 @@
 *promo*.ru^$3p,popunder
 *promo*popu*$script
 *promo.$popup,3p
-*push*$3p,~image,domain=~spac.me|~spac1.com|~spaces.im|~spac1.net|~strip2.xxx|~spaces-blogs.com
+*push*$3p,~image,domain=~spaces.im|~spac1.net|~strip2.xxx|~spaces-blogs.com
 *random*$popup
 *rblock*$xhr,domain=~ok.ru
 *rbn.*
@@ -1363,7 +1363,7 @@
 ||soknm.com^
 ||soosle.*
 ||sopital.com^
-||spa*$3p,script,frame,domain=~spac.me|~spac1.com|~spaces.im|~spac1.net|~strip2.xxx|~spaces-blogs.com
+||spa*$3p,script,frame,domain=~spaces.im|~spac1.net|~strip2.xxx|~spaces-blogs.com
 ||speedtest.net^$3p
 ||spot.im^
 ||spruto.org^
@@ -1591,7 +1591,7 @@
 |blob:*$domain=~embed.life.ru|~google.com|~google.ru|~mail.yandex.ru|~mega.nz|~ok.ru|~vk.com
 ||com/*$3p,script,frame,domain=nnmclub.to
 ||porn*$3p,domain=~redtube.com
-||ru/*$3p,script,domain=3dn.ru|at.ua|clan.su|do.am|erobab.com|eromo.org|fotobab.ru|moy.su|p0.ru|sefan.ru|spac.me|spac1.com|spaces.im|spac1.net|ucoz.com|ucoz.es|ucoz.net|ucoz.org|ucoz.ru|vbabe.mobi|strip2.xxx|spaces-blogs.com|bestweapon.ru
+||ru/*$3p,script,domain=3dn.ru|at.ua|clan.su|do.am|erobab.com|eromo.org|fotobab.ru|moy.su|p0.ru|sefan.ru|spaces.im|spac1.net|ucoz.com|ucoz.es|ucoz.net|ucoz.org|ucoz.ru|vbabe.mobi|strip2.xxx|spaces-blogs.com|bestweapon.ru
 ||translate.google*$domain=рф|ru|su|~google.ru
 !
 ! ИНДИВИДУАЛЬНЫЕ
@@ -1683,11 +1683,11 @@
 ||z1.fm/cls.*
 !
 ! SPACES.RU
-spac1.com,spac.me,spaces.im,spac1.net,spaces-blogs.com##[class$=" seo"]
-spac1.com,spac.me,spaces.im,spac1.net,spaces-blogs.com##[class="oh t_center nl system-message"]
-spac1.com,spac.me,spaces.im,spac1.net,spaces-blogs.com##[href*="/jf5oox6g/"]
-spac1.com,spac.me,spaces.im,spac1.net,spaces-blogs.com##[id="about_spaces"]
-spac1.com,spac.me,spaces.im,spac1.net,spaces-blogs.com##[id="common_error"]
+spaces.im,spac1.net,spaces-blogs.com##[class$=" seo"]
+spaces.im,spac1.net,spaces-blogs.com##[class="oh t_center nl system-message"]
+spaces.im,spac1.net,spaces-blogs.com##[href*="/jf5oox6g/"]
+spaces.im,spac1.net,spaces-blogs.com##[id="about_spaces"]
+spaces.im,spac1.net,spaces-blogs.com##[id="common_error"]
 ||m*.spac1.net^$script
 ||m*.spaces.im^$script
 ||m*.strip2.xxx^$script
@@ -2100,7 +2100,7 @@ youtube.com##[id="ticker"]
 @@$3p,image,domain=google.ru
 @@$3p,script,domain=chuyu.me
 @@$elemhide,domain=accounts.google.com|e.mail.ru|life-film.ru|lifehacker.com|mail.google.com|mail.yandex.ru|msdn.microsoft.com|pcradio.ru|svyaznoy.ru|tele2.ru|wildberries.ru|alibaba.com
-@@$frame,domain=spac.me|spac1.com|spaces.im|spac1.net|spaces-blogs.com|videochart.net|vk.com|youtube.googleapis.com
+@@$frame,domain=spaces.im|spac1.net|spaces-blogs.com|videochart.net|vk.com|youtube.googleapis.com
 @@$genericblock,domain=kp.ru
 @@$image,frame,script,domain=api.kanobu.ru|embed.kanobu.ru|games.kanobu.ru
 @@$image,~3p,domain=ghacks.net
