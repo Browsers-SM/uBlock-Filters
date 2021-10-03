@@ -339,7 +339,7 @@
 *bann*$3p,~image,~xhr
 *bann*$script,domain=~superjob.ru|~ria.ru
 *bann*.html|
-*banner*$1p,xhr,domain=~beru.ru|~sima-land.ru
+*banner*$1p,xhr,domain=~beru.ru|~sima-land.ru|~dns-shop.ru
 *banner*$3p,~image
 *banner.$3p,~image
 *banner/*php$3p
@@ -1850,7 +1850,6 @@ spaces.im,spac1.net,spaces-blogs.com##[id="common_error"]
 ##[id*="adfox"]
 ##[id*="adriver"]
 ##[id*="adver"]
-##[id*="bann"]
 ##[id*="cookie"]
 ##[id*="left_ad"]
 ##[id*="popunder"][id*="wrap"]
