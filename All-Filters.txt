@@ -2265,6 +2265,7 @@ youtube.com##[id="ticker"]
 @@||yastatic.net^$script,domain=plus.kinopoisk.ru
 @@||yimg.com^$domain=flickr.com
 @@||youla.*$domain=youla.ru
+@@||youtube.com/s/player/*
 !
 ! ПРОБЛЕМЫ С АУДИО/ВИДЕО, ВИДЕОРЕКЛАМА, БЕСКОНЕЧНАЯ ЗАГРУЗКА, ОБНАРУЖЕН AdBlock, ЗАПРЕТ ПРОСМОТРА
 @@$3p,domain=adcdn.tv
