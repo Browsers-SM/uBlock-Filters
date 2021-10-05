@@ -1460,7 +1460,7 @@
 ||upsellit.com^
 ||upto*.com^$3p
 ||uralweb.ru^$3p
-||use*$3p
+||use*$3p,domain=~ok.ru
 ||usstero.com^
 ||usuarios-online.com^
 ||utilieur.com^
