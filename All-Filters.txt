@@ -1432,6 +1432,7 @@
 ||tr1.*
 ||tra*$3p,domain=~track.kg
 ||tracker.tiu.ru^
+||trckingbyte.com^
 ||tribalfusion.com^
 ||trk-1.com^
 ||trust*$3p
