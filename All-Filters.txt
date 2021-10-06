@@ -63,7 +63,7 @@
 */ad*$3p,frame
 */ad-*
 */ad.$~image
-*/ad/*$~image,domain=~zaycev.net
+*/ad/*$~image
 */ad/*php*
 */ad1.*
 */ad2.*
@@ -100,11 +100,11 @@
 */b-$~image,domain=~vtb24.ru
 */b.$~image
 */b.*gif*
-*/b/*$script,frame,domain=~z1.fm|~yandex.ru|~spaces.im|~spac1.net|~strip2.xxx|~spaces-blogs.com
+*/b/*$script,frame,domain=~z1.fm|~yandex.ru|~spaces.im|~spac1.net|~spaces-blogs.com
 */b/*&t=*
 */b/*.gif*
 */b?$~image
-*/b_$~image,domain=~sefon.pro
+*/b_$~image
 */b_*sex*
 */ban&
 */ban*.html|
@@ -119,7 +119,7 @@
 */banner/*.gif|
 */banner5*
 */banners*$script
-*/banners/*$image,domain=~220-volt.ru|~rlsnet.ru|~sant37.ru|~stayer-instrument.ru
+*/banners/*$3p
 */bban*
 */bbn*$~image
 */bbt*
@@ -516,7 +516,7 @@
 *promo*.ru^$3p,popunder
 *promo*popu*$script
 *promo.$popup,3p
-*push*$3p,~image,domain=~spaces.im|~spac1.net|~strip2.xxx|~spaces-blogs.com
+*push*$3p,~image,domain=~spaces.im|~spac1.net|~spaces-blogs.com
 *random*$popup
 *rblock*$xhr,domain=~ok.ru
 *rbn.*
@@ -610,7 +610,7 @@
 *wap*$3p,~image,domain=~sndcdn.com|~soundcloud.com|~spotify.com
 *warship*$domain=~worldofwarships.ru
 *xtcore*
-*xxx*$frame,domain=~strip2.xxx
+*xxx*$frame
 *yad*tr*$script,domain=~alleyadoma.ru
 *yashare*
 *zoneid*$3p,script,frame,xhr,popup
@@ -1365,7 +1365,7 @@
 ||soknm.com^
 ||soosle.*
 ||sopital.com^
-||spa*$3p,script,frame,domain=~spaces.im|~spac1.net|~strip2.xxx|~spaces-blogs.com
+||spa*$3p,script,frame,domain=~spaces.im|~spac1.net|~spaces-blogs.com
 ||speedtest.net^$3p
 ||spot.im^
 ||spruto.org^
@@ -1540,7 +1540,7 @@
 ||xoliter.com^
 ||xray.mail.ru^
 ||xtool.ru^
-||xx*$3p,domain=~fbcdn.net|~facebook.com|~savido.net|~strip2.xxx
+||xx*$3p,domain=~fbcdn.net|~facebook.com|~savido.net
 ||xyz^$3p,script,popunder,frame
 ||yabs.yandex.ru^$domain=~yandex.ru
 ||yadro.*
@@ -1594,7 +1594,7 @@
 |blob:*$domain=~embed.life.ru|~google.com|~google.ru|~mail.yandex.ru|~mega.nz|~ok.ru|~vk.com
 ||com/*$3p,script,frame,domain=nnmclub.to
 ||porn*$3p,domain=~redtube.com
-||ru/*$3p,script,domain=3dn.ru|at.ua|clan.su|do.am|erobab.com|eromo.org|fotobab.ru|moy.su|p0.ru|sefan.ru|spaces.im|spac1.net|ucoz.com|ucoz.es|ucoz.net|ucoz.org|ucoz.ru|vbabe.mobi|strip2.xxx|spaces-blogs.com|bestweapon.ru
+||ru/*$3p,script,domain=3dn.ru|at.ua|clan.su|do.am|erobab.com|eromo.org|fotobab.ru|moy.su|p0.ru|sefan.ru|spaces.im|spac1.net|ucoz.com|ucoz.es|ucoz.net|ucoz.org|ucoz.ru|vbabe.mobi|spaces-blogs.com|bestweapon.ru
 ||translate.google*$domain=рф|ru|su|~google.ru
 !
 ! ИНДИВИДУАЛЬНЫЕ
@@ -1693,7 +1693,6 @@ spaces.im,spac1.net,spaces-blogs.com##[id="about_spaces"]
 spaces.im,spac1.net,spaces-blogs.com##[id="common_error"]
 ||m*.spac1.net^$script
 ||m*.spaces.im^$script
-||m*.strip2.xxx^$script
 !
 ! СУЩЕСТВУЮТ ПО ДОМЕНАМ 3-ГО УРОВНЯ.*
 ||3lift.com^
