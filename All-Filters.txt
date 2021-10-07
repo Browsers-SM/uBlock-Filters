@@ -160,7 +160,7 @@
 */img.php?id*
 */jads*
 */jrt*$script
-*/js*/ban*$domain=~dns-shop.ru
+*/js*/ban*
 */js*==*.js*$3p
 */js.js?$3p
 */lnk.*
@@ -172,7 +172,7 @@
 */out.php*
 */promo*$3p,popunder,frame
 */px.gif*&rn
-*/r.$script,domain=~microsoft.com
+*/r.$script
 */r.php?id=*
 */r/*$frame
 */rb.*
@@ -216,7 +216,7 @@
 */xad*
 *2bears*
 *4u.$3p,script
-*=ad*$script,frame,xhr,domain=~dns-shop.ru|~tsearch.me|~beru.ru|~youtube.com|~sberbank.ru|~adoptopenjdk.net|~filmix.ac|~vk.com
+*=ad*$script,frame,xhr,domain=~youtube.com|~adoptopenjdk.net|~vk.com
 *=aid*$script,frame
 *=ban*$script,frame
 *=bn*$script,frame
@@ -269,7 +269,7 @@
 *_rekl*$~image
 *_rtb*
 *_seo*$script
-*ad*?r*$domain=~turboserial.info|~adoptopenjdk.net|~upload.ee|~filmix.ac
+*ad*?r*$domain=~adoptopenjdk.net|~filmix.ac
 *adbot*
 *adds*$script,frame
 *addthis*
@@ -279,7 +279,7 @@
 *adguard*$popup
 *adhelp*
 *adid*$popup
-*adjs*$domain=~ria.ru
+*adjs*$3p
 *adlab*
 *adli*$script,frame
 *adlog*
@@ -313,7 +313,7 @@
 *aid?*
 *alfa*sense*
 *ambler*op100*
-*analyt*$~image,domain=~ozon.ru
+*analyt*$~image
 *analyt*.amazonaws.com^
 *appban*
 *audioads*
