@@ -2046,6 +2046,8 @@ redtube.com##[target]
 ria.ru##[class="list-item__info"]
 ria.ru##[class="list-item__tags"]
 ria.ru##[class="widgets__b-slide"]
+rsload.net##[href*="click2bit"]
+rsload.net##[src$="/fastik.png"]
 ru-board.com##[href*="devline.ru"]
 rutracker.*###logo
 softportal.com##[href^="prog"][href$="htm"]
