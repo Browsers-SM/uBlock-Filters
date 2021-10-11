@@ -2066,6 +2066,7 @@ tapochek.net###sidebar1
 tapochek.net##[id^="fuck"]
 teplodar.ru##[class="select-city-wrap"]
 translate.google.com##[id^="gb"]
+vk.com##[class="audio_promo"]
 vk.com##[class="profile_rate_warning"]
 vk.com##[id="system_msg"]
 yandex.*##[class^="d-overhead"]
