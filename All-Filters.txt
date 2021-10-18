@@ -1087,8 +1087,7 @@
 ||lycodz.com^
 ||lydiz.com^
 ||m-shes.ru^
-||ma-static.ru^
-||ma-static.ru^$popup
+||ma-static.ru^$script,popup
 ||magictab.ru^
 ||mail.ru/cache*
 ||mailmunch.co^
