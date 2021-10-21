@@ -799,6 +799,7 @@
 ||compete.com^
 ||con*$3p,domain=~google.ru|google.com
 ||cookiebot.com^
+||cookieinfoscript.com^
 ||copercato.com^
 ||copyright-law.ru^
 ||couptoug.net^
@@ -1254,6 +1255,7 @@
 ||pw^$3p,script
 ||px.$3p
 ||q32.ru^
+||q8ntfhfngm.com^
 ||qbaka.*
 ||qle.ru^
 ||qr*$3p
@@ -2042,6 +2044,7 @@ radikal.ru##[class="base-page_left-side"]
 redtube.com##[id="pb_block"]
 redtube.com##[style^="float:"]
 redtube.com##[target]
+ria.ru##[class="class="banner__content"]
 ria.ru##[class="list-item__info"]
 ria.ru##[class="list-item__tags"]
 ria.ru##[class="widgets__b-slide"]
