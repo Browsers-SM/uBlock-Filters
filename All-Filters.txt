@@ -668,7 +668,6 @@
 ||ali*$3p,domain=~aliexpress.com|~aliexpress.ru|~rutracker.org|~aliradar.com
 ||alkodesign.ru^
 ||all*$3p,domain=~kp.ru
-||allbest.ru^$3p
 ||alonged.com^
 ||am*$~image,3p,domain=~aliexpress.com|~aliexpress.ru|~youla.ru|~jd.ru|~bigmir.net|~kyivstar.ua|~opendns.com|~rufus.ie|~alcatelmobile.com|~fast.com
 ||an.*
@@ -1213,9 +1212,7 @@
 ||park*$3p
 ||parsely.com^
 ||pay*$3p
-||perezvoni.com^
-||perm24.net^$3p
-||personali.com^
+||per*$3p
 ||phoenix-widget.com^
 ||piar-m.ru^
 ||picoshot.com^$3p,script
@@ -1318,9 +1315,7 @@
 ||ru/shows*$script
 ||ru/track*$script
 ||ruad.*
-||rubiconproject.com^
-||rublacklist.net^$3p
-||rubo.ru^$3p
+||rub*$3p
 ||rus*$3p
 ||rut*$3p
 ||ryminos.com^
