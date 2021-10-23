@@ -100,7 +100,7 @@
 */b-$~image,domain=~vtb24.ru
 */b.$~image
 */b.*gif*
-*/b/*$script,frame,domain=~z1.fm|~yandex.ru|~spaces.im|~spac1.net|~spaces-blogs.com
+*/b/*$script,frame,domain=~z1.fm|~yandex.ru|~spaces.im|~spac1.net|~spac1.com|~spaces-blogs.com
 */b/*&t=*
 */b/*.gif*
 */b?$~image
@@ -516,7 +516,7 @@
 *promo*.ru^$3p,popunder
 *promo*popu*$script
 *promo.$popup,3p
-*push*$3p,~image,domain=~spaces.im|~spac1.net|~spaces-blogs.com
+*push*$3p,~image,domain=~spaces.im|~spac1.net|~spac1.com|~spaces-blogs.com
 *random*$popup
 *rblock*$xhr,domain=~ok.ru
 *rbn.*
@@ -1361,7 +1361,7 @@
 ||soknm.com^
 ||soosle.*
 ||sopital.com^
-||spa*$3p,script,frame,domain=~spaces.im|~spac1.net|~spaces-blogs.com
+||spa*$3p,script,frame,domain=~spaces.im|~spac1.net|~spac1.com|~spaces-blogs.com
 ||speedtest.net^$3p
 ||spot.im^
 ||spruto.org^
@@ -1590,7 +1590,7 @@
 |blob:*$domain=~embed.life.ru|~google.com|~google.ru|~mail.yandex.ru|~mega.nz|~ok.ru|~vk.com
 ||com/*$3p,script,frame,domain=nnmclub.to
 ||porn*$3p,domain=~redtube.com
-||ru/*$3p,script,domain=3dn.ru|at.ua|clan.su|do.am|erobab.com|eromo.org|fotobab.ru|moy.su|p0.ru|sefan.ru|spaces.im|spac1.net|ucoz.com|ucoz.es|ucoz.net|ucoz.org|ucoz.ru|vbabe.mobi|spaces-blogs.com|bestweapon.ru
+||ru/*$3p,script,domain=3dn.ru|at.ua|clan.su|do.am|erobab.com|eromo.org|fotobab.ru|moy.su|p0.ru|sefan.ru|spaces.im|spac1.net|spac1.com|ucoz.com|ucoz.es|ucoz.net|ucoz.org|ucoz.ru|vbabe.mobi|spaces-blogs.com|bestweapon.ru
 ||translate.google*$domain=рф|ru|su|~google.ru
 !
 ! ИНДИВИДУАЛЬНЫЕ
@@ -1682,12 +1682,12 @@
 ||z1.fm/cls.*
 !
 ! SPACES.RU
-spaces.im,spac1.net,spaces-blogs.com##[class$=" seo"]
-spaces.im,spac1.net,spaces-blogs.com##[class="oh t_center nl system-message"]
-spaces.im,spac1.net,spaces-blogs.com##[href*="/jf5oox6g/"]
-spaces.im,spac1.net,spaces-blogs.com##[id="about_spaces"]
-spaces.im,spac1.net,spaces-blogs.com##[id="common_error"]
-||m*.spac1.net^$script
+spaces.im,spac1.net,spac1.com,spaces-blogs.com##[class$=" seo"]
+spaces.im,spac1.net,spac1.com,spaces-blogs.com##[class="oh t_center nl system-message"]
+spaces.im,spac1.net,spac1.com,spaces-blogs.com##[href*="/jf5oox6g/"]
+spaces.im,spac1.net,spac1.com,spaces-blogs.com##[id="about_spaces"]
+spaces.im,spac1.net,spac1.com,spaces-blogs.com##[id="common_error"]
+||m*.spac1.*$script
 ||m*.spaces.im^$script
 !
 ! СУЩЕСТВУЮТ ПО ДОМЕНАМ 3-ГО УРОВНЯ.*
