@@ -2017,6 +2017,7 @@ nnmclub.to##[id^="adss"]
 nnmclub.to##[style^="height:"]
 nnmclub.to##[target][href^="http"]
 nnmclub.to##TD>CENTER>DIV[id]
+nnmclub.to#?#body:style(background-color: #FFFFFF !important)
 ok.ru##[class="cover"]
 ok.ru##[class="feed h-mod"]
 ok.ru##[class="invis-el"]
