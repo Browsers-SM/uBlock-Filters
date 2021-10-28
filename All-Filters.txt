@@ -349,7 +349,6 @@
 *beacon*$~image
 *begun*
 *bnnr*
-*bnr*$domain=~youtube.com|~pornhub.com|~livejournal.com|~yandex.ru
 *bns.*
 *brand*$popup
 *brandimg*
