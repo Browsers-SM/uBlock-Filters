@@ -571,7 +571,6 @@
 *target*$3p,domain=~yandex.ru|~yandex.com|~yandex.net
 *tbn.$popup,script
 *tclic*
-*tds*$3p,domain=~uptodown.com
 *tds.$script,frame
 *teaser*$script,frame,xhr
 *ticket.php*
