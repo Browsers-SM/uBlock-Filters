@@ -337,7 +337,7 @@
 *baner.*
 *banimg*
 *bann*$3p,~image,~xhr
-*bann*$script,domain=~superjob.ru|~ria.ru
+*bann*$script,domain=~ria.ru
 *bann*.html|
 *banner*$1p,xhr,domain=~beru.ru|~sima-land.ru|~dns-shop.ru
 *banner*$3p,~image
@@ -381,7 +381,7 @@
 *cnt|
 *context*$3p
 *cookie*consent*
-*count*$1p,script,image,domain=~livejournal.com|~discount.220-volt.ru
+*count*$1p,script,image,domain=~livejournal.com|~discount.220-volt.ru|~12talerov.ru
 *count*$3p,domain=~youtube.com
 *criteo*
 *crypt*$script,3p
@@ -389,7 +389,7 @@
 *ddos-guard*$domain=~ddos-guard.net
 *delivery*$3p
 *deneg*$3p
-*digital*$3p,domain=~kyivstar.ua|~apppage.net
+*digital*$3p,domain=~apppage.net
 *direct*$3p,script,frame,popup,domain=~vk.com
 *disqus*
 *dmca*$3p,domain=~dmca.com|~stackpathdns.com
@@ -609,7 +609,6 @@
 *warship*$domain=~worldofwarships.ru
 *xtcore*
 *xxx*$frame
-*yad*tr*$script,domain=~alleyadoma.ru
 *yashare*
 *zoneid*$3p,script,frame,xhr,popup
 *zoneid*ref*
