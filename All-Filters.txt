@@ -1237,7 +1237,7 @@
 ||pr.*
 ||pr0gramm.com^
 ||pri*$3p
-||pro*$3p,domain=~prom.ua|~tiu.ru|~com.ua|~firefox.com|~mozilla.com|~mozilla.org|~500px.com|~термоснаб74.рф|~motoimport.net|~велозапчасти24.рф|~prom.st
+||pro*$3p,domain=~prom.ua|~tiu.ru|~com.ua|~firefox.com|~mozilla.com|~mozilla.org|~500px.com|~термоснаб74.рф|~motoimport.net|~велозапчасти24.рф|~elektro-velosiped.ru
 ||pro/*$3p,script,popunder,frame
 ||prre.ru^
 ||psmardr.com^
