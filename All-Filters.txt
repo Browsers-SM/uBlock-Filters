@@ -100,7 +100,7 @@
 */b-$~image,domain=~vtb24.ru
 */b.$~image
 */b.*gif*
-*/b/*$script,frame,domain=~z1.fm|~yandex.ru|~spaces.im|~spac1.net|~spac1.com|~spaces-blogs.com
+*/b/*$frame
 */b/*&t=*
 */b/*.gif*
 */b?$~image
