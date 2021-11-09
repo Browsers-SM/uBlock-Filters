@@ -1246,7 +1246,7 @@
 ||purgrobi.com^
 ||pus*$3p
 ||pvclouds.com^
-||pw^$3p,script
+||pw^$3p,script,domain=~dewalt.ru
 ||px.$3p
 ||q32.ru^
 ||q8ntfhfngm.com^
@@ -2065,6 +2065,7 @@ teplodar.ru##[class="select-city-wrap"]
 translate.google.com##[id^="gb"]
 vk.com##[class="audio_promo"]
 vk.com##[class="profile_rate_warning"]
+vk.com##[class="stl_active"]
 vk.com##[id="system_msg"]
 yandex.*##[class^="d-overhead"]
 yandex.*##[class^="head-banner"]
