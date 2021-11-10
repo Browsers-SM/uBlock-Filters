@@ -2206,10 +2206,10 @@ youtube.com##[id="ticker"]
 @@||ok.ru/*/statuses/ads?$xhr,domain=ok.ru
 @@||ok.ru/adsmanager*$domain=ok.ru
 @@||ok.ru/dk*$xhr,domain=ok.ru
+@@||ok.ru/feed?*$xhr,domain=ok.ru
 @@||ok.ru/gifts?$xhr,domain=ok.ru
 @@||ok.ru/guests?$domain=ok.ru
 @@||ok.ru/res/*$domain=ok.ru
-@@||ok.ru/feed?*$xhr,domain=ok.ru
 @@||paymentnew.ok.ru^$domain=ok.ru
 @@||paypal*$domain=paypal.com
 @@||phncdn.com^$domain=redtube.com|pornhub.com
@@ -2347,7 +2347,7 @@ ok.ru,beru.ru#@#[style*="bann"]
 passion.ru#@#[class^="ad-"][class*="wrap"]
 samforum.org#@#[id*="cookie"]
 softwareok.com#@#[id^="banner_"]
-sourceforge.net#@#[class*="-ads "]
+sourceforge.net,poehali.net#@#[class*="-ads "]
 spac1.*,spaces.*#@#[class*="_adv_"]
 topersoft.com#@#[class^="rt"] [target]
 toptracker.ru,4pda.*#@#[rel="nofollow"][href*="game"][target]
