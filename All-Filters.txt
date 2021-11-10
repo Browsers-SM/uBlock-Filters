@@ -533,7 +533,7 @@
 *ruletka*$3p
 *runetki*$3p,popunder
 *ruscam*$3p,frame
-*sale*$3p,domain=~shuruping.ru
+*sale*$3p,domain=~shuruping.ru|~dreambikes.ru
 *saltair*
 *scr*time*$script
 *scripts.com^$3p
