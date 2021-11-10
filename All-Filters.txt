@@ -2202,14 +2202,13 @@ youtube.com##[id="ticker"]
 @@||ngenix.net^$script
 @@||nnm*club.*forum/filelst*$script
 @@||nnm*club.*forum/speller*$script
-@@||ok.ru/adsmanager/*$xhr,domain=ok.ru
-@@||ok.ru/adsmanager?$domain=ok.ru
-@@||ok.ru/browserssm/statuses/ads?$xhr,domain=ok.ru
+@@||ok.ru/*/market?*
+@@||ok.ru/*/statuses/ads?$xhr,domain=ok.ru
+@@||ok.ru/adsmanager*$domain=ok.ru
 @@||ok.ru/dk*$xhr,domain=ok.ru
 @@||ok.ru/gifts?$xhr,domain=ok.ru
 @@||ok.ru/guests?$domain=ok.ru
 @@||ok.ru/res/*$domain=ok.ru
-@@||olx.ua^$domain=olx.ua
 @@||paymentnew.ok.ru^$domain=ok.ru
 @@||paypal*$domain=paypal.com
 @@||phncdn.com^$domain=redtube.com|pornhub.com
