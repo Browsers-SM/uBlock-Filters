@@ -370,8 +370,7 @@
 *clc.$3p
 *clck*$~image
 *click*$script,frame
-*click.$popup
-*click.*
+*click.$popup,script,frame,domain=~stelsvelo.ru
 *click/*$popup
 *click2.$popup
 *click?$popup
