@@ -2137,6 +2137,7 @@ youtube.com##[id="ticker"]
 @@||cdn*savepice.ru^$3p,image
 @@||cdnst.net^$domain=speedtest.net
 @@||cloudflare.*$script
+@@||cloudfront.net^$domain=joom.com
 @@||code.jquery.com^
 @@||codepen.io^$3p,frame
 @@||consent.google.ru^
@@ -2172,6 +2173,8 @@ youtube.com##[id="ticker"]
 @@||ipic.su^$image
 @@||irc-ws.chat.twitch.tv^$websocket,domain=twitch.tv
 @@||j2.ru^$domain=zhaba.ru
+@@||joom.*$domain=joom.com
+@@||joomcdn.net^$domain=joom.com
 @@||jr-cdn.com^$script,domain=joyreactor.cc
 @@||kh.google.com^$xhr,domain=google.ru|google.com
 @@||kinoafisha.info/js/*$domain=kinoafisha.msk.ru|kinoafisha.spb.ru
