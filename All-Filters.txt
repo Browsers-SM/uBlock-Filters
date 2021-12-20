@@ -664,7 +664,7 @@
 ||alkodesign.ru^
 ||all*$3p,domain=~kp.ru|~aredi.ru
 ||alonged.com^
-||am*$~image,3p,domain=~aliexpress.com|~aliexpress.ru|~youla.ru|~jd.ru|~bigmir.net|~kyivstar.ua|~opendns.com|~rufus.ie|~alcatelmobile.com|~fast.com|~vk.com
+||am*$~image,3p,domain=~aliexpress.com|~aliexpress.ru|~youla.ru|~jd.ru|~bigmir.net|~kyivstar.ua|~opendns.com|~rufus.ie|~alcatelmobile.com|~fast.com|~vk.com|~vk-apps.com|~ama.fan
 ||an.*
 ||android.com^$3p
 ||ant*$3p
