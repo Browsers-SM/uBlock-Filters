@@ -468,7 +468,7 @@
 *myads*
 *newban*
 *newclk*
-*news*$3p,~image,domain=~ria.com|~bigmir.net|~yandex.ru|~yastatic.net|~pulscen.ru|~bbc.com
+*news*$3p,~image,domain=~ria.com|~bigmir.net|~yandex.ru|~yastatic.net|~pulscen.ru|~ok.ru
 *nwgsm*
 *online.dll*
 *opena*$script,domain=~inmood.ru
