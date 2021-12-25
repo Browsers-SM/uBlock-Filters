@@ -922,6 +922,7 @@
 ||giosany.com^
 ||giotyo.com^
 ||gismeteo*$3p
+||gkksi.com^
 ||glavrich.*
 ||gmodules.com^
 ||gnezdo.ru^
@@ -974,6 +975,7 @@
 ||icq*$3p,~image
 ||idwrx.com^
 ||ie8eamus.com^
+||iefigciddgbigjjhafc.ru^
 ||ieuhd.com^
 ||igi*$3p
 ||ij*$3p
@@ -1377,6 +1379,7 @@
 ||surfingbird.ru^$3p
 ||sv-pr.ru^
 ||swa.mail.ru^
+||sylfpaskl.ru^
 ||syn*$3p
 ||sys*$3p,domain=~sysprogs.org
 ||t.*/track*
