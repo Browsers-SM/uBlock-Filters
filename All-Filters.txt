@@ -2187,6 +2187,7 @@ youtube.com##[id="ticker"]
 @@||liveinternet.ru^$domain=liveinternet.ru|li.ru
 @@||liveleak.com^$frame
 @@||loadercdn.com^$xhr,3p
+@@||login.vk.com^
 @@||mail.yandex.net^$domain=mail.yandex.ru
 @@||main.imgclick.net^$image,domain=mskd-ru.net
 @@||maps.googleapis.com^
