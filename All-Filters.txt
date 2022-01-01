@@ -1591,7 +1591,7 @@
 ||com/*$3p,script,frame,domain=nnmclub.to
 ||porn*$3p,domain=~redtube.com
 ||ru/*$3p,script,domain=3dn.ru|at.ua|clan.su|do.am|erobab.com|eromo.org|fotobab.ru|moy.su|p0.ru|sefan.ru|spaces.im|spac1.net|spac1.com|ucoz.com|ucoz.es|ucoz.net|ucoz.org|ucoz.ru|vbabe.mobi|spaces-blogs.com|bestweapon.ru
-||translate.google*$domain=рф|ru|su|~google.ru|~ero-storitop.com
+||translate.google*$domain=рф|ru|su|~google.ru|ero-storitop.com
 !
 ! ИНДИВИДУАЛЬНЫЕ
 *$script,xhr,domain=imgbun.ru
