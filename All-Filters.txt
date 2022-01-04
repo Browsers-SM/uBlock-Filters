@@ -2247,7 +2247,7 @@ youtube.com##[id="ticker"]
 @@||tvigle.ru^$domain=tvrain.ru|tvigle.ru
 @@||twi*$domain=mail.ru|twitter.com
 @@||universarium.org^$script,domain=universarium.org
-@@||userapi.com^$domain=vk.com
+@@||userapi.com^
 @@||variti.ch^$script,domain=dns-shop.ru
 @@||video-tub-ru.yandex.net^$image
 @@||vk*.mycdn.me^$xhr
