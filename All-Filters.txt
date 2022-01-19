@@ -424,7 +424,7 @@
 *html?*target*$domain=~yandex.ru|~yandex.com|~yandex.net
 *iframead*
 *image*/ads*
-*image*/promo*$domain=~blackview.pro
+*image*/promo*$domain=~blackview.pro|~vamvelosiped.ru
 *image.php?$3p,domain=~nnmclub.to|~nnmclub.ch
 *imageads*
 *img*/promo*$domain=~linkyou.ru
