@@ -720,6 +720,7 @@
 ||bid*$3p
 ||big*$3p,~image
 ||bin*$3p,domain=~bing.com
+||biocdn.net^
 ||biplane.ru^
 ||birjakreditov.com^
 ||bit*$3p,domain=~san.team|~bigam.ru|~fiztech.ru
@@ -957,6 +958,7 @@
 ||hellobar.com^
 ||helloradio.ru^$3p
 ||hgbn1.com^
+||hgbnr.com^
 ||hgfsdzfs.com^
 ||hghit.com^
 ||hhos.ru^$3p
@@ -969,6 +971,7 @@
 ||hsdn.org^$3p,domain=~ntp-servers.net
 ||hstpnetwork.com^
 ||htkornet.ru^
+||huffson-derivery.com^
 ||hybrid.ai^
 ||hyperadx.com^
 ||hypercomments.com^$3p
@@ -1093,6 +1096,7 @@
 ||mailmunch.co^
 ||main-ti-cod.com^
 ||main-ti-hub.com^
+||mainad-codpp.com^
 ||manfys.com^
 ||manyweb.ru^$3p
 ||map*.hwcdn.net^
@@ -1597,7 +1601,7 @@
 |blob:*$domain=~embed.life.ru|~google.com|~google.ru|~mail.yandex.ru|~mega.nz|~ok.ru|~vk.com
 ||com/*$3p,script,frame,domain=nnmclub.to
 ||porn*$3p,domain=~redtube.com
-||ru/*$3p,script,domain=3dn.ru|at.ua|clan.su|do.am|erobab.com|eromo.org|fotobab.ru|moy.su|p0.ru|sefan.ru|spaces.im|spac1.net|spac1.com|ucoz.com|ucoz.es|ucoz.net|ucoz.org|ucoz.ru|vbabe.mobi|spaces-blogs.com|bestweapon.ru
+||ru/*$3p,script,domain=3dn.ru|at.ua|clan.su|do.am|erobab.com|eromo.org|fotobab.ru|moy.su|p0.ru|sefan.ru|spaces.im|spac1.net|spac1.com|ucoz.com|ucoz.es|ucoz.net|ucoz.org|ucoz.ru|vbabe.mobi|spaces-blogs.com|bestweapon.ru|bestweapon.fun
 ||translate.google*$domain=рф|ru|su|~google.ru|ero-storitop.com
 !
 ! ИНДИВИДУАЛЬНЫЕ
