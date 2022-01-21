@@ -1225,7 +1225,7 @@
 ||picoshot.com^$3p,script
 ||picsomania.net^
 ||piguiqproxy.com^
-||pin*$3p,domain=~pinterest.com.au
+||pin*$3p,domain=~pinterest.com.au|~pinterest.ru
 ||pippio.com^
 ||piroji.com^
 ||pixfuture.net^
