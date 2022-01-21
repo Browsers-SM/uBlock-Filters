@@ -380,7 +380,7 @@
 *context*$3p
 *cookie*consent*
 *count*$1p,script,image,domain=~livejournal.com|~discount.220-volt.ru|~12talerov.ru
-*count*$3p,domain=~youtube.com
+*count*$3p,domain=~youtube.com|~pinterest.ru
 *criteo*
 *crypt*$script,3p
 *dbclic*
