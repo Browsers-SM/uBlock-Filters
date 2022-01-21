@@ -742,6 +742,7 @@
 ||bs.*
 ||btr*$3p
 ||bubblesmedia.ru^
+||budvawshes.ru^
 ||business-key.com^$3p
 ||button.blogs.yandex.net^
 ||buzz*$3p
@@ -907,6 +908,7 @@
 ||franeski.net^
 ||fre*$3p,domain=~filebase.ws|~flaticon.com
 ||friendlyduck.com^
+||fun/*$3p
 ||fundingchoicesmessages.google.com^
 ||futurico.ru^
 ||fwmrm.net^
@@ -1131,7 +1133,9 @@
 ||molinos.ru^
 ||mon*$3p,domain=~yandex.ru|~irr.ru|~tiktok.com
 ||moo$3p
+||mountrs.com^
 ||mpuls.ru^
+||msgose.com^
 ||mt$3p
 ||mtc.tvzavr.ru^
 ||multi*scope
@@ -1293,6 +1297,7 @@
 ||revolvermaps.com^
 ||rfity.com^
 ||rich*$3p
+||rkkvq.com^
 ||rlbn.ru^
 ||rle.ru^
 ||rmb*
@@ -1554,6 +1559,7 @@
 ||yatr.ru^
 ||ybobra.ru^$3p
 ||yell.ru^$3p
+||yfetyg.com^
 ||yluvo.com^
 ||yoajqj.com^
 ||yotpo.com^
@@ -1706,6 +1712,7 @@ spaces.im,spac1.net,spac1.com,spaces-blogs.com##[id="common_error"]
 ||odinkod.ru^
 ||putags.com^
 ||roxot-panel.com^
+||smopy.com^
 !
 ! ОСНОВНЫЕ CSS
 ##[class$=" adv"]
