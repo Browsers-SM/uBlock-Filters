@@ -2139,6 +2139,7 @@ youtube.com##[id="ticker"]
 @@thumb*$image
 @@||192.168.8.1
 @@||accounts.google.com^$popup
+@@||ad.mail.ru/static/admanhtml/rbadman-html5.min.*$domain=ok.ru
 @@||adobe.com^$script,domain=adobe.com
 @@||akamaized.net^$domain=olx.ua
 @@||ali*$domain=alibaba.com|aliexpress.com|aliexpress.ru|alipay.com|aliapp.org|akamaihd.net
