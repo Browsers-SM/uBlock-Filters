@@ -1450,7 +1450,7 @@
 ||turn.com^
 ||tvzavr.ru^$3p
 ||tweetmeme.com^
-||twi*$3p,domain=~news.mail.ru|~3dnews.ru|~twitch.tv
+||twi*$3p,domain=~news.mail.ru|~3dnews.ru
 ||tx*$3p
 ||tynt.com^
 ||typekit.$3p
@@ -2111,7 +2111,6 @@ youtube.com##[id="alert-banner"]
 youtube.com##[id="ticker"]
 !
 ! ИСКЛЮЧЕНИЯ
-@@||trafficmanager.net^$domain=microsoft.com|savido.net
 @@$3p,domain=aliexpress.com|aliexpress.ru
 @@$3p,image,domain=google.ru
 @@$3p,script,domain=chuyu.me
@@ -2257,7 +2256,9 @@ youtube.com##[id="ticker"]
 @@||tilda.ws^$domain=shop.forumhouse.ru
 @@||top-fwz1.mail.ru/counter?$image,domain=ok.ru
 @@||torg.mail.ru^$xhr,domain=torg.mail.ru
+@@||trafficmanager.net^$domain=microsoft.com|savido.net
 @@||translate.*
+@@||ttvnw.net^$domain=twitch.tv
 @@||tvigle.ru^$domain=tvrain.ru|tvigle.ru
 @@||twi*$domain=mail.ru|twitter.com
 @@||universarium.org^$script,domain=universarium.org
