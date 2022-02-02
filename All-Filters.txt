@@ -451,7 +451,7 @@
 *link.*ru^$3p
 *linkad*
 *livead*
-*log.$3p,domain=~blogspot.ru|~blogspot.com|~wildberries.ru|~microsoft.com
+*log.$3p,domain=~blogspot.ru|~blogspot.com|~wildberries.ru
 *log.php?id*
 *logger*$domain=~blogspot.ru|~blogspot.com|~blogger.com
 *loginza*
@@ -584,7 +584,7 @@
 *tracking*,domain=~pochta.ru
 *trackjs*
 *trade*$3p
-*traf*$3p,domain=~microsoft.com
+*traf*$3p
 *trend*$script,3p,domain=~tiktok.com
 *trshop*
 *twitter.js|
@@ -1248,7 +1248,7 @@
 ||pr.*
 ||pr0gramm.com^
 ||pri*$3p
-||pro*$3p,domain=~prom.ua|~tiu.ru|~com.ua|~firefox.com|~mozilla.com|~mozilla.org|~500px.com|~термоснаб74.рф|~motoimport.net|~велозапчасти24.рф|~elektro-velosiped.ru|~dewalt.ru|~pinterest.ru|~microsoft.com
+||pro*$3p,domain=~prom.ua|~tiu.ru|~com.ua|~firefox.com|~mozilla.com|~mozilla.org|~500px.com|~термоснаб74.рф|~motoimport.net|~велозапчасти24.рф|~elektro-velosiped.ru|~dewalt.ru|~pinterest.ru
 ||pro/*$3p,script,popunder,frame
 ||prre.ru^
 ||psmardr.com^
@@ -2111,6 +2111,7 @@ youtube.com##[id="alert-banner"]
 youtube.com##[id="ticker"]
 !
 ! ИСКЛЮЧЕНИЯ
+@@||trafficmanager.net^$domain=microsoft.com|savido.net
 @@$3p,domain=aliexpress.com|aliexpress.ru
 @@$3p,image,domain=google.ru
 @@$3p,script,domain=chuyu.me
@@ -2243,7 +2244,6 @@ youtube.com##[id="ticker"]
 @@||rtr-vesti.ru^$image,domain=russia.tv
 @@||s-ports.ru^$domain=sportbox.ru
 @@||s.gamer-info.com^$image,domain=gamer-info.com
-@@||savido-web.trafficmanager.net^$domain=savido.net
 @@||slidesharecdn.com^$image,domain=slideshare.net
 @@||spac*js?r=*
 @@||static-storage.net^$domain=yandex.ru
