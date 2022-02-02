@@ -1450,7 +1450,7 @@
 ||turn.com^
 ||tvzavr.ru^$3p
 ||tweetmeme.com^
-||twi*$3p,domain=~news.mail.ru|~3dnews.ru
+||twi*$3p,domain=~news.mail.ru|~3dnews.ru|~twitch.tv
 ||tx*$3p
 ||tynt.com^
 ||typekit.$3p
