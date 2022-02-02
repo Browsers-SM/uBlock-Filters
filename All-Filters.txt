@@ -584,7 +584,7 @@
 *tracking*,domain=~pochta.ru
 *trackjs*
 *trade*$3p
-*traf*$3p
+*traf*$3p,domain=~microsoft.com
 *trend*$script,3p,domain=~tiktok.com
 *trshop*
 *twitter.js|
