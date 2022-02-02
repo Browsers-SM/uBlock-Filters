@@ -451,7 +451,7 @@
 *link.*ru^$3p
 *linkad*
 *livead*
-*log.$3p,domain=~blogspot.ru|~blogspot.com|~wildberries.ru
+*log.$3p,domain=~blogspot.ru|~blogspot.com|~wildberries.ru|~microsoft.com
 *log.php?id*
 *logger*$domain=~blogspot.ru|~blogspot.com|~blogger.com
 *loginza*
