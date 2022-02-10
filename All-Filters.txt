@@ -724,7 +724,7 @@
 ||biocdn.net^
 ||biplane.ru^
 ||birjakreditov.com^
-||bit*$3p,domain=~san.team|~bigam.ru|~fiztech.ru
+||bit*$3p,domain=~san.team|~bigam.ru|~fiztech.ru|~velodrive.ru
 ||biz^$3p,~image,domain=~megogo.ru|~megogo.net
 ||bjpwv.com^
 ||blo*$3p,domain=~blogspot.com|~blogspot.ru|~blogger.com|~netza.ru
