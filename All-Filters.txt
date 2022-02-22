@@ -1011,7 +1011,7 @@
 ||int*$3p,domain=~yandex.ru
 ||invi.tv^$3p
 ||io.lv^
-||io^$3p,xhr,domain=~comss.ru|~youla.ru|~radio.pp.ru
+||io^$3p,xhr,domain=~comss.ru|~youla.ru|~radio.pp.ru|~vk.com
 ||ioredi.com^
 ||ipify.org^$3p
 ||iqbuzz.ru^
@@ -2057,6 +2057,7 @@ redtube.com##[id="pb_block"]
 redtube.com##[style^="float:"]
 redtube.com##[target]
 ria.ru##[class="banner__content"]
+ria.ru##[class="list-item__author color-font-hover-only"]
 ria.ru##[class="list-item__info"]
 ria.ru##[class="list-item__tags"]
 ria.ru##[class="widgets__b-slide"]
