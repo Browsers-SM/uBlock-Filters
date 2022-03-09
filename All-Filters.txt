@@ -1272,6 +1272,7 @@
 ||rabotayes.ru^
 ||rad*$3p,~image
 ||rad.microsoft.com^
+||radikal.ru^
 ||rambler.ru^$3p,script,xhr
 ||ramctrlgate.com^
 ||rare*$3p,domain=~portableapps.com
@@ -1588,7 +1589,7 @@
 !
 ! МНОЖЕСТВЕННЫЕ
 *$1p,domain=block.mts.ru
-*$3p,domain=adriver.ru|fastpic.ru|free1img.ru|free2img.ru|free3img.ru|imageban.ru|imagevenue.com|radikal.ru|tinypic.com|forum.release-apk.com|upload.ee
+*$3p,domain=adriver.ru|fastpic.ru|free1img.ru|free2img.ru|free3img.ru|imageban.ru|imagevenue.com|tinypic.com|forum.release-apk.com|upload.ee
 *$popunder,3p,domain=pornhub.com|redtube.com|xvideos.com|xhamster.com
 *$popup,domain=apkfind.com|apkpure.com|dverser.ru|film-adult.com|imagebam.com|joyreactor.cc|kordonivkakino.net|ok.ru|rustorka.com|tracelive.ru|z1.fm|xvideos.com|xhamster.com
 *$websocket,domain=~animevost.org|~github.com|~mibbit.com|~ria.ru|~send.firefox.com|~smotri.com|~twitch.tv|~videochatka.net|~whatsapp.com|~yandex.ru|~youtube.com|~spinningline.ru|~4pda.to|~4pda.ru|~spotify.com|~speedtest.net
@@ -1636,7 +1637,6 @@
 ||cnews.ru/show.php*
 ||cnews.ru^$inline-script
 ||dev.xyya.net^
-||dot-stat.radikal.ru^
 ||ds-assets.cdn.devapps.ru*/79tJPvZFILa8.*$domain=4pda.to
 ||engine.fishki.net^
 ||fastpic.ru/c/*$script
@@ -1668,7 +1668,6 @@
 ||pod.film-online.org^
 ||quantum.mail.ru^$inline-script,script
 ||r.mradx.net/pictures/*$domain=pogoda.mail.ru
-||r.radikal.ru^
 ||retina.news.mail.ru^$domain=pogoda.mail.ru
 ||rose.ixbt.com^
 ||ru-board.*/temp*
@@ -2052,7 +2051,6 @@ pornhub.com##[id="pb_block"]
 pornhub.com##[id="pb_template"]
 pornhub.com##[id^="age-verification"]
 pornolab.*,rustorka.com##[class="tCenter"]
-radikal.ru##[class="base-page_left-side"]
 redtube.com##[id="pb_block"]
 redtube.com##[style^="float:"]
 redtube.com##[target]
@@ -2349,7 +2347,7 @@ dk.ru#@#[id*="adfox"]
 e.mail.ru,livejournal.com,market.yandex.ru,220-volt.ru#@#[class*="promo"][class*="box"]
 ferra.ru#@#[class^="ad-"][class*="wrap"]
 games.mail.ru#@#[target][href*="/adid"]
-games.mail.ru,e.mail.ru,radikal.ru,youla.ru,yandex.*#@#[class*="adver"]
+games.mail.ru,e.mail.ru,youla.ru,yandex.*#@#[class*="adver"]
 go.mail.ru#@#[href*="//go"][href*=".mail.ru"]
 google.*#@#[href*="count"][href*="utm_"]
 google.*#@#[target]>[src*="/r/"]
