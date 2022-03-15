@@ -732,7 +732,7 @@
 ||bogi.ru^
 ||bokroet.com^
 ||bon*$3p
-||bootstrapcdn.com^$domain=~mycoub.ru|~kotel-t.ru|~kotel-electr.ru|~teplozhar.ru|~electrocotel.ru|~savido.net
+||bootstrapcdn.com^$domain=~kotel-t.ru|~kotel-electr.ru|~teplozhar.ru|~electrocotel.ru|~savido.net
 ||bot*$3p
 ||bp.$script
 ||bra*$3p
@@ -889,7 +889,7 @@
 ||fairypays.com^
 ||fantasy-dream.ru^$3p
 ||fast-hunter.com^
-||fbcdn.net^$domain=~facebook.com|~instagram.com|~savido.net
+||fbcdn.net^
 ||fbr.*
 ||fdgeen.com^
 ||feed*$3p
@@ -1104,7 +1104,7 @@
 ||mar*$3p,popunder
 ||mastweb.ru^
 ||mathtag.com^
-||max*$3p,domain=~comss.ru|~iconsearch.ru|~invi.tv|~savido.net|~kenguru.ru|~mycoub.ru
+||max*$3p,domain=~comss.ru|~iconsearch.ru|~invi.tv|~savido.net|~kenguru.ru
 ||mazuma.ru^
 ||mb*$3p
 ||mc.yandex.*
@@ -1706,7 +1706,7 @@ spaces.im,spac1.net,spac1.com,spaces-blogs.com##[id="common_error"]
 ! СУЩЕСТВУЮТ ПО ДОМЕНАМ 3-ГО УРОВНЯ.*
 ||3lift.com^
 ||aidata.io^
-||akamaihd.net^$domain=~live.com|~coub.com|~invi.tv|~steampowered.com|~steamcommunity.com
+||akamaihd.net^$domain=~live.com|~invi.tv|~steampowered.com|~steamcommunity.com
 ||akstat.io^
 ||atdmt.com^
 ||diginetica.net^
@@ -2095,7 +2095,6 @@ yap.ru,yaplakal.com##[id="top-line"]>[href*="yaplakal.com/go/"]
 yap.ru,yaplakal.com##[id="top-line"][class="no-compress"]:not(#header-flash)
 yap.ru,yaplakal.com##[id^="MF_yaplakal.com"]
 yap.ru,yaplakal.com##[id^="news"] [href*="facebook"][target]
-yap.ru,yaplakal.com##[id^="news"] [href*="instagram"][target]
 yap.ru,yaplakal.com##[id^="news"] [href*="twitter"][target]
 yap.ru,yaplakal.com##[id^="news"] [href*="vk.com"][target]
 yap.ru,yaplakal.com##[id^="news_"] [href*="javascript"]
@@ -2128,7 +2127,6 @@ youtube.com##[id="ticker"]
 @@*editor*$script,domain=3dn.ru|at.ua|clan.su|do.am|moy.su|p0.ru|ucoz.com|ucoz.es|ucoz.net|ucoz.org|ucoz.ru
 @@*game*$document,domain=ok.ru
 @@*github*$domain=github.com
-@@*instagram.c10r.facebook.com^
 @@*klikr.org^$image
 @@*maps.yandex.ru^$domain=yandex.ru
 @@*mega.co.nz^
@@ -2159,7 +2157,6 @@ youtube.com##[id="ticker"]
 @@||code.jquery.com^
 @@||codepen.io^$3p,frame
 @@||consent.google.ru^
-@@||coub.com^$script,domain=coub.com
 @@||cyberstatic.net^$domain=cyberforum.ru
 @@||dhgate.com^$domain=dhgate.com
 @@||dhresource.com^$domain=dhgate.com
@@ -2186,7 +2183,6 @@ youtube.com##[id="ticker"]
 @@||img-ssl.xvideos.com.fpbns.net^$domain=xvideos.com
 @@||img.com.ua^$domain=bigmir.net
 @@||imgsmail.ru^$domain=mail.ru|pandao.ru
-@@||instagram.*embed*
 @@||io^$domain=mybook.ru
 @@||ipic.su^$image
 @@||irc-ws.chat.twitch.tv^$websocket,domain=twitch.tv
@@ -2300,13 +2296,10 @@ youtube.com##[id="ticker"]
 @@/ad*$1p,script,domain=remoteshaman.com
 @@/ad*$3p,frame,domain=dropbox.com|dropboxusercontent.com
 @@/ad*$3p,image,domain=dropbox.com|dropboxusercontent.com
-@@adfox*$xhr,domain=coub.com
 @@||ads.adfox.ru^$script,domain=aif.ru
-@@||akamaihd.net^$script,image,domain=coub.com|instagram.com
 @@||api.yapfiles.ru^$xhr,frame,domain=yapfiles.ru
 @@||cdnvideo.ru^$domain=ntv.ru
 @@||clastarti.cc^
-@@||coub.com/embed/
 @@||facebook.com/plugins/video.php*
 @@||l-stat.livejournal.net/js/*lib.js?*
 @@||livejournal.naydex.net^$domain=livejournal.com
@@ -2342,7 +2335,6 @@ badoo.com#@#[class*="-promo_"]
 cnews.ru,comodo.com#@#[href*="partners"]
 cnews.ru,google.*#@#[target][href*="goto"]
 cnews.ru,google.*#@#[target][href*="partn"]
-coub.com,ridus.ru#@#[class*="adfox"]
 dk.ru#@#[id*="adfox"]
 e.mail.ru,livejournal.com,market.yandex.ru,220-volt.ru#@#[class*="promo"][class*="box"]
 ferra.ru#@#[class^="ad-"][class*="wrap"]
