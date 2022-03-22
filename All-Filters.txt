@@ -1551,7 +1551,7 @@
 ||xoliter.com^
 ||xray.mail.ru^
 ||xtool.ru^
-||xx*$3p,domain=~fbcdn.net|~savido.net
+||xx*$3p,domain=~savido.net
 ||xyz^$3p,script,popunder,frame
 ||yabs.yandex.ru^$domain=~yandex.ru
 ||yadro.*
@@ -2295,7 +2295,6 @@ youtube.com##[id="ticker"]
 @@$3p,domain=adcdn.tv
 @@$csp,domain=bongacams.com|bongacams2.com|invi.tv|rutube.ru|smotri.com|ventusky.com|xvideos.com
 @@$generichide,domain=2ip.ru|kino-dom.org|megogo.net|mozilla-russia.org|mts.ru|overclockers.ru|dhgate.com
-@@*video*fbcdn.net^$xhr
 @@/ad*$1p,script,domain=remoteshaman.com
 @@/ad*$3p,frame,domain=dropbox.com|dropboxusercontent.com
 @@/ad*$3p,image,domain=dropbox.com|dropboxusercontent.com
