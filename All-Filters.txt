@@ -1006,10 +1006,7 @@
 ||info/*$3p,script,popunder,frame
 ||info/image*$3p,popunder
 ||inpiza.com^
-||insigit.com^
-||instagram.com^
-||instant.page^
-||instreamatic.com^
+||ins*$3p
 ||int*$3p,domain=~yandex.ru
 ||invi.tv^$3p
 ||io.lv^
