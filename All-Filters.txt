@@ -796,8 +796,7 @@
 ||comon.ru^$3p
 ||compete.com^
 ||con*$3p,domain=~google.ru|google.com
-||cookiebot.com^
-||cookieinfoscript.com^
+||coo*$3p
 ||copercato.com^
 ||copyright-law.ru^
 ||couptoug.net^
@@ -837,8 +836,7 @@
 ||dhgate.com^$3p
 ||diamondelectric.ru^$3p
 ||diera.ru^
-||digiseller.ru^
-||digitaltarget.ru^
+||dig*$3p
 ||districtm.ca^
 ||dmpcloud.net^
 ||dn.rambler.ru^
@@ -885,8 +883,7 @@
 ||exdiy.ru^$3p
 ||ext*$3p
 ||ezoic.*
-||facebook.com^
-||facetz.net^
+||face*$3p
 ||faggrim.com^
 ||fairypays.com^
 ||fantasy-dream.ru^$3p
@@ -976,8 +973,7 @@
 ||htkornet.ru^
 ||huffson-derivery.com^
 ||hybrid.ai^
-||hyperadx.com^
-||hypercomments.com^$3p
+||hyp*$3p
 ||i-$3p,~image,domain=~ria.ru
 ||i.ua^$3p
 ||iconosquare.com^
@@ -1069,9 +1065,7 @@
 ||liftdna.*
 ||liink.ru^
 ||lijit.com^
-||likeb*$3p
-||likemore-go.imgsmail.ru^
-||likondok.com^
+||lik*$3p
 ||limo*$3p
 ||link*$3p,domain=~bigmir.net
 ||list-manage.com^
@@ -1270,9 +1264,7 @@
 ||r.mail.*gif|$domain=~mail.ru
 ||r.twimg.com^
 ||rabotayes.ru^
-||rad*$3p,~image
-||rad.microsoft.com^
-||radikal.ru^
+||rad*$3p
 ||rambler.ru^$3p,script,xhr
 ||ramctrlgate.com^
 ||rare*$3p,domain=~portableapps.com
