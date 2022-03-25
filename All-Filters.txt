@@ -2205,7 +2205,7 @@ youtube.com##[id="ticker"]
 @@||mts.ru^$domain=mts.ru
 @@||music.yandex.ru^$domain=radio.yandex.ru
 @@||my.mail.ru^$domain=my.mail.ru
-@@||mycdn.me/uploadImage?$domain=ok.ru
+@@||mycdn.me^$domain=ok.ru
 @@||naydex.net^$domain=kinopoisk.ru
 @@||ngenix.net^$script
 @@||nnm*club.*forum/filelst*$script
