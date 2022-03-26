@@ -1953,6 +1953,7 @@ online.anidub.com,unionpeer.org##[onclick]
 4pda.*##[target] [src*="ds-assets.cdn.devapps.ru"][alt=""][title=""][border="0"]
 4pda.*##[target] [src*="s.4pda.to"][alt=""][title=""][border="0"]
 4pda.*##[valign="top"] > > :not(#logostrip)
+anwap.love##[href$="/credit/"]
 apkpure.com##[id="policy-info"]
 comss.ru##[class="container uphead"]
 comss.ru##[class="container"] [align="center"]
