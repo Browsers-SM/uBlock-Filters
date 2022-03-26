@@ -132,7 +132,7 @@
 */br-*
 */br.*
 */br/*$~image
-*/brands*$3p,domain=~wildberries.ru|banggood.com
+*/brands*$3p,domain=~wildberries.ru
 */bs.*
 */bs/*
 */bx/*$script
@@ -546,7 +546,7 @@
 *show.php?$3p
 *showads*
 *showban*
-*site*$3p,domain=~com.ua|~irr.ru|~box.com|~aquacity31.ru|~spinningline.ru|~live.com|~santen68.ru|~wixsite.com|~apteka.ru|~yandex.ru
+*site*$3p,domain=~irr.ru|~box.com|~aquacity31.ru|~spinningline.ru|~live.com|~santen68.ru|~wixsite.com|~apteka.ru|~yandex.ru
 *smallad*
 *smartban*
 *smartsize*
@@ -1241,7 +1241,7 @@
 ||pr.*
 ||pr0gramm.com^
 ||pri*$3p
-||pro*$3p,domain=~prom.ua|~com.ua|~firefox.com|~mozilla.com|~mozilla.org|~500px.com|~термоснаб74.рф|~motoimport.net|~велозапчасти24.рф|~elektro-velosiped.ru|~dewalt.ru|~pinterest.ru
+||pro*$3p,domain=~firefox.com|~mozilla.com|~mozilla.org|~500px.com|~термоснаб74.рф|~motoimport.net|~велозапчасти24.рф|~elektro-velosiped.ru|~dewalt.ru|~pinterest.ru
 ||pro/*$3p,script,popunder,frame
 ||prre.ru^
 ||psmardr.com^
@@ -1414,7 +1414,7 @@
 ||tin$3p
 ||tiz*$3p
 ||tk^$3p,script,frame
-||tm*$3p,domain=~gov.ua
+||tm*$3p
 ||tnt-play.ru^
 ||tochno-tochno.ru^
 ||tojinr.com^
@@ -1588,13 +1588,13 @@
 *adblo*$image,script,domain=~adblockplus.me|~adblockplus.org|~ghacks.net|~freeadblockerbrowser.com
 *code*$3p,script,domain=~bitbucket.org|~code.jquery.com|~codeplex.com|~icecreamapps.com|~invi.tv|~market.pochta.ru|~microsoft.com|~nnmclub.ch|~nnmclub.to|~ntp-servers.net|~opengapps.org|~ren.tv|~yandex.ru|~yota.ru|~spinningline.ru
 *popunder*$~xhr,domain=~cackle.me|~dns-shop.ru|~livejournal.com|~mail.ru|~miuipro.ru|~onlinezakladki.ru|~photosight.ru|~rian.ru|~support.kaspersky.ru|~vk.com
-*stat*$3p,domain=~360totalsecurity.com|~7days.ru|~acestream.org|~avast.ru|~bbc.com|~beboo.ru|~blogspot.com|~blogspot.ru|~bonprix.ru|~careerjet.ru|~championat.com|~cnet.com|~com.ua|~cyberforum.ru|~dailymotion.com|~ebay.com|~edarling.ru|~gitlab.com|~google.com|~google.ru|~googleusercontent.com|~huawei.com|~itunes.apple.com|~ivbb.ru|~jd.ru|~kat.cr|~kinopoisk.ru|~lightningmaps.org|~line.me|~linkedin.com|~livejournal.com|~login.aliexpress.com|~mail.ru|~megogo.net|~megogo.ru|~microsoft.com|~mirtesen.ru|~my-hithd.ru|~mycdn.me|~net.ua|~nn.ru|~office.com|~ok.ru|~photobucket.com|~pogodanakarte.ru|~prom.ua|~reddit.com|~redditmedia.com|~redditstatic.com|~redtube.com|~ria.com|~rutracker.net|~rutracker.org|~shuruping.ru|~shuruping.ru|~sima-land.ru|~softpedia.com|~stackexchange.com|~steampowered.com|~stihl.ru|~teamviewer.com|~tjournal.ru|~tjournal.ru|~tsearch.me|~tutu.ru|~twitch.tv|~vc.ru|~wildberries.ru|~wix.com|~wmbcdn.com|~womanhit.ru|~worldoftanks.ru|~yadi.sk|~yandex.com|~yandex.ru|~youla.ru|~youpornru.com|~youtube.com|~irr.ru|~avito.ru|~beru.ru|~tiktok.com|~xhamster.com|~aura.top|~2gis.ru|~стопкоронавирус.рф|~velostrana.ru|~forumhouse.ru|~ccleaner.com|~elle.ru|~wixsite.com|~wix.com|~mozilla.org|~dreambikes.ru|~навелосипеде.рф|~wiggle.ru
+*stat*$3p,domain=~360totalsecurity.com|~7days.ru|~acestream.org|~avast.ru|~bbc.com|~beboo.ru|~blogspot.com|~blogspot.ru|~bonprix.ru|~careerjet.ru|~championat.com|~cnet.com|~cyberforum.ru|~dailymotion.com|~ebay.com|~edarling.ru|~gitlab.com|~google.com|~google.ru|~googleusercontent.com|~huawei.com|~itunes.apple.com|~ivbb.ru|~jd.ru|~kat.cr|~kinopoisk.ru|~lightningmaps.org|~line.me|~linkedin.com|~livejournal.com|~login.aliexpress.com|~mail.ru|~megogo.net|~megogo.ru|~microsoft.com|~mirtesen.ru|~my-hithd.ru|~mycdn.me|~nn.ru|~office.com|~ok.ru|~photobucket.com|~pogodanakarte.ru|~reddit.com|~redditmedia.com|~redditstatic.com|~redtube.com|~ria.com|~rutracker.net|~rutracker.org|~shuruping.ru|~shuruping.ru|~sima-land.ru|~softpedia.com|~stackexchange.com|~steampowered.com|~stihl.ru|~teamviewer.com|~tjournal.ru|~tjournal.ru|~tsearch.me|~tutu.ru|~twitch.tv|~vc.ru|~wildberries.ru|~wix.com|~wmbcdn.com|~womanhit.ru|~worldoftanks.ru|~yadi.sk|~yandex.com|~yandex.ru|~youla.ru|~youpornru.com|~youtube.com|~irr.ru|~avito.ru|~beru.ru|~tiktok.com|~xhamster.com|~aura.top|~2gis.ru|~стопкоронавирус.рф|~velostrana.ru|~forumhouse.ru|~ccleaner.com|~elle.ru|~wixsite.com|~wix.com|~mozilla.org|~dreambikes.ru|~навелосипеде.рф|~wiggle.ru
 *.html|$domain=apkfind.com|pornolab.cc|pornolab.net|rutracker.org|thepiratebay.org
 *.html*$domain=fastpic.ru
 |blob:*$domain=~google.com|~google.ru|~mail.yandex.ru|~mega.nz|~ok.ru|~vk.com
 ||com/*$3p,script,frame,domain=nnmclub.to
 ||porn*$3p,domain=~redtube.com
-||ru/*$3p,script,domain=3dn.ru|at.ua|clan.su|do.am|erobab.com|eromo.org|fotobab.ru|moy.su|p0.ru|sefan.ru|spaces.im|spac1.net|spac1.com|ucoz.com|ucoz.es|ucoz.net|ucoz.org|ucoz.ru|vbabe.mobi|spaces-blogs.com|bestweapon.ru|bestweapon.fun|sasisa.ru
+||ru/*$3p,script,domain=3dn.ru|clan.su|do.am|erobab.com|eromo.org|fotobab.ru|moy.su|p0.ru|sefan.ru|spaces.im|spac1.net|spac1.com|ucoz.com|ucoz.es|ucoz.net|ucoz.org|ucoz.ru|vbabe.mobi|spaces-blogs.com|bestweapon.ru|bestweapon.fun|sasisa.ru
 ||translate.google*$domain=рф|ru|su|~google.ru
 !
 ! ИНДИВИДУАЛЬНЫЕ
@@ -2118,7 +2118,6 @@ youtube.com##[id="ticker"]
 @@||api.github.com^$domain=opengapps.org
 @@||api.vk.*audio
 @@||as.dns-shop.ru^$domain=dns-shop.ru
-@@||banggood.com^$domain=banggood.com
 @@||blogspot.$image
 @@||cdn*.ozone.ru^$domain=ozon.ru
 @@||cdn*savepice.ru^$3p,image
@@ -2203,7 +2202,6 @@ youtube.com##[id="ticker"]
 @@||s.gamer-info.com^$image,domain=gamer-info.com
 @@||spac*js?r=*
 @@||static-storage.net^$domain=yandex.ru
-@@||staticbg.com^$domain=banggood.com
 @@||steamstatic.com^$script,image,domain=store.steampowered.com
 @@||storage*$domain=yadi.sk|music.yandex.ru|radio.yandex.ru
 @@||svyaznoy.ru^$script,image,xhr,domain=svyaznoy.ru
