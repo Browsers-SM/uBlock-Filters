@@ -384,7 +384,6 @@
 *criteo*
 *crypt*$script,3p
 *dbclic*
-*ddos-guard*$domain=~ddos-guard.net
 *delivery*$3p
 *deneg*$3p
 *digital*$3p,domain=~apppage.net
@@ -1040,7 +1039,7 @@
 ||kmindex.ru^
 ||komoona.com^
 ||kontur.ru^
-||kp.yandex.net^$domain=~kinopoisk.ru
+||kp.yandex.net^
 ||kpytum*
 ||krible.$3p
 ||krolikplatit.ru^
@@ -1152,7 +1151,7 @@
 ||n74s9.com^
 ||nanosemantics.*
 ||narrative.io^
-||naydex.net^$domain=~kinopoisk.ru
+||naydex.net^
 ||nbc.rt.com^
 ||ndyzz.com^
 ||nectarin.ru^
@@ -1588,7 +1587,7 @@
 *adblo*$image,script,domain=~adblockplus.me|~adblockplus.org|~ghacks.net|~freeadblockerbrowser.com
 *code*$3p,script,domain=~bitbucket.org|~code.jquery.com|~codeplex.com|~icecreamapps.com|~invi.tv|~market.pochta.ru|~microsoft.com|~nnmclub.ch|~nnmclub.to|~ntp-servers.net|~opengapps.org|~ren.tv|~yandex.ru|~yota.ru|~spinningline.ru
 *popunder*$~xhr,domain=~cackle.me|~dns-shop.ru|~livejournal.com|~mail.ru|~miuipro.ru|~onlinezakladki.ru|~photosight.ru|~rian.ru|~support.kaspersky.ru|~vk.com
-*stat*$3p,domain=~360totalsecurity.com|~7days.ru|~acestream.org|~avast.ru|~bbc.com|~beboo.ru|~blogspot.com|~blogspot.ru|~bonprix.ru|~careerjet.ru|~championat.com|~cnet.com|~cyberforum.ru|~dailymotion.com|~ebay.com|~edarling.ru|~gitlab.com|~google.com|~google.ru|~googleusercontent.com|~huawei.com|~itunes.apple.com|~ivbb.ru|~jd.ru|~kat.cr|~kinopoisk.ru|~lightningmaps.org|~line.me|~linkedin.com|~livejournal.com|~login.aliexpress.com|~mail.ru|~megogo.net|~megogo.ru|~microsoft.com|~mirtesen.ru|~my-hithd.ru|~mycdn.me|~nn.ru|~office.com|~ok.ru|~photobucket.com|~pogodanakarte.ru|~reddit.com|~redditmedia.com|~redditstatic.com|~redtube.com|~ria.com|~rutracker.net|~rutracker.org|~shuruping.ru|~shuruping.ru|~sima-land.ru|~softpedia.com|~stackexchange.com|~steampowered.com|~stihl.ru|~teamviewer.com|~tjournal.ru|~tjournal.ru|~tsearch.me|~tutu.ru|~twitch.tv|~vc.ru|~wildberries.ru|~wix.com|~wmbcdn.com|~womanhit.ru|~worldoftanks.ru|~yadi.sk|~yandex.com|~yandex.ru|~youla.ru|~youpornru.com|~youtube.com|~irr.ru|~avito.ru|~beru.ru|~tiktok.com|~xhamster.com|~aura.top|~2gis.ru|~стопкоронавирус.рф|~velostrana.ru|~forumhouse.ru|~ccleaner.com|~elle.ru|~wixsite.com|~wix.com|~mozilla.org|~dreambikes.ru|~навелосипеде.рф|~wiggle.ru
+*stat*$3p,domain=~360totalsecurity.com|~7days.ru|~acestream.org|~avast.ru|~bbc.com|~beboo.ru|~blogspot.com|~blogspot.ru|~bonprix.ru|~careerjet.ru|~championat.com|~cnet.com|~cyberforum.ru|~dailymotion.com|~ebay.com|~edarling.ru|~gitlab.com|~google.com|~google.ru|~googleusercontent.com|~huawei.com|~itunes.apple.com|~ivbb.ru|~jd.ru|~kat.cr|~lightningmaps.org|~line.me|~linkedin.com|~livejournal.com|~login.aliexpress.com|~mail.ru|~megogo.net|~megogo.ru|~microsoft.com|~mirtesen.ru|~my-hithd.ru|~mycdn.me|~nn.ru|~office.com|~ok.ru|~photobucket.com|~pogodanakarte.ru|~reddit.com|~redditmedia.com|~redditstatic.com|~redtube.com|~ria.com|~rutracker.net|~rutracker.org|~shuruping.ru|~shuruping.ru|~sima-land.ru|~softpedia.com|~stackexchange.com|~steampowered.com|~stihl.ru|~teamviewer.com|~tjournal.ru|~tjournal.ru|~tsearch.me|~tutu.ru|~twitch.tv|~vc.ru|~wildberries.ru|~wix.com|~wmbcdn.com|~womanhit.ru|~worldoftanks.ru|~yadi.sk|~yandex.com|~yandex.ru|~youla.ru|~youpornru.com|~youtube.com|~irr.ru|~avito.ru|~beru.ru|~tiktok.com|~xhamster.com|~aura.top|~2gis.ru|~стопкоронавирус.рф|~velostrana.ru|~forumhouse.ru|~ccleaner.com|~elle.ru|~wixsite.com|~wix.com|~mozilla.org|~dreambikes.ru|~навелосипеде.рф|~wiggle.ru
 *.html|$domain=apkfind.com|pornolab.cc|pornolab.net|rutracker.org|thepiratebay.org
 *.html*$domain=fastpic.ru
 |blob:*$domain=~google.com|~google.ru|~mail.yandex.ru|~mega.nz|~ok.ru|~vk.com
@@ -2159,12 +2158,9 @@ youtube.com##[id="ticker"]
 @@||loadercdn.com^$xhr,3p
 @@||login.vk.com^
 @@||mail.yandex.net^$domain=mail.yandex.ru
-@@||main.imgclick.net^$image,domain=mskd-ru.net
 @@||maps.googleapis.com^
 @@||maps.gstatic.com^
 @@||market.yandex.ru^$xhr,domain=market.yandex.ru
-@@||mc.yandex.ru^$domain=maxidom.ru|player.1tv.com
-@@||mc.yandex.ru^$script,domain=ucweb.com
 @@||money.yandex.ru^$domain=yandex.ru
 @@||mozilla.org^$xhr,domain=addons.mozilla.org
 @@||mradx.net^$domain=my.mail.ru
@@ -2172,7 +2168,6 @@ youtube.com##[id="ticker"]
 @@||music.yandex.ru^$domain=radio.yandex.ru
 @@||my.mail.ru^$domain=my.mail.ru
 @@||mycdn.me^$domain=ok.ru
-@@||naydex.net^$domain=kinopoisk.ru
 @@||ngenix.net^$script
 @@||nnm*club.*forum/filelst*$script
 @@||nnm*club.*forum/speller*$script
@@ -2189,11 +2184,7 @@ youtube.com##[id="ticker"]
 @@||pinimg.com^$domain=pinterest.ru
 @@||plus.google.com^$domain=plus.google.com|youtube.com
 @@||portal.mail.ru^$xhr,domain=mail.ru
-@@||public.slidesharecdn.com^
 @@||rs.mail.ru^$domain=my.mail.ru
-@@||rtr-vesti.ru^$image,domain=russia.tv
-@@||s-ports.ru^$domain=sportbox.ru
-@@||s.gamer-info.com^$image,domain=gamer-info.com
 @@||spac*js?r=*
 @@||static-storage.net^$domain=yandex.ru
 @@||steamstatic.com^$script,image,domain=store.steampowered.com
@@ -2205,7 +2196,6 @@ youtube.com##[id="ticker"]
 @@||tilda.ws^$domain=shop.forumhouse.ru
 @@||top-fwz1.mail.ru/counter?$image,domain=ok.ru
 @@||torg.mail.ru^$xhr,domain=torg.mail.ru
-@@||trafficmanager.net^$domain=microsoft.com|savido.net
 @@||translate.*
 @@||ttvnw.net^$domain=twitch.tv
 @@||tvigle.ru^$domain=tvrain.ru|tvigle.ru
@@ -2235,7 +2225,6 @@ youtube.com##[id="ticker"]
 @@||yastatic.net*/auth2/*$domain=disk.yandex.com|disk.yandex.ru
 @@||yastatic.net/*player*$frame,domain=yandex.ru
 @@||yastatic.net/docviewer*$domain=docviewer.yandex.ru
-@@||yastatic.net^$script,domain=plus.kinopoisk.ru
 @@||yimg.com^$domain=flickr.com
 @@||youla.*$domain=youla.ru
 @@||youtube.com/s/player/*
@@ -2260,7 +2249,6 @@ youtube.com##[id="ticker"]
 @@||sndcdn.com/playlist/*$xhr
 @@||soundcloud.com/player/*$frame
 @@||static.1tv.ru^$script,domain=yastatic.net|1tv.ru
-@@||video.yandex.$domain=kinopoisk.ru
 @@||videoapi.my.mail.ru^$frame
 @@||vk.go.mail.ru^$xhr,domain=vk.com
 @@||vkuservideo.net^
