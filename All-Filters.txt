@@ -724,7 +724,7 @@
 ||biplane.ru^
 ||birjakreditov.com^
 ||bit*$3p,domain=~san.team|~bigam.ru|~fiztech.ru|~velodrive.ru
-||biz^$3p,~image,domain=~megogo.ru|~megogo.net
+||biz^$3p,~image
 ||bjpwv.com^
 ||blo*$3p,domain=~blogspot.com|~blogspot.ru|~blogger.com|~netza.ru
 ||bngpt.com^
@@ -760,7 +760,6 @@
 ||c.microsoft.com^
 ||c.msn.com^
 ||c.uarating.com^
-||c1.microsoft.com^$domain=~skype.com
 ||c8.net.ua^
 ||cackle.me^$3p
 ||calltouch.ru^
@@ -858,7 +857,7 @@
 ||e-$3p
 ||e1.ru^$3p
 ||easylead.ru^
-||eff*$3p,domain=~myeffecto.com
+||eff*$3p
 ||ekod*$3p
 ||elama.ru^
 ||eloqua.com^
@@ -905,7 +904,7 @@
 ||foundtr.com^
 ||franecki.net^
 ||franeski.net^
-||fre*$3p,domain=~filebase.ws|~flaticon.com
+||fre*$3p,domain=~flaticon.com
 ||friendlyduck.com^
 ||fun/*$3p
 ||fundingchoicesmessages.google.com^
@@ -933,8 +932,6 @@
 ||gogettop.ru^
 ||goo.gl^
 ||good*$3p
-||google.com*/button.js?ver=*
-||google.ru/s?sclient=$xhr
 ||goon.ru^$3p
 ||goon.ru^$frame
 ||goossb.com^
@@ -943,8 +940,6 @@
 ||gra*$3p
 ||group-ib.ru^$3p
 ||grt$3p
-||gstatic.com/charts/*loader.*
-||gstatic.com/cv/js/sender/*
 ||gumroad.com^
 ||gwallet.com^
 ||h-bid.com^
@@ -994,7 +989,7 @@
 ||imgfiles.ru^$frame
 ||imho.ru^
 ||imp*$3p
-||in^$3p,~image,domain=~kino-play.me
+||in^$3p,~image
 ||ind*$3p
 ||info*$3p
 ||info/*$3p,script,popunder,frame
@@ -1075,7 +1070,7 @@
 ||log.*
 ||longtailvideo.com^
 ||lostun.com^
-||lov*$3p,domain=~stulchik.net
+||lov*$3p
 ||lu-art.ucoz.com^$3p
 ||luckyads.tech^
 ||luuming.com^
@@ -1102,13 +1097,12 @@
 ||mc.yandex.*
 ||mcafee.com^$3p
 ||me-talk.ru^
-||media*$3p,~image,domain=~fasttorrent.ru
+||media*$3p,~image
 ||medialand.ru^
 ||medigaly.com^
 ||meebo.com^
 ||meedget.ru^
 ||mega*$3p
-||megogo.net^$3p,~frame
 ||mekadr.com^
 ||meople.net^
 ||metabar.ru^
@@ -1194,7 +1188,7 @@
 ||ollolo.*
 ||oml.ru^
 ||onclic*$script,frame,popup
-||one*$3p,domain=~live.com
+||one*$3p
 ||online^$3p,domain=~ixbt.com
 ||onlinetestpad.com^$3p
 ||onthe.io^
@@ -1218,7 +1212,7 @@
 ||picoshot.com^$3p,script
 ||picsomania.net^
 ||piguiqproxy.com^
-||pin*$3p,domain=~pinterest.com.au|~pinterest.ru
+||pin*$3p,domain=~pinterest.ru
 ||pippio.com^
 ||piroji.com^
 ||pixfuture.net^
@@ -1265,7 +1259,7 @@
 ||rad*$3p
 ||rambler.ru^$3p,script,xhr
 ||ramctrlgate.com^
-||rare*$3p,domain=~portableapps.com
+||rare*$3p
 ||raskruty.ru^$3p
 ||rati*$3p,~image
 ||rating.kinopoisk.ru^$3p
@@ -1339,7 +1333,7 @@
 ||seo*$3p
 ||sepyra.com^
 ||sexad.net^
-||shar*$3p,domain=~wikihow.com|~wixsite.com
+||shar*$3p
 ||sho*$3p
 ||shqbsdjatunl.com^
 ||shuffele.com^
@@ -1428,7 +1422,7 @@
 ||toy69.ru^
 ||tr.$domain=~tr.anidub.com
 ||tr1.*
-||tra*$3p,domain=~track.kg
+||tra*$3p
 ||tracker.tiu.ru^
 ||trckingbyte.com^
 ||tribalfusion.com^
@@ -1511,7 +1505,7 @@
 ||watersoul.com^
 ||watrz.com^
 ||weather*$3p,domain=~yandex.ru
-||web*$3p,domain=~web.tlgrm.ru|~championat.com|~twitch.tv|~zedge.net|~radio.pp.ru|~500px.com|~youla.ru|~apteka.ru
+||web*$3p,domain=~web.tlgrm.ru|~championat.com|~twitch.tv|~radio.pp.ru|~500px.com|~youla.ru|~apteka.ru
 ||webanketa.com^$3p
 ||weclever.ru^
 ||whisla.com^
@@ -1587,7 +1581,7 @@
 *adblo*$image,script,domain=~adblockplus.me|~adblockplus.org|~ghacks.net|~freeadblockerbrowser.com
 *code*$3p,script,domain=~bitbucket.org|~code.jquery.com|~codeplex.com|~icecreamapps.com|~invi.tv|~market.pochta.ru|~microsoft.com|~nnmclub.ch|~nnmclub.to|~ntp-servers.net|~opengapps.org|~ren.tv|~yandex.ru|~yota.ru|~spinningline.ru
 *popunder*$~xhr,domain=~cackle.me|~dns-shop.ru|~livejournal.com|~mail.ru|~miuipro.ru|~onlinezakladki.ru|~photosight.ru|~rian.ru|~support.kaspersky.ru|~vk.com
-*stat*$3p,domain=~360totalsecurity.com|~7days.ru|~acestream.org|~avast.ru|~bbc.com|~beboo.ru|~blogspot.com|~blogspot.ru|~bonprix.ru|~careerjet.ru|~championat.com|~cnet.com|~cyberforum.ru|~dailymotion.com|~ebay.com|~edarling.ru|~gitlab.com|~google.com|~google.ru|~googleusercontent.com|~huawei.com|~itunes.apple.com|~ivbb.ru|~jd.ru|~kat.cr|~lightningmaps.org|~line.me|~linkedin.com|~livejournal.com|~login.aliexpress.com|~mail.ru|~megogo.net|~megogo.ru|~microsoft.com|~mirtesen.ru|~my-hithd.ru|~mycdn.me|~nn.ru|~office.com|~ok.ru|~photobucket.com|~pogodanakarte.ru|~reddit.com|~redditmedia.com|~redditstatic.com|~redtube.com|~ria.com|~rutracker.net|~rutracker.org|~shuruping.ru|~shuruping.ru|~sima-land.ru|~softpedia.com|~stackexchange.com|~steampowered.com|~stihl.ru|~teamviewer.com|~tjournal.ru|~tjournal.ru|~tsearch.me|~tutu.ru|~twitch.tv|~vc.ru|~wildberries.ru|~wix.com|~wmbcdn.com|~womanhit.ru|~worldoftanks.ru|~yadi.sk|~yandex.com|~yandex.ru|~youla.ru|~youpornru.com|~youtube.com|~irr.ru|~avito.ru|~beru.ru|~tiktok.com|~xhamster.com|~aura.top|~2gis.ru|~стопкоронавирус.рф|~velostrana.ru|~forumhouse.ru|~ccleaner.com|~elle.ru|~wixsite.com|~wix.com|~mozilla.org|~dreambikes.ru|~навелосипеде.рф|~wiggle.ru
+*stat*$3p,domain=~360totalsecurity.com|~7days.ru|~acestream.org|~avast.ru|~bbc.com|~beboo.ru|~blogspot.com|~blogspot.ru|~bonprix.ru|~careerjet.ru|~championat.com|~cnet.com|~cyberforum.ru|~dailymotion.com|~ebay.com|~edarling.ru|~gitlab.com|~google.com|~google.ru|~googleusercontent.com|~huawei.com|~itunes.apple.com|~ivbb.ru|~jd.ru|~kat.cr|~lightningmaps.org|~line.me|~linkedin.com|~livejournal.com|~login.aliexpress.com|~mail.ru|~microsoft.com|~mirtesen.ru|~my-hithd.ru|~mycdn.me|~nn.ru|~office.com|~ok.ru|~photobucket.com|~pogodanakarte.ru|~reddit.com|~redditmedia.com|~redditstatic.com|~redtube.com|~ria.com|~rutracker.net|~rutracker.org|~shuruping.ru|~shuruping.ru|~sima-land.ru|~softpedia.com|~stackexchange.com|~steampowered.com|~stihl.ru|~teamviewer.com|~tjournal.ru|~tjournal.ru|~tsearch.me|~tutu.ru|~twitch.tv|~vc.ru|~wildberries.ru|~wix.com|~wmbcdn.com|~womanhit.ru|~worldoftanks.ru|~yadi.sk|~yandex.com|~yandex.ru|~youla.ru|~youpornru.com|~youtube.com|~irr.ru|~avito.ru|~beru.ru|~tiktok.com|~xhamster.com|~aura.top|~2gis.ru|~стопкоронавирус.рф|~velostrana.ru|~forumhouse.ru|~ccleaner.com|~elle.ru|~wixsite.com|~wix.com|~mozilla.org|~dreambikes.ru|~навелосипеде.рф|~wiggle.ru
 *.html|$domain=apkfind.com|pornolab.cc|pornolab.net|rutracker.org|thepiratebay.org
 *.html*$domain=fastpic.ru
 |blob:*$domain=~google.com|~google.ru|~mail.yandex.ru|~mega.nz|~ok.ru|~vk.com
@@ -2232,7 +2226,7 @@ youtube.com##[id="ticker"]
 ! ПРОБЛЕМЫ С АУДИО/ВИДЕО, ВИДЕОРЕКЛАМА, БЕСКОНЕЧНАЯ ЗАГРУЗКА, ОБНАРУЖЕН AdBlock, ЗАПРЕТ ПРОСМОТРА
 @@$3p,domain=adcdn.tv
 @@$csp,domain=invi.tv|rutube.ru|ventusky.com|xvideos.com
-@@$generichide,domain=2ip.ru|megogo.net|mozilla-russia.org|mts.ru|overclockers.ru
+@@$generichide,domain=2ip.ru|mozilla-russia.org|mts.ru|overclockers.ru
 @@/ad*$1p,script,domain=remoteshaman.com
 @@/ad*$3p,frame,image,domain=dropbox.com|dropboxusercontent.com
 @@||ads.adfox.ru^$script,domain=aif.ru
