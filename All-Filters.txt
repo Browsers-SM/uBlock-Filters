@@ -1585,9 +1585,6 @@
 ||buy.vedomosti.ru^
 ||c.bigmir.net^
 ||cmt.ixbt.com^
-||cnews.ru*scripts.js*
-||cnews.ru/inc/api.js?*
-||cnews.ru^$inline-script
 ||dev.xyya.net^
 ||ds-assets.cdn.devapps.ru*/79tJPvZFILa8.*$domain=4pda.to
 ||engine.fishki.net^
@@ -2208,7 +2205,6 @@ youtube.com##[id="ticker"]
 @@||livejournal.naydex.net^$domain=livejournal.com
 @@||matchid.adfox.yandex.ru^
 @@||music.yandex.ru^$script,domain=yandex.ru
-@@||piguiqproxy.com^$xhr,3p
 @@||player.vimeo.com^
 @@||redtubefiles.com^$domain=redtube.com
 @@||rtr-vesti.ru^$image,domain=player.vgtrk.com|vesti.ru
@@ -2219,7 +2215,6 @@ youtube.com##[id="ticker"]
 @@||vk.go.mail.ru^$xhr,domain=vk.com
 @@||vkuservideo.net^
 @@||xvideos-cdn.com^$domain=xvideos.com
-@@||yapfiles.ru*mp4?*hq=1|
 @@||yastatic.net^$domain=afisha.ru|market.yandex.ru|radio.yandex.ru|video.yandex.ru
 @@||youtube.*embed-player*$script
 @@||youtube.com/api/stats/ads?*
@@ -2234,11 +2229,7 @@ youtube.com##[id="ticker"]
 addons.mozilla.org,google.*#@#[target][href*="promo"]
 auto.youla.ru#@#[href*="/advert/"]
 badoo.com#@#[class*="-promo_"]
-cnews.ru,comodo.com#@#[href*="partners"]
-cnews.ru,google.*#@#[target][href*="goto"]
-cnews.ru,google.*#@#[target][href*="partn"]
-dk.ru#@#[id*="adfox"]
-ferra.ru#@#[class^="ad-"][class*="wrap"]
+ferra.ru,passion.ru#@#[class^="ad-"][class*="wrap"]
 games.mail.ru#@#[target][href*="/adid"]
 games.mail.ru,e.mail.ru,youla.ru,yandex.*#@#[class*="adver"]
 go.mail.ru#@#[href*="//go"][href*=".mail.ru"]
@@ -2255,10 +2246,8 @@ google.*,mail.ru,yandex.ru#@#[href*="tankion"]
 google.*,mail.ru,yandex.ru#@#[href*="tomsk.ru"]
 google.*,sanvol.ru#@#[target]>[src*="/shop"]
 google.*,yandex.ru,duckduckgo.com,xvideos.com#@#[href*="777.com"],[href*="777.net"],[href*="adwcleaner.ru"],[href*="goo.gl/"],[href*="guardlink"],[href*="azino"],[href*="urlguard"],[href*="vsemayki"],[href*="raskruti.net"],[href*="pixelmarkway.com"],[href*="russian-cabaret.ru"],[href*="wt.link"],[href*="mobtop.ru"],[href*="/0t.se"],[href*="leon.ru"],[href*="/ivnz.ru"],[href*="kompot.bz"],[href*="wargaming"],[href*="meutrf.com"],[href*="fatcats.market"],[href*="alitools.io"],[href*="bit.ly"],[href*="megabonus.com"],[href*="ubi.li"],[href*="letyshops.com"],[href*="schlock.ru"],[href*="isv-group.io"],[href*="expressfromus.com"],[href*="appmetrica.yandex.com"],[href*="tennisi.bet"],[href*="betcity.ru"],[href*="vk.cc"],[href*="aff1xstavka.top"],[href*="fl.team"],[href*="xbet"],[href*="awaps.yandex.net"],[href*="ddos-guard.net"],[href*="ali.pub"],[href*="ma-static.ru"]
-news.mail.ru#@#[target][href*="&rnd="]
 ok.ru#@#[href*="_aid="]
 ok.ru,beru.ru#@#[style*="bann"]
-passion.ru#@#[class^="ad-"][class*="wrap"]
 ridus.ru#@#[class*="adfox"]
 samforum.org#@#[id*="cookie"]
 softwareok.com#@#[id^="banner_"]
