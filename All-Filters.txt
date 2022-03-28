@@ -2267,13 +2267,13 @@ sourceforge.net,poehali.net#@#[class*="-ads "]
 spac1.*,spaces.*#@#[class*="_adv_"]
 topersoft.com#@#[class^="rt"] [target]
 toptracker.ru,4pda.*#@#[rel="nofollow"][href*="game"][target]
-tvigle.ru,yandex.ru#@#[class*="adblock"]
 utro.ru#@#[id*="adver"]
 vk.com#@#[href*="/vk.cc/"]
 warthunder.ru#@#[href*="warthunder"]
 xhamster.com#@#[class*="popunder"]
 yandex.*#@#[class*="_adv-"]
 yandex.*#@#[class*="social"][class*="block"]
+yandex.ru#@#[class*="adblock"]
 !
 ! Specially for Extensions.*
 @@blob:null/*
