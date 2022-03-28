@@ -1569,10 +1569,8 @@
 !
 ! ИНДИВИДУАЛЬНЫЕ
 *$xhr,3p,domain=nnmclub.to|nnmclub.ch
-*.yashik.tv^
 *gobro.mail.ru/*
 *image.php?link*gif|$domain=nnmclub.to|nnmclub.ch
-*toplink*$xhr,domain=habr.com|~tmfeed.ru
 |http://fastpic*jpg|
 ||4pda.*/79tJPvZFILa8.*
 ||4pda.*/st/heat_map|
@@ -1582,8 +1580,6 @@
 ||avito.ru*/px.js*
 ||avito.ru/stat/*
 ||banner*$domain=citilink.ru
-||buy.vedomosti.ru^
-||c.bigmir.net^
 ||cmt.ixbt.com^
 ||dev.xyya.net^
 ||ds-assets.cdn.devapps.ru*/79tJPvZFILa8.*$domain=4pda.to
@@ -1608,13 +1604,10 @@
 ||ok.ru/res/css/*$xhr,domain=ok.ru
 ||ok.ru/web-api/pixel?*
 ||overclockers.ru/*/app.js|
-||pcportal.org/_.gif|
 ||piccash.net/tpl/*
 ||pixs.ru*gif|$3p
 ||pod.film-online.org^
 ||quantum.mail.ru^$inline-script,script
-||r.mradx.net/pictures/*$domain=pogoda.mail.ru
-||retina.news.mail.ru^$domain=pogoda.mail.ru
 ||rose.ixbt.com^
 ||ru-board.*/temp*
 ||ru-board.*tent.js|
