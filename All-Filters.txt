@@ -1,4 +1,5 @@
 ﻿! Title: SM
+! Только для использования без VPN
 !
 *&ad*$script,frame
 *&aid*$~image
@@ -1659,7 +1660,6 @@ spaces.im,spac1.net,spac1.com,spaces-blogs.com##[id="common_error"]
 ||diginetica.net^
 ||fitfas.ru^
 ||marketo.net^
-||msecnd.net^$domain=~microsoft.com
 ||odinkod.ru^
 ||putags.com^
 ||roxot-panel.com^
@@ -2012,7 +2012,6 @@ tabor.ru##[id="top_anketa_content_action"]
 tabor.ru##[onclick*="day_click_profile"]
 tapochek.net###sidebar1
 tapochek.net##[id^="fuck"]
-teplodar.ru##[class="select-city-wrap"]
 translate.google.com##[id^="gb"]
 vk.com##[class="audio_promo"]
 vk.com##[class="profile_rate_warning"]
