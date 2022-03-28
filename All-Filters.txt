@@ -1936,8 +1936,8 @@ spaces.im,spac1.net,spac1.com,spaces-blogs.com##[id="common_error"]
 ##[target][href*="target"]
 ##[target][href*="vulkan"]
 ##[target][style*="z-index"]
-neskromnie.ru,rustorka.com,hltv.org,userscloud.com,yadi.sk,ucrazy.ru##[target]
 online.anidub.com,unionpeer.org##[onclick]
+rustorka.com,userscloud.com,yadi.sk,ucrazy.ru##[target]
 !
 ! ИНДИВИДУАЛЬНЫЕ CSS
 4pda.*##[class="fix-post"][style="display:block!important"]
