@@ -2070,12 +2070,11 @@ youtube.com##[id="ticker"]
 @@||alicdn.com^$domain=aliexpress.ru|aliexpress.com
 @@||alleyadoma.ru^$domain=alleyadoma.ru
 @@||antikwar32.ru^$domain=antikwar32.ru
-@@||api.cybergame.tv^
 @@||api.github.com^$domain=opengapps.org
 @@||api.vk.*audio
 @@||as.dns-shop.ru^$domain=dns-shop.ru
 @@||blogspot.$image
-@@||cdn*.ozone.ru^$domain=ozon.ru
+@@||ozone.ru^$domain=ozon.ru
 @@||cdn*savepice.ru^$3p,image
 @@||cdnst.net^$domain=speedtest.net
 @@||cloudflare.*$script
@@ -2100,7 +2099,6 @@ youtube.com##[id="ticker"]
 @@||gosuslugi.ru^$domain=gosuslugi.ru
 @@||gstatic.com^$domain=android.com|google.com|google.ru
 @@||gu-st.ru^$domain=gosuslugi.ru
-@@||hqq.tv^
 @@||i.mycdn.me^$image,domain=ok.ru
 @@||images.wambacdn.net^$domain=mamba.ru
 @@||img-ssl.xvideos.com.fpbns.net^$domain=xvideos.com
@@ -2109,8 +2107,7 @@ youtube.com##[id="ticker"]
 @@||ipic.su^$image
 @@||irc-ws.chat.twitch.tv^$websocket,domain=twitch.tv
 @@||j2.ru^$domain=zhaba.ru
-@@||joom.*$domain=joom.com
-@@||joomcdn.net^$domain=joom.com
+@@||joom*$domain=joom.com
 @@||jr-cdn.com^$script,domain=joyreactor.cc
 @@||kh.google.com^$xhr,domain=google.ru|google.com
 @@||kinoafisha.info/js/*$domain=kinoafisha.msk.ru|kinoafisha.spb.ru
@@ -2118,7 +2115,6 @@ youtube.com##[id="ticker"]
 @@||lightningmaps.org^$domain=lightningmaps.org
 @@||liveinternet.ru^$domain=liveinternet.ru|li.ru
 @@||liveleak.com^$frame
-@@||loadercdn.com^$xhr,3p
 @@||login.vk.com^
 @@||mail.yandex.net^$domain=mail.yandex.ru
 @@||maps.googleapis.com^
@@ -2174,8 +2170,7 @@ youtube.com##[id="ticker"]
 @@||weather.yandex.net^$xhr,domain=yandex.ru
 @@||weathermaps.s3.yandex.net^$xhr,domain=yandex.ru
 @@||whichbrowser.net^$domain=html5test.com
-@@||wmbcdn.com^$domain=mail.ru
-@@||wmbcdn.com^$domain=mamba.ru
+@@||wmbcdn.com^$domain=mail.ru|mamba.ru
 @@||yandex-pogoda.clstorage.net^
 @@||yandex.*/suggest/*
 @@||yandex.ru/*player*$frame,domain=yandex.ru|yastatic.net
