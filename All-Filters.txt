@@ -608,7 +608,6 @@
 *xxx*$frame
 *yashare*
 *zoneid*$3p,script,frame,xhr,popup
-*zoneid*ref*
 ||1bn31o3g.de^
 ||2022welcome.com^
 ||24*$3p,~image
@@ -652,7 +651,6 @@
 ||aflt.market.yandex.*
 ||agava.ru^$3p
 ||agilecrm.com^
-||ahoff.ru^
 ||aiadvi.com^
 ||aid.*
 ||aintere.com^
@@ -678,7 +676,6 @@
 ||aprtx.com^
 ||apture.com^
 ||arcticlab.ru^
-||arded.com^
 ||art*$3p
 ||arwm.ru^
 ||asd*$3p
@@ -756,8 +753,6 @@
 ||bzlwe.com^
 ||c*.rambler.ru^
 ||c.$frame
-||c.microsoft.com^
-||c.msn.com^
 ||c.uarating.com^
 ||c8.net.ua^
 ||cackle.me^$3p
@@ -807,7 +802,6 @@
 ||ctyzd.com^
 ||cufcw.com^
 ||cxense.com^
-||cxmolk.com^
 ||cy-pr.$3p
 ||d-agency.net^
 ||da.ru^
@@ -910,7 +904,6 @@
 ||gg.google.com^
 ||gigtop.ru^$3p
 ||gingardo.com^
-||giosany.com^
 ||giotyo.com^
 ||gismeteo*$3p
 ||gkksi.com^
@@ -924,7 +917,6 @@
 ||goo.gl^
 ||good*$3p
 ||goon.ru^$3p
-||goon.ru^$frame
 ||goossb.com^
 ||got*$3p
 ||goviral*
@@ -963,7 +955,6 @@
 ||idwrx.com^
 ||ie8eamus.com^
 ||iefigciddgbigjjhafc.ru^
-||ieuhd.com^
 ||igi*$3p
 ||ij*$3p
 ||ikiif.com^
@@ -994,7 +985,7 @@
 ||iqbuzz.ru^
 ||issuu.com^
 ||it*$3p
-||ivbox.me^$3p
+||ivbox.me^
 ||iwanttodeliver.com^
 ||jashautchord.com^
 ||jetswap.*
@@ -1005,7 +996,6 @@
 ||jsengine.ru^
 ||jumpoutpopup.ru^
 ||jwpsrv.com^
-||jwvwak1a.com^
 ||kadam.*
 ||kameleoon.com^
 ||kangu.ru^
@@ -1014,7 +1004,6 @@
 ||keo.su^$3p
 ||kia.ru^$3p
 ||kiks.yandex.*
-||kinopoisk.ru/rating/*$3p
 ||kistured.com^
 ||kitopr.com^
 ||kiwifarms.net^
@@ -1037,7 +1026,6 @@
 ||lad*$3p
 ||lead$3p
 ||leg*$3p
-||lentainform.com^
 ||leokross.com^
 ||lepubs.com^
 ||level1cdn.com^
@@ -1063,7 +1051,6 @@
 ||luckyads.tech^
 ||luuming.com^
 ||luxup*.ru^$3p
-||lycodz.com^
 ||lydiz.com^
 ||m-shes.ru^
 ||ma-static.ru^$script,popup
@@ -1071,7 +1058,6 @@
 ||mail.ru/cache*
 ||mailmunch.co^
 ||main*$3p
-||manfys.com^
 ||manyweb.ru^$3p
 ||map*.hwcdn.net^
 ||mar*$3p,popunder
@@ -1093,9 +1079,7 @@
 ||meople.net^
 ||metabar.ru^
 ||metrika-informer.com^
-||mezima.com^
 ||mgcom.ru^
-||mgid.com^
 ||mibok.ru^
 ||mikle.com^$3p
 ||mine*$3p
@@ -1365,6 +1349,7 @@
 ||syn*$3p
 ||sys*$3p,domain=~sysprogs.org
 ||t.*/track*
+||t.me^$3p
 ||taboola.com^
 ||tag*$3p
 ||takru.com^
