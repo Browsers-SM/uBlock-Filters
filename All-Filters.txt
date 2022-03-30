@@ -115,9 +115,8 @@
 */ban/*
 */ban_*
 */baner*
-*/banner-*gif|
+*/banner*.gif|
 */banner/*$script
-*/banner/*.gif|
 */banner5*
 */banners*$script
 */banners/*$3p
