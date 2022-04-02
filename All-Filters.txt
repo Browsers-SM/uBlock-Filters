@@ -2106,6 +2106,7 @@ youtube.com##[id="ticker"]
 @@||rs.mail.ru^$domain=my.mail.ru
 @@||spac*js?r=*
 @@||static-storage.net^$domain=yandex.ru
+@@||staticflickr.com^$domain=flickr.com
 @@||steamstatic.com^$script,image,domain=store.steampowered.com
 @@||storage*$domain=yadi.sk|music.yandex.ru|radio.yandex.ru
 @@||svyaznoy.ru^$script,image,xhr,domain=svyaznoy.ru
@@ -2118,7 +2119,6 @@ youtube.com##[id="ticker"]
 @@||translate.*
 @@||ttvnw.net^$domain=twitch.tv
 @@||ttwstatic.com^$domain=tiktok.com
-@@||tvigle.ru^$domain=tvrain.ru|tvigle.ru
 @@||userapi.com^
 @@||variti.ch^$script,domain=dns-shop.ru
 @@||video-tub-ru.yandex.net^$image
@@ -2144,7 +2144,6 @@ youtube.com##[id="ticker"]
 @@||yastatic.net*/auth2/*$domain=disk.yandex.com|disk.yandex.ru
 @@||yastatic.net/*player*$frame,domain=yandex.ru
 @@||yastatic.net/docviewer*$domain=docviewer.yandex.ru
-@@||yimg.com^$domain=flickr.com
 @@||youla.*$domain=youla.ru
 @@||youtube.com/s/player/*
 !
