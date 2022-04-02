@@ -2034,7 +2034,6 @@ youtube.com##[id="ticker"]
 @@||api.vk.*audio
 @@||as.dns-shop.ru^$domain=dns-shop.ru
 @@||blogspot.$image
-@@||ozone.ru^$domain=ozon.ru
 @@||cdn*savepice.ru^$3p,image
 @@||cdnst.net^$domain=speedtest.net
 @@||cloudflare.*$script
@@ -2098,6 +2097,7 @@ youtube.com##[id="ticker"]
 @@||ok.ru/gifts?$xhr,domain=ok.ru
 @@||ok.ru/guests?$domain=ok.ru
 @@||ok.ru/res/*$domain=ok.ru
+@@||ozone.ru^$domain=ozon.ru
 @@||paymentnew.ok.ru^$domain=ok.ru
 @@||phncdn.com^$domain=redtube.com|pornhub.com
 @@||pinimg.com^$domain=pinterest.ru
@@ -2117,6 +2117,7 @@ youtube.com##[id="ticker"]
 @@||torg.mail.ru^$xhr,domain=torg.mail.ru
 @@||translate.*
 @@||ttvnw.net^$domain=twitch.tv
+@@||ttwstatic.com^$domain=tiktok.com
 @@||tvigle.ru^$domain=tvrain.ru|tvigle.ru
 @@||userapi.com^
 @@||variti.ch^$script,domain=dns-shop.ru
