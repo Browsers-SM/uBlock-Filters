@@ -2111,9 +2111,9 @@ youtube.com##[id="ticker"]
 @@||storage*$domain=yadi.sk|music.yandex.ru|radio.yandex.ru
 @@||svyaznoy.ru^$script,image,xhr,domain=svyaznoy.ru
 @@||tele2.ru^$domain=tele2.ru
-@@||thumbs.tivision.ru^$image,domain=ivi.ru
 @@||tiktok.com^$domain=tiktok.com
 @@||tilda.ws^$domain=shop.forumhouse.ru
+@@||tivision.ru^$image,domain=ivi.ru
 @@||top-fwz1.mail.ru/counter?$image,domain=ok.ru
 @@||torg.mail.ru^$xhr,domain=torg.mail.ru
 @@||translate.*
