@@ -2067,11 +2067,9 @@ youtube.com##[id="ticker"]
 @@||irc-ws.chat.twitch.tv^$websocket,domain=twitch.tv
 @@||j2.ru^$domain=zhaba.ru
 @@||joom*$domain=joom.com
-@@||jr-cdn.com^$script,domain=joyreactor.cc
+@@||w.tools^$domain=joyreactor.cc
 @@||kh.google.com^$xhr,domain=google.ru|google.com
-@@||kinoafisha.info/js/*$domain=kinoafisha.msk.ru|kinoafisha.spb.ru
 @@||kpcdn.net^$domain=kp.ru
-@@||lightningmaps.org^$domain=lightningmaps.org
 @@||liveinternet.ru^$domain=liveinternet.ru|li.ru
 @@||liveleak.com^$frame
 @@||login.vk.com^
