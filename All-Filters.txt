@@ -1343,7 +1343,6 @@
 ||syn*$3p
 ||sys*$3p,domain=~sysprogs.org
 ||t.*/track*
-||t.me^$3p
 ||taboola.com^
 ||tag*$3p
 ||takru.com^
