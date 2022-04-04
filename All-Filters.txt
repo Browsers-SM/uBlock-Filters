@@ -1553,8 +1553,6 @@
 ||fastpic.ru/c/*$script
 ||forumrpg.ru^$domain=mybb.ru
 ||front.rg.ru^
-||gazeta.ru/*/activate.$script
-||google.*promos*$xhr,domain=google.ru|google.com
 ||hsto.org/getpro/*/brand*
 ||hsto.org/getpro/*/widget*
 ||imageban.ru*colorbox-min.js|
