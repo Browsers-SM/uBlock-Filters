@@ -1596,20 +1596,6 @@ spaces.im,spac1.net,spac1.com,spaces-blogs.com##[id="common_error"]
 ||m*.spaces.im^$script
 ||spac*/lpex/*&tag=&eventid=&time=*
 !
-! СУЩЕСТВУЮТ ПО ДОМЕНАМ 3-ГО УРОВНЯ.*
-||3lift.com^
-||aidata.io^
-||akamaihd.net^$domain=~live.com|~invi.tv|~steampowered.com|~steamcommunity.com
-||akstat.io^
-||atdmt.com^
-||diginetica.net^
-||fitfas.ru^
-||marketo.net^
-||odinkod.ru^
-||putags.com^
-||roxot-panel.com^
-||smopy.com^
-!
 ! ОСНОВНЫЕ CSS
 ##[class$=" adv"]
 ##[class$="-ban"]
