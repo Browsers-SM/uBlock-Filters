@@ -1553,8 +1553,6 @@
 ||fastpic.ru/c/*$script
 ||forumrpg.ru^$domain=mybb.ru
 ||front.rg.ru^
-||hsto.org/getpro/*/brand*
-||hsto.org/getpro/*/widget*
 ||imageban.ru*colorbox-min.js|
 ||imagepix.org/Images/*
 ||imagevenue.com^$xhr
@@ -1568,9 +1566,6 @@
 ||ok.ru/res/css/*$xhr,domain=ok.ru
 ||ok.ru/web-api/pixel?*
 ||overclockers.ru/*/app.js|
-||piccash.net/tpl/*
-||pixs.ru*gif|$3p
-||pod.film-online.org^
 ||quantum.mail.ru^$inline-script,script
 ||rose.ixbt.com^
 ||ru-board.*/temp*
@@ -1581,15 +1576,11 @@
 ||shot.qip.ru^$frame,domain=shot.qip.ru
 ||sourceforge.net*/ad.gif*
 ||static.pulse.mail.ru^
-||violity.com^$domain=md-arena.com
 ||vk.com*/fbsign.js*
 ||vk.com*/px.js*
 ||wek.ru^$domain=dezinfo.net
 ||xda-developers.com/*.php*$xhr
-||xyya.net/sha*$script
 ||yahooapis.com^$domain=nnmclub.to|nnmclub.ch
-||yapfiles.ru*html5.js|
-||yapfiles.ru/components/videojs/*
 ||yapfiles.ru/uploads/branddata/*
 ||yapfiles.ru/ypxl/*
 ||z1.fm/cls.*
