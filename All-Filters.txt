@@ -1875,13 +1875,8 @@ livejournal.com##[class^="b-discovery"]
 livejournal.com##[lj-widget-promo]
 nnmclub.*##[class="genmed"][colspan]
 nnmclub.*##[class="request"]
-nnmclub.*##[colspan="2"] [src*="fastpic"]
-nnmclub.*##[href="to.html"]
-nnmclub.*##[id="a_skladchik"]
 nnmclub.*##[id^="adss"]
-nnmclub.*##[style^="height:"]
 nnmclub.*##[target][href^="http"]
-nnmclub.*##TD>CENTER>DIV[id]
 nnmclub.*#?#body:style(background-color: #FFFFFF !important)
 nnmclub.*#?#body:style(background:none!important)
 nnmclub.*#?#body>[class="wrap"]:style(top: 0 !important)
