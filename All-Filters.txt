@@ -485,7 +485,6 @@
 *php*?bn=*
 *php*cid*rnd*
 *php?id*$3p,script,~image
-*php?qip=*
 *php?r=$domain=~zedge.net
 *php?rand=*
 *php?s=$popup,script,frame
@@ -1554,14 +1553,8 @@
 ||savepic.*$domain=samforum.org
 ||screenshot.ru*gif|$3p
 ||securitylab.ru*widgets.js|
-||shot.qip.ru^$frame,domain=shot.qip.ru
-||sourceforge.net*/ad.gif*
 ||static.pulse.mail.ru^
-||vk.com*/fbsign.js*
-||vk.com*/px.js*
 ||wek.ru^$domain=dezinfo.net
-||xda-developers.com/*.php*$xhr
-||yahooapis.com^$domain=nnmclub.to|nnmclub.ch
 ||yapfiles.ru/uploads/branddata/*
 ||yapfiles.ru/ypxl/*
 ||z1.fm/cls.*
