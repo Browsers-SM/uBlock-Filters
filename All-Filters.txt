@@ -1,5 +1,5 @@
 ﻿! Title: SM
-! Только для использования без VPN
+! Составлен без учета использования VPN.
 !
 *&ad*$script,frame
 *&aid*$~image
@@ -2076,6 +2076,8 @@ youtube.com##[id="ticker"]
 @@||player.vimeo.com^
 @@||redtubefiles.com^$domain=redtube.com
 @@||rtr-vesti.ru^$image,domain=player.vgtrk.com|vesti.ru
+@@||rutube.ru/api/*
+@@||rutubelist.ru^$domain=rutube.ru
 @@||sndcdn.com/playlist/*$xhr
 @@||soundcloud.com/player/*$frame
 @@||static.1tv.ru^$script,domain=yastatic.net|1tv.ru
