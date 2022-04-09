@@ -2061,12 +2061,9 @@ youtube.com##[id="ticker"]
 @@||youtube.com/s/player/*
 !
 ! ПРОБЛЕМЫ С АУДИО/ВИДЕО, ВИДЕОРЕКЛАМА, БЕСКОНЕЧНАЯ ЗАГРУЗКА, ОБНАРУЖЕН AdBlock, ЗАПРЕТ ПРОСМОТРА
-@@$3p,domain=adcdn.tv
 @@$csp,domain=invi.tv|rutube.ru|ventusky.com|xvideos.com
 @@$generichide,domain=2ip.ru|mozilla-russia.org|mts.ru|overclockers.ru
-@@/ad*$1p,script,domain=remoteshaman.com
 @@/ad*$3p,frame,image,domain=dropbox.com|dropboxusercontent.com
-@@||ads.adfox.ru^$script,domain=aif.ru
 @@||api.yapfiles.ru^$xhr,frame,domain=yapfiles.ru
 @@||cdnvideo.ru^$domain=ntv.ru
 @@||l-stat.livejournal.net/js/*lib.js?*
