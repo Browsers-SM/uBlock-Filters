@@ -1009,7 +1009,7 @@
 ||kmindex.ru^
 ||komoona.com^
 ||kontur.ru^
-||kp.yandex.net^
+||kp.yandex.net^,domain=~kp.yandex.net
 ||kpytum*
 ||krible.$3p
 ||kro*$3p
