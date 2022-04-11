@@ -1181,7 +1181,7 @@
 ||pketred.com^
 ||pla*$3p,domain=~google.ru|~google.com
 ||plista.com^
-||plu*$3p
+||plu*$3p,domain=~yandex.ru
 ||po.st^
 ||poi*$3p
 ||pokrutim.ru^
