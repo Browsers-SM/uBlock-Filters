@@ -1479,8 +1479,6 @@
 ||yoajqj.com^
 ||yotpo.com^
 ||youraise.ru^
-||youtube.com/api/stats/qoe?*
-||youtube.com/api/stats/watchtime?*
 ||ysexy.org^
 ||yudjes.com^
 ||yumenetworks.com^
@@ -1898,12 +1896,6 @@ yap.ru,yaplakal.com##[id^="news_"] [href*="javascript"]
 yap.ru,yaplakal.com##nobr [href]
 yap.ru,yaplakal.com#?#html > body:not(#id):style(background-color: #333637 !important)
 yap.ru,yaplakal.com,yapfiles.ru##[href*="/go/?http"]
-youtube.com##[class*="-promo-"]
-youtube.com##[class="ytp-ad-text-overlay"]
-youtube.com##[class^="ytp-cards-teaser"]
-youtube.com##[class^="ytp-ce-element"]
-youtube.com##[id="alert-banner"]
-youtube.com##[id="ticker"]
 !
 ! ИСКЛЮЧЕНИЯ
 @@$3p,domain=aliexpress.com|aliexpress.ru
@@ -2118,8 +2110,7 @@ vk.com#@#[href*="/vk.cc/"]
 warthunder.ru#@#[href*="warthunder"]
 xhamster.com#@#[class*="popunder"]
 yandex.*#@#[class*="_adv-"]
-yandex.*#@#[class*="social"][class*="block"]
-yandex.ru#@#[class*="adblock"]
+yandex.*#@#[class*="adblock"]
 !
 ! Specially for Extensions.*
 @@blob:null/*
