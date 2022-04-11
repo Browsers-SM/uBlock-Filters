@@ -864,7 +864,7 @@
 ||evo.company^$3p
 ||evsembu.com^
 ||exdex.ru^$3p
-||ext*$3p
+||ext*$3p,domain=~yandex.ru
 ||ezoic.*
 ||face*$3p
 ||faggrim.com^
@@ -2057,6 +2057,7 @@ yap.ru,yaplakal.com,yapfiles.ru##[href*="/go/?http"]
 @@||yandex.ru/pogoda/*$csp
 @@||yandex.ru/search/touch/*$xhr
 @@||yandex.ru/weather/*$script,xhr
+@@||yastat.net^$domain=yandex.ru
 @@||yastatic.net*/auth2/*$domain=disk.yandex.com|disk.yandex.ru
 @@||yastatic.net/*player*$frame,domain=yandex.ru
 @@||yastatic.net/docviewer*$domain=docviewer.yandex.ru
