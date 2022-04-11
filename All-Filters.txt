@@ -1966,7 +1966,6 @@ yap.ru,yaplakal.com,yapfiles.ru##[href*="/go/?http"]
 @@||images.wambacdn.net^$domain=mamba.ru
 @@||img-ssl.xvideos.com.fpbns.net^$domain=xvideos.com
 @@||imgsmail.ru^$domain=mail.ru|pandao.ru
-@@||io^$domain=mybook.ru
 @@||ipic.su^$image
 @@||irc-ws.chat.twitch.tv^$websocket,domain=twitch.tv
 @@||j2.ru^$domain=zhaba.ru
