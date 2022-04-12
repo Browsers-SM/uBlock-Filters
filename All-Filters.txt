@@ -1541,6 +1541,7 @@
 ||ok.ru/web-api/pixel?*
 ||overclockers.ru/*/app.js|
 ||quantum.mail.ru^$inline-script,script
+||ria.ru/*/app.js?*
 ||rose.ixbt.com^
 ||ru-board.*/temp*
 ||ru-board.*tent.js|
@@ -1903,6 +1904,9 @@ yap.ru,yaplakal.com,yapfiles.ru##[href*="/go/?http"]
 @@$image,~3p,domain=ghacks.net
 @@$popup,domain=4pda.ru|4pda.to|findface.ru|google.com|google.ru|mail.ru|msn.com|samforum.org|yandex.ru
 @@$xhr,domain=mediametrics.ru|music.yandex.ru
+@@*/ad*$3p,frame,image,domain=dropbox.com|dropboxusercontent.com
+@@*/app*$document,domain=my.mail.ru|vk.com
+@@*4pda.*/forum/dl/post/*
 @@*account*$script,image,frame
 @@*api-maps.yandex.ru^
 @@*apis.$domain=accounts.google.com|content.googleapis.com|google.com|google.ru|sourceforge.net|thinkwithgoogle.com|youtube.com
@@ -1912,11 +1916,8 @@ yap.ru,yaplakal.com,yapfiles.ru##[href*="/go/?http"]
 @@*github*$domain=github.com
 @@*maps.yandex.ru^$domain=yandex.ru
 @@*mega.co.nz^
+@@*thumb*$image
 @@*upload*$~image,domain=vk.com
-@@/ad*$3p,frame,image,domain=dropbox.com|dropboxusercontent.com
-@@/app*$document,domain=my.mail.ru|vk.com
-@@4pda.*/forum/dl/post/*
-@@thumb*$image
 @@||192.168.8.1
 @@||accounts.google.com^$popup
 @@||ad.mail.ru/static/admanhtml/rbadman-html5.min.*$domain=ok.ru
@@ -1926,10 +1927,10 @@ yap.ru,yaplakal.com,yapfiles.ru##[href*="/go/?http"]
 @@||alleyadoma.ru^$domain=alleyadoma.ru
 @@||antikwar32.ru^$domain=antikwar32.ru
 @@||api.github.com^$domain=opengapps.org
-@@||api.vk.*audio
+@@||api.vk.*audio*
 @@||api.yapfiles.ru^$xhr,frame,domain=yapfiles.ru
 @@||as.dns-shop.ru^$domain=dns-shop.ru
-@@||blogspot.$image
+@@||blogspot.*$image
 @@||cdn*savepice.ru^$3p,image
 @@||cdnst.net^$domain=speedtest.net
 @@||cdnvideo.ru^$domain=ntv.ru
@@ -1948,8 +1949,8 @@ yap.ru,yaplakal.com,yapfiles.ru##[href*="/go/?http"]
 @@||google.*/js/gweb/*$domain=google.com|google.ru
 @@||google.*/xjs/*$script
 @@||google.com*maps*
-@@||google.com/cse?$frame
-@@||googleapis.com/custom$script
+@@||google.com/cse?*$frame
+@@||googleapis.com/custom*$script
 @@||googleusercontent.com^$frame,domain=google.com|google.ru
 @@||googlevideo.com/videoplayback?*
 @@||gosuslugi.ru^$domain=gosuslugi.ru
@@ -1987,12 +1988,12 @@ yap.ru,yaplakal.com,yapfiles.ru##[href*="/go/?http"]
 @@||nnm*club.*forum/filelst*$script
 @@||nnm*club.*forum/speller*$script
 @@||ok.ru/*/market?*$domain=ok.ru
-@@||ok.ru/*/statuses/ads?$xhr,domain=ok.ru
+@@||ok.ru/*/statuses/ads?*$xhr,domain=ok.ru
 @@||ok.ru/adsmanager*$domain=ok.ru
 @@||ok.ru/dk*$xhr,domain=ok.ru
 @@||ok.ru/feed?*$xhr,domain=ok.ru
-@@||ok.ru/gifts?$xhr,domain=ok.ru
-@@||ok.ru/guests?$domain=ok.ru
+@@||ok.ru/gifts?*$xhr,domain=ok.ru
+@@||ok.ru/guests?*$domain=ok.ru
 @@||ok.ru/res/*$domain=ok.ru
 @@||ozone.ru^$domain=ozon.ru
 @@||paymentnew.ok.ru^$domain=ok.ru
@@ -2019,7 +2020,7 @@ yap.ru,yaplakal.com,yapfiles.ru##[href*="/go/?http"]
 @@||tiktok.com^$domain=tiktok.com
 @@||tilda.ws^$domain=shop.forumhouse.ru
 @@||tivision.ru^$domain=ivi.ru
-@@||top-fwz1.mail.ru/counter?$image,domain=ok.ru
+@@||top-fwz1.mail.ru/counter?*$image,domain=ok.ru
 @@||torg.mail.ru^$xhr,domain=torg.mail.ru
 @@||translate.*
 @@||ttvnw.net^$domain=twitch.tv
@@ -2063,7 +2064,6 @@ yap.ru,yaplakal.com,yapfiles.ru##[href*="/go/?http"]
 @@||youtube.com/results?*
 @@||youtube.com/s/player/*
 @@||ytimg.com/yt/jsbin/www-widgetapi-*
-||ria.ru/*/app.js?*
 !
 ! ИНДИВИДУАЛЬНЫЕ ИСКЛЮЧЕНИЯ CSS
 12talerov.ru#@#[class*="bann"][class*="bottom"]
