@@ -378,7 +378,6 @@
 *cnt=*&rnd=*
 *cnt|
 *context*$3p
-*cookie*consent*
 *count*$1p,script,image,domain=~livejournal.com|~discount.220-volt.ru|~12talerov.ru
 *count*$3p,domain=~youtube.com|~pinterest.ru
 *criteo*
@@ -1682,7 +1681,6 @@ spaces.im,spac1.net,spac1.com,spaces-blogs.com##[id="common_error"]
 ##[id*="adfox"]
 ##[id*="adriver"]
 ##[id*="adver"]
-##[id*="cookie"]
 ##[id*="left_ad"]
 ##[id*="popunder"][id*="wrap"]
 ##[id*="promo"][id*="box"]
@@ -2064,7 +2062,6 @@ google.*,yandex.ru,duckduckgo.com,xvideos.com#@#[href*="777.com"],[href*="777.ne
 ok.ru#@#[href*="_aid="]
 ok.ru,beru.ru#@#[style*="bann"]
 ridus.ru#@#[class*="adfox"]
-samforum.org#@#[id*="cookie"]
 softwareok.com#@#[id^="banner_"]
 spac1.*,spaces.*#@#[class*="_adv_"]
 topersoft.com#@#[class^="rt"] [target]
