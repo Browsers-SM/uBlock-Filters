@@ -2077,8 +2077,7 @@ xhamster.com#@#[class*="popunder"]
 yandex.*#@#[class*="_adv-"]
 yandex.*#@#[class*="adblock"]
 !
-! Specially for Extensions.*
-! @@blob:null/*
+! Specially for Extensions.
 @@moz-extension://*
 @@moz-extension://*$popup
 !
