@@ -1511,7 +1511,6 @@
 ||4pda.*/st/heat_map|
 ||4pda.*/st/ztm?*
 ||4pda.*/stat*$xhr
-||alpha.yaplakal.com^$popup
 ||avito.ru*/px.js*
 ||avito.ru/stat/*
 ||banner*$domain=citilink.ru
@@ -1522,16 +1521,9 @@
 ||forumrpg.ru^$domain=mybb.ru
 ||front.rg.ru^
 ||imagevenue.com^$xhr
-||jpegshare.net*.gif|
 ||livejournal.com/ljcounter/*
-||lp.vg^$~script,domain=lotterypost.com
-||n-ssl.ria.ru/polling*
-||n.ria.ru^
-||nnm*club.*/city*$script
-||nnmclub.ch/*/xvideo*
 ||ok.ru/res/css/*$xhr,domain=ok.ru
 ||ok.ru/web-api/pixel?*
-||overclockers.ru/*/app.js|
 ||quantum.mail.ru^$inline-script,script
 ||ria.ru/*/app.js?*
 ||rose.ixbt.com^
