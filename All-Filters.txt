@@ -958,7 +958,7 @@
 ||illiages.com^
 ||ilnk.ru^$3p
 ||im-web.ru^
-||ima*$3p
+||ima*$3p,~image
 ||img.en25.com^
 ||imgfiles.ru^$frame
 ||imho.ru^
