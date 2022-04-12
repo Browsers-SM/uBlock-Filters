@@ -960,8 +960,7 @@
 ||illiages.com^
 ||ilnk.ru^$3p
 ||im-web.ru^
-||imasdk.googleapis.com^
-||imatrix.*
+||ima*$3p
 ||img.en25.com^
 ||imgfiles.ru^$frame
 ||imho.ru^
@@ -1102,8 +1101,8 @@
 ||my-img.ru^
 ||my.mail.ru/grstat*
 ||my.mail.ru^$3p,script
-||mycomet.mail.ru^
 ||myc*$domain=~ok.ru|~mycdn.me|~mail.ru|~vk.com
+||mycomet.mail.ru^
 ||myfeed.ru^$3p
 ||myopening.ru^
 ||mytopboard.ru^$3p
@@ -1524,11 +1523,8 @@
 ||dev.xyya.net^
 ||ds-assets.cdn.devapps.ru*/79tJPvZFILa8.*$domain=4pda.to
 ||engine.fishki.net^
-||fastpic.ru/c/*$script
 ||forumrpg.ru^$domain=mybb.ru
 ||front.rg.ru^
-||imageban.ru*colorbox-min.js|
-||imagepix.org/Images/*
 ||imagevenue.com^$xhr
 ||jpegshare.net*.gif|
 ||livejournal.com/ljcounter/*
