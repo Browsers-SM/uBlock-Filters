@@ -145,8 +145,8 @@
 */cnt/*
 */code.js|
 */cout.*
-*/cs*?t=$script
-*/cs*?user_id=$script
+*/cs*?t=*$script
+*/cs*?user_id=*$script
 */g.js*
 */ga-*$script
 */ga.*
@@ -469,7 +469,6 @@
 *newclk*
 *news*$3p,~image,domain=~ria.com|~yandex.ru|~yastatic.net|~pulscen.ru|~ok.ru
 *nwgsm*
-*online.dll*
 *opena*$script,domain=~inmood.ru
 *orphus*$domain=~orphus.ru
 *page*rank*$3p
@@ -480,7 +479,7 @@
 *php*&b=*
 *php*&rnd=*$~xhr
 *php*&t=*$~image,domain=~4pda.ru|~4pda.to
-*php*=b&
+*php*=b&*
 *php*?b=*
 *php*?bn=*
 *php*cid*rnd*
@@ -548,7 +547,6 @@
 *smallad*
 *smartban*
 *smartsize*
-*social*widget*$frame
 *socket.io*
 *softad/*
 *softbar/*$script
@@ -1297,7 +1295,6 @@
 ||smi2.*$3p
 ||sms-manager.ru^
 ||sna*$3p
-||soc*$3p
 ||sof*$3p,domain=~userstyles.org
 ||soknm.com^
 ||soosle.*
@@ -1596,8 +1593,6 @@ spaces.im,spac1.net,spac1.com,spaces-blogs.com##[id="common_error"]
 ##[class*="right"][class*="banner"]
 ##[class*="right-ad"]
 ##[class*="right-ban"]
-##[class*="social"][class*="block"]
-##[class*="social"][class*="widget"]
 ##[class*="tizer"]
 ##[class*="top_ban"]
 ##[class*="topadv"]
@@ -1625,9 +1620,6 @@ spaces.im,spac1.net,spac1.com,spaces-blogs.com##[id="common_error"]
 ##[class^="bann"][class$="box"]
 ##[class^="bn-"]
 ##[class^="bnr_"]
-##[class^="soc-bl"]
-##[class^="soc_tab"]
-##[class^="social_pl"]
 ##[class^="t_box"]
 ##[class^="topban"]
 ##[data*="/adv/"]
@@ -1708,12 +1700,10 @@ spaces.im,spac1.net,spac1.com,spaces-blogs.com##[id="common_error"]
 ##[id*="right_ad"]
 ##[id*="rtb."]
 ##[id*="sex"][id*="shop"]
-##[id*="social"][id*="wrap"]
 ##[id*="tban"]
 ##[id*="teasers"]
 ##[id*="top"][id*="ban"]
 ##[id*="top-bn"]
-##[id*="widget"][id*="social"]
 ##[id="ads"]
 ##[id="adv"]
 ##[id="adv2"]
