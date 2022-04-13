@@ -364,7 +364,7 @@
 *cgi-*rnd=*
 *cgi?*$3p
 *cgi?id*
-*check*$3p,domain=~tabor.ru|~joom.com
+*check*$3p,domain=~tabor.ru|~joom.com|~tiktok.com
 *cityads*
 *cityid*$frame
 *clc.*$3p
