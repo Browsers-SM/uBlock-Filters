@@ -329,7 +329,7 @@
 *ban*info/*$3p
 *ban*mobi/*$3p
 *ban*net/*$3p
-*ban*ru/*$3p,~image,domain=~huawei.com
+*ban*ru/*$3p,~image
 *ban*su/*$3p
 *ban*ua/*$3p
 *ban*zoneid*
@@ -1886,6 +1886,7 @@ yap.ru,yaplakal.com,yapfiles.ru##[href*="/go/?http"]
 @@*apis.$domain=accounts.google.com|content.googleapis.com|google.com|google.ru|sourceforge.net|thinkwithgoogle.com|youtube.com
 @@*captcha*
 @@*comment*$xhr,domain=youtube.com
+@@*dbank*^$domain=huawei.com
 @@*game*$document,domain=ok.ru
 @@*github*$domain=github.com
 @@*maps.yandex.ru^$domain=yandex.ru
