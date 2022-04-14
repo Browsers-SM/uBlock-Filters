@@ -1895,7 +1895,7 @@ yap.ru,yaplakal.com,yapfiles.ru##[href*="/go/?http"]
 @@*upload*$~image,domain=vk.com
 @@||192.168.8.1
 @@||accounts.google.com^$popup
-@@||ad.mail.ru^$domain=ok.ru
+@@||paymentnew.ok.ru^$domain=ok.ru
 @@||adobe.com^$script,domain=adobe.com
 @@||ali*$domain=alibaba.com|aliexpress.com|aliexpress.ru|alipay.com|aliapp.org|akamaihd.net
 @@||alicdn.com^$domain=aliexpress.ru|aliexpress.com
