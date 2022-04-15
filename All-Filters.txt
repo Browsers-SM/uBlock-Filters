@@ -1897,7 +1897,6 @@ yap.ru,yaplakal.com,yapfiles.ru##[href*="/go/?http"]
 @@||accounts.google.com^$popup
 @@||adobe.com^$script,domain=adobe.com
 @@||ali*$domain=alibaba.com|aliexpress.com|aliexpress.ru|alipay.com|aliapp.org|akamaihd.net
-@@||alicdn.com^$domain=aliexpress.ru|aliexpress.com
 @@||alleyadoma.ru^$domain=alleyadoma.ru
 @@||antikwar32.ru^$domain=antikwar32.ru
 @@||api.github.com^$domain=opengapps.org
@@ -2058,7 +2057,7 @@ google.*,mail.ru,toptracker.ru,yandex.ru,4pda.*#@#[target][href*="game"]
 google.*,mail.ru,yandex.ru#@#[href*="tankion"]
 google.*,mail.ru,yandex.ru#@#[href*="tomsk.ru"]
 google.*,sanvol.ru#@#[target]>[src*="/shop"]
-google.*,yandex.ru,duckduckgo.com,xvideos.com#@#[href*="777.com"],[href*="777.net"],[href*="adwcleaner.ru"],[href*="goo.gl/"],[href*="azino"],[href*="urlguard"],[href*="vsemayki"],[href*="raskruti.net"],[href*="pixelmarkway.com"],[href*="russian-cabaret.ru"],[href*="wt.link"],[href*="/0t.se"],[href*="leon.ru"],[href*="/ivnz.ru"],[href*="kompot.bz"],[href*="wargaming"],[href*="meutrf.com"],[href*="fatcats.market"],[href*="alitools.io"],[href*="bit.ly"],[href*="megabonus.com"],[href*="ubi.li"],[href*="letyshops.com"],[href*="schlock.ru"],[href*="isv-group.io"],[href*="expressfromus.com"],[href*="appmetrica.yandex.com"],[href*="tennisi.bet"],[href*="betcity.ru"],[href*="vk.cc"],[href*="aff1xstavka.top"],[href*="fl.team"],[href*="xbet"],[href*="awaps.yandex.net"],[href*="ali.pub"],[href*="ma-static.ru"]
+google.*,yandex.ru,duckduckgo.com,xvideos.com,vsemayki.ru#@#[href*="777.com"],[href*="777.net"],[href*="adwcleaner.ru"],[href*="goo.gl/"],[href*="azino"],[href*="urlguard"],[href*="vsemayki"],[href*="raskruti.net"],[href*="pixelmarkway.com"],[href*="russian-cabaret.ru"],[href*="wt.link"],[href*="/0t.se"],[href*="leon.ru"],[href*="/ivnz.ru"],[href*="kompot.bz"],[href*="wargaming"],[href*="meutrf.com"],[href*="fatcats.market"],[href*="alitools.io"],[href*="bit.ly"],[href*="megabonus.com"],[href*="ubi.li"],[href*="letyshops.com"],[href*="schlock.ru"],[href*="isv-group.io"],[href*="expressfromus.com"],[href*="appmetrica.yandex.com"],[href*="tennisi.bet"],[href*="betcity.ru"],[href*="vk.cc"],[href*="aff1xstavka.top"],[href*="fl.team"],[href*="xbet"],[href*="awaps.yandex.net"],[href*="ali.pub"],[href*="ma-static.ru"]
 ok.ru#@#[href*="_aid="]
 ok.ru,beru.ru#@#[style*="bann"]
 ridus.ru#@#[class*="adfox"]
