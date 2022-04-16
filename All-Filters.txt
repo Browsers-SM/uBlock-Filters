@@ -1006,7 +1006,7 @@
 ||kontur.ru^
 ||kp.yandex.net^,domain=~kp.yandex.net
 ||kpytum*
-||krible.*$3p
+||krible.*
 ||kro*$3p
 ||krutilka.*
 ||krwork.ru^
@@ -1023,7 +1023,6 @@
 ||level1cdn.com^
 ||lf1.mail.ru^
 ||liex.ru^
-||liftdna.*
 ||liink.ru^
 ||lijit.com^
 ||lik*$3p
@@ -1142,7 +1141,6 @@
 ||okmeter.ru^
 ||olark.com^
 ||olizyr.com^
-||ollolo.*
 ||oml.ru^
 ||onclic*$script,frame,popup
 ||one*$3p
@@ -1153,7 +1151,6 @@
 ||openlinks.ru^$3p
 ||opinionbar.com^
 ||opogame.com^$3p
-||optim*$3p
 ||or.ru^
 ||outbrain.com^
 ||oyy.ru^
@@ -1181,7 +1178,6 @@
 ||poi*$3p
 ||pokrutim.ru^
 ||pol*$3p
-||popme.*
 ||poulop.com^
 ||pp*$3p,~image
 ||pr-*$3p
@@ -1201,7 +1197,6 @@
 ||px.*$3p
 ||q32.ru^
 ||q8ntfhfngm.com^
-||qbaka.*
 ||qle.ru^
 ||qr*$3p
 ||qu*$3p
@@ -1295,7 +1290,6 @@
 ||sna*$3p
 ||sof*$3p,domain=~userstyles.org
 ||soknm.com^
-||soosle.*
 ||sopital.com^
 ||spa*$3p,script,frame,domain=~spaces.im|~spac1.net|~spac1.com|~spaces-blogs.com
 ||speedtest.net^$3p
