@@ -2022,6 +2022,7 @@ yap.ru,yaplakal.com,yapfiles.ru##[href*="/go/?http"]
 @@||yandex.ru/*video*$domain=yandex.ru
 @@||yandex.ru/maps/*$domain=yandex.ru
 @@||yandex.ru/pogoda/*$csp
+@@||yandex.ru/weather/*
 @@||yastat.net^$domain=yandex.ru
 @@||yastatic.net*/auth2/*$domain=disk.yandex.com|disk.yandex.ru
 @@||yastatic.net/docviewer*$domain=docviewer.yandex.ru
