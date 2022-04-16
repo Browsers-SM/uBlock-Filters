@@ -1490,7 +1490,7 @@
 *$popup,domain=apkfind.com|apkpure.com|dverser.ru|film-adult.com|imagebam.com|joyreactor.cc|kordonivkakino.net|ok.ru|rustorka.com|z1.fm|xvideos.com|xhamster.com
 *$websocket,domain=~animevost.org|~github.com|~mibbit.com|~ria.ru|~twitch.tv|~videochatka.net|~whatsapp.com|~yandex.ru|~youtube.com|~spinningline.ru|~4pda.to|~4pda.ru|~speedtest.net
 *adblo*$image,script,domain=~adblockplus.me|~adblockplus.org|~ghacks.net|~freeadblockerbrowser.com
-*code*$3p,script,domain=~bitbucket.org|~code.jquery.com|~codeplex.com|~icecreamapps.com|~invi.tv|~market.pochta.ru|~microsoft.com|~nnmclub.ch|~nnmclub.to|~ntp-servers.net|~opengapps.org|~ren.tv|~yandex.ru|~yota.ru|~spinningline.ru
+*code*$3p,script,domain=~bitbucket.org|~code.jquery.com|~codeplex.com|~icecreamapps.com|~invi.tv|~market.pochta.ru|~microsoft.com|~nnmclub.ch|~nnmclub.to|~ntp-servers.net|~ren.tv|~yandex.ru|~yota.ru|~spinningline.ru
 *popunder*$~xhr,domain=~cackle.me|~dns-shop.ru|~livejournal.com|~mail.ru|~miuipro.ru|~onlinezakladki.ru|~photosight.ru|~rian.ru|~support.kaspersky.ru|~vk.com
 *stat*$3p,domain=~360totalsecurity.com|~7days.ru|~acestream.org|~avast.ru|~bbc.com|~beboo.ru|~blogspot.com|~blogspot.ru|~bonprix.ru|~careerjet.ru|~championat.com|~cnet.com|~cyberforum.ru|~dailymotion.com|~ebay.com|~edarling.ru|~gitlab.com|~google.com|~google.ru|~googleusercontent.com|~huawei.com|~itunes.apple.com|~ivbb.ru|~jd.ru|~kat.cr|~lightningmaps.org|~line.me|~linkedin.com|~livejournal.com|~login.aliexpress.com|~mail.ru|~microsoft.com|~mirtesen.ru|~my-hithd.ru|~mycdn.me|~nn.ru|~office.com|~ok.ru|~photobucket.com|~pogodanakarte.ru|~reddit.com|~redditmedia.com|~redditstatic.com|~redtube.com|~ria.com|~rutracker.net|~rutracker.org|~shuruping.ru|~shuruping.ru|~sima-land.ru|~softpedia.com|~stackexchange.com|~steampowered.com|~stihl.ru|~teamviewer.com|~tsearch.me|~tutu.ru|~twitch.tv|~vc.ru|~wildberries.ru|~wix.com|~wmbcdn.com|~womanhit.ru|~worldoftanks.ru|~yadi.sk|~yandex.com|~yandex.ru|~youla.ru|~youpornru.com|~youtube.com|~irr.ru|~avito.ru|~beru.ru|~xhamster.com|~aura.top|~2gis.ru|~стопкоронавирус.рф|~velostrana.ru|~forumhouse.ru|~ccleaner.com|~elle.ru|~wixsite.com|~wix.com|~mozilla.org|~dreambikes.ru|~навелосипеде.рф|~wiggle.ru|~kinopoisk.ru
 *.html|$domain=apkfind.com|pornolab.cc|pornolab.net|rutracker.org|thepiratebay.org
@@ -1823,7 +1823,6 @@ ok.ru##[data-module="banners/BannerClickLog"]
 ok.ru##[id*="TopContent"]
 ok.ru##[id="hook_Block_CompactFooter"]
 ok.ru##[id="hook_Block_PMailRu"]
-opengapps.org##[class^="mdl-snackbar"]
 overclockers.ru##script:inject(bab-defuser.js)
 pornhub.com##[id="pb_block"]
 pornhub.com##[id="pb_template"]
@@ -1867,7 +1866,6 @@ yap.ru,yaplakal.com,yapfiles.ru##[href*="/go/?http"]
 ! ИСКЛЮЧЕНИЯ
 @@$3p,domain=aliexpress.com|aliexpress.ru
 @@$3p,image,domain=google.ru
-@@$3p,script,domain=chuyu.me
 @@$csp,domain=invi.tv|rutube.ru|ventusky.com|xvideos.com
 @@$elemhide,domain=accounts.google.com|e.mail.ru|lifehacker.com|mail.google.com|mail.yandex.ru|msdn.microsoft.com|pcradio.ru|svyaznoy.ru|tele2.ru|wildberries.ru|alibaba.com
 @@$frame,domain=spaces.im|spac1.net|spaces-blogs.com|videochart.net|vk.com|youtube.googleapis.com
@@ -1899,7 +1897,6 @@ yap.ru,yaplakal.com,yapfiles.ru##[href*="/go/?http"]
 @@||ali*$domain=alibaba.com|aliexpress.com|aliexpress.ru|alipay.com|aliapp.org|akamaihd.net
 @@||alleyadoma.ru^$domain=alleyadoma.ru
 @@||antikwar32.ru^$domain=antikwar32.ru
-@@||api.github.com^$domain=opengapps.org
 @@||api.vk.*audio*
 @@||api.yapfiles.ru^$xhr,frame,domain=yapfiles.ru
 @@||as.dns-shop.ru^$domain=dns-shop.ru
