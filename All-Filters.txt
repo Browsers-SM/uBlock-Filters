@@ -1740,7 +1740,6 @@ spaces.im,spac1.net,spac1.com,spaces-blogs.com##[id="common_error"]
 ##[class*="AdLink"][target][rel="nofollow"]
 ##[href*="?ref="][rel="nofollow"]
 ##[rel="nofollow"][href*="?user="]
-##[rel="nofollow"][href*="game"][target]
 !
 ! Random id
 ##[data-ad-id]
@@ -1893,6 +1892,7 @@ yap.ru,yaplakal.com,yapfiles.ru##[href*="/go/?http"]
 @@*mega.co.nz^
 @@*thumb*$image
 @@*upload*$~image,domain=vk.com
+@@*weather*$xhr,domain=yandex.ru
 @@||192.168.8.1
 @@||accounts.google.com^$popup
 @@||adobe.com^$script,domain=adobe.com
@@ -2011,24 +2011,19 @@ yap.ru,yaplakal.com,yapfiles.ru##[href*="/go/?http"]
 @@||wambacdn.net^$domain=love.mail.ru
 @@||wb.ru^$domain=wildberries.ru
 @@||wbstatic.net^$domain=wildberries.ru
-@@||weather.yandex.net^$xhr,domain=yandex.ru
-@@||weathermaps.s3.yandex.net^$xhr,domain=yandex.ru
 @@||whichbrowser.net^$domain=html5test.com
 @@||wmbcdn.com^$domain=mail.ru|mamba.ru
 @@||xvideos-cdn.com^$domain=xvideos.com
 @@||ya*$domain=hd.kinopoisk.ru
+@@||ya*player*$frame,domain=yandex.ru|yastatic.net
 @@||yandex-pogoda.clstorage.net^
+@@||yandex.*/search*$xhr
 @@||yandex.*/suggest/*
-@@||yandex.ru/*player*$frame,domain=yandex.ru|yastatic.net
 @@||yandex.ru/*video*$domain=yandex.ru
-@@||yandex.ru/images/search*$xhr
 @@||yandex.ru/maps/*$domain=yandex.ru
 @@||yandex.ru/pogoda/*$csp
-@@||yandex.ru/search/touch/*$xhr
-@@||yandex.ru/weather/*$script,xhr
 @@||yastat.net^$domain=yandex.ru
 @@||yastatic.net*/auth2/*$domain=disk.yandex.com|disk.yandex.ru
-@@||yastatic.net/*player*$frame,domain=yandex.ru
 @@||yastatic.net/docviewer*$domain=docviewer.yandex.ru
 @@||yastatic.net^$domain=afisha.ru|market.yandex.ru|radio.yandex.ru|video.yandex.ru
 @@||youla.*$domain=youla.ru
@@ -2064,7 +2059,6 @@ ridus.ru#@#[class*="adfox"]
 softwareok.com#@#[id^="banner_"]
 spac1.*,spaces.*#@#[class*="_adv_"]
 topersoft.com#@#[class^="rt"] [target]
-toptracker.ru,4pda.*#@#[rel="nofollow"][href*="game"][target]
 utro.ru#@#[id*="adver"]
 vk.com#@#[href*="/vk.cc/"]
 warthunder.ru#@#[href*="warthunder"]
