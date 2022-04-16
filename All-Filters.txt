@@ -1308,8 +1308,7 @@
 ||strossle.com^
 ||stumbleupon.*/widget*
 ||su^$3p,~image
-||submitter.ru^
-||subscr*$3p
+||sub*$3p
 ||sumome.com^
 ||sun*$3p
 ||sup*$3p
@@ -1346,8 +1345,7 @@
 ||tochno-tochno.ru^
 ||tojinr.com^
 ||tom*$3p
-||toolbar.google.com^
-||tools*$3p
+||too*$3p
 ||top*$3p,~xhr
 ||tor*$3p
 ||toy69.ru^
