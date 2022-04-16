@@ -661,7 +661,6 @@
 ||android.com^$3p
 ||ant*$3p
 ||api.rnet.plus^
-||api.vk.*/likes*
 ||apis.google.com^
 ||apishops.org^
 ||apitech.ru^
@@ -1712,7 +1711,6 @@ spaces.im,spac1.net,spac1.com,spaces-blogs.com##[id="common_error"]
 ##[id^="clk"]
 ##[id^="crt-"]
 ##[id^="go_"]
-##[id^="likebox"]
 ##[id^="r-"]
 ##[id^="rtb"]
 ##[id^="tads"]
@@ -1740,12 +1738,6 @@ spaces.im,spac1.net,spac1.com,spaces-blogs.com##[id="common_error"]
 ##[class*="AdLink"][target][rel="nofollow"]
 ##[href*="?ref="][rel="nofollow"]
 ##[rel="nofollow"][href*="?user="]
-!
-! Random id
-##[data-ad-id]
-##[data-ad-slot]
-##[data-changed-id*="adfox"]
-##[data-src*="/banners/"]
 !
 ! Target and Onclick
 ##[class^="rnd-"][target]
