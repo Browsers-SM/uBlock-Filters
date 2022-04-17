@@ -1242,7 +1242,7 @@
 ||rs.mail.ru^
 ||rt*$3p,~image
 ||rtfnm.com^
-||rtr*$domain=~tvkultura.ru
+||rtr*$domain=~tvkultura.ru|~rtrs.ru
 ||ru.ru^
 ||ru/b/*
 ||ru/banner*$3p
