@@ -674,7 +674,6 @@
 ||asd*$3p
 ||aspro.ru^
 ||asrety.com^
-||astraone.io^
 ||atemda.com^
 ||atl*$3p,domain=~bitbucket.org
 ||attivertura.com^
@@ -760,7 +759,6 @@
 ||cdn.zingaya.com^
 ||cedexis.com^
 ||cetrk.com^
-||cex.io^
 ||cha*$3p
 ||chaturbate.com^
 ||chultoux.com^
@@ -804,7 +802,6 @@
 ||daitovar.ru^
 ||dallavel.com^
 ||dar*$3p
-||datadepot.io^
 ||davarello.com^
 ||dbbsrv.com^
 ||ddmanager.ru^
@@ -964,14 +961,14 @@
 ||in^$3p,~image
 ||ind*$3p
 ||info*$3p
-||info/*$3p,script,popunder,frame
+||info/*$3p,script,popunder,frame,xhr
 ||info/image*$3p,popunder
 ||inpiza.com^
 ||ins*$3p
 ||int*$3p,domain=~yandex.ru
 ||invi.tv^$3p
 ||io.lv^
-||io^$3p,xhr,domain=~comss.ru|~youla.ru|~radio.pp.ru|~vk.com
+||io/*$3p,script,popunder,frame,xhr,domain=~comss.ru|~youla.ru|~radio.pp.ru|~vk.com
 ||ioredi.com^
 ||ipify.org^$3p
 ||iqbuzz.ru^
@@ -1103,7 +1100,6 @@
 ||mytopboard.ru^$3p
 ||n74s9.com^
 ||nanosemantics.*
-||narrative.io^
 ||naydex.net^
 ||nbc.rt.com^
 ||ndyzz.com^
@@ -1146,7 +1142,6 @@
 ||one*$3p
 ||online^$3p,domain=~ixbt.com
 ||onlinetestpad.com^$3p
-||onthe.io^
 ||op.yandex.ru^$3p
 ||openlinks.ru^$3p
 ||opinionbar.com^
@@ -1222,7 +1217,6 @@
 ||ref*$3p
 ||reg*$3p
 ||reine.ru^
-||relap.io^
 ||republer.com^
 ||res*$3p,domain=~leroymerlin.ru
 ||ret*$3p
