@@ -271,7 +271,7 @@
 *_seo*$script
 *ad*?r*$domain=~adoptopenjdk.net|~filmix.ac
 *adbot*
-*adds*$script,frame
+*adds*$frame
 *addthis*
 *adfl*$script,frame
 *adframe*
