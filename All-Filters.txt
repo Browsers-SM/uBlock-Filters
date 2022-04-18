@@ -1816,6 +1816,7 @@ rsload.net##[href*="click2bit"]
 rsload.net##[src$="/fastik.png"]
 ru-board.com##[href*="devline.ru"]
 softportal.com##[href^="prog"][href$="htm"]
+tabor.ru##[id="top_anketa_content_action"]
 tapochek.net###sidebar1
 tapochek.net##[id^="fuck"]
 vk.com##[class="audio_promo"]
