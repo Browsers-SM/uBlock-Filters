@@ -364,7 +364,7 @@
 *cgi-*rnd=*
 *cgi?*$3p
 *cgi?id*
-*check*$3p,domain=~tabor.ru|~joom.com|~tiktok.com
+*check*$3p,domain=~joom.com|~tiktok.com
 *cityads*
 *cityid*$frame
 *clc.*$3p
@@ -763,7 +763,7 @@
 ||chaturbate.com^
 ||chultoux.com^
 ||ck*$3p
-||cl*$3p,popup,~image,domain=~firefox.com|~mozilla.com|~mozilla.org|~mail.ru|~leroymerlin.ru|~zoom.us|~santehnika-tut.ru|~spinningline.ru|~tabor.ru|~petrovich.ru|~bluestacks.com|~samsung.com|~airdroid.com|~dropbox.com|~dropboxcaptcha.com|~arkoselabs.com|~sportmaster.ru|~yandex.ru|~dns-shop.ru|~joom.com
+||cl*$3p,popup,~image,domain=~firefox.com|~mozilla.com|~mozilla.org|~mail.ru|~leroymerlin.ru|~zoom.us|~santehnika-tut.ru|~spinningline.ru|~petrovich.ru|~bluestacks.com|~samsung.com|~airdroid.com|~dropbox.com|~dropboxcaptcha.com|~arkoselabs.com|~sportmaster.ru|~yandex.ru|~dns-shop.ru|~joom.com
 ||clck.yandex.ru^$image
 ||cnetcontent.com^
 ||coin*$3p
@@ -1413,7 +1413,7 @@
 ||weclever.ru^
 ||whisla.com^
 ||wi.yandex.net^
-||widg*$third-party,domain=~soundcloud.com|~tabor.ru
+||widg*$third-party,domain=~soundcloud.com
 ||wiki2.org^$third-party
 ||wis.sndcdn.com^
 ||wm*$3p
@@ -1964,6 +1964,7 @@ yap.ru,yaplakal.com,yapfiles.ru##[href*="/go/?http"]
 @@||steamstatic.com^$script,image,domain=store.steampowered.com
 @@||storage*$domain=yadi.sk|music.yandex.ru|radio.yandex.ru
 @@||svyaznoy.ru^$script,image,xhr,domain=svyaznoy.ru
+@@||tabor.ru^$domain=tabor.ru
 @@||tele2.ru^$domain=tele2.ru
 @@||tiktok.com^$domain=tiktok.com
 @@||tilda.ws^$domain=shop.forumhouse.ru
