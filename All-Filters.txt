@@ -329,7 +329,7 @@
 *ban*info/*$3p
 *ban*mobi/*$3p
 *ban*net/*$3p
-*ban*ru/*$3p,~image
+*ban*ru/*$3p,~image,domain=~pochtabank.ru
 *ban*su/*$3p
 *ban*ua/*$3p
 *ban*zoneid*
