@@ -1055,11 +1055,8 @@
 ||mc.yandex.*
 ||mcafee.com^$3p
 ||me-talk.ru^
-||media*$3p,~image
-||medialand.ru^
-||medigaly.com^
-||meebo.com^
-||meedget.ru^
+||med*$3p
+||mee*$3p
 ||mega*$3p
 ||mekadr.com^
 ||meople.net^
@@ -1272,8 +1269,7 @@
 ||sjsmartcontent.org^
 ||sky*$3p,domain=~skyscanner.ru
 ||slack.com^
-||slopeac.com^
-||slotobar.com^
+||slo*$3p
 ||smart*$3p
 ||smi2.*$3p
 ||sms-manager.ru^
