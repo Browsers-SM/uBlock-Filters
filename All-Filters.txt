@@ -1043,9 +1043,7 @@
 ||m-shes.ru^
 ||ma-static.ru^$script,popup
 ||magictab.ru^
-||mail.ru/cache*
-||mailmunch.co^
-||main*$3p
+||mai*$3p
 ||manyweb.ru^$3p
 ||map*.hwcdn.net^
 ||mar*$3p,popunder
@@ -1140,8 +1138,7 @@
 ||oml.ru^
 ||onclic*$script,frame,popup
 ||one*$3p
-||online^$3p,domain=~ixbt.com
-||onlinetestpad.com^$3p
+||onl*$3p
 ||op.yandex.ru^$3p
 ||openlinks.ru^$3p
 ||opinionbar.com^
@@ -1252,8 +1249,7 @@
 ||sailplay.ru^
 ||samiana.com^
 ||sape.ru^
-||savedhistory.net^$3p
-||savefrom.net^$3p
+||sav*$3p
 ||sayyac.net^
 ||sbup.com^$3p
 ||scorecardresearch.com^
@@ -1378,8 +1374,7 @@
 ||vdsias.wc.lt^
 ||vegapro.ru^
 ||ven*$3p
-||verisign.com^$3p
-||veroui.com^
+||ver*$3p
 ||viadeo.com^
 ||vid*$3p,domain=~kinozoro.tv
 ||vihub.ru^
