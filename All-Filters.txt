@@ -652,7 +652,7 @@
 ||alfainternet.$3p
 ||ali*$3p,domain=~aliexpress.com|~aliexpress.ru|~rutracker.org|~aliradar.com
 ||alkodesign.ru^
-||all*$3p,domain=~kp.ru
+||all*$3p,domain=~kp.ru|~trovo.live
 ||alonged.com^
 ||am*$~image,3p,domain=~aliexpress.com|~aliexpress.ru|~youla.ru|~jd.ru|~opendns.com|~rufus.ie|~alcatelmobile.com|~fast.com|~vk.com|~vk-apps.com|~ama.fan
 ||an.*
