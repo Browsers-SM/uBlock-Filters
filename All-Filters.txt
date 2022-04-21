@@ -622,8 +622,7 @@
 ||academand.com^
 ||acint.net^
 ||acpr.su^
-||activ$3p
-||actpx.com^
+||act*$3p
 ||ad.*
 ||ad1*
 ||ad4*
@@ -638,7 +637,6 @@
 ||adp*$3p
 ||adregain.ru^
 ||ads*$3p
-||adservice.*
 ||adv*$3p
 ||adw*$3p
 ||adx*$3p
@@ -701,8 +699,7 @@
 ||belole.ru^
 ||bemobile.ua^
 ||beregu.ru^
-||betrad.com^
-||betshucklean.com^
+||bet*$3p
 ||bgkecb.com^
 ||bi0.ru^$3p
 ||bid*$3p
@@ -1060,8 +1057,7 @@
 ||mega*$3p
 ||mekadr.com^
 ||meople.net^
-||metabar.ru^
-||metrika-informer.com^
+||met*$3p
 ||mgcom.ru^
 ||mibok.ru^
 ||mikle.com^$3p
@@ -1069,7 +1065,6 @@
 ||mirtesen.ru^$3p
 ||mix*$3p
 ||mob*$3p
-||mobtop.*$3p
 ||mochi*.com*
 ||modern.ie^
 ||moe.video^
@@ -1411,8 +1406,7 @@
 ||wolist.ru^$3p
 ||womantop.ru^$3p
 ||woopra.com^
-||worksection.com^
-||worldcrisis.ru^$3p
+||wor*$3p
 ||ws.*
 ||wtop.*
 ||wwwomen.ru^$3p
