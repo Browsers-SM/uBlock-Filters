@@ -1876,6 +1876,7 @@ yap.ru,yaplakal.com,yapfiles.ru##[href*="/go/?http"]
 @@||disk.yandex*$domain=yadi.sk|yandex.ru
 @@||dropboxstatic.com^$domain=dropbox.com
 @@||duckduckgo.com/*.js?q=*
+@@||fpbns.net^$domain=xvideos.com|xhamster.com
 @@||githubusercontent.com^$domain=google.com|google.ru
 @@||gitlab-static.net^$domain=gitlab.com
 @@||google.*$domain=mail.google.com
@@ -1891,7 +1892,6 @@ yap.ru,yaplakal.com,yapfiles.ru##[href*="/go/?http"]
 @@||gu-st.ru^$domain=gosuslugi.ru
 @@||i.mycdn.me^$image,domain=ok.ru
 @@||images.wambacdn.net^$domain=mamba.ru
-@@||fpbns.net^$domain=xvideos.com|xhamster.com
 @@||imgsmail.ru^$domain=mail.ru|pandao.ru
 @@||ipic.su^$image
 @@||irc-ws.chat.twitch.tv^$websocket,domain=twitch.tv
@@ -1990,10 +1990,7 @@ yap.ru,yaplakal.com,yapfiles.ru##[href*="/go/?http"]
 @@||yastatic.net^$domain=afisha.ru|market.yandex.ru|radio.yandex.ru|video.yandex.ru
 @@||youla.*$domain=youla.ru
 @@||youtube.*embed*$script,frame
-@@||youtube.com/api/stats/ads?*
-@@||youtube.com/results?*
 @@||youtube.com/s/player/*
-@@||ytimg.com/yt/jsbin/www-widgetapi-*
 !
 ! ИНДИВИДУАЛЬНЫЕ ИСКЛЮЧЕНИЯ CSS
 12talerov.ru#@#[class*="bann"][class*="bottom"]
