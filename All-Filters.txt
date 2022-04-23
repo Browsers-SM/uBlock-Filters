@@ -1,5 +1,9 @@
 ﻿! Title: SM
-! Составлен без учета использования VPN.
+!
+! NOT BLOCKED
+@@$css
+@@$font
+@@$media
 !
 *&ad*$script,frame
 *&aid*$~image
@@ -2028,8 +2032,3 @@ yandex.*#@#[class*="adblock"]
 ! Specially for Extensions.
 @@moz-extension://*
 @@moz-extension://*$popup
-!
-! NOT BLOCKED
-@@$css
-@@$font
-@@$media
