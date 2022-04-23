@@ -1455,8 +1455,8 @@
 !
 ! МНОЖЕСТВЕННЫЕ
 *$1p,domain=block.mts.ru
-*$3p,domain=adriver.ru|fastpic.ru|imageban.ru|imagevenue.com|tinypic.com|forum.release-apk.com|upload.ee
-*$popunder,popup,domain=pornhub.com|redtube.com|apkfind.com|apkpure.com|dverser.ru|film-adult.com|imagebam.com|joyreactor.cc|kordonivkakino.net|ok.ru|rustorka.com|z1.fm|xvideos.com|xhamster.com|fastpic.org|fastpic.ru
+*$3p,domain=fastpic.ru|imageban.ru|imagevenue.com|forum.release-apk.com|upload.ee
+*$popunder,popup,domain=pornhub.com|redtube.com|apkfind.com|apkpure.com|imagebam.com|joyreactor.cc|ok.ru|rustorka.com|z1.fm|xvideos.com|xhamster.com|fastpic.org|fastpic.ru
 *$websocket,domain=~animevost.org|~github.com|~mibbit.com|~ria.ru|~twitch.tv|~videochatka.net|~whatsapp.com|~yandex.ru|~youtube.com|~spinningline.ru|~4pda.to|~4pda.ru|~speedtest.net
 *adblo*$image,script,domain=~adblockplus.me|~adblockplus.org|~ghacks.net|~freeadblockerbrowser.com
 *code*$3p,script,domain=~bitbucket.org|~code.jquery.com|~codeplex.com|~icecreamapps.com|~invi.tv|~market.pochta.ru|~microsoft.com|~nnmclub.ch|~nnmclub.to|~ntp-servers.net|~ren.tv|~yandex.ru|~yota.ru|~spinningline.ru
@@ -1891,7 +1891,7 @@ yap.ru,yaplakal.com,yapfiles.ru##[href*="/go/?http"]
 @@||gu-st.ru^$domain=gosuslugi.ru
 @@||i.mycdn.me^$image,domain=ok.ru
 @@||images.wambacdn.net^$domain=mamba.ru
-@@||img-ssl.xvideos.com.fpbns.net^$domain=xvideos.com
+@@||fpbns.net^$domain=xvideos.com|xhamster.com
 @@||imgsmail.ru^$domain=mail.ru|pandao.ru
 @@||ipic.su^$image
 @@||irc-ws.chat.twitch.tv^$websocket,domain=twitch.tv
