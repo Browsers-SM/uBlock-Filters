@@ -432,7 +432,7 @@
 *img*/promo*$domain=~linkyou.ru
 *imgads*
 *info/?*$script,popup
-*intim*shop*
+*intim*$3p
 *js&key=*$3p
 *js*/seo*$script
 *js*ads*$script,domain=~drive.google.com
@@ -457,12 +457,11 @@
 *log.php?id*
 *logger*$domain=~blogspot.ru|~blogspot.com|~blogger.com
 *loginza*
-*marketgid*
-*marketplace*
+*market*$3p
 *maxiad*
 *media-*.ru^$3p,~image
 *media.*com^$3p,~image,domain=~sndcdn.com|~soundcloud.com|~reddit.com
-*media.*ru^$3p,~image,domain=~elle.ru
+*media.*ru^$3p,~image
 *metri*$~image,domain=~mobileoc.ru
 *mobiquo*
 *money*$3p,domain=~yandex.ru
@@ -1355,7 +1354,7 @@
 ||upsellit.com^
 ||upto*.com^$3p
 ||uralweb.ru^$3p
-||use*$3p,domain=~ok.ru|~ruplay.market
+||use*$3p,domain=~ok.ru|~ruplay.market|~elle.ru
 ||usuarios-online.com^
 ||utilieur.com^
 ||utm.*
