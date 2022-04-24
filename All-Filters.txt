@@ -1823,7 +1823,7 @@ yap.ru,yaplakal.com,yapfiles.ru##[href*="/go/?http"]
 @@$3p,image,domain=google.ru
 @@$csp,domain=invi.tv|rutube.ru|ventusky.com|xvideos.com
 @@$elemhide,domain=accounts.google.com|e.mail.ru|lifehacker.com|mail.google.com|mail.yandex.ru|msdn.microsoft.com|pcradio.ru|svyaznoy.ru|tele2.ru|wildberries.ru|alibaba.com
-@@$frame,domain=spaces.im|spac1.net|spaces-blogs.com|videochart.net|vk.com|youtube.googleapis.com
+@@$frame,domain=spaces.im|spac1.net|spaces-blogs.com|videochart.net|vk.com
 @@$genericblock,domain=kp.ru
 @@$generichide,domain=2ip.ru|mozilla-russia.org|mts.ru|overclockers.ru
 @@$image,frame,script,domain=api.kanobu.ru|embed.kanobu.ru|games.kanobu.ru
@@ -1835,7 +1835,6 @@ yap.ru,yaplakal.com,yapfiles.ru##[href*="/go/?http"]
 @@*4pda.*/forum/dl/post/*
 @@*account*$script,image,frame
 @@*api-maps.yandex.ru^
-@@*apis.$domain=accounts.google.com|content.googleapis.com|google.com|google.ru|sourceforge.net|thinkwithgoogle.com|youtube.com
 @@*captcha*
 @@*comment*$xhr,domain=youtube.com
 @@*dbank*^$domain=huawei.com
@@ -1876,7 +1875,7 @@ yap.ru,yaplakal.com,yapfiles.ru##[href*="/go/?http"]
 @@||google.*/xjs/*$script
 @@||google.com*maps*
 @@||google.com/cse?*$frame
-@@||googleapis.com/custom*$script
+@@||googleapis.com^
 @@||googleusercontent.com^$frame,domain=google.com|google.ru
 @@||googlevideo.com/videoplayback?*
 @@||gosuslugi.ru^$domain=gosuslugi.ru
@@ -1897,7 +1896,6 @@ yap.ru,yaplakal.com,yapfiles.ru##[href*="/go/?http"]
 @@||liveleak.com^$frame
 @@||login.vk.com^
 @@||mail.yandex.net^$domain=mail.yandex.ru
-@@||maps.googleapis.com^
 @@||maps.gstatic.com^
 @@||market.yandex.ru^$xhr,domain=market.yandex.ru
 @@||matchid.adfox.yandex.ru^
