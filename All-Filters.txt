@@ -353,7 +353,7 @@
 *beacon*$~image
 *begun*
 *bnnr*
-*bns.*
+*bns.*$domain=~inmood.ru
 *brand*$popup
 *brandimg*
 *brch*
@@ -471,7 +471,7 @@
 *newclk*
 *news*$3p,~image,domain=~ria.com|~yandex.ru|~yastatic.net|~pulscen.ru|~ok.ru
 *nwgsm*
-*opena*$script,domain=~inmood.ru
+*opena*$script
 *orphus*$domain=~orphus.ru
 *page*rank*$3p
 *pagead*
