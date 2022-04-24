@@ -461,7 +461,7 @@
 *maxiad*
 *media-*.ru^$3p,~image
 *media.*com^$3p,~image,domain=~sndcdn.com|~soundcloud.com|~reddit.com
-*media.*ru^$3p,~image
+*media.*ru^$3p,~image,domain=~elle.ru
 *metri*$~image,domain=~mobileoc.ru
 *mobiquo*
 *money*$3p,domain=~yandex.ru
