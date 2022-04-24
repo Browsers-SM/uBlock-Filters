@@ -597,9 +597,8 @@
 *viewb.*
 *viewt.*
 *vk*sync*,domain=~google.ru|~google.com
-*vkontakte*$3p
 *vsemayki*
-*vulkan*
+*vulkan*$3p
 *wap*$3p,~image,domain=~sndcdn.com|~soundcloud.com
 *warship*$domain=~worldofwarships.ru
 *xtcore*
@@ -752,11 +751,8 @@
 ||candy.vl.ru^
 ||car*$3p
 ||cash*$3p
-||cdn.hgdat.com^
 ||cdn.mxpnl.com^
-||cdn.unipag.com^
 ||cdn.ywxi.net^
-||cdn.zingaya.com^
 ||cedexis.com^
 ||cetrk.com^
 ||cha*$3p
@@ -904,10 +900,7 @@
 ||go2$3p
 ||go3$3p
 ||gogettop.ru^
-||goo.gl^
-||good*$3p
-||goon.ru^$3p
-||goossb.com^
+||goo*$3p
 ||got*$3p
 ||goviral*
 ||gra*$3p
@@ -923,6 +916,7 @@
 ||heelwork.com^
 ||hel*$3p
 ||hgb*$3p
+||hgdat.com^
 ||hgfsdzfs.com^
 ||hghit.com^
 ||hhos.ru^$3p
@@ -1220,7 +1214,6 @@
 ||rle.ru^
 ||rmb*
 ||rnnuw.com^
-||robottext*
 ||roo*$3p
 ||rorer.ru^
 ||ros*$3p
@@ -1350,6 +1343,7 @@
 ||ulog*$3p
 ||umekana.ru^
 ||uni*$3p
+||unipag.com^
 ||up4um.com^
 ||upsellit.com^
 ||upto*.com^$3p
@@ -1398,7 +1392,6 @@
 ||wat*$3p
 ||weather*$3p,domain=~yandex.ru
 ||web*$3p,domain=~web.tlgrm.ru|~championat.com|~twitch.tv|~radio.pp.ru|~500px.com|~youla.ru|~apteka.ru
-||webanketa.com^$3p
 ||weclever.ru^
 ||whisla.com^
 ||wi.yandex.net^
@@ -1450,6 +1443,7 @@
 ||zedo.com^
 ||zemanta.com^
 ||zen*$3p
+||zingaya.com^
 ||zomro.com^$3p
 ||zptjv.com^
 ||zrlcr.com^
@@ -1970,7 +1964,6 @@ yap.ru,yaplakal.com,yapfiles.ru##[href*="/go/?http"]
 @@||vk.com/js/cmodules/web/*
 @@||vk.go.mail.ru^$xhr,domain=vk.com
 @@||vkuservideo.net^
-@@||vsemayki.ru^$domain=vsemayki.ru
 @@||w.tools^$domain=joyreactor.cc
 @@||wambacdn.net^$domain=love.mail.ru
 @@||wb.ru^$domain=wildberries.ru
