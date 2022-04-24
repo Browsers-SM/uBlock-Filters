@@ -343,7 +343,7 @@
 *bann*$3p,~image,~xhr
 *bann*$script,domain=~ria.ru
 *bann*.html|
-*banner*$1p,xhr,domain=~beru.ru|~sima-land.ru|~dns-shop.ru
+*banner*$1p,xhr,domain=~sima-land.ru|~dns-shop.ru
 *banner*$3p,~image
 *banner.*$3p,~image
 *banner/*php$3p
@@ -353,7 +353,7 @@
 *beacon*$~image
 *begun*
 *bnnr*
-*bns.*$domain=~inmood.ru
+*bns.*
 *brand*$popup
 *brandimg*
 *brch*
@@ -457,7 +457,7 @@
 *log.php?id*
 *logger*$domain=~blogspot.ru|~blogspot.com|~blogger.com
 *loginza*
-*market*$3p
+*market*$3p,domain=~yandex.ru
 *maxiad*
 *media-*.ru^$3p,~image
 *media.*com^$3p,~image,domain=~sndcdn.com|~soundcloud.com|~reddit.com
@@ -2016,7 +2016,7 @@ google.*,mail.ru,yandex.ru#@#[href*="tomsk.ru"]
 google.*,sanvol.ru#@#[target]>[src*="/shop"]
 google.*,yandex.ru,duckduckgo.com,xvideos.com,vsemayki.ru#@#[href*="777.com"],[href*="777.net"],[href*="adwcleaner.ru"],[href*="goo.gl/"],[href*="azino"],[href*="urlguard"],[href*="vsemayki"],[href*="raskruti.net"],[href*="pixelmarkway.com"],[href*="russian-cabaret.ru"],[href*="wt.link"],[href*="/0t.se"],[href*="leon.ru"],[href*="/ivnz.ru"],[href*="kompot.bz"],[href*="wargaming"],[href*="meutrf.com"],[href*="fatcats.market"],[href*="alitools.io"],[href*="bit.ly"],[href*="megabonus.com"],[href*="ubi.li"],[href*="letyshops.com"],[href*="schlock.ru"],[href*="isv-group.io"],[href*="expressfromus.com"],[href*="appmetrica.yandex.com"],[href*="tennisi.bet"],[href*="betcity.ru"],[href*="vk.cc"],[href*="aff1xstavka.top"],[href*="fl.team"],[href*="xbet"],[href*="awaps.yandex.net"],[href*="ali.pub"],[href*="ma-static.ru"]
 ok.ru#@#[href*="_aid="]
-ok.ru,beru.ru#@#[style*="bann"]
+ok.ru#@#[style*="bann"]
 ridus.ru#@#[class*="adfox"]
 softwareok.com#@#[id^="banner_"]
 spac1.*,spaces.*#@#[class*="_adv_"]
