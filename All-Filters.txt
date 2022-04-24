@@ -575,12 +575,7 @@
 *tizz*$script
 *tns.*$frame
 *topban*
-*track*$3p,domain=~bountysource.com|~fishki.net
-*trackad*
-*tracker.js*
-*tracker.php*
-*tracking*,domain=~pochta.ru
-*trackjs*
+*track*$3p,domain=~bountysource.com|~fishki.net|~pochta.ru
 *trade*$3p
 *traf*$3p
 *trend*$script,3p
