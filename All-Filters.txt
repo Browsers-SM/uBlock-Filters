@@ -597,7 +597,7 @@
 *viewb.*
 *viewt.*
 *vk*sync*,domain=~google.ru|~google.com
-*vsemayki*
+*vsemayki*$3p
 *vulkan*$3p
 *wap*$3p,~image,domain=~sndcdn.com|~soundcloud.com
 *warship*$domain=~worldofwarships.ru
