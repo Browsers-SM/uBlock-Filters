@@ -136,7 +136,7 @@
 */br-*
 */br.*
 */br/*$~image
-*/brands*$3p,domain=~wildberries.ru
+*/brands*$3p
 */bs.*
 */bs/*
 */bx/*$script
@@ -156,7 +156,7 @@
 */ga.*
 */ga_*
 */geo*php|$3p
-*/geo/*$xhr,domain=~wildberries.ru
+*/geo/*$xhr
 */get.*$script,domain=~airdroid.com
 */getinf*
 */go.*$frame
@@ -453,7 +453,7 @@
 *link.*ru^$3p
 *linkad*
 *livead*
-*log.*$3p,domain=~blogspot.ru|~blogspot.com|~wildberries.ru
+*log.*$3p,domain=~blogspot.ru|~blogspot.com
 *log.php?id*
 *logger*$domain=~blogspot.ru|~blogspot.com|~blogger.com
 *loginza*
@@ -519,11 +519,11 @@
 *reclam*$3p
 *redir*$3p,domain=~youtube.com
 *redir*$script,frame
-*redtram*$domain=~redtram.com
-*refer*$script,xhr,domain=~otvet.mail.ru|~dns-shop.ru|~android.com|~4pda.ru|~4pda.to|~wildberries.ru
+*redtram*$3p
+*refer*$3p,script,xhr
 *reforum*$domain=~reforum.ru
 *richarbuz*
-*roll*$3p,domain=~wildberries.ru
+*roll*$3p
 *rotat*$script,frame
 *rotoban*
 *rtb.*
@@ -1976,6 +1976,7 @@ yap.ru,yaplakal.com,yapfiles.ru##[href*="/go/?http"]
 @@||wb.ru^$domain=wildberries.ru
 @@||wbstatic.net^$domain=wildberries.ru
 @@||whichbrowser.net^$domain=html5test.com
+@@||wildberries.ru^$domain=wildberries.ru
 @@||wmbcdn.com^$domain=mail.ru|mamba.ru
 @@||xvideos-cdn.com^$domain=xvideos.com
 @@||ya*$domain=hd.kinopoisk.ru
