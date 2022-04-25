@@ -541,10 +541,7 @@
 *share42*$script
 *shareaholic*
 *shop.ru^$3p,domain=~dexp.club
-*show*&t=*
-*show.php?*$3p
-*showads*
-*showban*
+*show*$3p
 *site*$3p,domain=~irr.ru|~box.com|~aquacity31.ru|~spinningline.ru|~live.com|~santen68.ru|~wixsite.com|~apteka.ru|~yandex.ru
 *smallad*
 *smartban*
@@ -571,7 +568,6 @@
 *teaser*$script,frame,xhr
 *ticket.php*
 *tizer*$script,xhr,popup
-*tizshow*
 *tizz*$script
 *tns.*$frame
 *topban*
@@ -1220,7 +1216,6 @@
 ||ru.ru^
 ||ru/b/*
 ||ru/banner*$3p
-||ru/shows*$script
 ||ru/track*$script
 ||ruad.*
 ||rub*$3p
