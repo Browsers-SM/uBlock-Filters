@@ -51,7 +51,6 @@
 *-bc.*$3p
 *-bn.*
 *-rek-*
-*-rekl*$~image
 *-seo*$script
 *.ad*$3p,xhr,domain=~pornhub.com|~xda-developers.com
 *.adn*
@@ -61,7 +60,6 @@
 *.br*$3p,script
 *.php?*&idzone*
 *.php?iframe_id*
-*.rekl*
 *.ru/?$script,frame
 *.ru/ad/*
 */ad&*
@@ -188,7 +186,6 @@
 */rek.*
 */rek/*
 */rek2*
-*/rekl*
 */rk/*$~xhr
 */rkl*
 */rn*$1p,xhr
@@ -270,7 +267,6 @@
 *_ga.*
 *_promo*$3p,~image
 *_recl*
-*_rekl*$~image
 *_rtb*
 *_seo*$script
 *ad*?r*$domain=~adoptopenjdk.net|~filmix.ac
@@ -521,6 +517,7 @@
 *redtram*$3p
 *refer*$3p,script,xhr
 *reforum*$domain=~reforum.ru
+*rekl*$3p,~image
 *richarbuz*
 *roll*$3p
 *rotat*$script,frame
