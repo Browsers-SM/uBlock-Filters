@@ -172,7 +172,7 @@
 */mob/*$script,xhr
 */mtb*
 */out.php*
-*/promo*$3p,popunder,frame
+*/promo*$3p,popup,popunder,script,frame,domain=~blackview.pro|~vamvelosiped.ru|~linkyou.ru
 */px.gif*&rn*
 */r.*$script
 */r.php?id=*
@@ -410,10 +410,8 @@
 *host*$3p,~image,domain=~virustotal.com|~rufus.ie
 *iframead*
 *image*/ads*
-*image*/promo*$domain=~blackview.pro|~vamvelosiped.ru
 *image.php?*$3p,domain=~nnmclub.to|~nnmclub.ch
 *imageads*
-*img*/promo*$domain=~linkyou.ru
 *imgads*
 *info/?*$script,popup
 *intim*$3p
@@ -558,7 +556,6 @@
 *usead*
 *user_info*$3p
 *viboom*
-*videoad_*
 *viewad*
 *viewb.*
 *viewt.*
