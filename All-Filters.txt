@@ -1845,6 +1845,7 @@ yap.ru,yaplakal.com,yapfiles.ru##[href*="/go/?http"]
 @@*thumb*$image
 @@*upload*$~image,domain=vk.com
 @@*weather*$xhr,domain=yandex.ru
+@@*youtube*google.com^
 @@||192.168.8.1
 @@||accounts.google.com^$popup
 @@||adobe.com^$script,domain=adobe.com
@@ -1979,7 +1980,7 @@ yap.ru,yaplakal.com,yapfiles.ru##[href*="/go/?http"]
 @@||yastatic.net/docviewer*$domain=docviewer.yandex.ru
 @@||yastatic.net^$domain=afisha.ru|market.yandex.ru|radio.yandex.ru|video.yandex.ru
 @@||youla.*$domain=youla.ru
-@@||youtube.*embed*$script,frame
+@@||youtube.*embed*
 @@||youtube.com/s/player/*
 !
 ! ИНДИВИДУАЛЬНЫЕ ИСКЛЮЧЕНИЯ CSS
