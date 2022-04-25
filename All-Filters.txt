@@ -399,7 +399,6 @@
 *girl*$frame
 *goog*anal*
 *goog*tag*$domain=~youtube.com
-*googlead*
 *goto*url=*$popup,script
 *gravityrd*
 *guide.*$3p
@@ -429,6 +428,7 @@
 *landing*$popup
 *largead*
 *layerad*
+*lead*$3p
 *leaseweb*
 *link*pop*up*$script,frame
 *link.*$3p
@@ -622,10 +622,7 @@
 ||an.*
 ||android.com^$3p
 ||ant*$3p
-||api.rnet.plus^
-||apis.google.com^
-||apishops.org^
-||apitech.ru^
+||api*$3p
 ||aport.ru^$3p
 ||app*$3p,domain=~virustotal.com|~my.mail.ru|~appspot.com|~apppage.net|~mi.com
 ||aprtx.com^
@@ -718,7 +715,6 @@
 ||cedexis.com^
 ||cetrk.com^
 ||cha*$3p
-||chaturbate.com^
 ||chultoux.com^
 ||ck*$3p
 ||cl*$3p,popup,~image,domain=~firefox.com|~mozilla.com|~mozilla.org|~mail.ru|~leroymerlin.ru|~zoom.us|~santehnika-tut.ru|~spinningline.ru|~petrovich.ru|~bluestacks.com|~samsung.com|~airdroid.com|~dropbox.com|~dropboxcaptcha.com|~arkoselabs.com|~sportmaster.ru|~yandex.ru|~dns-shop.ru|~joom.com
@@ -794,7 +790,6 @@
 ||dzubavstal.com^
 ||e-$3p
 ||e1.ru^$3p
-||easylead.ru^
 ||eff*$3p
 ||ekod*$3p
 ||elama.ru^
@@ -968,7 +963,6 @@
 ||kuveres.com^
 ||kz^$~image,domain=ru|com|net
 ||lad*$3p
-||lead*$3p
 ||leg*$3p
 ||leokross.com^
 ||lepubs.com^
