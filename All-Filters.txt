@@ -368,11 +368,7 @@
 *cityid*$frame
 *clc.*$3p
 *clck*$~image
-*click*$popup,script,frame,domain=~stelsvelo.ru
-*click/*$popup
-*click2.*$popup
-*click?*$popup
-*clicks*$image,script,frame,popup
+*click*$3p,popup,popunder,script,image,frame,domain=~stelsvelo.ru
 *cnt.*
 *cnt=*&rnd=*
 *cnt|
