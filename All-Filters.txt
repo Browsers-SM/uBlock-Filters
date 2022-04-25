@@ -423,7 +423,6 @@
 *hits*$3p
 *hive*$3p,domain=~google.com
 *host*$3p,~image,domain=~virustotal.com|~rufus.ie
-*html?*target*$domain=~yandex.ru|~yandex.com|~yandex.net
 *iframead*
 *image*/ads*
 *image*/promo*$domain=~blackview.pro|~vamvelosiped.ru
@@ -538,8 +537,7 @@
 *seo.*$3p
 *serf.*$3p
 *serv*$3p,domain=~ntp-servers.net|~ozon.ru|~wixsite.com|~yandex.ru
-*share42*$script
-*shareaholic*
+*share*$3p
 *shop.ru^$3p,domain=~dexp.club
 *show*$3p
 *site*$3p,domain=~irr.ru|~box.com|~aquacity31.ru|~spinningline.ru|~live.com|~santen68.ru|~wixsite.com|~apteka.ru|~yandex.ru
@@ -581,7 +579,6 @@
 *urlads*
 *usead*
 *user_info*$3p
-*utarget*
 *viboom*
 *videoad_*
 *viewad*
@@ -594,7 +591,6 @@
 *warship*$domain=~worldofwarships.ru
 *xtcore*
 *xxx*$frame
-*yashare*
 *zoneid*$3p,script,frame,xhr,popup
 ||1bn31o3g.de^
 ||2022welcome.com^
@@ -966,7 +962,6 @@
 ||jfveak.com^
 ||joomag.com^
 ||jps.ru^
-||jquery-*php?share*
 ||jsengine.ru^
 ||jumpoutpopup.ru^
 ||jwpsrv.com^
@@ -1358,18 +1353,15 @@
 ||vihub.ru^
 ||vimgs.ru^
 ||vis*$3p
-||vk.*/share.$script
 ||vk.*community.*
+||vk.*widget*
 ||vk.cc^
-||vk.com*widget*
 ||vk.com/amt_lnkh?*
 ||vk.com/errors.php|
 ||vk.com/images/blank.mp4*
 ||vk.com/js/api/xdmHelper.js*
 ||vk.com/rtrg?*
-||vk.com/widget_recomm*$frame
 ||vk.me*/xdm.js*
-||vk.me*widget*
 ||vmet.ro^$3p
 ||vogo*$3p
 ||vpvsy.com^
@@ -1411,12 +1403,10 @@
 ||yahoo.com^
 ||yandex.*/ick/*
 ||yandex.*/search/yandcache.js|
-||yandex.st/share/*
 ||yandexadexchange.net^
 ||yastatic.net/daas/atom.js|
 ||yastatic.net/nearest.js|$domain=yandex.ru
 ||yastatic.net/pcode/adfox/loader.js|
-||yastatic.net/share*/share.js|
 ||yatr.ru^
 ||ybobra.ru^$3p
 ||yell.ru^$3p
