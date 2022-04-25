@@ -1141,7 +1141,7 @@
 ||r.mail.*gif|$domain=~mail.ru
 ||r.twimg.com^
 ||rabotayes.ru^
-||rad*$3p
+||rad*$3p,~image
 ||rambler.ru^$3p,script,xhr
 ||rare*$3p
 ||raskruty.ru^$3p
