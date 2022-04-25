@@ -300,8 +300,7 @@
 *adurl*$3p,script,frame
 *adv.*
 *adv=*
-*adver*$popup,~image
-*advert*
+*adver*$popup,popunder,frame,xhr,~image
 *advis*
 *adviz*
 *advs*
