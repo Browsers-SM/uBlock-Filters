@@ -356,13 +356,8 @@
 *bxslider*
 *cash.*$3p
 *casino*
-*cgi-*?id*$~image
-*cgi-*bann*
-*cgi-*geo*
-*cgi-*iframe*
-*cgi-*rnd=*
+*cgi-*$3p,~image
 *cgi?*$3p
-*cgi?id*
 *check*$3p,domain=~joom.com|~tiktok.com
 *cityads*
 *cityid*$frame
@@ -385,7 +380,6 @@
 *disqus*
 *dmca*$3p,domain=~dmca.com|~stackpathdns.com
 *domainid*
-*donat*$~frame
 *dosug*$3p,frame
 *doublepimp*
 *echo.*$3p
@@ -439,8 +433,7 @@
 *layerad*
 *leaseweb*
 *link*pop*up*$script,frame
-*link.*com^$3p
-*link.*ru^$3p
+*link.*$3p
 *linkad*
 *livead*
 *log.*$3p,domain=~blogspot.ru|~blogspot.com
@@ -483,9 +476,7 @@
 *phpad*
 *ping*$script,frame,domain=~zen.yandex.ru|~навелосипеде.рф
 *piwik*$script
-*pixel*$script,domain=~pixelbrush.ru
-*pixel*.gif?*$3p
-*pixel*.php*$3p
+*pixel*$3p
 *poker*$3p
 *pop.*$script,frame
 *popads*
@@ -497,11 +488,7 @@
 *popun*$popup,script,image
 *printads*
 *profit*$script,frame,domain=~vezemdetal.ru
-*promo*.com^$3p,popunder,domain=~youtube.com
-*promo*.mp4|
-*promo*.ru^$3p,popunder
-*promo*popu*$script
-*promo.*$popup,3p
+*promo*$3p,popup,popunder,script,image,frame,domain=~youtube.com
 *push*$3p,~image,domain=~spaces.im|~spac1.net|~spac1.com|~spaces-blogs.com
 *random*$popup
 *rblock*$xhr,domain=~ok.ru
@@ -534,8 +521,7 @@
 *show*$3p
 *site*$3p,domain=~irr.ru|~box.com|~aquacity31.ru|~spinningline.ru|~live.com|~santen68.ru|~wixsite.com|~apteka.ru|~yandex.ru
 *smallad*
-*smartban*
-*smartsize*
+*smart*$3p
 *socket.io*
 *softad/*
 *softbar/*$script
