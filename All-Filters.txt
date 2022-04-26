@@ -320,7 +320,6 @@
 *azino*
 *azino*$popup
 *bablo*
-*backlink*
 *ban*biz^$3p
 *ban*clk*
 *ban*com/*$3p
@@ -349,6 +348,7 @@
 *begun*
 *bnnr*
 *bns.*
+*board*$3p
 *brand*$popup
 *brandimg*
 *brch*
@@ -430,9 +430,7 @@
 *layerad*
 *lead*$3p
 *leaseweb*
-*link*pop*up*$script,frame
-*link.*$3p
-*linkad*
+*link*$3p
 *livead*
 *log.*$3p,domain=~blogspot.ru|~blogspot.com
 *log.php?id*
@@ -454,8 +452,7 @@
 *nwgsm*
 *opena*$script
 *orphus*$domain=~orphus.ru
-*page*rank*$3p
-*pagead*
+*page*$3p
 *partner*$3p,~xhr,domain=~yandex.ru
 *pay.*$3p
 *peelads*
@@ -550,7 +547,6 @@
 *traf*$3p
 *trend*$script,3p
 *trshop*
-*txtlink*
 *under.*$3p
 *urlads*
 *usead*
@@ -571,7 +567,6 @@
 ||2022welcome.com^
 ||24*$3p,~image
 ||289ci1imk.de^
-||2giga.link^
 ||2ip.ru^$3p
 ||39irqwnzlv.com^
 ||4dsply.com^
@@ -828,7 +823,6 @@
 ||fish*$3p
 ||fix$3p
 ||fla*$3p
-||flipboard.com^$3p
 ||flocktory.com^
 ||flurry.com^
 ||fotostrana.ru^$3p
@@ -900,7 +894,6 @@
 ||ij*$3p
 ||ikiif.com^
 ||ikolop.com^
-||ilinks.ru^$3p
 ||illiages.com^
 ||ilnk.ru^$3p
 ||im-web.ru^
@@ -973,7 +966,6 @@
 ||lijit.com^
 ||lik*$3p
 ||limo*$3p
-||link*$3p
 ||list-manage.com^
 ||live*$3p,~image,domain=~livejournal.com
 ||ljteas.com^
@@ -1019,7 +1011,7 @@
 ||mob*$3p
 ||mochi*.com*
 ||modern.ie^
-||moe.video^
+||moe*video*$3p
 ||moipodpiski.ssl.mts.ru^$3p,popup
 ||molinos.ru^
 ||mon*$3p,domain=~yandex.ru|~irr.ru
@@ -1039,7 +1031,6 @@
 ||mycomet.mail.ru^
 ||myfeed.ru^$3p
 ||myopening.ru^
-||mytopboard.ru^$3p
 ||n74s9.com^
 ||nanosemantics.*
 ||naydex.net^
@@ -1084,14 +1075,12 @@
 ||one*$3p
 ||onl*$3p
 ||op.yandex.ru^$3p
-||openlinks.ru^$3p
 ||opinionbar.com^
 ||opogame.com^$3p
 ||or.ru^
 ||outbrain.com^
 ||oyy.ru^
 ||oznul.com^
-||pagefair.com^
 ||palevo.com^
 ||par*$3p
 ||pay*$3p
@@ -1141,7 +1130,7 @@
 ||r.mail.*gif|$domain=~mail.ru
 ||r.twimg.com^
 ||rabotayes.ru^
-||rad*$3p,~image
+||rad*$3p
 ||rambler.ru^$3p,script,xhr
 ||rare*$3p
 ||raskruty.ru^$3p
