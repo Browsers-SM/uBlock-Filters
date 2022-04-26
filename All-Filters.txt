@@ -430,7 +430,7 @@
 *layerad*
 *lead*$3p
 *leaseweb*
-*link*$3p
+*link*$3p,~image
 *livead*
 *log.*$3p,domain=~blogspot.ru|~blogspot.com
 *log.php?id*
