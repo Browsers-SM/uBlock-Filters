@@ -617,7 +617,7 @@
 ||an.*
 ||android.com^$3p
 ||ant*$3p
-||api*$3p
+||api*$3p,domain=~yaplakal.com
 ||aport.ru^$3p
 ||app*$3p,domain=~virustotal.com|~my.mail.ru|~appspot.com|~apppage.net|~mi.com
 ||aprtx.com^
