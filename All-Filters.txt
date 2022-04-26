@@ -514,7 +514,7 @@
 *share*$3p
 *shop.ru^$3p,domain=~dexp.club
 *show*$3p
-*site*$3p,domain=~irr.ru|~box.com|~aquacity31.ru|~spinningline.ru|~live.com|~santen68.ru|~wixsite.com|~apteka.ru|~yandex.ru
+*site*$3p,domain=~irr.ru|~box.com|~aquacity31.ru|~spinningline.ru|~live.com|~santen68.ru|~wixsite.com|~apteka.ru|~yandex.ru|~fxsound.com
 *smallad*
 *smart*$3p
 *socket.io*
@@ -1331,7 +1331,7 @@
 ||w3.org^$3p
 ||wat*$3p
 ||weather*$3p,domain=~yandex.ru
-||web*$3p,domain=~web.tlgrm.ru|~championat.com|~twitch.tv|~radio.pp.ru|~500px.com|~youla.ru|~apteka.ru
+||web*$3p,~image,domain=~web.tlgrm.ru|~championat.com|~twitch.tv|~radio.pp.ru|~500px.com|~youla.ru|~apteka.ru
 ||weclever.ru^
 ||whisla.com^
 ||wi.yandex.net^
