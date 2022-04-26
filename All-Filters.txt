@@ -1408,9 +1408,7 @@
 *image.php?link*gif|$domain=nnmclub.to|nnmclub.ch
 |http://fastpic*jpg|
 ||4pda.*/79tJPvZFILa8.*
-||4pda.*/st/heat_map|
 ||4pda.*/st/ztm?*
-||4pda.*/stat*$xhr
 ||avito.ru*/px.js*
 ||avito.ru/stat/*
 ||banner*$domain=citilink.ru
