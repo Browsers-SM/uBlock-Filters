@@ -851,7 +851,7 @@
 ||go2$3p
 ||go3$3p
 ||gogettop.ru^
-||goo*$3p
+||goo*$3p,domain=~google.com|~google.ru
 ||got*$3p
 ||goviral*
 ||gra*$3p
