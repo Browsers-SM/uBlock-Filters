@@ -511,7 +511,6 @@
 *seo.*$3p
 *serf.*$3p
 *serv*$3p,domain=~ntp-servers.net|~ozon.ru|~wixsite.com|~yandex.ru
-*share*$3p
 *shop.ru^$3p,domain=~dexp.club
 *show*$3p
 *site*$3p,domain=~irr.ru|~box.com|~aquacity31.ru|~spinningline.ru|~live.com|~santen68.ru|~wixsite.com|~apteka.ru|~yandex.ru|~fxsound.com
