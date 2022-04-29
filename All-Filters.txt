@@ -338,7 +338,6 @@
 *banner/*php$3p
 *banr.*
 *bans*
-*bdriver*
 *beacon*$~image
 *begun*
 *bnnr*
@@ -354,8 +353,7 @@
 *cgi-*$3p,~image
 *cgi?*$3p
 *check*$3p,domain=~joom.com|~tiktok.com
-*cityads*
-*cityid*$frame
+*city*$3p
 *clc.*$3p
 *clck*$~image
 *click*$3p,popup,popunder,script,image,frame,domain=~stelsvelo.ru
