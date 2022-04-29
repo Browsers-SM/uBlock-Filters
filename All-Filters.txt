@@ -464,7 +464,7 @@
 *phpad*
 *ping*$script,frame,domain=~zen.yandex.ru|~навелосипеде.рф
 *piwik*$script
-*pixel*$3p
+*pixel*$3p,domain=~spcs.me
 *poker*$3p
 *pop.*$script,frame
 *popads*
