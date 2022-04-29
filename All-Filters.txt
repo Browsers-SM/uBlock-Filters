@@ -400,6 +400,7 @@
 *hits*$3p
 *hive*$3p,domain=~google.com
 *host*$3p,~image,domain=~virustotal.com|~rufus.ie
+*hunter*^$3p
 *iframead*
 *image*/ads*
 *image.php?*$3p,domain=~nnmclub.to|~nnmclub.ch
@@ -575,7 +576,6 @@
 ||addfiles.ru^$3p
 ||adforce.ru^
 ||adh*$3p
-||adl-hunter.com^
 ||adm*$3p
 ||adn*$3p
 ||adp*$3p
@@ -796,7 +796,6 @@
 ||faggrim.com^
 ||fairypays.com^
 ||fantasy-dream.ru^$3p
-||fast-hunter.com^
 ||fbcdn.net^
 ||fbr.*
 ||fdgeen.com^
