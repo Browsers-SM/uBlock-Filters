@@ -80,9 +80,7 @@
 */adget*
 */adli*
 */adload*
-*/admnt*
-*/ads*$3p,script,popunder,~image
-*/ads*rotat*
+*/ads*$3p,script,popup,popunder,~image
 */ads.*
 */ads/*
 */ads2.*
@@ -291,7 +289,6 @@
 *adpro*$3p
 *adriver*
 *adroot*
-*adrotat*
 *ads.com^$~image
 *ads.ru^$3p
 *ads.tv^$3p
@@ -301,8 +298,7 @@
 *adv.*
 *adv=*
 *adver*$popup,popunder,frame,xhr,~image
-*advis*
-*adviz*
+*advi*$3p
 *advs*
 *advt*
 *adwolf*
@@ -317,8 +313,7 @@
 *appban*
 *audioads*
 *avenue*$3p
-*azino*
-*azino*$popup
+*azino*$popup,popunder,frame,xhr,image
 *bablo*
 *ban*biz^$3p
 *ban*clk*
@@ -497,7 +492,7 @@
 *rekl*$3p,~image
 *richarbuz*
 *roll*$3p
-*rotat*$script,frame
+*rotat*$3p
 *rotoban*
 *rtb.*
 *ruletka*$3p
@@ -548,8 +543,6 @@
 *user_info*$3p
 *viboom*
 *viewad*
-*viewb.*
-*viewt.*
 *vsemayki*$3p
 *vulkan*$3p
 *wap*$3p,~image,domain=~sndcdn.com|~soundcloud.com
@@ -1510,7 +1503,7 @@ spaces.im,spac1.net,spac1.com,spaces-blogs.com##[id="common_error"]
 ##[data*="/b/"]
 ##[data*="bann"]
 ##[data*="brand"]
-##[data*="rotator"]
+##[data*="rotat"]
 ##[href*="&banner_"]
 ##[href*="&rek="]
 ##[href*=".com/c/"][href$=".php"]
