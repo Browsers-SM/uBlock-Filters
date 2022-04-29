@@ -515,7 +515,6 @@
 *show*$3p
 *site*$3p,domain=~irr.ru|~box.com|~aquacity31.ru|~spinningline.ru|~live.com|~santen68.ru|~wixsite.com|~apteka.ru|~yandex.ru|~fxsound.com
 *smallad*
-*smart*$3p
 *socket.io*
 *softad/*
 *softbar/*$script
