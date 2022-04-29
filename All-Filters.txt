@@ -226,7 +226,7 @@
 *=rtb*
 *=tds&*$image,script
 *=tiz*$3p
-*?ad*$script,frame
+*?ad*$3p,script,frame
 *?ads=*
 *?aff*$popup
 *?aid*$script,frame
