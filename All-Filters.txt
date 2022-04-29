@@ -593,7 +593,7 @@
 ||aisol.ru^
 ||aixcdn.com^
 ||aj2208.online^
-||alfainternet.$3p
+||alfainternet.*$3p
 ||ali*$3p,domain=~aliexpress.com|~aliexpress.ru|~rutracker.org|~aliradar.com
 ||alkodesign.ru^
 ||all*$3p,domain=~kp.ru|~trovo.live
@@ -620,9 +620,9 @@
 ||av.st^
 ||avtodispetcher.ru^$3p
 ||aw*$3p,~image,domain=~500px.com
-||awaps.yandex.$image,domain=~market.yandex.ru
+||awaps.yandex.*$image,domain=~market.yandex.ru
 ||azpoint.ws^
-||b.$frame
+||b.*$frame
 ||b2b*
 ||b3.mookie1.com^
 ||ba^$3p,script,popunder,frame
@@ -659,7 +659,7 @@
 ||bon*$3p
 ||bootstrapcdn.com^$domain=~kotel-t.ru|~kotel-electr.ru|~teplozhar.ru|~electrocotel.ru|~savido.net
 ||bot*$3p
-||bp.$script
+||bp.*$script
 ||bra*$3p
 ||breedac.com^
 ||brightcove.com^
@@ -682,7 +682,7 @@
 ||bz/*$3p,script,popunder,frame
 ||bzlwe.com^
 ||c*.rambler.ru^
-||c.$frame
+||c.*$frame
 ||c.uarating.com^
 ||c8.net.ua^
 ||cackle.me^$3p
@@ -727,7 +727,7 @@
 ||ctyzd.com^
 ||cufcw.com^
 ||cxense.com^
-||cy-pr.$3p
+||cy-pr.*$3p
 ||d-agency.net^
 ||da.ru^
 ||daccroi*.com
@@ -764,7 +764,7 @@
 ||dudamobile.com^
 ||dummyimage.com^
 ||dvsign*.net^
-||dw.$3p
+||dw.*$3p
 ||dycej.com^
 ||dyndns.com^
 ||dzubavstal.com^
@@ -831,7 +831,7 @@
 ||glavrich.*
 ||gmodules.com^
 ||gnezdo.ru^
-||go.$3p
+||go.*$3p
 ||go2$3p
 ||go3$3p
 ||gogettop.ru^
@@ -855,7 +855,7 @@
 ||hgfsdzfs.com^
 ||hghit.com^
 ||hhos.ru^$3p
-||hit.$3p
+||hit.*$3p
 ||hjiss.com^
 ||hmn.ru^$3p
 ||hnixr.com^
