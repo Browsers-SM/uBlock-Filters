@@ -792,7 +792,7 @@
 ||exdex.ru^$3p
 ||ext*$3p,domain=~yandex.ru
 ||ezoic.*
-||face*$3p
+||fac*$3p
 ||faggrim.com^
 ||fairypays.com^
 ||fantasy-dream.ru^$3p
