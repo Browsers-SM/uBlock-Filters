@@ -169,7 +169,6 @@
 */mob/*$script,xhr
 */mtb*
 */out.php*
-*/promo*$3p,popup,popunder,script,frame,domain=~blackview.pro|~vamvelosiped.ru|~linkyou.ru
 */px.gif*&rn*
 */r.*$script
 */r.php?id=*
@@ -477,7 +476,7 @@
 *popunder*$~xhr,domain=~cackle.me|~dns-shop.ru|~livejournal.com|~mail.ru|~miuipro.ru|~onlinezakladki.ru|~rian.ru|~support.kaspersky.ru|~vk.com
 *printads*
 *profit*$script,frame,domain=~vezemdetal.ru
-*promo*$3p,popup,popunder,script,image,frame,domain=~youtube.com
+*promo*$3p,popup,popunder,script,image,frame,domain=~youtube.com|~blackview.pro|~vamvelosiped.ru|~linkyou.ru
 *random*$popup
 *rblock*$xhr,domain=~ok.ru
 *rbn.*
