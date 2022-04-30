@@ -430,6 +430,7 @@
 *log.php?id*
 *logger*$domain=~blogspot.ru|~blogspot.com|~blogger.com
 *loginza*
+*manager*$3p
 *market*$3p,domain=~yandex.ru
 *maxiad*
 *media-*.ru^$3p,~image
@@ -658,7 +659,6 @@
 ||bogi.ru^
 ||bokroet.com^
 ||bon*$3p
-||bootstrapcdn.com^$domain=~kotel-t.ru|~kotel-electr.ru|~teplozhar.ru|~electrocotel.ru|~savido.net
 ||bot*$3p
 ||bp.*$script
 ||bra*$3p
@@ -724,7 +724,6 @@
 ||crpoy.com^
 ||crwdcntrl.net^
 ||csht.ru^
-||ctrmanager.com^
 ||ctyzd.com^
 ||cufcw.com^
 ||cxense.com^
@@ -739,7 +738,6 @@
 ||dar*$3p
 ||davarello.com^
 ||dbbsrv.com^
-||ddmanager.ru^
 ||ddomb.com^
 ||de^$3p,script,frame
 ||delston-capital.com^
@@ -1182,7 +1180,6 @@
 ||slo*$3p
 ||smart*$3p
 ||smi2.*$3p
-||sms-manager.ru^
 ||sna*$3p
 ||sof*$3p,domain=~userstyles.org
 ||soknm.com^
