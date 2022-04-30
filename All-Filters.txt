@@ -1184,7 +1184,7 @@
 ||sof*$3p,domain=~userstyles.org
 ||soknm.com^
 ||sopital.com^
-||spa*$3p,script,frame,domain=~spcs.me|~spac1.net|~spaces-blogs.com
+||spa*$3p,script,frame,domain=~spcs.me|~spac1.net|~spac1.ru|~spaces-blogs.com
 ||speedtest.net^$3p
 ||spot.im^
 ||spruto.org^
