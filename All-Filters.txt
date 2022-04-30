@@ -627,7 +627,7 @@
 ||b2b*
 ||b3.mookie1.com^
 ||ba^$3p,script,popunder,frame
-||bann^$3p
+||ban^$3p
 ||bar*$3p
 ||bataline.ru^
 ||baz*$3p
@@ -1373,7 +1373,6 @@
 ! ИНДИВИДУАЛЬНЫЕ
 *gobro.mail.ru/*
 *image.php?link*gif|$domain=nnmclub.to|nnmclub.ch
-|http://fastpic*jpg|
 ||4pda.*/79tJPvZFILa8.*
 ||4pda.*/st/ztm?*
 ||avito.ru*/px.js*
@@ -1505,7 +1504,6 @@ spcs.me,spac1.*,spaces-blogs.com##[id="common_error"]
 ##[href*="/cnt/"]
 ##[href*="/goto.php"]
 ##[href*="/partner/"]
-##[href*="/promo/"]
 ##[href*="/t.mail.ru"]
 ##[href*="777.com"],[href*="777.net"],[href*="adwcleaner.ru"],[href*="goo.gl/"],[href*="azino"],[href*="urlguard"],[href*="vsemayki"],[href*="raskruti.net"],[href*="pixelmarkway.com"],[href*="russian-cabaret.ru"],[href*="wt.link"],[href*="/0t.se"],[href*="leon.ru"],[href*="/ivnz.ru"],[href*="kompot.bz"],[href*="wargaming"],[href*="meutrf.com"],[href*="fatcats.market"],[href*="alitools.io"],[href*="bit.ly"],[href*="megabonus.com"],[href*="ubi.li"],[href*="letyshops.com"],[href*="schlock.ru"],[href*="isv-group.io"],[href*="expressfromus.com"],[href*="appmetrica.yandex.com"],[href*="tennisi.bet"],[href*="betcity.ru"],[href*="vk.cc"],[href*="aff1xstavka.top"],[href*="fl.team"],[href*="xbet"],[href*="awaps.yandex.net"],[href*="ali.pub"],[href*="ma-static.ru"]
 ##[href*="=click&"]
@@ -1639,7 +1637,6 @@ spcs.me,spac1.*,spaces-blogs.com##[id="common_error"]
 ##[target][href*="li.ru/go"]
 ##[target][href*="mediaget"]
 ##[target][href*="partn"]
-##[target][href*="promo"]
 ##[target][href*="target"]
 ##[target][href*="vulkan"]
 ##[target][style*="z-index"]
@@ -1893,8 +1890,6 @@ yap.ru,yaplakal.com,yapfiles.ru##[href*="/go/?http"]
 !
 ! ИНДИВИДУАЛЬНЫЕ ИСКЛЮЧЕНИЯ CSS
 12talerov.ru#@#[class*="bann"][class*="bottom"]
-220-volt.ru#@#[href*="/promo/"]
-addons.mozilla.org,google.*#@#[target][href*="promo"]
 games.mail.ru#@#[target][href*="/adid"]
 games.mail.ru,e.mail.ru,youla.ru,yandex.*#@#[class*="adver"]
 go.mail.ru#@#[href*="//go"][href*=".mail.ru"]
@@ -1910,7 +1905,7 @@ google.*,mail.ru,toptracker.ru,yandex.ru,4pda.*#@#[target][href*="game"]
 google.*,mail.ru,yandex.ru#@#[href*="tankion"]
 google.*,mail.ru,yandex.ru#@#[href*="tomsk.ru"]
 google.*,sanvol.ru#@#[target]>[src*="/shop"]
-google.*,yandex.ru,duckduckgo.com,xvideos.com,vsemayki.ru#@#[href*="777.com"],[href*="777.net"],[href*="adwcleaner.ru"],[href*="goo.gl/"],[href*="azino"],[href*="urlguard"],[href*="vsemayki"],[href*="raskruti.net"],[href*="pixelmarkway.com"],[href*="russian-cabaret.ru"],[href*="wt.link"],[href*="/0t.se"],[href*="leon.ru"],[href*="/ivnz.ru"],[href*="kompot.bz"],[href*="wargaming"],[href*="meutrf.com"],[href*="fatcats.market"],[href*="alitools.io"],[href*="bit.ly"],[href*="megabonus.com"],[href*="ubi.li"],[href*="letyshops.com"],[href*="schlock.ru"],[href*="isv-group.io"],[href*="expressfromus.com"],[href*="appmetrica.yandex.com"],[href*="tennisi.bet"],[href*="betcity.ru"],[href*="vk.cc"],[href*="aff1xstavka.top"],[href*="fl.team"],[href*="xbet"],[href*="awaps.yandex.net"],[href*="ali.pub"],[href*="ma-static.ru"]
+google.*,yandex.*,duckduckgo.com,xvideos.com,vsemayki.ru#@#[href*="777.com"],[href*="777.net"],[href*="adwcleaner.ru"],[href*="goo.gl/"],[href*="azino"],[href*="urlguard"],[href*="vsemayki"],[href*="raskruti.net"],[href*="pixelmarkway.com"],[href*="russian-cabaret.ru"],[href*="wt.link"],[href*="/0t.se"],[href*="leon.ru"],[href*="/ivnz.ru"],[href*="kompot.bz"],[href*="wargaming"],[href*="meutrf.com"],[href*="fatcats.market"],[href*="alitools.io"],[href*="bit.ly"],[href*="megabonus.com"],[href*="ubi.li"],[href*="letyshops.com"],[href*="schlock.ru"],[href*="isv-group.io"],[href*="expressfromus.com"],[href*="appmetrica.yandex.com"],[href*="tennisi.bet"],[href*="betcity.ru"],[href*="vk.cc"],[href*="aff1xstavka.top"],[href*="fl.team"],[href*="xbet"],[href*="awaps.yandex.net"],[href*="ali.pub"],[href*="ma-static.ru"]
 ok.ru#@#[href*="_aid="]
 ok.ru#@#[style*="bann"]
 ridus.ru#@#[class*="adfox"]
