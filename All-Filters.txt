@@ -546,6 +546,7 @@
 *vulkan*$3p
 *wap*$3p,~image,domain=~sndcdn.com|~soundcloud.com
 *warship*$domain=~worldofwarships.ru
+*work*$3p
 *xtcore*
 *xxx*$frame
 *zoneid*$3p,script,frame,xhr,popup
@@ -848,7 +849,6 @@
 ||hardwarez.ru^
 ||hdgo.club^
 ||heatmap.it^
-||heelwork.com^
 ||hel*$3p
 ||hgb*$3p
 ||hgdat.com^
@@ -862,7 +862,6 @@
 ||holder.com.ua^
 ||hot*$3p
 ||hsdn.org^$3p,domain=~ntp-servers.net
-||hstpnetwork.com^
 ||htkornet.ru^
 ||huffson-derivery.com^
 ||hybrid.ai^
@@ -933,7 +932,6 @@
 ||krible.*
 ||kro*$3p
 ||krutilka.*
-||krwork.ru^
 ||kt5850pjz0.com^
 ||kupi*$3p
 ||kursvalut.com^
@@ -1026,7 +1024,6 @@
 ||net//*$3p
 ||netkam.ru^
 ||netpeak.ru^
-||network-t.net^
 ||new*$3p
 ||nextonmarket.com^$3p
 ||ng*$3p,script
@@ -1359,7 +1356,6 @@
 ||youraise.ru^
 ||ysexy.org^
 ||yudjes.com^
-||yumenetworks.com^
 ||z0z.ru^
 ||zapbox.ru^
 ||zedo.com^
