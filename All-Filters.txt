@@ -1420,7 +1420,7 @@ spcs.me,spac1.*,spaces-blogs.com##[id="common_error"]
 ||m*.spcs.me^$script
 ||spac*/lpex/*&tag=&eventid=&time=*
 ||spcs*/lpex/*&tag=&eventid=&time=*
-@@*/js/*/b/*.js?*$domain=spcs.me|spac1.net|spac1.ru|spaces-blogs.com
+@@*/js/*/b/*.js?*$domain=spcs.me|spac1.net|spac.me|spac1.ru|spaces-blogs.com
 !
 ! ОСНОВНЫЕ CSS
 ##[class$=" adv"]
