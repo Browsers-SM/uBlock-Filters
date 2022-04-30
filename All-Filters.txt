@@ -479,7 +479,6 @@
 *printads*
 *profit*$script,frame,domain=~vezemdetal.ru
 *promo*$3p,popup,popunder,script,image,frame,domain=~youtube.com
-*push*$3p,~image,domain=~spcs.me|~spac1.net|~spaces-blogs.com
 *random*$popup
 *rblock*$xhr,domain=~ok.ru
 *rbn.*
