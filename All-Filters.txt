@@ -508,7 +508,6 @@
 *softad/*
 *softbar*$script
 *spb.ru^$3p
-*spons*
 *spy.*$3p
 *stat*$3p,websocket,popup,popunder
 *superad*
