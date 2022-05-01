@@ -1579,7 +1579,6 @@ spcs.me,spac1.*,spaces-blogs.com##[id="common_error"]
 ##[id^="rtb"]
 ##[id^="tads"]
 ##[id^="tblock"]
-##[id^="vk_recomm"]
 ##[onclick*="?aid="]
 ##[onclick*="sale"]
 ##[onclick^="adv"]
@@ -1594,14 +1593,8 @@ spcs.me,spac1.*,spaces-blogs.com##[id="common_error"]
 ##[src*="bannerid"]
 ##[src*="bornpay"]
 ##[style*="bann"]
-##[style*="donat"]
 ##[style^="display"][href*="/go."]
 ##iframe[style][src*="bann"]
-!
-! Nofollow
-##[class*="AdLink"][target][rel="nofollow"]
-##[href*="?ref="][rel="nofollow"]
-##[rel="nofollow"][href*="?user="]
 !
 ! Target and Onclick
 ##[class^="rnd-"][target]
@@ -1917,6 +1910,5 @@ xhamster.com#@#[class*="popunder"]
 yandex.*#@#[class*="_adv-"]
 yandex.*#@#[class*="adblock"]
 !
-! Specially for Extensions.
-@@moz-extension://*
-@@moz-extension://*$popup
+! For Extensions.
+@@moz-extension://*$popup,frame,script,image,xhr,websocket
