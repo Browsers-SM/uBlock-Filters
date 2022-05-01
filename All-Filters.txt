@@ -472,8 +472,7 @@
 *popin*$script
 *pops*$popup,script,frame
 *popt*$popup,script,frame
-*popun*$popup,script,image
-*popunder*$~xhr,domain=~cackle.me|~dns-shop.ru|~livejournal.com|~mail.ru|~miuipro.ru|~onlinezakladki.ru|~rian.ru|~support.kaspersky.ru|~vk.com
+*popun*$3p,popup,popunder,script,image,frame,domain=~cackle.me|~dns-shop.ru|~livejournal.com|~mail.ru|~miuipro.ru|~onlinezakladki.ru|~rian.ru|~support.kaspersky.ru|~vk.com
 *printads*
 *profit*$script,frame,domain=~vezemdetal.ru
 *promo*$3p,popup,popunder,script,image,frame,domain=~youtube.com|~blackview.pro|~vamvelosiped.ru|~linkyou.ru
