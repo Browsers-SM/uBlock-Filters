@@ -150,8 +150,6 @@
 */ga-*$script
 */ga.*
 */ga_*
-*/geo*php|$3p
-*/geo/*$xhr
 */get.*$script,domain=~airdroid.com
 */getinf*
 */go.*$frame
@@ -383,7 +381,6 @@
 *flashad*
 *flux.com^
 *gemius*
-*geoi*
 *get*info.php*
 *gif?id*
 *girl*$frame
