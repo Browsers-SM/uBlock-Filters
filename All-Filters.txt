@@ -211,7 +211,6 @@
 */xad*
 *2bears*
 *4u.*$3p,script
-*=ad*$script,frame,xhr,domain=~youtube.com|~adoptopenjdk.net|~vk.com|~vamvelosiped.ru
 *=aid*$script,frame
 *=ban*$script,frame
 *=bn*$script,frame
