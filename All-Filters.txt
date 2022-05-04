@@ -1700,17 +1700,18 @@ yap.ru,yaplakal.com,yapfiles.ru##[href*="/go/?http"]
 @@*/app*$document,domain=my.mail.ru|vk.com
 @@*4pda.*/forum/dl/post/*
 @@*account*$script,image,frame
-@@*api-maps.yandex.ru^
 @@*captcha*
 @@*comment*$xhr,domain=youtube.com
 @@*dbank*^$domain=huawei.com
 @@*game*$document,domain=ok.ru
 @@*github*$domain=github.com
-@@*maps.yandex.ru^$domain=yandex.ru
+@@*maps*yandex*
 @@*mega.co.nz^
 @@*thumb*$image
 @@*upload*$~image,domain=vk.com
 @@*weather*$xhr,domain=yandex.ru
+@@*yandex*maps*
+@@*yandex*pogoda*
 @@*youtube*google.com^
 @@||192.168.8.1
 @@||accounts.google.com^$popup
@@ -1834,12 +1835,9 @@ yap.ru,yaplakal.com,yapfiles.ru##[href*="/go/?http"]
 @@||xvideos-cdn.com^$domain=xvideos.com
 @@||ya*$domain=hd.kinopoisk.ru
 @@||ya*player*$frame,domain=yandex.ru|yastatic.net
-@@||yandex-pogoda.clstorage.net^
 @@||yandex.*/search*$xhr
 @@||yandex.*/suggest/*
 @@||yandex.ru/*video*$domain=yandex.ru
-@@||yandex.ru/maps/*$domain=yandex.ru
-@@||yandex.ru/pogoda/*$csp
 @@||yandex.ru/weather/*
 @@||yastat.net^$domain=yandex.ru
 @@||yastatic.net*/auth2/*$domain=disk.yandex.com|disk.yandex.ru
@@ -1847,7 +1845,7 @@ yap.ru,yaplakal.com,yapfiles.ru##[href*="/go/?http"]
 @@||yastatic.net^$domain=afisha.ru|market.yandex.ru|radio.yandex.ru|video.yandex.ru
 @@||youla.*$domain=youla.ru
 @@||youtube.*embed*
-@@||youtube.com/s/player/*
+@@||youtube.*player*
 !
 ! ИНДИВИДУАЛЬНЫЕ ИСКЛЮЧЕНИЯ CSS
 games.mail.ru#@#[target][href*="/adid"]
