@@ -1134,7 +1134,7 @@
 ||rtfnm.com^
 ||rtr*$domain=~tvkultura.ru|~rtrs.ru
 ||ru.ru^
-||ru/*$3p,script,domain=3dn.ru|clan.su|do.am|erobab.com|eromo.org|fotobab.ru|moy.su|p0.ru|sefan.ru|spac1.net|ucoz.com|ucoz.es|ucoz.net|ucoz.org|ucoz.ru|vbabe.mobi|spaces-blogs.com|bestweapon.ru|bestweapon.fun|sasisa.ru|spcs.me
+||ru/*$3p,script,domain=3dn.ru|clan.su|do.am|erobab.com|eromo.org|fotobab.ru|moy.su|p0.ru|sefan.ru|spac1.net|ucoz.com|ucoz.es|ucoz.net|ucoz.org|ucoz.ru|vbabe.mobi|spaces-blogs.com|bestweapon.ru|bestweapon.fun|sasisa.ru|spcs.me|spac1.ru
 ||ru/b/*
 ||ru/banner*$3p
 ||ru/track*$script
