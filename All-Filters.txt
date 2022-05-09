@@ -471,7 +471,6 @@
 *refer*$3p,script,xhr
 *reforum*$3p
 *rekl*$3p,~image
-*richarbuz*
 *roll*$3p
 *rotat*$3p
 *rotoban*
@@ -808,7 +807,6 @@
 ||giotyo.com^
 ||gismeteo*$3p
 ||gkksi.com^
-||glavrich.*
 ||gmodules.com^
 ||gnezdo.ru^
 ||go.*$3p
@@ -1107,7 +1105,7 @@
 ||ret*$3p
 ||revolvermaps.com^
 ||rfity.com^
-||rich*$3p
+*rich*$3p
 ||rkkvq.com^
 ||rlbn.ru^
 ||rle.ru^
@@ -1720,7 +1718,7 @@ yap.ru,yaplakal.com,yapfiles.ru##[href*="/go/?http"]
 @@||google.*$domain=mail.google.com
 @@||google.*/js/gweb/*$domain=google.com|google.ru
 @@||google.*/xjs/*$script
-@@||google.com*maps*
+@@||google.*maps*
 @@||google.com/cse?*$frame
 @@||googleapis.com^
 @@||googleusercontent.com^$frame,domain=google.com|google.ru
