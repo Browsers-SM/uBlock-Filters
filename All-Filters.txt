@@ -52,6 +52,7 @@
 *-bn.*
 *-rek-*
 *-seo*$script
+*.*.*.*.net/*$3p
 *.ad*$3p,xhr,domain=~pornhub.com|~xda-developers.com
 *.adn*
 *.ads.*$frame
@@ -1587,7 +1588,7 @@ spcs.me,spac1.*,spaces-blogs.com##[id="common_error"]
 ##[target][href*="mediaget"]
 ##[target][href*="partn"]
 ##[target][href*="target"]
-rustorka.com,yadi.sk,ucrazy.ru##[target]
+rustorka.com,yadi.sk,ucrazy.ru,xvideos.com##[target]
 !
 ! ИНДИВИДУАЛЬНЫЕ CSS
 4pda.*##[class="fix-post"][style="display:block!important"]
