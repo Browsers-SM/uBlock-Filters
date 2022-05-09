@@ -944,7 +944,6 @@
 ||mai*$3p
 ||manyweb.ru^$3p
 ||llnwi.net^
-||hwcdn.net^
 ||mar*$3p,popunder
 ||mastweb.ru^
 ||mathtag.com^
