@@ -496,7 +496,7 @@
 *softbar*$script
 *spb.ru^$3p
 *spy.*$3p
-*stat*$3p,websocket,popup,popunder
+*stat*$3p,popup,popunder
 *superad*
 *surf*$3p
 *sync*$3p,domain=~google.ru|~google.com
@@ -1350,7 +1350,6 @@
 *$1p,domain=block.mts.ru
 *$3p,domain=fastpic.ru|imageban.ru|imagevenue.com|forum.release-apk.com|upload.ee
 *$popunder,popup,domain=pornhub.com|redtube.com|apkfind.com|apkpure.com|imagebam.com|joyreactor.cc|ok.ru|rustorka.com|z1.fm|xvideos.com|xhamster.com|fastpic.org|fastpic.ru
-*$websocket,domain=~animevost.org|~github.com|~mibbit.com|~ria.ru|~twitch.tv|~videochatka.net|~whatsapp.com|~yandex.ru|~youtube.com|~spinningline.ru|~4pda.to|~4pda.ru|~speedtest.net
 *$xhr,3p,domain=nnmclub.to|nnmclub.ch
 !
 ! ИНДИВИДУАЛЬНЫЕ
@@ -1738,7 +1737,6 @@ yap.ru,yaplakal.com,yapfiles.ru##[href*="/go/?http"]
 @@||images.wambacdn.net^$domain=mamba.ru
 @@||imgsmail.ru^$domain=mail.ru|pandao.ru
 @@||ipic.su^$image
-@@||irc-ws.chat.twitch.tv^$websocket,domain=twitch.tv
 @@||j2.ru^$domain=zhaba.ru
 @@||joom*$domain=joom.com
 @@||kh.google.com^$xhr,domain=google.ru|google.com
@@ -1856,4 +1854,4 @@ xhamster.com#@#[class*="popunder"]
 yandex.*#@#[class*="_adv-"]
 !
 ! For Extensions.
-@@moz-extension://*$popup,frame,script,image,xhr,websocket
+@@moz-extension://*$popup,frame,script,image,xhr
