@@ -39,7 +39,7 @@
 *-ad_*
 *-adc*$script,frame
 *-adi*$script,frame
-*-ads*$script,frame,domain=~4pda.ru|~4pda.to
+*-ads*$3p,script,frame
 *-adx*
 *-aid*$~image
 *-b.*$3p
@@ -52,7 +52,6 @@
 *-bn.*
 *-rek-*
 *-seo*$script
-*.*.*.*.net/*$3p
 *.ad*$3p,xhr,domain=~pornhub.com|~xda-developers.com
 *.adn*
 *.ads.*$frame
@@ -98,7 +97,7 @@
 */atb.*
 */atrk*
 */aud/*
-*/b-*$~image,domain=~vtb24.ru
+*/b-*$3p
 */b.*$~image
 */b.*gif*
 */b/*$frame
@@ -181,7 +180,7 @@
 */rn*$1p,xhr
 */rnb*$script
 */rr/*
-*/rt.*$~image,domain=~pornhub.com
+*/rt.*$3p
 */rt/*
 */rtb*$script
 */rtr/*$script
@@ -318,7 +317,7 @@
 *baner.*
 *banimg*
 *bann*$3p,~image,~xhr
-*bann*$script,domain=~ria.ru
+*bann*$3p,script
 *bann*.html|
 *banner*$3p,~image
 *banner.*$3p,~image
@@ -443,7 +442,7 @@
 *php*?bn=*
 *php*cid*rnd*
 *php?id*$3p,script,~image
-*php?r=*$domain=~zedge.net
+*php?r=*$3p
 *php?rand=*
 *php?s=*$popup,script,frame
 *php?t=*$~image
@@ -582,7 +581,7 @@
 ||alkodesign.ru^
 ||all*$3p,domain=~kp.ru|~trovo.live
 ||alonged.com^
-||am*$~image,3p,domain=~aliexpress.com|~aliexpress.ru|~youla.ru|~jd.ru|~opendns.com|~rufus.ie|~alcatelmobile.com|~fast.com|~vk.com|~vk-apps.com|~ama.fan
+||am*$3p,~image,domain=~aliexpress.com|~aliexpress.ru|~youla.ru|~jd.ru|~opendns.com|~rufus.ie|~alcatelmobile.com|~fast.com|~vk.com|~vk-apps.com|~ama.fan
 ||an.*
 ||android.com^$3p
 ||ant*$3p
@@ -685,10 +684,9 @@
 ||cnetcontent.com^
 ||coin*$3p
 ||colpory.com^
-||com*/vk.$script
+||com*/vk.*$script
 ||com/*$3p,script,frame,domain=nnmclub.to
-||com/player/|$script
-||com/s.js?*
+||com/s.*js?*
 ||com/s/*$3p,script
 ||com/tag*$3p,script,xhr
 ||comagic.ru^
@@ -850,7 +848,6 @@
 ||icq*$3p,~image
 ||idwrx.com^
 ||ie8eamus.com^
-||iefigciddgbigjjhafc.ru^
 ||igi*$3p
 ||ij*$3p
 ||ikiif.com^
@@ -1383,12 +1380,12 @@
 ||yapfiles.ru/ypxl/*
 !
 ! SPACES.RU
-spcs.me##[class="newbe-quest"]
-spcs.me,spac1.*,spaces-blogs.com##[class$=" seo"]
-spcs.me,spac1.*,spaces-blogs.com##[class="oh t_center nl system-message"]
-spcs.me,spac1.*,spaces-blogs.com##[href*="/jf5oox6g/"]
-spcs.me,spac1.*,spaces-blogs.com##[id="about_spaces"]
-spcs.me,spac1.*,spaces-blogs.com##[id="common_error"]
+spcs.*##[class="newbe-quest"]
+spcs.*,spac1.*,spaces-blogs.com##[class$=" seo"]
+spcs.*,spac1.*,spaces-blogs.com##[class="oh t_center nl system-message"]
+spcs.*,spac1.*,spaces-blogs.com##[href*="/jf5oox6g/"]
+spcs.*,spac1.*,spaces-blogs.com##[id="about_spaces"]
+spcs.*,spac1.*,spaces-blogs.com##[id="common_error"]
 ||m*.spac1.*$script
 ||m*.spac1.*$script
 ||m*.spcs.me^$script
@@ -1843,7 +1840,7 @@ google.*,yandex.*,duckduckgo.com,xvideos.com,vsemayki.ru#@#[href*="777.com"],[hr
 ok.ru#@#[style*="bann"]
 ridus.ru#@#[class*="adfox"]
 softwareok.com#@#[id^="banner_"]
-spac1.*,spcs.me#@#[class*="_adv_"]
+spac1.*,spcs.*#@#[class*="_adv_"]
 utro.ru#@#[id*="adver"]
 vk.com#@#[href*="/vk.cc/"]
 warthunder.ru#@#[href*="warthunder"]
