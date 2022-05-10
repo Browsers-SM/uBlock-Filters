@@ -302,7 +302,6 @@
 *ban*com/*$3p
 *ban*in^$3p
 *ban*info/*$3p
-*ban*mobi/*$3p
 *ban*net/*$3p
 *ban*ru/*$3p,~image,domain=~pochtabank.ru
 *ban*su/*$3p
@@ -414,7 +413,6 @@
 *media.*com^$3p,~image,domain=~sndcdn.com|~soundcloud.com|~reddit.com
 *media.*ru^$3p,~image,domain=~elle.ru
 *metri*$~image,domain=~mobileoc.ru
-*mobiquo*
 *money*$3p,domain=~yandex.ru
 *monitor*$3p,~image
 *myads*
@@ -611,7 +609,6 @@
 ||beanstock.com^
 ||beeline.ru^$3p
 ||belole.ru^
-||bemobile.ua^
 ||beregu.ru^
 ||bet*$3p
 ||bgkecb.com^
@@ -720,10 +717,10 @@
 ||diera.ru^
 ||dig*$3p
 ||districtm.ca^
-||dmpcloud.net^
 ||dn.rambler.ru^
 ||dnb.com^
 ||docdoc.ru^$3p
+*mobi*$3p
 ||dom*$3p
 ||dopikas.com^
 ||dosug*$3p
@@ -731,7 +728,6 @@
 ||dri*$3p
 ||dt00.net^
 ||dtscout.com^
-||dudamobile.com^
 ||dummyimage.com^
 ||dvsign*.net^
 ||dw.*$3p
@@ -793,7 +789,6 @@
 ||gdeslon.ru^
 ||ge*$3p,domain=~google.com|google.ru
 ||gg.google.com^
-||gigtop.ru^$3p
 ||gingardo.com^
 ||giotyo.com^
 ||gismeteo*$3p
@@ -803,7 +798,6 @@
 ||go.*$3p
 ||go2$3p
 ||go3$3p
-||gogettop.ru^
 ||goo*$3p,domain=~google.com|~google.ru
 ||got*$3p
 ||goviral*
@@ -1060,7 +1054,7 @@
 ||puhtml.com^
 ||purgrobi.com^
 ||pus*$3p
-||pvclouds.com^
+*cloud*$3p
 ||pw^$3p,script,domain=~dewalt.ru
 ||px.*$3p
 ||q32.ru^
@@ -1282,7 +1276,7 @@
 ||wis.sndcdn.com^
 ||wm*$3p
 ||wolist.ru^$3p
-||womantop.ru^$3p
+*top.ru^$3p
 ||woopra.com^
 ||wor*$3p
 ||ws.*
