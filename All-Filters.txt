@@ -52,10 +52,8 @@
 *-bn.*
 *-rek-*
 *-seo*$script
-*.ad*$3p,xhr,domain=~pornhub.com|~xda-developers.com
 *.adn*
 *.ads.*$frame
-*.aff-*
 *.bbn*
 *.br*$3p,script
 *.php?*idzone*
@@ -77,8 +75,7 @@
 */adc*$3p,script,frame
 */addv*
 */adget*
-*/adli*
-*/adload*
+*/adl*$3p,script
 */ads*$3p,script,popup,popunder,~image
 */ads.*
 */ads/*
@@ -92,7 +89,6 @@
 */adv2*
 */adv_*
 */adx*
-*/aff_*
 */asd*
 */atb.*
 */atrk*
@@ -107,14 +103,14 @@
 */b_*$~image
 */b_*sex*
 */ban&*
-*/ban*.html|
+*/ban*.html*
 */ban*?rnd=*
 */ban-*
 */ban.*
 */ban/*
 */ban_*
 */baner*
-*/banner*.gif|
+*/banner*.gif*
 */banner/*$script
 */banners*$script
 */banners/*$3p
@@ -262,7 +258,6 @@
 *adframe*
 *adgravity*
 *adguard*$popup
-*adhelp*
 *adid*$popup
 *adjs*$3p
 *adlab*
@@ -312,7 +307,7 @@
 *ban*ru/*$3p,~image,domain=~pochtabank.ru
 *ban*su/*$3p
 *ban*ua/*$3p
-*ban*zoneid*
+*ban*zone*
 *baner*$~image,~xhr
 *baner.*
 *banimg*
