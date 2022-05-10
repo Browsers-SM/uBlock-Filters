@@ -310,8 +310,8 @@
 *baner*$~image,~xhr
 *baner.*
 *banimg*
-*bann*$3p,~image,~xhr
 *bann*$3p,script
+*bann*$3p,~image,~xhr
 *bann*.html|
 *banner*$3p,~image
 *banner.*$3p,~image
@@ -336,6 +336,7 @@
 *clc.*$3p
 *clck*$~image
 *click*$3p,popup,popunder,script,image,frame,domain=~stelsvelo.ru
+*cloud*$3p
 *cnt.*
 *cnt=*&rnd=*
 *cnt|
@@ -413,6 +414,7 @@
 *media.*com^$3p,~image,domain=~sndcdn.com|~soundcloud.com|~reddit.com
 *media.*ru^$3p,~image,domain=~elle.ru
 *metri*$~image,domain=~mobileoc.ru
+*mobi*$3p
 *money*$3p,domain=~yandex.ru
 *monitor*$3p,~image
 *myads*
@@ -463,6 +465,7 @@
 *refer*$3p,script,xhr
 *reforum*$3p
 *rekl*$3p,~image
+*rich*$3p
 *roll*$3p
 *rotat*$3p
 *rotoban*
@@ -502,6 +505,7 @@
 *tizer*$script,xhr,popup
 *tizz*$script
 *tns.*$frame
+*top.ru^$3p
 *topban*
 *track*$3p,domain=~bountysource.com|~fishki.net|~pochta.ru
 *trade*$3p
@@ -653,7 +657,6 @@
 ||c*.rambler.ru^
 ||c.*$frame
 ||c.uarating.com^
-||c8.net.ua^
 ||cackle.me^$3p
 ||calltouch.ru^
 ||candy.vl.ru^
@@ -720,7 +723,6 @@
 ||dn.rambler.ru^
 ||dnb.com^
 ||docdoc.ru^$3p
-*mobi*$3p
 ||dom*$3p
 ||dopikas.com^
 ||dosug*$3p
@@ -817,7 +819,6 @@
 ||hjiss.com^
 ||hmn.ru^$3p
 ||hnixr.com^
-||holder.com.ua^
 ||hot*$3p
 ||hsdn.org^$3p,domain=~ntp-servers.net
 ||htkornet.ru^
@@ -825,7 +826,6 @@
 ||hybrid.ai^
 ||hyp*$3p
 ||i-$3p,~image,domain=~ria.ru
-||i.ua^$3p
 ||iconosquare.com^
 ||icq*$3p,~image
 ||idwrx.com^
@@ -908,6 +908,7 @@
 ||list-manage.com^
 ||live*$3p,~image,domain=~livejournal.com
 ||ljteas.com^
+||llnwi.net^
 ||load*$3p
 ||localytics.com^
 ||log*$3p,domain=~bing.com|~msn.com|~aliexpress.ru|~aliexpress.com
@@ -925,7 +926,6 @@
 ||magictab.ru^
 ||mai*$3p
 ||manyweb.ru^$3p
-||llnwi.net^
 ||mar*$3p,popunder
 ||mastweb.ru^
 ||mathtag.com^
@@ -1054,7 +1054,6 @@
 ||puhtml.com^
 ||purgrobi.com^
 ||pus*$3p
-*cloud*$3p
 ||pw^$3p,script,domain=~dewalt.ru
 ||px.*$3p
 ||q32.ru^
@@ -1089,7 +1088,6 @@
 ||ret*$3p
 ||revolvermaps.com^
 ||rfity.com^
-*rich*$3p
 ||rkkvq.com^
 ||rlbn.ru^
 ||rle.ru^
@@ -1217,6 +1215,7 @@
 ||typ*$3p
 ||tzweb.*
 ||u.to^$3p
+||ua^$3p
 ||ucozabc.ru^$3p
 ||ueuodgnrhb.com^
 ||uid.me^$3p,~image
@@ -1276,7 +1275,6 @@
 ||wis.sndcdn.com^
 ||wm*$3p
 ||wolist.ru^$3p
-*top.ru^$3p
 ||woopra.com^
 ||wor*$3p
 ||ws.*
