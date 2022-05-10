@@ -350,7 +350,6 @@
 *digital*$3p
 *direct*$3p,script,frame,popup,domain=~vk.com
 *disqus*
-*dmca*$3p,domain=~dmca.com|~stackpathdns.com
 *domainid*
 *dosug*$3p,frame
 *doublepimp*
@@ -386,7 +385,7 @@
 *imgads*
 *info/?*$script,popup
 *intim*$3p
-*js&key=*$3p
+*js&key*$3p
 *js*/seo*$script
 *js*ads*$3p
 *js*targ*$3p
@@ -492,7 +491,6 @@
 *stat*$3p,popup,popunder
 *superad*
 *surf*$3p
-*sync*$3p,domain=~google.ru|~google.com
 *syndicat*$3p,script,frame,image
 *tagcloud*
 *tagid*$3p
@@ -526,10 +524,8 @@
 *xtcore*
 *xxx*$frame
 *zoneid*$3p,script,frame,xhr,popup
-||1bn31o3g.de^
 ||2022welcome.com^
 ||24*$3p,~image
-||289ci1imk.de^
 ||2ip.ru^$3p
 ||39irqwnzlv.com^
 ||4dsply.com^
@@ -714,7 +710,7 @@
 ||davarello.com^
 ||dbbsrv.com^
 ||ddomb.com^
-||de^$3p,script,frame
+||de^$3p
 ||delston-capital.com^
 ||dem*$3p
 ||devochki.cz^
@@ -817,7 +813,6 @@
 ||gumroad.com^
 ||gwallet.com^
 ||h-bid.com^
-||h5ep50lm.de^
 ||hardwarez.ru^
 ||hdgo.club^
 ||heatmap.it^
