@@ -1296,7 +1296,7 @@
 ||zapbox.ru^
 ||zedo.com^
 ||zemanta.com^
-||zen*$3p
+||zen*$3p,domain=~bluestacks.com
 ||zingaya.com^
 ||zomro.com^$3p
 ||zptjv.com^
