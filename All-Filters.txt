@@ -1272,12 +1272,9 @@
 ||yadro.*
 ||yagla.ru^
 ||yahoo.com^
-||yandex.*/ick/*
-||yandex.*/search/yandcache.js|
 ||yandexadexchange.net^
-||yastatic.net/daas/atom.js|
-||yastatic.net/nearest.js|$domain=yandex.ru
-||yastatic.net/pcode/adfox/loader.js|
+||yastatic.net/nearest.js
+||yastatic.net/*adfox*
 ||yatr.ru^
 ||ybobra.ru^$3p
 ||yell.ru^$3p
@@ -1431,7 +1428,6 @@ spcs.*,spac1.*,spaces-blogs.com##[id="common_error"]
 ##[href*="777.com"],[href*="777.net"],[href*="adwcleaner.ru"],[href*="goo.gl/"],[href*="azino"],[href*="urlguard"],[href*="vsemayki"],[href*="raskruti.net"],[href*="pixelmarkway.com"],[href*="russian-cabaret.ru"],[href*="wt.link"],[href*="/0t.se"],[href*="leon.ru"],[href*="/ivnz.ru"],[href*="kompot.bz"],[href*="wargaming"],[href*="meutrf.com"],[href*="fatcats.market"],[href*="alitools.io"],[href*="bit.ly"],[href*="megabonus.com"],[href*="ubi.li"],[href*="letyshops.com"],[href*="schlock.ru"],[href*="isv-group.io"],[href*="expressfromus.com"],[href*="appmetrica.yandex.com"],[href*="tennisi.bet"],[href*="betcity.ru"],[href*="vk.cc"],[href*="aff1xstavka.top"],[href*="fl.team"],[href*="xbet"],[href*="awaps.yandex.net"],[href*="ali.pub"],[href*="ma-static.ru"],[href*="tomsk.ru"],[target][href*="vulkan"]
 ##[href*="=click&"]
 ##[href*="?click-"]
-##[href*="?zoneid="]
 ##[href*="_banner&"]
 ##[href*="_bnr"]
 ##[href*="adfox"]
