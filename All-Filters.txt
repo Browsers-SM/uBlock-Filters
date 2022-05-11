@@ -330,7 +330,7 @@
 *clc.*$3p
 *clck*$~image
 *click*$3p,popup,popunder,script,image,frame,domain=~stelsvelo.ru
-*cloud*$3p
+*cloud*$3p,domain=~pinterest.ru
 *cnt.*
 *cnt=*&rnd=*
 *cnt|
