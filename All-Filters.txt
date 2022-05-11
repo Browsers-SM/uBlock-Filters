@@ -352,6 +352,7 @@
 *engine*$3p,popunder,frame
 *etarg*
 *extadv*
+*feed*$3p
 *firebase*
 *flashad*
 *flux.com^
@@ -437,7 +438,7 @@
 *pixel*$3p,domain=~spcs.me|~spac1.ru
 *poker*$3p
 *pop.*$script,frame
-*popads*
+*popad*
 *popand*
 *popban*
 *popin*$script
@@ -753,7 +754,6 @@
 ||fbcdn.net^
 ||fbr.*
 ||fdgeen.com^
-||feed*$3p
 ||fertdesign.ru^
 ||fialet.com^
 ||fightstore.ru^$3p
@@ -946,13 +946,10 @@
 ||mt*$3p,script,popup,popunder,frame,xhr
 ||multi*scope
 ||mwcvu.com^
-||mxpopad.com^
 ||my-img.ru^
-||my.mail.ru/grstat*
 ||my.mail.ru^$3p,script
 ||myc*$domain=~ok.ru|~mycdn.me|~mail.ru|~vk.com
 ||mycomet.mail.ru^
-||myfeed.ru^$3p
 ||myopening.ru^
 ||n74s9.com^
 ||nanosemantics.*
