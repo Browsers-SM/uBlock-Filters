@@ -401,7 +401,6 @@
 *logger*$3p
 *loginza*
 *manager*$3p
-*market*$3p,domain=~yandex.ru
 *maxiad*
 *media-*.ru^$3p,~image
 *media.*com^$3p,~image,domain=~sndcdn.com|~soundcloud.com|~reddit.com
