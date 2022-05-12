@@ -1794,6 +1794,7 @@ utro.ru#@#[id*="adver"]
 vk.com#@#[href*="/vk.cc/"]
 warthunder.ru#@#[href*="warthunder"]
 xhamster.com#@#[class*="popunder"]
+xvideos.com#@#[href*="partners"]
 yandex.*#@#[class*="_adv-"]
 !
 ! For Extensions.
