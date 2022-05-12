@@ -417,7 +417,6 @@
 *opena*$script
 *orphus*$3p
 *page*$3p
-*partner*$3p,~xhr,domain=~yandex.ru
 *peelads*
 *php*&b=*
 *php*&rnd=*$~xhr
@@ -1529,7 +1528,6 @@ spcs.*,spac1.*,spaces-blogs.com##[id="common_error"]
 ##[target][href*="goto"]
 ##[target][href*="li.ru/go"]
 ##[target][href*="mediaget"]
-##[target][href*="partn"]
 rustorka.com,yadi.sk,ucrazy.ru,xvideos.com##[target]
 !
 ! ИНДИВИДУАЛЬНЫЕ CSS
