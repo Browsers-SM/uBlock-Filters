@@ -432,7 +432,6 @@
 *phpad*
 *ping*$3p,script,frame
 *piwik*$script
-*pixel*$3p,domain=~spcs.me|~spac1.ru
 *poker*$3p
 *pop.*$script,frame
 *popad*
@@ -1318,7 +1317,6 @@
 ||imagevenue.com^$xhr
 ||livejournal.com/ljcounter/*
 ||ok.ru/res/css/*$xhr,domain=ok.ru
-||ok.ru/web-api/pixel?*
 ||quantum.mail.ru^$inline-script,script
 ||rose.ixbt.com^
 ||ru-board.*/temp*
