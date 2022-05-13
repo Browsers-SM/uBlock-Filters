@@ -317,8 +317,7 @@
 *bnnr*
 *bns.*
 *board*$3p
-*brand*$popup
-*brandimg*
+*brand*$3p,popup
 *brch*
 *button.php?*
 *bxslider*
@@ -1328,7 +1327,6 @@
 ||securitylab.ru*widgets.js|
 ||static.pulse.mail.ru^
 ||wek.ru^$domain=dezinfo.net
-||yapfiles.ru/uploads/branddata/*
 ||yapfiles.ru/ypxl/*
 !
 ! SPACES.RU
@@ -1406,7 +1404,6 @@ spcs.*,spac1.*,spaces-blogs.com##[id="common_error"]
 ##[data*="/adv/"]
 ##[data*="/b/"]
 ##[data*="bann"]
-##[data*="brand"]
 ##[data*="rotat"]
 ##[href*="&banner_"]
 ##[href*="&rek="]
@@ -1433,14 +1430,8 @@ spcs.*,spac1.*,spaces-blogs.com##[id="common_error"]
 ##[href*="banerid"]
 ##[href*="cgi-bin"][href*="cgi"]
 ##[href*="click."]
-##[href*="com/?s="]
-##[href*="marketgid"]
 ##[href*="pagead/"]
-##[href*="printdirect"]
 ##[href*="rclick"]
-##[href*="ref"][href*="=ads_"]
-##[href*="tankion"]
-##[href*="warthunder"]
 ##[id$="-ad"]
 ##[id$="-ads"]
 ##[id$="_ad"]
@@ -1518,7 +1509,6 @@ spcs.*,spac1.*,spaces-blogs.com##[id="common_error"]
 ##[target][href*="/ads/"]
 ##[target][href*="/adv/"]
 ##[target][href*="/bnr"]
-##[target][href*="/brand"]
 ##[target][href*="/reg/"]
 ##[target][href*="=ad&"]
 ##[target][href*="?adv="]
@@ -1526,7 +1516,6 @@ spcs.*,spac1.*,spaces-blogs.com##[id="common_error"]
 ##[target][href*="bann"]
 ##[target][href*="game"]
 ##[target][href*="goto"]
-##[target][href*="li.ru/go"]
 ##[target][href*="mediaget"]
 rustorka.com,yadi.sk,ucrazy.ru,xvideos.com##[target]
 !
@@ -1775,11 +1764,9 @@ games.mail.ru#@#[target][href*="/adid"]
 games.mail.ru,e.mail.ru,youla.ru,yandex.*#@#[class*="adver"]
 go.mail.ru#@#[href*="//go"][href*=".mail.ru"]
 google.*#@#[target]>[src*="/r/"]
-google.*#@#[target][href*="/brand"]
 google.*#@#[target][href*="bann"]
 google.*,mail.ru,toptracker.ru,yandex.ru,4pda.*#@#[href*="game"][target]
 google.*,mail.ru,toptracker.ru,yandex.ru,4pda.*#@#[target][href*="game"]
-google.*,mail.ru,yandex.ru#@#[href*="tankion"]
 google.*,yandex.*,duckduckgo.com,xvideos.com,vsemayki.ru#@#[href*="777.com"],[href*="777.net"],[href*="adwcleaner.ru"],[href*="goo.gl/"],[href*="azino"],[href*="urlguard"],[href*="vsemayki"],[href*="raskruti.net"],[href*="pixelmarkway.com"],[href*="russian-cabaret.ru"],[href*="wt.link"],[href*="/0t.se"],[href*="leon.ru"],[href*="/ivnz.ru"],[href*="kompot.bz"],[href*="wargaming"],[href*="meutrf.com"],[href*="fatcats.market"],[href*="alitools.io"],[href*="bit.ly"],[href*="megabonus.com"],[href*="ubi.li"],[href*="letyshops.com"],[href*="schlock.ru"],[href*="isv-group.io"],[href*="expressfromus.com"],[href*="appmetrica.yandex.com"],[href*="tennisi.bet"],[href*="betcity.ru"],[href*="vk.cc"],[href*="aff1xstavka.top"],[href*="fl.team"],[href*="xbet"],[href*="awaps.yandex.net"],[href*="ali.pub"],[href*="ma-static.ru"],[href*="tomsk.ru"],[target][href*="vulkan"]
 ok.ru#@#[style*="bann"]
 ridus.ru#@#[class*="adfox"]
@@ -1787,7 +1774,6 @@ softwareok.com#@#[id^="banner_"]
 spac1.*,spcs.*#@#[class*="_adv_"]
 utro.ru#@#[id*="adver"]
 vk.com#@#[href*="/vk.cc/"]
-warthunder.ru#@#[href*="warthunder"]
 xhamster.com#@#[class*="popunder"]
 yandex.*#@#[class*="_adv-"]
 !
