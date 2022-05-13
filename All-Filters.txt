@@ -1297,7 +1297,6 @@
 ||курс2.рф^$3p
 !
 ! МНОЖЕСТВЕННЫЕ
-*$1p,domain=block.mts.ru
 *$3p,domain=fastpic.ru|imageban.ru|imagevenue.com|forum.release-apk.com|upload.ee
 *$popunder,popup,domain=pornhub.com|redtube.com|apkfind.com|apkpure.com|imagebam.com|joyreactor.cc|ok.ru|rustorka.com|z1.fm|xvideos.com|xhamster.com|fastpic.org|fastpic.ru
 *$xhr,3p,domain=nnmclub.to|nnmclub.ch
