@@ -910,6 +910,7 @@
 ||mai*$3p
 ||manyweb.ru^$3p
 ||mar*$3p,popunder
+||markreptiloid.com^
 ||mastweb.ru^
 ||mathtag.com^
 ||max*$3p,domain=~comss.ru|~iconsearch.ru|~invi.tv|~savido.net|~kenguru.ru
@@ -1054,6 +1055,7 @@
 ||rb*$3p
 ||rc-*$3p,script,frame
 ||rdiul.com^
+||rdrctgoweb.com^
 ||re^$3p,script,frame
 ||rea*$3p
 ||recreativ.ru^
@@ -1270,8 +1272,8 @@
 ||yagla.ru^
 ||yahoo.com^
 ||yandexadexchange.net^
-||yastatic.net/nearest.js
 ||yastatic.net/*adfox*
+||yastatic.net/nearest.js
 ||yatr.ru^
 ||ybobra.ru^$3p
 ||yell.ru^$3p
