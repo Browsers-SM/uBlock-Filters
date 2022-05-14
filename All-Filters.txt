@@ -368,14 +368,11 @@
 *hitex*
 *hits*$3p
 *hive*$3p,domain=~google.com
-*host*$3p,~image,domain=~virustotal.com|~rufus.ie
 *hunter*^$3p
 *iframead*
 *image*/ads*
-*image.php?*$3p,domain=~nnmclub.to|~nnmclub.ch
 *imageads*
 *imgads*
-*info/?*$script,popup
 *intim*$3p
 *js&key*$3p
 *js*/seo*$script
@@ -404,7 +401,7 @@
 *media-*.ru^$3p,~image
 *media.*com^$3p,~image,domain=~sndcdn.com|~soundcloud.com|~reddit.com
 *media.*ru^$3p,~image,domain=~elle.ru
-*metri*$~image,domain=~mobileoc.ru
+*metri*$~image
 *mobi*$3p
 *money*$3p,domain=~yandex.ru
 *monitor*$3p,~image
