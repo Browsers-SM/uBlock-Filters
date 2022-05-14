@@ -329,7 +329,6 @@
 *clc.*$3p
 *clck*$~image
 *click*$3p,popup,popunder,script,image,frame,domain=~stelsvelo.ru
-*cloud*$3p
 *cnt.*
 *cnt=*&rnd=*
 *cnt|
@@ -1624,8 +1623,6 @@ yap.ru,yaplakal.com,yapfiles.ru##[href*="/go/?http"]
 @@||cdn*savepice.ru^$3p,image
 @@||cdnst.net^$domain=speedtest.net
 @@||cdnvideo.ru^$domain=ntv.ru
-@@||cloudflare.*$script,image
-@@||cloudfront.net^$domain=joom.com
 @@||code.jquery.com^
 @@||codepen.io^$3p,frame
 @@||consent.google.ru^
