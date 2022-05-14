@@ -408,7 +408,6 @@
 *myads*
 *newban*
 *newclk*
-*news*$3p,~image,domain=~ria.com|~yandex.ru|~yastatic.net|~pulscen.ru|~ok.ru
 *nwgsm*
 *opena*$script
 *orphus*$3p
@@ -462,10 +461,8 @@
 *seed*$3p
 *seo.*$3p
 *serf.*$3p
-*serv*$3p,domain=~ntp-servers.net|~ozon.ru|~wixsite.com|~yandex.ru
 *shop.*$3p,domain=~dexp.club
 *show*$3p
-*site*$3p,domain=~irr.ru|~box.com|~aquacity31.ru|~spinningline.ru|~live.com|~santen68.ru|~wixsite.com|~apteka.ru|~yandex.ru|~fxsound.com
 *smallad*
 *socket.io*
 *softad/*
@@ -500,7 +497,6 @@
 *viewad*
 *vsemayki*$3p
 *vulkan*$3p
-*wap*$3p,~image,domain=~sndcdn.com|~soundcloud.com
 *warship*$3p
 *work*$3p
 *xtcore*
