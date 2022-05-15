@@ -1614,8 +1614,6 @@ yap.ru,yaplakal.com,yapfiles.ru##[href*="/go/?http"]
 @@||accounts.google.com^$popup
 @@||adobe.com^$script,domain=adobe.com
 @@||ali*$domain=alibaba.com|aliexpress.com|aliexpress.ru|alipay.com|aliapp.org|akamaihd.net
-@@||alleyadoma.ru^$domain=alleyadoma.ru
-@@||antikwar32.ru^$domain=antikwar32.ru
 @@||api.vk.*audio*
 @@||api.yapfiles.ru^$xhr,frame,domain=yapfiles.ru
 @@||as.dns-shop.ru^$domain=dns-shop.ru
