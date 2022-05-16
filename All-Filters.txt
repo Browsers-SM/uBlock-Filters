@@ -1611,6 +1611,8 @@ yap.ru,yaplakal.com,yapfiles.ru##[href*="/go/?http"]
 @@||api.vk.*audio*
 @@||blogspot.*$image
 @@||cdn*savepice.ru^$3p,image
+@@||cdnst.net^$domain=speedtest.net
+@@||cdnvideo.ru^$domain=ntv.ru
 @@||code.jquery.com^
 @@||codepen.io^$3p,frame
 @@||consent.google.ru^
