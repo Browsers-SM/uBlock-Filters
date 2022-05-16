@@ -1607,11 +1607,8 @@ yap.ru,yaplakal.com,yapfiles.ru##[href*="/go/?http"]
 @@*youtube*google.com^
 @@||192.168.8.1
 @@||accounts.google.com^$popup
-@@||adobe.com^$script,domain=adobe.com
 @@||ali*$domain=alibaba.com|aliexpress.com|aliexpress.ru|alipay.com|aliapp.org|akamaihd.net
 @@||api.vk.*audio*
-@@||api.yapfiles.ru^$xhr,frame,domain=yapfiles.ru
-@@||as.dns-shop.ru^$domain=dns-shop.ru
 @@||blogspot.*$image
 @@||cdn*savepice.ru^$3p,image
 @@||cdnst.net^$domain=speedtest.net
